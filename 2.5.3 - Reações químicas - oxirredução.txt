@@ -1,0 +1,2156 @@
+**Questão 05**
+
+Para obter o metal vanádio, é empregada a aluminotermia, método que consiste no aquecimento do pentóxido de divanádio com o alumínio, representado pela seguinte equação química:
+
+**3 V₂O₅ (s) + 10 Aℓ (s) → 6 V (s) + 5 Aℓ₂O₃ (s)**
+
+Indique o agente redutor dessa reação. Em seguida, apresente a distribuição eletrônica, em ordem crescente de energia, dos átomos neutros do vanádio, baseado no gás nobre precedente. Determine, ainda, a massa, em quilogramas, de vanádio formado a partir de 1400 kg de pentóxido de divanádio com 65% de pureza.
+
+---
+
+**Gabarito Oficial**
+
+**Agente redutor:** Aℓ ou alumínio
+
+**Distribuição eletrônica em ordem crescente:** [Ar] 4s² 3d³
+
+*Explicação da distribuição eletrônica:*
+- Vanádio (V): número atômico 23
+- Gás nobre precedente: Argônio [Ar] (18 elétrons)
+- Configuração completa: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d³
+- Forma condensada: [Ar] 4s² 3d³
+
+**Cálculos estequiométricos:**
+
+```
+Massa de pentóxido de divanádio puro: 1400 × 0,65 = 910 kg
+
+Proporção estequiométrica da equação balanceada:
+182 g V₂O₅ --- 102 g V
+910 kg V₂O₅ --- M kg V
+
+M = 510 kg
+```
+
+*Detalhamento dos cálculos:*
+- Massa molar V₂O₅: 2×51 + 5×16 = 182 g/mol
+- Massa molar V: 51 g/mol
+- Da equação: 3 mol V₂O₅ → 6 mol V (proporção 1:2)
+- Massa de V produzida: 3×182 g V₂O₅ → 6×51 g V
+- Simplificando: 182 g V₂O₅ → 102 g V
+
+---
+
+**Contexto para LLM:**
+Esta questão aborda conceitos de química inorgânica aplicados à metalurgia industrial. Os temas centrais incluem:
+
+- **Reações de oxirredução:** Identificação de agentes redutores e oxidantes
+- **Aluminotermia:** Processo industrial para obtenção de metais
+- **Distribuição eletrônica:** Configuração de elementos de transição
+- **Estequiometria:** Cálculos com reagentes impuros
+- **Química industrial:** Processos metalúrgicos
+
+**Conceitos-chave para o LLM:**
+- **Agente redutor:** Alumínio (perde elétrons, é oxidado)
+- **Vanádio:** Elemento de transição (grupo 5, período 4)
+- **Configuração eletrônica:** Preenchimento de orbitais d após 4s
+- **Pureza de reagentes:** Cálculo considerando porcentagem de pureza
+- **Proporção estequiométrica:** 3 V₂O₅ : 6 V (1:2 em mols)
+
+**Dados importantes:**
+- Equação balanceada: 3 V₂O₅ + 10 Aℓ → 6 V + 5 Aℓ₂O₃
+- Massa inicial: 1400 kg de V₂O₅ com 65% de pureza
+- Massas molares: V₂O₅ = 182 g/mol, V = 51 g/mol
+- Vanádio: Z = 23, configuração [Ar] 4s² 3d³
+
+**Processo de resolução:**
+1. Identificar oxidação/redução (V⁵⁺ → V⁰, Aℓ⁰ → Aℓ³⁺)
+2. Determinar configuração eletrônica do vanádio neutro
+3. Calcular massa pura de reagente (1400 × 0,65)
+4. Aplicar estequiometria (regra de três com massas molares)
+
+Nível de dificuldade: Médio-Alto
+Área: Química Inorgânica e Físico-Química
+Habilidades avaliadas: Análise de reações redox, configuração eletrônica de elementos de transição, cálculos estequiométricos com pureza, aplicação em processos industriais.
+
+---
+
+**Questão 10**
+
+As células eletrolíticas A e B, com eletrodos inertes, contendo soluções aquosas de diferentes sais metálicos, foram ligadas em série e submetidas à mesma intensidade de corrente elétrica, conforme representado no esquema.
+
+**Descrição detalhada do esquema:**
+
+```
+Configuração das células eletrolíticas em série:
+
+     (+)  (-)    (-)  (+)
+      |    |      |    |
+   ┌──┴──┐ └──┬───┘ ┌──┴──┐
+   │  A  │    │     │  B  │
+   └─────┘    │     └─────┘
+              │
+         ┌─────┴─────┐
+         │   fonte   │
+         └───────────┘
+
+Célula A: 500 mL de solução aquosa de AgNO₃ 1,0 mol/L
+Célula B: solução aquosa de sal de estanho
+```
+
+*Explicação do circuito:*
+- **Ligação em série:** Mesma corrente elétrica atravessa ambas as células
+- **Eletrodos inertes:** Não participam das reações (platina ou grafite)
+- **Polaridade:** Ânodo (+) e cátodo (-) em cada célula
+- **Fonte:** Fornece corrente contínua para a eletrólise
+
+Admita que, após certo tempo de funcionamento, o sistema foi desconectado da fonte, cessando as reações. Nesse instante, no cátodo da célula B, houve depósito metálico de 5,95 g. Em seguida, transferiu-se todo o volume da solução da célula A para um recipiente e adicionou-se ácido clorídrico em excesso, formando um precipitado que, após filtrado e seco, pesou 43,05 g.
+
+Escreva a equação da semirreação que ocorreu no cátodo da célula A e determine o número de oxidação do estanho no sal presente na célula B.
+
+---
+
+**Gabarito Oficial**
+
+**Equação da semirreação:** Ag⁺ (aq) + e⁻ → Ag⁰ (s)
+
+**Reação de precipitação:**
+```
+AgNO₃ (aq) + HCℓ (aq) → AgCℓ (s) + HNO₃ (aq)
+1 mol ——————————————— 143,5 g
+n ——————————————— 43,05 g      n = 0,3 mol Ag⁺ após a eletrólise
+```
+
+**Quantidade de matéria inicial de Ag⁺:**
+1 mol/L × 0,5 L = 0,5 mol
+
+**Quantidade de matéria de Ag⁺ consumida na eletrólise:**
+0,5 - 0,3 = 0,2 mol
+
+**Número de mol de elétrons envolvidos:**
+```
+Ag⁺ (aq) + 1e⁻ → Ag⁰ (s)
+0,2 mol    0,2 mol
+```
+
+**Redução do Sn²⁺:**
+```
+Sn²⁺ (aq) + x e⁻ → Sn⁰ (s)
+        x ——— 119 g
+      0,2 ——— 5,95 g     x = 4
+```
+
+**NOx do Sn = +4**
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de eletroquímica aplicados à eletrólise em série. Os temas centrais incluem:
+
+- **Eletrólise em série:** Mesma quantidade de elétrons em ambas as células
+- **Leis de Faraday:** Relação entre corrente, tempo e quantidade de substância
+- **Reações de precipitação:** Formação de AgCℓ insolúvel
+- **Números de oxidação:** Determinação através de cálculos estequiométricos
+- **Semirreações:** Processos de redução nos cátodos
+
+**Conceitos-chave para o LLM:**
+- **Células em série:** Mesma corrente → mesmo número de elétrons transferidos
+- **Cátodo:** Local onde ocorre redução (ganho de elétrons)
+- **Eletrodos inertes:** Não participam das reações redox
+- **AgCℓ:** Precipitado branco, insolúvel em água
+- **Estequiometria:** Relação entre mols de elétrons e massa depositada
+
+**Dados importantes:**
+- **Solução inicial:** 500 mL de AgNO₃ 1,0 mol/L = 0,5 mol de Ag⁺
+- **Precipitado AgCℓ:** 43,05 g (indica Ag⁺ restante)
+- **Depósito de Sn:** 5,95 g no cátodo da célula B
+- **Massa molar AgCℓ:** 143,5 g/mol
+- **Massa molar Sn:** 119 g/mol
+
+**Processo de resolução:**
+1. **Semirreação no cátodo A:** Redução de Ag⁺ → Ag⁰
+2. **Cálculo do Ag⁺ restante:** Através da massa de AgCℓ formado
+3. **Ag⁺ consumido:** Diferença entre inicial e final
+4. **Elétrons transferidos:** Igual aos mols de Ag⁺ reduzido
+5. **NOx do Sn:** Através da relação massa/elétrons
+
+**Reações envolvidas:**
+- **Cátodo A:** Ag⁺ + e⁻ → Ag⁰
+- **Cátodo B:** Sn⁴⁺ + 4e⁻ → Sn⁰
+- **Precipitação:** Ag⁺ + Cℓ⁻ → AgCℓ ↓
+
+**Cálculos estequiométricos:**
+- **AgCℓ formado:** 43,05 g ÷ 143,5 g/mol = 0,3 mol
+- **Ag⁺ restante:** 0,3 mol
+- **Ag⁺ reduzido:** 0,5 - 0,3 = 0,2 mol
+- **Elétrons:** 0,2 mol (proporção 1:1 com Ag⁺)
+- **NOx do Sn:** 0,2 mol e⁻ para 5,95 g Sn → 4 elétrons por átomo
+
+Nível de dificuldade: Alto
+Área: Eletroquímica
+Habilidades avaliadas: Leis de Faraday, eletrólise em série, semirreações, cálculos estequiométricos, reações de precipitação, determinação de números de oxidação, interpretação de circuitos eletrolíticos.
+
+---
+
+**Questão 06**
+
+Na produção de alguns explosivos, são empregados propelentes de clorato de potássio, substância que pode ser obtida por meio da seguinte sequência reacional:
+
+**(I) MnO₂ + 4 HCℓ ⟶ MnCℓ₂ + 2 H₂O + Cℓ₂**
+
+**(II) 6 KOH + 3 Cℓ₂ ⟶ KCℓO₃ + 5 KCℓ + 3 H₂O**
+
+Identifique a substância simples presente nas duas equações da sequência reacional. Considerando a produção de 24,5 g de clorato de potássio, com rendimento de 80%, determine, em gramas, a massa de MnO₂ consumida no processo.
+
+---
+
+**Gabarito Oficial**
+
+**Substância simples:** Cℓ₂
+
+**Equação global:** 3 MnO₂ + 12 HCℓ + 6 KOH → 3 MnCℓ₂ + KCℓO₃ + 5 KCℓ + 9 H₂O
+
+**Cálculos estequiométricos:**
+```
+Proporção estequiométrica:
+3 MnO₂ ————————— 1 KCℓO₃
+3 × 87 g ————————— 122,5 g
+X ————————— 24,5 g        X = 52,2 g
+
+Considerando rendimento de 80%:
+52,2 g ————————— 80%
+Y ————————— 100%        Y = 65,25 g
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de estequiometria com aplicações industriais e cálculos de rendimento. Os temas centrais incluem:
+
+- **Sequências reacionais:** Reações consecutivas com produto intermediário
+- **Estequiometria:** Cálculos com múltiplas etapas reacionais
+- **Rendimento de reação:** Diferença entre rendimento teórico e real
+- **Química industrial:** Produção de compostos para explosivos
+- **Substâncias simples:** Identificação de elementos puros
+
+**Conceitos-chave para o LLM:**
+- **Substância simples:** Formada por átomos de um único elemento (Cℓ₂)
+- **Reação global:** Soma das duas etapas eliminando intermediários
+- **Proporção estequiométrica:** Relação molar entre reagentes e produtos
+- **Rendimento:** Porcentagem do produto teoricamente esperado
+- **Cálculo reverso:** Do produto final para o reagente inicial
+
+**Análise das reações:**
+
+**Reação I - Produção de cloro:**
+- **Reagentes:** MnO₂ (oxidante) + HCℓ (redutor)
+- **Produtos:** MnCℓ₂ + H₂O + Cℓ₂ (substância simples)
+- **Tipo:** Reação de oxirredução
+- **Função:** Gerar Cℓ₂ para a próxima etapa
+
+**Reação II - Dismutação do cloro:**
+- **Reagentes:** KOH (base) + Cℓ₂ (da etapa anterior)
+- **Produtos:** KCℓO₃ (clorato) + KCℓ (cloreto) + H₂O
+- **Tipo:** Reação de dismutação (Cℓ₂ → Cℓ⁻ + CℓO₃⁻)
+- **Função:** Formar o produto final desejado
+
+**Equação global combinada:**
+```
+Reação I × 3: 3 MnO₂ + 12 HCℓ → 3 MnCℓ₂ + 6 H₂O + 3 Cℓ₂
+Reação II × 1: 6 KOH + 3 Cℓ₂ → KCℓO₃ + 5 KCℓ + 3 H₂O
+
+Soma total: 3 MnO₂ + 12 HCℓ + 6 KOH → 3 MnCℓ₂ + KCℓO₃ + 5 KCℓ + 9 H₂O
+```
+
+**Dados importantes:**
+- **Produto desejado:** 24,5 g de KCℓO₃
+- **Rendimento real:** 80%
+- **Massas molares:** MnO₂ = 87 g/mol, KCℓO₃ = 122,5 g/mol
+- **Proporção:** 3 mol MnO₂ : 1 mol KCℓO₃
+
+**Processo de resolução detalhado:**
+
+1. **Identificar substância simples:**
+   - Analisar ambas as reações
+   - Cℓ₂ aparece como produto em (I) e reagente em (II)
+
+2. **Estabelecer relação estequiométrica:**
+   - Da equação global: 3 MnO₂ → 1 KCℓO₃
+   - Massa teórica: 3 × 87 g MnO₂ → 122,5 g KCℓO₃
+
+3. **Calcular massa teórica de MnO₂:**
+   ```
+   261 g MnO₂ ——— 122,5 g KCℓO₃
+   X ——— 24,5 g KCℓO₃
+   X = (261 × 24,5) ÷ 122,5 = 52,2 g
+   ```
+
+4. **Considerar rendimento:**
+   ```
+   Se 80% de rendimento produz 24,5 g KCℓO₃
+   Então 100% produziria: 24,5 ÷ 0,8 = 30,625 g KCℓO₃
+   
+   Ou diretamente:
+   52,2 g MnO₂ (teórico para 80%) → massa real necessária
+   52,2 ÷ 0,8 = 65,25 g MnO₂
+   ```
+
+**Aplicações industriais:**
+- **Explosivos:** KCℓO₃ como agente oxidante
+- **Pirotecnia:** Fogos de artifício e sinalizadores
+- **Fósforos:** Mistura combustível nos palitos
+- **Herbicidas:** Alguns produtos agrícolas
+
+**Aspectos de segurança:**
+- **KCℓO₃:** Oxidante forte, perigoso com materiais orgânicos
+- **Cℓ₂:** Gás tóxico, requer manuseio cuidadoso
+- **MnO₂:** Relativamente seguro, usado como catalisador
+
+Nível de dificuldade: Médio-Alto
+Área: Estequiometria e Química Inorgânica
+Habilidades avaliadas: Análise de sequências reacionais, cálculos estequiométricos complexos, rendimento de reações, identificação de substâncias, aplicações industriais, interpretação de reações redox.
+
+---
+
+**Questão 09**
+
+Um alceno pode ser identificado a partir dos produtos formados em sua reação de oxidação enérgica. Em um experimento, verificou-se que a reação de oxidação de 3,5 g de um alceno produziu uma cetona e 1,4 L de CO₂, medidos nas CNTP.
+
+Escreva a fórmula molecular e o nome oficial desse alceno.
+
+---
+
+**Gabarito Oficial**
+
+**Reação de oxidação:**
+```
+       [O]
+R₁—C=C—H  ————→  R₁—C=O + CO₂ + H₂O
+   |   |           |
+   R₂  H           R₂
+
+Alceno        Cetona
+```
+
+*Descrição da reação:*
+- **Reagente:** Alceno assimétrico (com pelo menos um H na dupla ligação)
+- **Produtos:** Cetona + CO₂ + H₂O
+- **Condições:** Oxidação enérgica com KMnO₄ ou K₂Cr₂O₇
+- **Mecanismo:** Quebra da ligação C=C
+
+**Cálculos estequiométricos:**
+```
+Alceno    CO₂
+X g ————— 22,4 L
+3,5 g ——— 1,4 L        X = 56 g/mol
+```
+
+**Determinação da fórmula molecular:**
+```
+Fórmula geral dos alcenos: CₙH₂ₙ
+Massa molar: 12 × n + 1 × 2n = 56
+14n = 56
+n = 4
+
+Fórmula molecular: C₄H₈
+```
+
+**Nome:** metilpropeno
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de reações orgânicas, estequiometria e nomenclatura IUPAC. Os temas centrais incluem:
+
+- **Oxidação de alcenos:** Reações de quebra de ligações C=C
+- **Ozonólise e oxidação enérgica:** Métodos de identificação estrutural
+- **Estequiometria gasosa:** Cálculos usando volume molar nas CNTP
+- **Nomenclatura IUPAC:** Alcenos ramificados
+- **Determinação estrutural:** Uso de produtos de reação para identificar reagentes
+
+**Conceitos-chave para o LLM:**
+- **Volume molar:** 22,4 L/mol nas CNTP (0°C, 1 atm)
+- **Oxidação enérgica:** KMnO₄/H⁺ ou K₂Cr₂O₇ quebra duplas ligações
+- **Produtos específicos:** CO₂ forma-se quando há H na dupla ligação
+- **Fórmula geral:** CₙH₂ₙ para alcenos acíclicos
+- **Análise retrossintética:** Determinar estrutura pelos produtos
+
+**Análise da reação detalhada:**
+
+**Condições de oxidação enérgica:**
+- **Agentes oxidantes:** KMnO₄/H⁺, K₂Cr₂O₇/H⁺, O₃ seguido de H₂O₂
+- **Meio:** Ácido, temperatura elevada
+- **Resultado:** Quebra completa da ligação C=C
+
+**Padrões de produtos:**
+- **C=C com 2H:** Produz 2 CO₂
+- **C=C com 1H:** Produz 1 CO₂ + 1 cetona/aldeído
+- **C=C sem H:** Produz 2 cetonas/aldeídos
+
+**Determinação da estrutura:**
+
+**Dados experimentais:**
+- **Massa do alceno:** 3,5 g
+- **Volume de CO₂:** 1,4 L (CNTP)
+- **Produtos:** 1 cetona + 1 CO₂
+
+**Cálculo da massa molar:**
+```
+Proporção: 1 mol alceno → 1 mol CO₂
+Volume CO₂: 1,4 L ÷ 22,4 L/mol = 0,0625 mol
+Massa molar: 3,5 g ÷ 0,0625 mol = 56 g/mol
+```
+
+**Identificação do alceno:**
+```
+CₙH₂ₙ com M = 56 g/mol
+12n + 2n = 56
+14n = 56
+n = 4 → C₄H₈
+```
+
+**Possíveis isômeros de C₄H₈:**
+1. **But-1-eno:** CH₂=CH-CH₂-CH₃
+2. **But-2-eno:** CH₃-CH=CH-CH₃ (não produz CO₂)
+3. **Metilpropeno:** (CH₃)₂C=CH₂
+
+**Análise dos produtos:**
+- **But-1-eno:** Produziria CO₂ + propanal
+- **But-2-eno:** Produziria 2 acetaldeídos (sem CO₂)
+- **Metilpropeno:** Produz CO₂ + acetona ✓
+
+**Estrutura do metilpropeno:**
+```
+    CH₃
+    |
+CH₃-C=CH₂
+```
+
+**Reação específica:**
+```
+    CH₃              CH₃
+    |       [O]      |
+CH₃-C=CH₂  ————→  CH₃-C=O + CO₂ + H₂O
+                     |
+                    CH₃
+metilpropeno        acetona
+```
+
+**Nomenclatura IUPAC:**
+- **Nome oficial:** Metilpropeno
+- **Nome alternativo:** 2-metilprop-1-eno
+- **Nome comum:** Isobuteno
+
+**Aplicações práticas:**
+- **Análise estrutural:** Método clássico de identificação
+- **Síntese orgânica:** Quebra seletiva de ligações
+- **Indústria petroquímica:** Caracterização de hidrocarbonetos
+- **Pesquisa:** Determinação de estruturas desconhecidas
+
+**Dados importantes:**
+- **CNTP:** 0°C (273,15 K) e 1 atm
+- **Volume molar:** 22,4 L/mol para gases ideais
+- **Relação 1:1:** Alceno:CO₂ nesta reação específica
+- **Massa atômica:** C = 12, H = 1
+
+**Processo de resolução:**
+1. **Calcular mols de CO₂:** Volume ÷ 22,4 L/mol
+2. **Determinar massa molar:** Massa alceno ÷ mols CO₂
+3. **Encontrar fórmula:** CₙH₂ₙ com massa calculada
+4. **Identificar estrutura:** Considerar produtos da oxidação
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica e Estequiometria
+Habilidades avaliadas: Reações de oxidação, cálculos estequiométricos, volume molar, determinação de fórmulas moleculares, nomenclatura IUPAC, análise retrossintética.
+
+---
+
+**Questão 06**
+
+Uma amostra impura de 200 g de óxido de arsênio III foi submetida a determinado processo que envolve a seguinte sequência de reações:
+
+**Sequência de reações:**
+
+**Reação 1:** As₂O₃ + 6 Zn + 12 H⁺ → 2 AsH₃ + 6 Zn²⁺ + 3 H₂O
+
+**Reação 2:** 2 AsH₃ → 2 As + 3 H₂
+
+Após as reações químicas, observou-se a formação de 50 g de arsênio.
+
+Indique o agente redutor da reação 1 e a polaridade da molécula AsH₃. Em seguida, calcule o grau de pureza do óxido de arsênio III.
+
+---
+
+**Gabarito Oficial**
+
+**Agente redutor:** Zn
+
+**Polaridade:** polar
+
+**Cálculo do grau de pureza:**
+```
+Estequiometria: As₂O₃ → 2 As
+198 g → 150 g
+X → 50 g        X = 66 g
+
+Pureza: P = (66 × 100)/200 = 33%
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de reações de oxirredução, geometria molecular e cálculos de pureza. Os temas centrais incluem:
+
+- **Reações redox:** Identificação de agentes redutores e oxidantes
+- **Análise quantitativa:** Determinação da pureza de amostras
+- **Geometria molecular:** Polaridade de moléculas covalentes
+- **Estequiometria:** Cálculos com reagentes impuros
+- **Química analítica:** Processos de purificação e determinação de composição
+
+**Conceitos-chave para o LLM:**
+- **Agente redutor:** Espécie que perde elétrons (é oxidada)
+- **Óxido de arsênio III:** As₂O₃ (trióxido de diarsênio)
+- **Arsina (AsH₃):** Composto intermediário tóxico
+- **Geometria piramidal:** AsH₃ com momento dipolar resultante
+- **Grau de pureza:** Porcentagem da substância pura na amostra
+
+**Análise das reações:**
+
+**Reação 1 - Redução do As₂O₃:**
+```
+As₂O₃ + 6 Zn + 12 H⁺ → 2 AsH₃ + 6 Zn²⁺ + 3 H₂O
+```
+
+**Análise de oxidação/redução:**
+- **Arsênio:** As³⁺ (em As₂O₃) → As³⁻ (em AsH₃)
+  - Variação: +3 → -3 (ganho de 6 elétrons por As)
+  - **Função:** Agente oxidante (é reduzido)
+
+- **Zinco:** Zn⁰ → Zn²⁺
+  - Variação: 0 → +2 (perda de 2 elétrons por Zn)
+  - **Função:** Agente redutor (é oxidado)
+
+**Reação 2 - Decomposição da arsina:**
+```
+2 AsH₃ → 2 As + 3 H₂
+```
+- **Tipo:** Decomposição térmica
+- **Produto:** Arsênio metálico puro
+- **Aplicação:** Purificação do arsênio
+
+**Análise da geometria molecular de AsH₃:**
+
+**Estrutura eletrônica do arsênio:**
+- **Configuração:** [Ar] 3d¹⁰ 4s² 4p³
+- **Elétrons de valência:** 5
+- **Ligações:** 3 ligações As-H
+- **Par isolado:** 1 par não ligante
+
+**Geometria molecular:**
+```
+    H
+    |
+H—As—H  (com um par isolado em cima)
+```
+- **Geometria eletrônica:** Tetraédrica
+- **Geometria molecular:** Piramidal trigonal
+- **Ângulo H-As-H:** ~92° (menor que tetraédrico devido ao par isolado)
+
+**Análise da polaridade:**
+- **Ligações As-H:** Polares (ΔEN ≈ 0,3)
+- **Geometria:** Assimétrica (piramidal)
+- **Momento dipolar:** Diferente de zero
+- **Resultado:** Molécula polar
+
+**Cálculo do grau de pureza:**
+
+**Dados fornecidos:**
+- **Amostra impura:** 200 g de As₂O₃
+- **Arsênio obtido:** 50 g
+- **Processo:** Conversão completa As₂O₃ → As
+
+**Massas molares:**
+- **As₂O₃:** 2(75) + 3(16) = 198 g/mol
+- **As:** 75 g/mol
+
+**Estequiometria global:**
+```
+As₂O₃ → 2 As (através das duas reações)
+198 g As₂O₃ ——— 150 g As
+X g As₂O₃ ——— 50 g As
+
+X = (198 × 50)/150 = 66 g As₂O₃ puro
+```
+
+**Grau de pureza:**
+```
+Pureza = (massa pura/massa total) × 100%
+Pureza = (66 g/200 g) × 100% = 33%
+```
+
+**Aplicações práticas:**
+
+**Método de Marsh (detecção de arsênio):**
+- **Princípio:** Redução de compostos de As a AsH₃
+- **Decomposição:** AsH₃ → As metálico (espelho de arsênio)
+- **Uso forense:** Detecção de envenenamento por arsênio
+- **Sensibilidade:** Detecta traços muito pequenos
+
+**Toxicidade do arsênio:**
+- **AsH₃:** Extremamente tóxico (gás)
+- **As₂O₃:** Veneno histórico ("pó de sucessão")
+- **Metabolismo:** Interferência em enzimas
+- **Detoxificação:** Quelação com dimercaprol
+
+**Purificação de semicondutores:**
+- **Arsênio ultra-puro:** Para fabricação de chips
+- **Processo:** Sublimação em vácuo
+- **Aplicação:** GaAs (arseneto de gálio)
+
+**Dados importantes:**
+- **As₂O₃:** Sólido branco, muito tóxico
+- **AsH₃:** Gás incolor, odor alho, letal
+- **Zn:** Metal redutor comum em análise
+- **Temperatura:** Reação 2 requer aquecimento
+
+**Aspectos de segurança:**
+- **Arsina:** Gás mortal, requer capela
+- **Arsênio:** Cancerígeno conhecido
+- **Zinco:** Relativamente seguro
+- **Equipamentos:** Necessários para gases tóxicos
+
+**Processo de resolução:**
+1. **Identificar redox:** Zn⁰ → Zn²⁺ (oxidação) = agente redutor
+2. **Analisar geometria:** AsH₃ piramidal = polar
+3. **Estequiometria:** As₂O₃ : As = 198:150
+4. **Calcular pureza:** (massa pura/massa total) × 100%
+
+Nível de dificuldade: Médio-Alto
+Área: Química Analítica e Redox
+Habilidades avaliadas: Reações de oxirredução, geometria molecular, cálculos de pureza, estequiometria, análise quantitativa, aplicações em química forense.
+
+---
+
+**Questão 07**
+
+A bateria de sal fundido, que vem sendo utilizada em carros elétricos, recebe esse nome por empregar sais fundidos a elevadas temperaturas. Nesse tipo de bateria, é necessário que ocorram as seguintes semirreações:
+
+**Semirreações da bateria de sal fundido:**
+
+```
+NiCℓ₂ + 2 Na⁺ + 2 e⁻ → Ni + 2 NaCℓ     E° = -0,23 V
+2 Na → 2 Na⁺ + 2e⁻                      E° = +2,71 V
+```
+
+Nomeie o sal formado nesse processo e sua ligação interatômica.
+
+Apresente, também, a reação global da bateria e determine sua diferença de potencial no estado-padrão, em volts.
+
+---
+
+**Gabarito Oficial**
+
+**Sal:** cloreto de sódio
+
+**Ligação:** iônica
+
+**Reação global:**
+```
+NiCℓ₂ + 2 Na → Ni + 2 NaCℓ
+```
+
+**Diferença de potencial:**
+```
+ΔE° = -0,23 + 2,71 = 2,48 V
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de eletroquímica aplicados a tecnologias de armazenamento de energia. Os temas centrais incluem:
+
+- **Baterias de sal fundido:** Tecnologia para veículos elétricos
+- **Semirreações eletroquímicas:** Processos de oxidação e redução
+- **Potencial de célula:** Cálculo da diferença de potencial padrão
+- **Ligações químicas:** Ligação iônica em compostos salinos
+- **Aplicações tecnológicas:** Sistemas de armazenamento energético
+
+**Conceitos-chave para o LLM:**
+- **Sal fundido:** Estado líquido de sais a alta temperatura
+- **Eletrólito:** NiCℓ₂ fundido permite condução iônica
+- **Ânodo:** Eletrodo onde ocorre oxidação (Na → Na⁺)
+- **Cátodo:** Eletrodo onde ocorre redução (NiCℓ₂ → Ni)
+- **NaCℓ:** Cloreto de sódio formado como produto
+
+**Análise das semirreações:**
+
+**Semirreação catódica (redução):**
+```
+NiCℓ₂ + 2 Na⁺ + 2 e⁻ → Ni + 2 NaCℓ     E° = -0,23 V
+```
+- **Processo:** Redução do Ni²⁺ para Ni⁰
+- **Local:** Cátodo (eletrodo negativo durante descarga)
+- **Elétrons:** Consumidos (ganho de elétrons)
+
+**Semirreação anódica (oxidação):**
+```
+2 Na → 2 Na⁺ + 2e⁻                      E° = +2,71 V
+```
+- **Processo:** Oxidação do Na⁰ para Na⁺
+- **Local:** Ânodo (eletrodo positivo durante descarga)
+- **Elétrons:** Liberados (perda de elétrons)
+
+**Reação global da bateria:**
+
+**Combinação das semirreações:**
+```
+Cátodo:  NiCℓ₂ + 2 Na⁺ + 2 e⁻ → Ni + 2 NaCℓ
+Ânodo:   2 Na → 2 Na⁺ + 2e⁻
+─────────────────────────────────────────────
+Global:  NiCℓ₂ + 2 Na → Ni + 2 NaCℓ
+```
+
+**Cálculo do potencial da célula:**
+```
+ΔE°célula = E°cátodo + E°ânodo
+ΔE°célula = (-0,23) + (+2,71) = +2,48 V
+```
+
+**Análise do sal formado:**
+
+**Cloreto de sódio (NaCℓ):**
+- **Cátion:** Na⁺ (íon sódio)
+- **Ânion:** Cℓ⁻ (íon cloreto)
+- **Fórmula:** NaCℓ
+- **Nome:** Cloreto de sódio
+
+**Ligação iônica:**
+- **Formação:** Transferência de elétrons Na → Cℓ
+- **Força:** Atração eletrostática entre íons
+- **Características:** Alta temperatura de fusão, condutividade em estado fundido
+- **Estrutura:** Rede cristalina cúbica
+
+**Características da bateria de sal fundido:**
+
+**Vantagens:**
+- **Alta densidade energética:** ~200 Wh/kg
+- **Longa vida útil:** >5000 ciclos
+- **Resposta rápida:** Carga/descarga em segundos
+- **Materiais abundantes:** Na e Ni relativamente baratos
+
+**Desafios:**
+- **Temperatura operacional:** 270-350°C
+- **Isolamento térmico:** Necessário para manter temperatura
+- **Corrosão:** Sais fundidos são corrosivos
+- **Segurança:** Risco de superaquecimento
+
+**Aplicações práticas:**
+
+**Veículos elétricos:**
+- **Armazenamento de energia:** Para tração elétrica
+- **Frenagem regenerativa:** Recuperação de energia
+- **Autonomia:** Contribui para maior alcance
+
+**Rede elétrica:**
+- **Estabilização:** Compensação de flutuações
+- **Armazenamento renovável:** Solar e eólica
+- **Peak shaving:** Redução de picos de demanda
+
+**Comparação com outras baterias:**
+
+**Vs. íon-lítio:**
+- **Densidade energética:** Menor que Li-ion
+- **Custo:** Potencialmente menor
+- **Vida útil:** Maior número de ciclos
+- **Temperatura:** Requer aquecimento constante
+
+**Vs. chumbo-ácido:**
+- **Densidade energética:** Muito maior
+- **Eficiência:** Maior (85-90%)
+- **Manutenção:** Menor necessidade
+- **Custo inicial:** Maior investimento
+
+**Aspectos termodinâmicos:**
+
+**Espontaneidade:**
+- **ΔE° > 0:** Reação espontânea (2,48 V)
+- **Energia livre:** ΔG° = -nFΔE° < 0
+- **Favorabilidade:** Processo termodinamicamente favorável
+
+**Equação de Nernst:**
+```
+E = E° - (RT/nF) ln Q
+```
+- **Concentração:** Afeta potencial real
+- **Temperatura:** Influência significativa
+- **Estado fundido:** Concentrações praticamente constantes
+
+**Dados importantes:**
+- **Temperatura operacional:** 270-350°C
+- **Potencial nominal:** ~2,48 V
+- **Eletrólito:** NiCℓ₂ fundido
+- **Produto principal:** NaCℓ + Ni metálico
+
+**Segurança e ambiente:**
+- **Materiais não tóxicos:** Na e Ni são relativamente seguros
+- **Reciclagem:** Componentes podem ser recuperados
+- **Impacto ambiental:** Menor que baterias com metais raros
+- **Controle térmico:** Sistema de aquecimento necessário
+
+**Processo de resolução:**
+1. **Identificar produtos:** NaCℓ formado nas reações
+2. **Classificar ligação:** Metal + não-metal = iônica
+3. **Somar semirreações:** Cancelar elétrons
+4. **Calcular potencial:** E°total = E°cátodo + E°ânodo
+
+Nível de dificuldade: Médio
+Área: Eletroquímica e Tecnologia
+Habilidades avaliadas: Semirreações eletroquímicas, cálculo de potencial de célula, identificação de ligações químicas, aplicações tecnológicas, nomenclatura de sais.
+
+---
+
+**Questão 08**
+
+Em um processo industrial, a salmoura, uma solução aquosa com alta concentração de cloreto de sódio, é purificada para posteriormente ser submetida à eletrólise com eletrodos inertes. Nesse processo, ilustrado abaixo, formam-se três produtos de maior valor agregado: os gases X e Y e o composto iônico Z. Sobre os gases, sabe-se que X é o de menor massa molar e Y o que possui odor característico.
+
+**Descrição detalhada do diagrama do processo:**
+
+```
+[Salmoura] 
+    ↓
+[Purificador] → [Filtro]
+    ↓
+[Saturador] ← [Tanque de alimentação]
+    ↓
+[Célula de eletrólise] ← [Energia elétrica]
+    ↓
+[Evaporador]
+    ↓
+Produtos: [X] (azul), [Y] (laranja), [Z] (amarelo)
+```
+
+*Explicação do fluxograma:*
+- **Entrada:** Salmoura bruta (NaCl concentrado)
+- **Purificação:** Remove impurezas por filtração
+- **Saturação:** Ajusta concentração de NaCl
+- **Eletrólise:** Decomposição eletroquímica com eletrodos inertes
+- **Evaporação:** Concentra produtos e remove água
+- **Produtos finais:** 
+  - X (gás de menor massa molar)
+  - Y (gás com odor característico) 
+  - Z (composto iônico)
+
+Apresente as fórmulas químicas das substâncias X e Z.
+
+Em seguida, determine o número de mols da substância Y, produzida a partir de 360 kg de salmoura que contém 65%, em massa, de cloreto de sódio. Admita uma eficiência de 80% no processo.
+
+---
+
+**Gabarito Oficial**
+
+**X:** H₂
+
+**Z:** NaOH
+
+**Cálculo para substância Y:**
+```
+Massa de NaCl na salmoura: 360 kg × 65/100 = 234 kg
+
+Estequiometria:
+117 g NaCl → 1 mol de Cl₂
+234000 g NaCl → w
+w = 2000 g
+
+Número de mols: 2000 × 80/100 = 1600 mol
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de eletroquímica com processos industriais de grande escala. Os temas centrais incluem:
+
+- **Eletrólise da salmoura:** Processo cloro-álcali industrial
+- **Reações eletroquímicas:** Decomposição eletrolítica do NaCl
+- **Estequiometria industrial:** Cálculos com eficiência de processo
+- **Produtos químicos básicos:** H₂, Cl₂, NaOH como matérias-primas
+- **Processos de purificação:** Tratamento de soluções salinas
+
+**Conceitos-chave para o LLM:**
+- **Eletrólise da salmoura:** 2NaCl + 2H₂O → H₂ + Cl₂ + 2NaOH
+- **Produto X (H₂):** Menor massa molar entre os gases (2 g/mol)
+- **Produto Y (Cl₂):** Gás com odor característico (70 g/mol)
+- **Produto Z (NaOH):** Hidróxido de sódio (base forte)
+- **Eficiência de processo:** Rendimento industrial (80%)
+
+**Análise da eletrólise da salmoura:**
+
+**Reação global:**
+```
+2NaCl(aq) + 2H₂O(ℓ) → H₂(g) + Cl₂(g) + 2NaOH(aq)
+```
+
+**Semirreações:**
+- **Cátodo (redução):** 2H₂O + 2e⁻ → H₂ + 2OH⁻
+- **Ânodo (oxidação):** 2Cl⁻ → Cl₂ + 2e⁻
+
+**Identificação dos produtos:**
+
+**Produto X - Hidrogênio (H₂):**
+- **Massa molar:** 2 g/mol (menor entre os gases)
+- **Local de formação:** Cátodo
+- **Características:** Gás incolor, inodoro, inflamável
+- **Aplicações:** Síntese de amônia, refinaria, energia
+
+**Produto Y - Cloro (Cl₂):**
+- **Massa molar:** 70 g/mol
+- **Odor característico:** Forte, irritante, sufocante
+- **Local de formação:** Ânodo
+- **Características:** Gás amarelo-esverdeado, tóxico
+- **Aplicações:** Desinfetação, PVC, branqueamento
+
+**Produto Z - Hidróxido de sódio (NaOH):**
+- **Classificação:** Base forte, composto iônico
+- **Formação:** Acúmulo de OH⁻ na solução
+- **Características:** Sólido branco, higroscópico
+- **Aplicações:** Papel, sabão, neutralização
+
+**Cálculo estequiométrico detalhado:**
+
+**Dados fornecidos:**
+- **Salmoura total:** 360 kg
+- **Concentração de NaCl:** 65% em massa
+- **Eficiência do processo:** 80%
+
+**Passo 1 - Massa de NaCl:**
+```
+Massa de NaCl = 360 kg × 0,65 = 234 kg = 234.000 g
+```
+
+**Passo 2 - Estequiometria teórica:**
+```
+2NaCl → Cl₂
+2 × 58,5 g → 71 g
+117 g NaCl → 71 g Cl₂
+
+234.000 g NaCl → x g Cl₂
+x = (234.000 × 71) / 117 = 142.000 g Cl₂
+```
+
+**Passo 3 - Aplicação da eficiência:**
+```
+Massa real de Cl₂ = 142.000 × 0,80 = 113.600 g
+```
+
+**Passo 4 - Conversão para mols:**
+```
+n(Cl₂) = 113.600 g / 71 g/mol = 1600 mol
+```
+
+**Verificação alternativa (pelo gabarito):**
+```
+117 g NaCl → 1 mol Cl₂
+234.000 g NaCl → w mol Cl₂
+w = 234.000 / 117 = 2000 mol (teórico)
+
+Com eficiência: 2000 × 0,80 = 1600 mol
+```
+
+**Processo industrial cloro-álcali:**
+
+**Tipos de células eletrolíticas:**
+- **Célula de diafragma:** Separação porosa
+- **Célula de mercúrio:** Cátodo de mercúrio (em desuso)
+- **Célula de membrana:** Membrana íon-seletiva (moderna)
+
+**Condições operacionais:**
+- **Concentração:** NaCl ~25% em massa
+- **Temperatura:** 80-90°C
+- **Densidade de corrente:** 2-4 kA/m²
+- **Voltagem:** 3-4 V por célula
+
+**Purificação da salmoura:**
+
+**Impurezas removidas:**
+- **Ca²⁺, Mg²⁺:** Precipitação com Na₂CO₃
+- **SO₄²⁻:** Precipitação com BaCl₂
+- **Materiais orgânicos:** Adsorção em carvão ativado
+- **Metais pesados:** Precipitação seletiva
+
+**Importância econômica:**
+
+**Produtos do processo:**
+- **Cloro:** ~60 milhões ton/ano mundial
+- **Hidróxido de sódio:** ~70 milhões ton/ano
+- **Hidrogênio:** Subproduto valioso
+
+**Aplicações industriais:**
+- **Cl₂:** PVC (40%), papel (20%), química orgânica
+- **NaOH:** Papel (25%), química (20%), sabão (15%)
+- **H₂:** Amônia, refinaria, metalurgia
+
+**Aspectos ambientais:**
+
+**Benefícios:**
+- **Tratamento de água:** Desinfecção com cloro
+- **Reciclagem:** Recuperação de materiais
+- **Energia limpa:** Hidrogênio como combustível
+
+**Desafios:**
+- **Consumo energético:** ~2500 kWh/ton Cl₂
+- **Emissões:** Controle de gases
+- **Resíduos:** Gestão de subprodutos
+
+**Dados importantes:**
+- **Reação:** 2NaCl + 2H₂O → H₂ + Cl₂ + 2NaOH
+- **Produto X:** H₂ (menor massa molar)
+- **Produto Y:** Cl₂ (1600 mol com 80% de eficiência)
+- **Produto Z:** NaOH (hidróxido de sódio)
+
+**Processo de resolução:**
+1. **Identificar produtos:** H₂ (menor MM), Cl₂ (odor), NaOH (base)
+2. **Calcular NaCl:** 360 kg × 65% = 234 kg
+3. **Estequiometria:** 117 g NaCl → 1 mol Cl₂
+4. **Aplicar eficiência:** 2000 mol × 80% = 1600 mol
+
+Nível de dificuldade: Médio-Alto
+Área: Eletroquímica e Química Industrial
+Habilidades avaliadas: Reações de eletrólise, estequiometria, eficiência de processos, interpretação de fluxogramas industriais, cálculos com porcentagem e rendimento.
+
+---
+
+## QUESTÃO 006 - QUÍMICA ORGÂNICA - OXIDAÇÃO DE ÁLCOOIS E ISOMERIA
+**Tipo:** Questão mista (química experimental + isomeria + cálculos estequiométricos + fórmulas estruturais)
+**Tópico:** Oxidação de álcoois, isomeria plana, fração molar, ácidos carboxílicos, nomenclatura IUPAC
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO EXPERIMENTAL:**
+Em um laboratório, foi realizado um experimento de oxidação de uma mistura de álcoois na presença de K₂Cr₂O₇ e H₂SO₄. A tabela abaixo apresenta os álcoois presentes na mistura.
+
+**COMPOSIÇÃO DA MISTURA DE ÁLCOOIS:**
+| Álcoois | Quantidade (mol) |
+|---------|------------------|
+| propan-1-ol | 3 |
+| propan-2-ol | 2 |
+| metilpropan-1-ol | 1 |
+| metilpropan-2-ol | 4 |
+
+**QUESTÕES:**
+Em relação à mistura, nomeie a isomeria plana que ocorre entre os álcoois de cadeia carbônica normal.
+
+Considerando apenas os componentes orgânicos, calcule a fração molar de álcoois presentes após a oxidação total. Escreva, ainda, as fórmulas estruturais dos ácidos carboxílicos formados.
+
+**Conceitos envolvidos:**
+- Reações de oxidação de álcoois
+- Isomeria plana (posição e cadeia)
+- Classificação de álcoois (primário, secundário, terciário)
+- Produtos de oxidação: aldeídos, cetonas, ácidos carboxílicos
+- Fração molar e cálculos estequiométricos
+- Nomenclatura IUPAC de álcoois e ácidos
+
+**Dados implícitos necessários:**
+- Identificação da isomeria entre álcoois de cadeia normal:
+ - Propan-1-ol: CH₃-CH₂-CH₂-OH
+ - Propan-2-ol: CH₃-CH(OH)-CH₃
+ - Mesma fórmula molecular (C₃H₈O), diferentes posições do grupo -OH
+ - Isomeria plana de posição
+- Análise da oxidação total:
+ - Propan-1-ol (álcool 1°): → propanoato → ácido propanoico
+ - Propan-2-ol (álcool 2°): → propanona (cetona) - não oxida mais
+ - Metilpropan-1-ol (álcool 1°): → ácido 2-metilpropanoico
+ - Metilpropan-2-ol (álcool 3°): → não oxida
+- Componentes após oxidação total:
+ - Ácido propanoico: 3 mol
+ - Propanona: 2 mol
+ - Ácido 2-metilpropanoico: 1 mol
+ - Metilpropan-2-ol: 4 mol (não reagiu)
+ - Total: 10 mol
+- Fração molar de álcoois:
+ - Álcool restante: 4 mol de metilpropan-2-ol
+ - Fração molar: 4/10 = 0,4
+- Fórmulas estruturais dos ácidos carboxílicos:
+ - Ácido propanoico: CH₃-CH₂-COOH
+ - Ácido 2-metilpropanoico: (CH₃)₂-CH-COOH
+
+**Aplicação contextual:**
+- Síntese de ácidos carboxílicos em laboratório
+- Processos industriais de oxidação
+- Produção de compostos farmacêuticos
+- Análise de misturas orgânicas
+- Controle de reações seletivas
+
+**Informações complementares:**
+- Agentes oxidantes: K₂Cr₂O₇, KMnO₄, CrO₃
+- Álcoois terciários: resistentes à oxidação
+- Diferentes produtos conforme tipo de álcool
+- Importância sintética dos ácidos carboxílicos
+
+**Palavras-chave:** oxidação de álcoois, isomeria de posição, propanol, fração molar, ácidos carboxílicos, álcool terciário, álcool primário, álcool secundário, K₂Cr₂O₇, nomenclatura IUPAC
+
+---
+
+## QUESTÃO 008 - FÍSICO-QUÍMICA - PODER OXIDANTE E POTENCIAIS ELETROQUÍMICOS
+**Tipo:** Questão mista (aplicação sanitária + estrutura molecular + estados de oxidação + eletroquímica)
+**Tópico:** Poder oxidante, potenciais de redução, higienização, fórmulas estruturais, números de oxidação
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO SANITÁRIO:**
+Em função de seu poder oxidante, a solução de hipoclorito de sódio, usualmente conhecida como água sanitária, e o ozônio são utilizados na higienização de frutas e hortaliças. Quanto maior o poder oxidante, maior a capacidade de higienização.
+
+**DADOS ELETROQUÍMICOS:**
+Considere as reações abaixo, que indicam os valores dos potenciais-padrão E° de redução do ozônio e do íon hipoclorito:
+
+**SEMIRREAÇÕES DE REDUÇÃO:**
+- O₃₍ₘ₎ + H₂O₍ₗ₎ + 2 e⁻ → O₂₍ₘ₎ + 2 OH⁻₍ₐᵩ₎     E° = +1,24 V
+- ClO⁻₍ₐᵩ₎ + H₂O₍ₗ₎ + 2 e⁻ → Cl⁻₍ₐᵩ₎ + 2 OH⁻₍ₐᵩ₎     E° = +0,89 V
+
+**QUESTÕES:**
+Indique a fórmula estrutural plana do ozônio e determine o número de oxidação do cloro no íon hipoclorito.
+
+Com base nas informações apresentadas, indique, também, a substância que atuaria de maneira mais eficaz na higienização dos alimentos, justificando sua escolha.
+
+**Conceitos envolvidos:**
+- Poder oxidante e potenciais de redução
+- Relação entre potencial elétrico e capacidade oxidante
+- Fórmulas estruturais de moléculas
+- Estados de oxidação em íons
+- Aplicações sanitárias de agentes oxidantes
+- Eletroquímica aplicada à higienização
+
+**Dados implícitos necessários:**
+- Fórmula estrutural do ozônio (O₃):
+ - Estrutura plana: O=O-O (com ressonância)
+ - Forma mais adequada: O-O=O ↔ O=O-O
+ - Geometria angular em torno do átomo central
+- Número de oxidação do cloro no ClO⁻:
+ - Regra: soma dos números de oxidação = carga do íon
+ - Oxigênio: -2; Cloro: x
+ - x + (-2) = -1 → x = +1
+ - Número de oxidação do Cl: +1
+- Análise do poder oxidante:
+ - Maior E° = maior poder oxidante
+ - O₃: E° = +1,24 V
+ - ClO⁻: E° = +0,89 V
+- Substância mais eficaz: O₃ (ozônio)
+- Justificativa: maior potencial de redução indica maior poder oxidante
+
+**Aplicação contextual:**
+- Higienização de alimentos e segurança alimentar
+- Tratamento de água potável
+- Desinfecção hospitalar e doméstica
+- Processos de branqueamento
+- Controle microbiológico em indústrias alimentícias
+- Alternativas sustentáveis de desinfecção
+
+**Informações complementares:**
+- Ozônio: gás instável, decompõe-se rapidamente
+- Hipoclorito: mais estável, fácil armazenamento
+- Mecanismo: oxidação de componentes celulares dos microrganismos
+- Vantagens do ozônio: não deixa resíduos químicos
+- Cuidados: ambos são tóxicos em concentrações elevadas
+
+**Palavras-chave:** poder oxidante, hipoclorito de sódio, ozônio, potencial de redução, higienização, fórmula estrutural, número de oxidação, água sanitária, desinfecção, segurança alimentar
+
+---
+
+## QUESTÃO 007 - FÍSICO-QUÍMICA - OBTENÇÃO DE ALUMÍNIO METÁLICO
+
+**Tipo:** Questão mista (termoquímica + eletrólise + cálculos estequiométricos + conversão de energia)
+**Tópico:** Metalurgia do alumínio, termoquímica, eletrólise, energia de processos industriais
+**Nível:** Ensino Médio/Vestibular
+
+## CONTEXTO HISTÓRICO E INDUSTRIAL
+A sequência de equações termoquímicas abaixo representa o processo pioneiro de obtenção de alumínio metálico a partir do seu óxido (Al₂O₃).
+
+## DADOS TERMOQUÍMICOS DO PROCESSO PIONEIRO
+
+### Equações termoquímicas:
+
+**Reação 1:**
+```
+Al₂O₃(s) + 6 HCl(aq) → 2 AlCl₃(aq) + 3 H₂O(l)    ΔH° = -460 kJ.mol⁻¹
+```
+
+**Reação 2:**
+```
+AlCl₃(aq) + 3 Na(s) → 3 NaCl(aq) + Al(s)    ΔH° = +410 kJ.mol⁻¹
+```
+
+## DESENVOLVIMENTO TECNOLÓGICO
+Posteriormente, foi desenvolvido outro processo de obtenção, mais barato, baseado na eletrólise ígnea do Al₂O₃.
+
+## PROBLEMA PROPOSTO
+Considere a obtenção de 27 g de alumínio metálico pelo processo pioneiro e por meio de eletrólise, ambos com rendimento de 100%.
+
+### Questões:
+1. **Calcule a quantidade de energia, em quilojoules, necessária no primeiro processo**
+2. **Calcule a carga elétrica, em coulombs, consumida no segundo processo**
+
+## CONCEITOS ENVOLVIDOS
+- Termoquímica e variação de entalpia
+- Eletrólise e leis de Faraday
+- Estequiometria de reações
+- Metalurgia extrativa
+- Processos industriais de redução
+- Conversão de unidades energéticas
+
+## DADOS NECESSÁRIOS PARA RESOLUÇÃO
+
+### Massas molares:
+- **Al:** 27 g/mol
+- **Al₂O₃:** 102 g/mol
+- **AlCl₃:** 133,5 g/mol
+
+### Constantes:
+- **Constante de Faraday:** F = 96.485 C/mol (≈ 96.500 C/mol)
+- **Carga do elétron:** e = 1,602 × 10⁻¹⁹ C
+
+### Dados do alumínio:
+- **Número atômico:** Z = 13
+- **Configuração eletrônica:** [Ne] 3s² 3p¹
+- **Estado de oxidação comum:** +3
+
+## RESOLUÇÃO DETALHADA
+
+### **QUESTÃO 1: Energia no processo pioneiro**
+
+#### Etapa 1: Cálculo dos mols de alumínio
+```
+n(Al) = massa / massa molar = 27 g / 27 g/mol = 1,0 mol de Al
+```
+
+#### Etapa 2: Análise estequiométrica
+
+**Para a Reação 1:**
+- Produz 2 mol de AlCl₃ por equação
+- Para 1 mol de Al, precisamos de 1 mol de AlCl₃
+- Portanto: 0,5 × (reação 1)
+
+**Para a Reação 2:**
+- Produz 1 mol de Al por equação
+- Para 1 mol de Al: 1,0 × (reação 2)
+
+#### Etapa 3: Cálculo da variação de entalpia total
+```
+ΔH total = 0,5 × (-460) + 1,0 × (+410)
+ΔH total = -230 + 410 = +180 kJ
+```
+
+**Resposta:** São necessários **180 kJ** de energia.
+
+### **QUESTÃO 2: Carga elétrica na eletrólise**
+
+#### Processo de eletrólise do Al₂O₃:
+```
+Al₂O₃(l) → 2 Al(l) + 3/2 O₂(g)
+```
+
+#### Semi-reação catódica (redução):
+```
+Al³⁺ + 3e⁻ → Al
+```
+
+#### Cálculo da carga elétrica:
+```
+1 mol de Al consome 3 mol de elétrons
+Carga = n(e⁻) × F = 3 mol × 96.485 C/mol = 289.455 C
+```
+
+**Resposta:** São consumidos **289.455 coulombs** (≈ **289.500 C**).
+
+## COMPARAÇÃO DOS PROCESSOS
+
+### Processo Pioneiro (Químico):
+- **Vantagens:** Tecnologia mais simples
+- **Desvantagens:** Alto consumo energético, múltiplas etapas
+- **Reagentes:** HCl, Na metálico (caro)
+- **Energia:** +180 kJ/mol Al
+
+### Processo Moderno (Eletrólise):
+- **Vantagens:** Processo direto, mais eficiente
+- **Desvantagens:** Requer energia elétrica constante
+- **Temperatura:** ~950°C (Al₂O₃ fundido)
+- **Carga elétrica:** ~289.500 C/mol Al
+
+## INFORMAÇÕES HISTÓRICAS
+
+### Processo pioneiro (Wöhler, 1827):
+- Primeiro isolamento do alumínio
+- Redução com potássio/sódio
+- Alumínio mais caro que ouro
+
+### Processo Hall-Héroult (1886):
+- Eletrólise de Al₂O₃ em criolita fundida
+- Revolucionou a produção de alumínio
+- Tornou o alumínio economicamente viável
+
+## APLICAÇÕES INDUSTRIAIS ATUAIS
+
+### Eletrólise moderna:
+- **Eletrólito:** Al₂O₃ dissolvido em criolita (Na₃AlF₆)
+- **Temperatura:** 950-970°C
+- **Energia típica:** 13-15 kWh/kg Al
+- **Pureza:** >99,5%
+
+### Considerações ambientais:
+- Alto consumo energético
+- Emissões de CO₂ (anodos de carbono)
+- Reciclagem: 95% menos energia que produção primária
+
+## CÁLCULOS COMPLEMENTARES
+
+### Eficiência energética:
+```
+Energia teórica mínima: ΔG° ≈ 1600 kJ/mol Al
+Energia prática: ~50-60 MJ/kg Al
+Eficiência: ~50-60%
+```
+
+### Produção mundial:
+- **Consumo energético:** ~3% da eletricidade mundial
+- **Capacidade:** ~65 milhões de toneladas/ano
+- **Principais produtores:** China, Rússia, Canadá
+
+## RESPOSTAS FINAIS
+
+### Questão 1:
+**Energia necessária no processo pioneiro:** **180 kJ**
+
+### Questão 2:
+**Carga elétrica consumida na eletrólise:** **289.455 coulombs**
+
+**Palavras-chave:** alumínio metálico, termoquímica, eletrólise, processo Hall-Héroult, metalurgia, variação de entalpia, leis de Faraday, carga elétrica, processo pioneiro, Al₂O₃
+
+---
+
+## QUESTÃO 008 - QUÍMICA INORGÂNICA - TRATAMENTO DE PISCINAS E REAÇÕES REDOX
+**Tipo:** Questão mista (aplicação prática + cálculos estequiométricos + concentrações + análise de excessos)
+**Tópico:** Tratamento de água, reações de oxirredução, cálculos de concentração, estequiometria
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO PRÁTICO:**
+O fenômeno da "água verde" em piscinas pode ser ocasionado pela adição de peróxido de hidrogênio em água contendo íons hipoclorito. Esse composto converte em cloreto os íons hipoclorito, eliminando a ação oxidante e provocando o crescimento exagerado de microrganismos. A equação química abaixo representa essa conversão:
+
+**EQUAÇÃO QUÍMICA DA REAÇÃO:**
+H₂O₂ (aq) + NaClO (aq) → NaCl (aq) + O₂ (g) + H₂O (l)
+
+**DADOS DA PISCINA:**
+Para o funcionamento ideal de uma piscina com volume de água igual a 4 × 10⁷ L, deve-se manter uma concentração de hipoclorito de sódio de 3 × 10⁻⁵ mol.L⁻¹.
+
+**SITUAÇÃO PROBLEMA:**
+Admita que foi adicionado, indevidamente, nessa piscina, uma solução de peróxido de hidrogênio na concentração de 10 mol.L⁻¹.
+
+**QUESTÕES:**
+Calcule a massa de hipoclorito de sódio, em quilogramas, que deve ser adicionada à água dessa piscina para se alcançar a condição de funcionamento ideal.
+
+Calcule, nesse caso, o volume da solução de peróxido de hidrogênio responsável pelo consumo completo do hipoclorito de sódio.
+
+**Conceitos envolvidos:**
+- Tratamento químico de piscinas
+- Reações de oxirredução
+- Cálculos estequiométricos
+- Concentrações molares
+- Conversões de unidades (mol → kg)
+- Análise de reagente limitante
+
+**Dados implícitos necessários:**
+- Cálculo da massa de NaClO necessária:
+ - Volume da piscina: 4 × 10⁷ L
+ - Concentração ideal: 3 × 10⁻⁵ mol/L
+ - Mols de NaClO: (4 × 10⁷ L) × (3 × 10⁻⁵ mol/L) = 1.200 mol
+ - Massa molar NaClO: 23 + 35,5 + 16 = 74,5 g/mol
+ - Massa de NaClO: 1.200 mol × 74,5 g/mol = 89.400 g = 89,4 kg
+- Cálculo do volume de H₂O₂ para consumo completo:
+ - Equação balanceada: H₂O₂ + NaClO → NaCl + O₂ + H₂O
+ - Estequiometria: 1 mol H₂O₂ : 1 mol NaClO
+ - Mols de H₂O₂ necessários: 1.200 mol
+ - Concentração de H₂O₂: 10 mol/L
+ - Volume de solução: 1.200 mol ÷ 10 mol/L = 120 L
+
+**Aplicação contextual:**
+- Manutenção de piscinas e qualidade da água
+- Controle microbiológico em sistemas aquáticos
+- Importância do cloro residual livre
+- Problemas causados por produtos incompatíveis
+- Química do tratamento de águas
+
+**Informações complementares:**
+- Hipoclorito: agente desinfetante e oxidante
+- Peróxido de hidrogênio: agente redutor neste contexto
+- "Água verde": proliferação de algas e microrganismos
+- pH e sua influência na eficácia do cloro
+- Alternativas de tratamento: ozônio, UV, eletrólise salina
+
+**Palavras-chave:** água verde, hipoclorito de sódio, peróxido de hidrogênio, piscina, desinfecção, reação redox, estequiometria, concentração molar, tratamento de água, cloro residual
+
+---
+
+**Questão 03**
+
+A mistura denominada massa de Laming, composta por Fe₂O₃, serragem de madeira e água, é utilizada para a remoção do H₂S presente na composição do gás de hulha, um combustível gasoso. Observe a equação química que representa o processo de remoção:
+
+**Fe₂O₃ + 3 H₂S ⟶ 2 FeS + S + 3 H₂O**
+
+Calcule, em quilogramas, a massa de FeS formada no consumo de 408 kg de H₂S, considerando 100% de rendimento.
+
+Em seguida, indique o símbolo correspondente ao elemento químico que sofre oxidação e o nome do agente oxidante.
+
+---
+
+**Gabarito Oficial**
+
+**Cálculo estequiométrico:**
+```
+3 mols H₂S ⟶ 2 mols de FeS
+102 g H₂S ⟶ 176 g FeS
+408 kg H₂S ⟶ x
+x = 704 kg
+```
+
+**Símbolo do elemento que sofre oxidação:** S
+
+**Nome do agente oxidante (uma das respostas):**
+- óxido férrico
+- óxido de ferro III
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de estequiometria e reações de oxirredução aplicados a processos industriais de purificação de gases. Os temas centrais incluem:
+
+- **Purificação de gases:** Remoção de H₂S do gás de hulha
+- **Estequiometria:** Cálculos de massa em reações químicas
+- **Reações redox:** Identificação de oxidação e redução
+- **Processos industriais:** Massa de Laming como purificador
+- **Combustíveis gasosos:** Tratamento do gás de hulha
+
+**Conceitos-chave para o LLM:**
+- **Gás de hulha:** Combustível gasoso obtido da destilação do carvão
+- **H₂S:** Gás tóxico e corrosivo que deve ser removido
+- **Fe₂O₃:** Óxido férrico, agente oxidante
+- **Massa de Laming:** Mistura purificadora (Fe₂O₃ + serragem + água)
+- **Reação redox:** Fe³⁺ reduz, S²⁻ oxida
+
+**Análise da reação química:**
+
+**Equação balanceada:**
+```
+Fe₂O₃ + 3 H₂S → 2 FeS + S + 3 H₂O
+```
+
+**Verificação do balanceamento:**
+- **Ferro:** 2 (Fe₂O₃) = 2 (FeS) ✓
+- **Enxofre:** 3 (H₂S) = 2 (FeS) + 1 (S) ✓
+- **Hidrogênio:** 6 (H₂S) = 6 (H₂O) ✓
+- **Oxigênio:** 3 (Fe₂O₃) = 3 (H₂O) ✓
+
+**Cálculo estequiométrico detalhado:**
+
+**Dados fornecidos:**
+- **Massa de H₂S:** 408 kg
+- **Rendimento:** 100%
+- **Produto:** FeS (sulfeto de ferro II)
+
+**Massas molares:**
+- **H₂S:** 2(1) + 32 = 34 g/mol
+- **FeS:** 56 + 32 = 88 g/mol
+
+**Proporção estequiométrica:**
+```
+3 H₂S → 2 FeS
+3 × 34 g → 2 × 88 g
+102 g H₂S → 176 g FeS
+```
+
+**Regra de três:**
+```
+102 g H₂S ——— 176 g FeS
+408 kg H₂S ——— x kg FeS
+
+x = (408 × 176) / 102 = 704 kg FeS
+```
+
+**Análise da reação de oxirredução:**
+
+**Identificação dos números de oxidação:**
+
+**Reagentes:**
+- **Fe₂O₃:** Fe = +3, O = -2
+- **H₂S:** H = +1, S = -2
+
+**Produtos:**
+- **FeS:** Fe = +2, S = -2
+- **S:** S = 0
+- **H₂O:** H = +1, O = -2
+
+**Variações dos números de oxidação:**
+- **Ferro:** +3 → +2 (redução, ganho de 1 elétron)
+- **Enxofre:** -2 → 0 (oxidação, perda de 2 elétrons)
+
+**Elemento que sofre oxidação:** **Enxofre (S)**
+- **Processo:** S²⁻ → S⁰ + 2e⁻
+- **Localização:** No H₂S
+
+**Agente oxidante:** **Fe₂O₃**
+- **Nomenclaturas aceitas:**
+  - Óxido férrico (nomenclatura clássica)
+  - Óxido de ferro III (nomenclatura de Stock)
+- **Função:** Provoca a oxidação do enxofre
+
+**Processo industrial da massa de Laming:**
+
+**Composição da massa de Laming:**
+- **Fe₂O₃:** Agente ativo (oxidante)
+- **Serragem de madeira:** Suporte poroso
+- **Água:** Umidade para facilitar reações
+
+**Funcionamento:**
+1. **Contato:** Gás de hulha passa pela massa de Laming
+2. **Reação:** H₂S reage com Fe₂O₃
+3. **Remoção:** H₂S é convertido em FeS sólido
+4. **Purificação:** Gás sai limpo, sem H₂S
+
+**Vantagens do processo:**
+- **Eficiência:** Remove praticamente todo H₂S
+- **Simplicidade:** Processo físico-químico simples
+- **Economia:** Materiais relativamente baratos
+- **Regeneração:** Massa pode ser parcialmente reutilizada
+
+**Importância da remoção do H₂S:**
+
+**Problemas do H₂S:**
+- **Toxicidade:** Gás venenoso ("gás dos esgotos")
+- **Corrosão:** Ataca metais e equipamentos
+- **Poluição:** Contribui para chuva ácida
+- **Odor:** Cheiro característico de "ovo podre"
+
+**Benefícios da remoção:**
+- **Segurança:** Reduz riscos à saúde
+- **Proteção de equipamentos:** Evita corrosão
+- **Qualidade do combustível:** Melhora poder calorífico
+- **Meio ambiente:** Reduz emissões sulfurosas
+
+**Outras aplicações do processo:**
+
+**Purificação de gases industriais:**
+- **Gás natural:** Remoção de H₂S ("gás azedo")
+- **Biogás:** Tratamento de gases de biodigestores
+- **Gases de refinaria:** Purificação de correntes gasosas
+
+**Processos similares:**
+- **Processo Claus:** Recuperação de enxofre elementar
+- **Lavagem alcalina:** Absorção em soluções básicas
+- **Adsorção:** Carvão ativado impregnado
+
+**Dados importantes:**
+- **Estequiometria:** 3 H₂S : 2 FeS (proporção 102g : 176g)
+- **Massa calculada:** 704 kg de FeS
+- **Oxidação:** Enxofre (-2 → 0)
+- **Agente oxidante:** Fe₂O₃ (óxido férrico)
+
+**Processo de resolução:**
+1. **Estequiometria:** Estabelecer proporção 3 H₂S : 2 FeS
+2. **Massas molares:** Calcular massas de H₂S e FeS
+3. **Regra de três:** Aplicar proporção aos dados
+4. **Redox:** Identificar variações de NOx
+5. **Nomenclatura:** Aplicar regras para óxidos
+
+Nível de dificuldade: Médio
+Área: Estequiometria e Oxirredução
+Habilidades avaliadas: Cálculos estequiométricos, reações redox, nomenclatura de óxidos, processos industriais, conversão de unidades.
+
+---
+
+**Questão 10**
+
+Em um experimento, a energia elétrica gerada por uma pilha de Daniell foi utilizada para a eletrólise de 500 mL de uma solução aquosa de AgNO₃, na concentração de 0,01 mol.L⁻¹. Observe o esquema:
+
+**Descrição detalhada do circuito:**
+
+```
+[Pilha de Daniell]
+┌─────────────────┐    ┌─────────────────┐
+│                 │    │                 │
+│      Zn         │    │       Cu        │
+│  (eletrodo)     │    │   (eletrodo)    │
+│       │         │    │        │        │
+│    Zn²⁺         │    │     Cu²⁺        │
+│  (solução)      │    │   (solução)     │
+└─────────────────┘    └─────────────────┘
+         │                       │
+         └───────────┬───────────┘
+                     │
+             [Célula de eletrólise]
+                ┌─────────┐
+                │ Ag⁺     │
+                │ NO₃⁻    │
+                │ (500 mL)│
+                └─────────┘
+```
+
+*Explicação do sistema:*
+- **Pilha de Daniell:** Gera energia elétrica com eletrodos Zn e Cu
+- **Conexão elétrica:** Energia da pilha alimenta a eletrólise
+- **Célula eletrolítica:** Contém solução de AgNO₃ com eletrodos inertes
+- **Processo:** Deposição de prata metálica nos eletrodos
+
+A pilha empregou eletrodos de zinco e de cobre, cujas semirreações de redução são:
+
+```
+Zn²⁺ (aq) + 2 e⁻ ——→ Zn⁰ (s)    E° = -0,76 V
+Cu²⁺ (aq) + 2 e⁻ ——→ Cu⁰ (s)    E° = +0,34 V
+```
+
+A eletrólise empregou eletrodos inertes e houve deposição de todos os íons prata contidos na solução de AgNO₃.
+
+Calcule a diferença de potencial da pilha, em volts, e a massa, em gramas, do ânodo consumido na deposição.
+
+---
+
+**Gabarito Oficial**
+
+**Diferença de potencial da pilha:**
+```
+ddp = 0,76 + 0,34 = 1,10 V
+```
+
+**Cálculo da massa de Ag depositada:**
+```
+Massa de Ag depositada: 108 g.mol⁻¹ × 0,01 mol.L⁻¹ × 0,5 L = 0,54 g
+```
+
+**Reações nos eletrodos:**
+```
+No ânodo da pilha: Zn⁰ (s) ——→ Zn²⁺ (aq) + 2 e⁻
+No cátodo da eletrólise: Ag⁺ (aq) + e⁻ ——→ Ag⁰ (s)
+```
+
+**Proporção estequiométrica:**
+```
+1 mol de Zn (s) fornece elétrons para a deposição de 2 mols de Ag (s).
+65,5 g Zn ——→ 216 g Ag
+x ——→ 0,54 g
+x = 0,164 g
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de eletroquímica, pilhas galvânicas e eletrólise. Os temas centrais incluem:
+
+- **Pilha de Daniell:** Célula galvânica clássica Zn/Cu
+- **Eletrólise:** Decomposição eletroquímica usando energia externa
+- **Potenciais de redução:** Cálculo de ddp de células
+- **Leis de Faraday:** Relação entre carga elétrica e massa depositada
+- **Estequiometria eletroquímica:** Proporções entre reações anódica e catódica
+
+**Conceitos-chave para o LLM:**
+- **Pilha fornece energia:** Processo espontâneo alimenta eletrólise
+- **Zn como ânodo:** Oxidação (perde elétrons)
+- **Cu como cátodo:** Redução (ganha elétrons)
+- **Deposição de Ag:** Redução de Ag⁺ → Ag⁰
+- **Conservação de elétrons:** e⁻ perdidos pelo Zn = e⁻ ganhos pela Ag
+
+**Análise da pilha de Daniell:**
+
+**Identificação dos eletrodos:**
+- **Ânodo (oxidação):** Zn⁰ → Zn²⁺ + 2e⁻
+- **Cátodo (redução):** Cu²⁺ + 2e⁻ → Cu⁰
+
+**Justificativa:**
+- **E°(Zn²⁺/Zn) = -0,76 V:** Menor potencial → ânodo
+- **E°(Cu²⁺/Cu) = +0,34 V:** Maior potencial → cátodo
+
+**Cálculo da ddp:**
+```
+E°célula = E°cátodo - E°ânodo
+E°célula = (+0,34) - (-0,76) = +1,10 V
+```
+
+**Verificação:** ddp positiva confirma processo espontâneo
+
+**Análise da eletrólise:**
+
+**Reação no cátodo (eletrólise):**
+```
+Ag⁺ + e⁻ → Ag⁰
+```
+
+**Características:**
+- **Eletrodos inertes:** Não participam das reações
+- **Deposição total:** Todos os íons Ag⁺ são reduzidos
+- **Cátodo:** Local de deposição da prata
+
+**Cálculo da quantidade de prata:**
+
+**Dados da solução:**
+- **Volume:** 500 mL = 0,5 L
+- **Concentração:** 0,01 mol/L
+- **Quantidade de Ag⁺:** 0,01 mol/L × 0,5 L = 0,005 mol
+
+**Massa de prata depositada:**
+```
+m(Ag) = n × MM = 0,005 mol × 108 g/mol = 0,54 g
+```
+
+**Cálculo da massa de zinco consumida:**
+
+**Semirreações envolvidas:**
+```
+Ânodo (pilha): Zn⁰ → Zn²⁺ + 2e⁻
+Cátodo (eletrólise): Ag⁺ + e⁻ → Ag⁰
+```
+
+**Balanço eletrônico:**
+- **Zn fornece:** 2 elétrons por átomo
+- **Ag consome:** 1 elétron por íon
+- **Relação:** 1 Zn → 2 Ag
+
+**Estequiometria:**
+```
+1 mol Zn : 2 mol Ag
+65,5 g Zn : 216 g Ag
+x g Zn : 0,54 g Ag
+
+x = (65,5 × 0,54) / 216 = 0,164 g
+```
+
+**Verificação pelos elétrons:**
+
+**Elétrons necessários para deposição:**
+```
+n(e⁻) = n(Ag) = 0,005 mol e⁻
+```
+
+**Zinco necessário:**
+```
+n(Zn) = 0,005 mol e⁻ / 2 e⁻/Zn = 0,0025 mol Zn
+m(Zn) = 0,0025 mol × 65,5 g/mol = 0,164 g ✓
+```
+
+**Análise energética:**
+
+**Energia disponível:**
+- **ddp da pilha:** 1,10 V
+- **Corrente:** Determinada pela resistência do circuito
+- **Energia total:** Suficiente para eletrólise completa
+
+**Eficiência:**
+- **Deposição completa:** 100% dos íons Ag⁺ reduzidos
+- **Conservação de carga:** Todos os elétrons aproveitados
+
+**Aspectos práticos:**
+
+**Aplicações da eletrólise:**
+- **Galvanoplastia:** Revestimento de metais
+- **Purificação:** Refino eletrolítico de metais
+- **Síntese:** Produção de substâncias por eletrólise
+
+**Vantagens do sistema:**
+- **Fonte renovável:** Pilha pode ser recarregada
+- **Controle preciso:** Quantidade depositada controlável
+- **Eficiência alta:** Processo direto de transferência eletrônica
+
+**Considerações experimentais:**
+
+**Fatores que afetam a deposição:**
+- **Densidade de corrente:** Influencia qualidade do depósito
+- **Agitação:** Melhora uniformidade
+- **Temperatura:** Afeta velocidade de deposição
+- **pH:** Pode influenciar reações laterais
+
+**Monitoramento:**
+- **Massa do eletrodo:** Pesagem antes/depois
+- **Corrente:** Medição contínua
+- **Tempo:** Duração do processo
+
+**Dados importantes:**
+- **ddp da pilha:** 1,10 V
+- **Ag depositada:** 0,54 g (deposição completa)
+- **Zn consumido:** 0,164 g (ânodo da pilha)
+- **Estequiometria:** 1 Zn → 2 Ag (balanço eletrônico)
+
+**Processo de resolução:**
+1. **Calcular ddp:** E°cátodo - E°ânodo = 0,34 - (-0,76)
+2. **Determinar quantidade de Ag:** Concentração × volume
+3. **Calcular massa de Ag:** mols × massa molar
+4. **Estequiometria eletrônica:** 1 Zn produz 2 e⁻ para 2 Ag
+5. **Massa de Zn:** Proporção estequiométrica
+
+Nível de dificuldade: Alto
+Área: Eletroquímica
+Habilidades avaliadas: Pilhas galvânicas, eletrólise, potenciais de redução, leis de Faraday, estequiometria eletroquímica, balanço de elétrons, cálculos de massa.
+
+---
+
+**Questão 07:**
+
+Os preços dos metais para reciclagem variam em função da resistência de cada um à corrosão: quanto menor a tendência do metal à oxidação, maior será o preço.
+
+Na tabela, estão apresentadas duas características eletroquímicas e o preço médio de compra de dois metais no mercado de reciclagem.
+
+| Metal | Semirreação de redução | Potencial-padrão de redução (V) | Preço (R$/kg) |
+|-------|------------------------|--------------------------------|---------------|
+| cobre | Cu²⁺₍ₐq₎ + 2 e⁻ → Cu⁰₍ₛ₎ | + 0,34 | 13,00 |
+| ferro | Fe²⁺₍ₐq₎ + 2 e⁻ → Fe⁰₍ₛ₎ | - 0,44 | 0,25 |
+
+Com o objetivo de construir uma pilha que consuma o metal de menor custo, um laboratório dispõe desses metais e de soluções aquosas de seus respectivos sulfatos, além dos demais materiais necessários.
+
+Apresente a reação global da pilha eletroquímica formada e determine sua diferença de potencial, em volts, nas condições-padrão.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Reação global da pilha:**
+
+**Fe⁰₍ₛ₎ + Cu²⁺₍ₐq₎ → Fe²⁺₍ₐq₎ + Cu⁰₍ₛ₎**
+
+**Diferença de potencial:**
+
+**ΔE° = + 0,34 - (- 0,44) = + 0,78 V**
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de eletroquímica com aplicação prática e econômica:
+
+1. **Dados fornecidos na tabela**:
+   - **Cobre**: E° = +0,34 V, preço = R$ 13,00/kg
+   - **Ferro**: E° = -0,44 V, preço = R$ 0,25/kg
+   - **Semirreações de redução** para ambos os metais
+
+2. **Conceitos eletroquímicos fundamentais**:
+   - **Potencial de redução**: Medida da tendência de uma espécie ganhar elétrons
+   - **Relação com reatividade**: Menor E° = maior tendência à oxidação
+   - **Ânodo vs. Cátodo**: Ânodo (oxidação) tem menor E°, Cátodo (redução) tem maior E°
+
+3. **Análise da questão**:
+   - **Metal de menor custo**: Ferro (R$ 0,25/kg)
+   - **"Consumir o metal"**: Metal será oxidado (perde elétrons) = ânodo
+   - **Ferro no ânodo**: Fe⁰ → Fe²⁺ + 2e⁻ (oxidação)
+   - **Cobre no cátodo**: Cu²⁺ + 2e⁻ → Cu⁰ (redução)
+
+4. **Cálculo da diferença de potencial**:
+   - **Fórmula**: ΔE° = E°₍cátodo₎ - E°₍ânodo₎
+   - **Aplicação**: ΔE° = E°₍Cu²⁺/Cu₎ - E°₍Fe²⁺/Fe₎
+   - **Resultado**: ΔE° = (+0,34) - (-0,44) = +0,78 V
+
+5. **Reação global**:
+   - **Balanceamento**: Igualando o número de elétrons
+   - **Oxidação**: Fe⁰ → Fe²⁺ + 2e⁻
+   - **Redução**: Cu²⁺ + 2e⁻ → Cu⁰
+   - **Global**: Fe⁰ + Cu²⁺ → Fe²⁺ + Cu⁰
+
+6. **Relação custo-reatividade**:
+   - **Ferro**: Mais reativo (E° menor), menor preço
+   - **Cobre**: Menos reativo (E° maior), maior preço
+   - **Confirmação**: Metais mais resistentes à corrosão custam mais
+
+7. **Conceitos avaliados**:
+   - **Espontaneidade**: ΔE° > 0 indica reação espontânea
+   - **Identificação de ânodo/cátodo**: Baseada nos potenciais
+   - **Cálculo de potencial de pilha**: Aplicação da fórmula padrão
+   - **Relação economia-química**: Correlação entre propriedades e valor comercial
+
+8. **Nível de complexidade**: Questão de nível intermediário que integra cálculos eletroquímicos com contexto prático de reciclagem.
+
+9. **Padrão UERJ**: Questão contextualizada que combina conhecimentos teóricos com aplicação real, exigindo análise de dados tabulares e cálculos precisos.
+
+---
+
+**Questão 10:**
+
+A eletrólise da ureia, substância encontrada na urina, está sendo proposta como forma de obtenção de hidrogênio, gás que pode ser utilizado como combustível. Observe as semirreações da célula eletrolítica empregada nesse processo, realizado com 100% de rendimento:
+
+**[SEMIRREAÇÕES DA ELETRÓLISE]:**
+- **Reação anódica:** CO(NH₂)₂ + 6 OH⁻ → N₂ + 5 H₂O + CO₂ + 6 e⁻
+- **Reação catódica:** 6 H₂O + 6 e⁻ → 3 H₂ + 6 OH⁻
+
+Considere as seguintes informações:
+1. A ureia tem fórmula química CO(NH₂)₂ e sua concentração na urina é de 20 g.L⁻¹.
+2. Um ônibus movido a hidrogênio percorre 1 km com 100 g desse combustível.
+
+Apresente a reação global da eletrólise da ureia. Em seguida, calcule a distância, em quilômetros, percorrida por um ônibus utilizando o combustível gerado na eletrólise de dez mil litros de urina.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Reação global da eletrólise:**
+
+**Ânodo:** CO(NH₂)₂ + 6 OH⁻ → N₂ + 5 H₂O + CO₂ + 6 e⁻
+
+**Cátodo:** 6 H₂O + 6 e⁻ → 3 H₂ + 6 OH⁻
+
+**Reação global:** CO(NH₂)₂ + H₂O → N₂ + 3 H₂ + CO₂
+
+**Cálculo da distância:**
+
+**Quantidade de ureia recolhida:** 20 g/L × 1 × 10⁴ L = 2 × 10⁵ g
+
+**Considerando a estequiometria da reação, 1 mol de CO(NH₂)₂ produz 3 mol H₂:**
+
+60 g CO(NH₂)₂ → 6 g H₂
+
+2 × 10⁵ g CO(NH₂)₂ → X        X = 2 × 10⁴ g H₂
+
+**Distância percorrida:**
+
+1 km → 100 g
+
+X → 2 × 10⁴ g        X = 200 km
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de eletroquímica, estequiometria e aplicações tecnológicas:
+
+1. **Processo eletrolítico da ureia**:
+   - **Substrato**: Ureia (CO(NH₂)₂) - composto orgânico nitrogenado
+   - **Meio**: Solução aquosa básica (presença de OH⁻)
+   - **Objetivo**: Produção de hidrogênio como combustível
+   - **Rendimento**: 100% (condição ideal)
+
+2. **Análise das semirreações**:
+   
+   **Reação anódica (oxidação)**:
+   - **Reagentes**: CO(NH₂)₂ + 6 OH⁻
+   - **Produtos**: N₂ + 5 H₂O + CO₂ + 6 e⁻
+   - **Processo**: Oxidação da ureia com liberação de elétrons
+   
+   **Reação catódica (redução)**:
+   - **Reagentes**: 6 H₂O + 6 e⁻
+   - **Produtos**: 3 H₂ + 6 OH⁻
+   - **Processo**: Redução da água para formar hidrogênio
+
+3. **Obtenção da reação global**:
+   - **Método**: Soma das semirreações cancelando espécies comuns
+   - **Cancelamentos**: 6 e⁻ e 6 OH⁻ aparecem em ambos os lados
+   - **Simplificação**: 6 H₂O - 5 H₂O = H₂O líquida
+   - **Resultado**: CO(NH₂)₂ + H₂O → N₂ + 3 H₂ + CO₂
+
+4. **Dados para cálculos**:
+   - **Concentração de ureia na urina**: 20 g/L
+   - **Volume de urina**: 10.000 L = 1 × 10⁴ L
+   - **Consumo do ônibus**: 100 g H₂ por km
+   - **Massa molar da ureia**: 60 g/mol (C=12, O=16, N=14×2, H=1×4)
+
+5. **Cálculo estequiométrico**:
+   
+   **Massa total de ureia**:
+   - 20 g/L × 1 × 10⁴ L = 2 × 10⁵ g de ureia
+   
+   **Relação estequiométrica**:
+   - 1 mol CO(NH₂)₂ → 3 mol H₂
+   - 60 g CO(NH₂)₂ → 6 g H₂ (3 mol × 2 g/mol)
+   
+   **Massa de H₂ produzida**:
+   - (2 × 10⁵ g ureia) × (6 g H₂/60 g ureia) = 2 × 10⁴ g H₂
+
+6. **Cálculo da distância**:
+   - **Consumo**: 100 g H₂/km
+   - **H₂ disponível**: 2 × 10⁴ g
+   - **Distância**: (2 × 10⁴ g) ÷ (100 g/km) = 200 km
+
+7. **Verificação dimensional**:
+   ```
+   [g ureia] × [g H₂/g ureia] = [g H₂]
+   [g H₂] ÷ [g H₂/km] = [km]
+   ```
+
+8. **Aspectos ambientais e tecnológicos**:
+   - **Sustentabilidade**: Aproveitamento de resíduo (urina)
+   - **Energia limpa**: H₂ como combustível não poluente
+   - **Aplicação**: Transporte público sustentável
+   - **Inovação**: Eletroquímica aplicada à energia
+
+9. **Produtos da eletrólise**:
+   - **H₂**: Combustível principal
+   - **N₂**: Gás inerte (subproduto)
+   - **CO₂**: Pode ser capturado/utilizado
+   - **Vantagem**: Todos os produtos têm valor ou são inócuos
+
+10. **Conceitos eletroquímicos avaliados**:
+    - **Semirreações**: Identificação de oxidação e redução
+    - **Balanceamento**: Elétrons e cargas
+    - **Reação global**: Combinação de semirreações
+    - **Estequiometria eletrolítica**: Relação mol/elétrons
+
+11. **Aplicação prática**:
+    - **Células a combustível**: H₂ + O₂ → H₂O + energia
+    - **Transporte sustentável**: Veículos movidos a hidrogênio
+    - **Economia circular**: Resíduo → energia
+
+12. **Cálculos envolvidos**:
+    - **Concentração × volume**: Massa total de ureia
+    - **Estequiometria**: Conversão ureia → H₂
+    - **Rendimento energético**: H₂ → distância percorrida
+
+13. **Nível de complexidade**: Questão avançada que integra eletroquímica, estequiometria e aplicações tecnológicas sustentáveis.
+
+14. **Padrão UERJ**: Questão contextualizada que combina conceitos fundamentais com aplicação prática inovadora, exigindo domínio de múltiplos conceitos químicos e cálculos sequenciais.
+
+---
+
+**Questão 04:**
+
+Considere uma reação de oxirredução espontânea entre as espécies químicas presentes nas seguintes semirreações de redução:
+
+**[SEMIRREAÇÕES COM ESTRUTURAS QUÍMICAS]:**
+
+**Semirreação 1:**
+```
+    O              OH
+    ‖              |
+   ⬡    + 2 H⁺ + 2 e⁻ →  ⬡     E° = + 0,7 V
+    ‖              |
+    O              OH
+```
+
+**Descrição da estrutura:**
+- **Reagente**: 1,4-benzoquinona (para-quinona)
+  - Anel benzênico com duas carbonilas (C=O) em posições para (1,4)
+  - Fórmula: C₆H₄O₂
+- **Produto**: 1,4-di-hidroxibenzeno (hidroquinona)
+  - Anel benzênico com duas hidroxilas (-OH) em posições para (1,4)
+  - Fórmula: C₆H₄(OH)₂
+
+**Semirreação 2:**
+```
+Ag⁺ + e⁻ → Ag     E° = + 0,8 V
+```
+
+Calcule o potencial-padrão, em volts, da reação de oxirredução e escreva a nomenclatura oficial do reagente orgânico dessa reação.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Cálculo do potencial-padrão:**
+
+ΔE° = E°oxidação + E°redução = - 0,7 + 0,8 = 0,1 V
+
+**Uma das nomenclaturas:**
+- 1,4-di-hidroxibenzeno
+- 4-hidroxi-fenol
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de eletroquímica, química orgânica e nomenclatura:
+
+1. **Análise das semirreações**:
+   
+   **Semirreação 1 (quinona/hidroquinona)**:
+   - **Processo**: Redução da quinona para hidroquinona
+   - **E° = +0,7 V**: Potencial de redução
+   - **Elétrons**: Ganho de 2 e⁻
+   - **Prótons**: Consumo de 2 H⁺
+
+   **Semirreação 2 (prata)**:
+   - **Processo**: Redução de Ag⁺ para Ag
+   - **E° = +0,8 V**: Potencial de redução
+   - **Elétrons**: Ganho de 1 e⁻
+
+2. **Determinação da reação espontânea**:
+   - **Critério**: ΔE° > 0 para reação espontânea
+   - **Análise**: Ag⁺/Ag tem maior E° (+0,8 V > +0,7 V)
+   - **Conclusão**: Ag⁺ será reduzido, hidroquinona será oxidada
+
+3. **Identificação dos processos**:
+   
+   **Redução (cátodo)**: Ag⁺ + e⁻ → Ag
+   - **E°redução = +0,8 V**
+   
+   **Oxidação (ânodo)**: Hidroquinona → quinona + 2 H⁺ + 2 e⁻
+   - **E°oxidação = -E°redução = -0,7 V**
+
+4. **Balanceamento da reação global**:
+   ```
+   Oxidação: C₆H₄(OH)₂ → C₆H₄O₂ + 2 H⁺ + 2 e⁻
+   Redução:  2 Ag⁺ + 2 e⁻ → 2 Ag
+   ________________________________________
+   Global:   C₆H₄(OH)₂ + 2 Ag⁺ → C₆H₄O₂ + 2 Ag + 2 H⁺
+   ```
+
+5. **Cálculo do potencial-padrão**:
+   - **Fórmula**: ΔE° = E°cátodo - E°ânodo
+   - **Alternativa**: ΔE° = E°redução + E°oxidação
+   - **Cálculo**: ΔE° = (+0,8) + (-0,7) = +0,1 V
+   - **Interpretação**: Reação espontânea (ΔE° > 0)
+
+6. **Estruturas químicas envolvidas**:
+   
+   **1,4-Benzoquinona (para-quinona)**:
+   ```
+   O═⬡═O
+   ```
+   - **Grupos funcionais**: Duas cetonas aromáticas
+   - **Posições**: Para (1,4) no anel benzênico
+   
+   **1,4-Di-hidroxibenzeno (hidroquinona)**:
+   ```
+   HO─⬡─OH
+   ```
+   - **Grupos funcionais**: Duas hidroxilas (fenol)
+   - **Posições**: Para (1,4) no anel benzênico
+
+7. **Nomenclatura IUPAC**:
+   
+   **Reagente orgânico**: Hidroquinona (que será oxidada)
+   - **Nome IUPAC**: 1,4-di-hidroxibenzeno
+   - **Nome alternativo**: 4-hidroxi-fenol
+   - **Nome comum**: Hidroquinona
+
+8. **Sistema redox quinona/hidroquinona**:
+   - **Importância biológica**: Cadeia respiratória, fotossíntese
+   - **Reversibilidade**: Sistema redox reversível
+   - **Aplicações**: Revelador fotográfico, antioxidante
+
+9. **Conceitos eletroquímicos avaliados**:
+   - **Potenciais padrão**: Cálculo de ΔE°
+   - **Espontaneidade**: Relação entre ΔE° e espontaneidade
+   - **Identificação de processos**: Oxidação vs. redução
+   - **Balanceamento**: Elétrons e cargas
+
+10. **Par redox orgânico**:
+    - **Característica**: Transferência de 2 e⁻ e 2 H⁺
+    - **Mecanismo**: Conversão fenol ⇌ quinona
+    - **Estabilidade**: Ambas as formas são estáveis
+
+11. **Sistema Ag⁺/Ag**:
+    - **Classificação**: Metal nobre
+    - **Aplicações**: Eletrodo de referência, joalheria
+    - **Propriedades**: Boa condutividade, resistência à corrosão
+
+12. **Verificação dimensional**:
+    ```
+    ΔE° = E°(V) + E°(V) = V
+    +0,1 V (resultado positivo confirma espontaneidade)
+    ```
+
+13. **Aspectos da nomenclatura orgânica**:
+    - **IUPAC**: Numeração e posições dos substituintes
+    - **Funcionais**: Identificação de grupos hidroxila
+    - **Alternativas**: Diferentes nomes válidos para o mesmo composto
+
+14. **Aplicações práticas**:
+    - **Fotografia**: Hidroquinona como revelador
+    - **Cosméticos**: Agente clareador (uso controlado)
+    - **Indústria**: Antioxidante, monômero para polímeros
+
+15. **Conceitos avaliados**:
+    - **Eletroquímica**: Cálculos de potencial
+    - **Química orgânica**: Estruturas e nomenclatura
+    - **Oxidação/redução**: Identificação de processos
+    - **Espontaneidade**: Critérios termodinâmicos
+
+16. **Nível de complexidade**: Questão de nível intermediário-avançado que integra eletroquímica com química orgânica.
+
+17. **Padrão UERJ**: Questão interdisciplinar que combina cálculos quantitativos com conhecimento estrutural e nomenclatura, exigindo domínio de múltiplas áreas da química.
+
+---
+

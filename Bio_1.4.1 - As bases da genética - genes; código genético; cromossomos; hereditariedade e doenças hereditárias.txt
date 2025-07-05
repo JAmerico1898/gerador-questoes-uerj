@@ -1,0 +1,2734 @@
+# Questão UERJ Biologia - Epistasia e Interação Gênica
+
+## QUESTÃO ORIGINAL
+
+**Questão 03**
+
+No fenômeno esquematizado a seguir, o gene B inibe o efeito fenotípico produzido pelo gene A.
+
+### DESCRIÇÃO DETALHADA DO ESQUEMA:
+
+**Título do esquema:** "Par de cromossomos homólogos"
+
+**Elementos visuais:**
+- Dois cromossomos homólogos representados como estruturas alongadas verticais
+- Cromossomos desenhados em branco/cinza claro com bordas definidas
+- Cada cromossomo possui dois loci gênicos marcados
+
+**Localização dos genes:**
+- **Gene A:** Localizado na porção superior de ambos os cromossomos homólogos
+- **Gene B:** Localizado na porção inferior de ambos os cromossomos homólogos
+
+**Representação dos alelos:**
+- Nos dois cromossomos homólogos: presença do alelo "A" (representado em círculos amarelos/dourados)
+- Nos dois cromossomos homólogos: presença do alelo "B" (representado em círculos verdes)
+
+**Genótipo representado:** AABB (homozigoto dominante para ambos os genes)
+
+**Indicação visual da interação:**
+- Uma seta curvada conecta a região onde estão os genes B aos genes A
+- A seta sugere que o gene B exerce influência/inibição sobre o gene A
+- A curvatura da seta enfatiza o conceito de "inibição" mencionado no enunciado
+
+**Características do desenho:**
+- Estilo esquemático e didático
+- Cores contrastantes para facilitar identificação (amarelo para A, verde para B)
+- Disposição clara dos elementos genéticos
+- Representação simplificada mas cientificamente adequada
+
+**Pergunta:**
+Nomeie esse fenômeno. Em seguida, explique a diferença entre ele e um caso de herança dominante.
+
+## RESPOSTA OFICIAL
+
+**OBSERVAÇÃO:** A resposta oficial apresentada na Figura 2 não corresponde à questão da Figura 1. A resposta mostrada refere-se à questão anterior sobre vasos sanguíneos:
+
+- Vaso sanguíneo X: artéria.
+- Justificativa: a pressão sanguínea é máxima.
+- Vaso sanguíneo Z: capilar.
+- Justificativa: apresenta a maior área total no corpo.
+
+**RESPOSTA ESPERADA PARA A QUESTÃO 03 (baseada no conteúdo da questão):**
+
+**Nome do fenômeno:** Epistasia
+
+**Explicação da diferença:**
+- **Epistasia:** Interação entre genes não-alelos, onde um gene (epistático) inibe ou modifica a expressão de outro gene (hipostático)
+- **Herança dominante:** Interação entre alelos do mesmo gene, onde um alelo dominante se expressa sobre o alelo recessivo
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva com esquema genético
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Genética
+- **Habilidades avaliadas:** Interpretação de esquemas, conhecimento de interações gênicas
+- **Estrutura:** Apresentação de esquema seguida de nomenclatura e comparação
+
+### Conceitos-chave avaliados:
+1. **Epistasia:** Interação gênica onde um gene inibe outro
+2. **Interação gênica:** Genes não-alelos que interagem
+3. **Herança dominante:** Conceito clássico de dominância alélica
+4. **Diferenciação conceitual:** Epistasia vs. dominância
+5. **Interpretação de esquemas genéticos:** Análise visual de informações genéticas
+
+### Conhecimentos específicos necessários:
+- **Epistasia:** Tipos (dominante, recessiva, dupla)
+- **Gene epistático:** Gene que inibe
+- **Gene hipostático:** Gene inibido
+- **Diferença fundamental:** Genes não-alelos vs. alelos do mesmo gene
+- **Proporções fenotípicas:** Modificações nas proporções mendelianas
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Uso de esquemas:** Representação visual de conceitos genéticos
+2. **Nomenclatura + explicação:** Identificar o fenômeno e explicar diferenças
+3. **Comparação conceitual:** Contrastar com conceitos relacionados
+4. **Linguagem precisa:** Terminologia genética adequada
+5. **Integração visual-textual:** Esquema complementa o texto
+
+### Padrões de esquemas genéticos UERJ:
+- Representação cromossômica clara
+- Uso de cores para distinguir alelos
+- Indicações visuais de interações (setas)
+- Genótipos específicos representados
+- Simplicidade didática mantendo rigor científico
+
+### Temas relacionados para questões similares:
+- Pleiotropia (um gene, múltiplos efeitos)
+- Poligenia (múltiplos genes, um caráter)
+- Herança quantitativa
+- Interação alélica (dominância, codominância)
+- Ligação gênica e recombinação
+- Herança ligada ao sexo
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Contextualização:** "No fenômeno esquematizado..."
+2. **Esquema genético:** Representação visual clara
+3. **Descrição do processo:** Explicação da interação
+4. **Tarefa dupla:** Nomenclatura + comparação/explicação
+5. **Diferenciação conceitual:** Contraste com conceitos similares
+
+### Elementos essenciais para replicação:
+- **Esquemas informativos:** Cromossomos, genes, interações
+- **Cores distintivas:** Para diferentes alelos/genes
+- **Indicações visuais:** Setas mostrando interações
+- **Genótipos específicos:** Representações concretas
+- **Terminologia precisa:** Linguagem genética adequada
+
+### Critérios de avaliação implícitos:
+- Identificação correta do fenômeno genético
+- Compreensão das diferenças conceituais
+- Uso apropriado de terminologia genética
+- Capacidade de interpretar esquemas genéticos
+- Diferenciação entre tipos de herança
+
+### Variações possíveis do modelo:
+- Diferentes tipos de epistasia
+- Outros tipos de interação gênica
+- Comparação com diferentes padrões de herança
+- Esquemas com múltiplos genes
+- Representações de crossing-over e recombinação
+
+---
+
+# Questão UERJ Biologia - Genética de Gatos e Herança Ligada ao Sexo
+
+## QUESTÃO ORIGINAL
+
+**QUESTÃO 03**
+
+Considere apenas os seguintes genes dentre os vários envolvidos na determinação das cores em pelos de gatos:
+
+### TABELA DE GENES E CARACTERÍSTICAS:
+
+| Gene | Característica do pelo |
+|------|----------------------|
+| X⁰   | cor laranja          |
+| Xᵇ   | cor preta            |
+| S    | manchas brancas      |
+
+### DESCRIÇÃO DETALHADA DA IMAGEM:
+
+**Características da fotografia:**
+- Fotografia colorida de um gato doméstico
+- Crédito da imagem: "nature.com"
+- Ambiente interno (visível piso e estruturas da casa ao fundo)
+
+**Características do gato:**
+- **Posição:** Gato sentado, postura relaxada, olhando diretamente para a câmera
+- **Tamanho:** Aparenta ser um gato adulto de porte médio
+- **Expressão:** Alerta, com expressão facial serena
+
+**Padrão de coloração detalhado:**
+- **Região da cabeça:**
+  - Testa: predominantemente preta com algumas marcas alaranjadas
+  - Focinho e região nasal: branca
+  - Área ao redor dos olhos: mistura de preto e laranja
+  - Orelhas: predominantemente pretas com algumas marcas laranja
+
+- **Região do corpo:**
+  - Peito e região ventral: predominantemente branca
+  - Laterais do corpo: padrão complexo de manchas pretas e alaranjadas
+  - Dorso: mistura de cores preta e laranja em padrão mosqueado
+  - Patas dianteiras: brancas com algumas marcas coloridas
+
+- **Padrão geral:**
+  - **Tricolor evidente:** Combinação de três cores distintas (preto, laranja/dourado, branco)
+  - **Distribuição irregular:** Manchas de diferentes tamanhos distribuídas de forma assimétrica
+  - **Contraste bem definido:** Transições claras entre as diferentes cores
+  - **Exemplo típico:** Padrão característico de gata "tartaruga e branca" (tortoiseshell and white)
+
+**Relevância genética da imagem:**
+- Demonstração visual clara do fenótipo tricolor
+- Evidência da expressão simultânea de genes para cor laranja, preta e manchas brancas
+- Exemplo prático para aplicação dos conceitos de herança ligada ao sexo
+
+**Informações adicionais fornecidas:**
+
+Sabe-se que, enquanto os dois primeiros genes são ligados ao cromossomo X, o gene S localiza-se em um cromossomo autossômico cuja forma recessiva ss não produz manchas brancas. Sabe-se, também, que fêmeas não quiméricas com padrão cromossômico normal apresentam sempre um dos cromossomos X inativado na forma de um corpúsculo de Barr.
+
+**Pergunta:**
+Aponte os possíveis genótipos de uma fêmea tricolor. Explique, ainda, por que machos de padrão cromossômico normal não são tricolores.
+
+## RESPOSTA OFICIAL
+
+**Genótipos:**
+X⁰Xᵇ SS e X⁰Xᵇ Ss
+
+**Explicação:** os machos apresentam apenas um cromossomo X; assim, só podem ter cor laranja, preta e malhada (laranja e branco / preto e branco).
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva com tabela de genes + fotografia ilustrativa
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Genética (herança ligada ao sexo)
+- **Habilidades avaliadas:** Interpretação de padrões genéticos, herança ligada ao X, inativação do X
+- **Estrutura:** Tabela informativa + imagem exemplo + contextualização + dupla análise
+
+### Conceitos-chave avaliados:
+1. **Herança ligada ao sexo:** Genes localizados no cromossomo X
+2. **Inativação do X:** Corpúsculo de Barr em fêmeas
+3. **Codominância:** Expressão simultânea de alelos X⁰ e Xᵇ
+4. **Herança autossômica:** Gene S em cromossomo não sexual
+5. **Mosaicismo:** Expressão diferencial em diferentes células
+6. **Determinação sexual:** Diferenças cromossômicas entre machos (XY) e fêmeas (XX)
+
+### Conhecimentos específicos necessários:
+- **Cromossomos sexuais:** Sistema XY de determinação sexual
+- **Dosagem gênica:** Compensação por inativação do X
+- **Genótipos possíveis:** Combinações alélicas para cada sexo
+- **Fenótipos resultantes:** Expressão visual dos genótipos
+- **Corpúsculo de Barr:** X inativado em fêmeas mamíferas
+- **Padrão tricolor:** Necessidade de heterozigose em fêmeas
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Tabelas informativas:** Organização clara de informações genéticas
+2. **Imagens ilustrativas:** Fotografias reais demonstrando fenótipos
+3. **Contextualização molecular:** Explicação de mecanismos celulares
+4. **Dupla análise:** Genótipos + explicação de padrões
+5. **Aplicação prática:** Uso de exemplos cotidianos (animais domésticos)
+
+### Padrões de questões de genética UERJ:
+- Tabelas com genes e características
+- Fotografias de fenótipos reais
+- Herança ligada ao sexo
+- Explicação de diferenças entre sexos
+- Mecanismos moleculares (inativação do X)
+
+### Temas relacionados para questões similares:
+- Daltonismo e herança ligada ao X
+- Hemofilia e coagulação sanguínea
+- Distrofia muscular de Duchenne
+- Padrões de coloração em outros animais
+- Síndrome de Turner e Klinefelter
+- Determinação sexual em diferentes espécies
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Tabela informativa:** Genes e suas características fenotípicas
+2. **Imagem ilustrativa:** Fotografia demonstrando o fenótipo
+3. **Contextualização molecular:** Mecanismos genéticos envolvidos
+4. **Análise dupla:** Genótipos possíveis + explicação de padrões
+5. **Diferenciação sexual:** Comparação entre machos e fêmeas
+
+### Elementos essenciais para replicação:
+- **Tabelas organizadas:** Genes e fenótipos correspondentes
+- **Fotografias reais:** Animais ou pessoas demonstrando características
+- **Localização cromossômica:** Especificação de ligação sexual ou autossômica
+- **Mecanismos moleculares:** Inativação do X, dosagem gênica
+- **Aplicação prática:** Exemplos reconhecíveis e relevantes
+
+### Critérios de avaliação implícitos:
+- Compreensão de herança ligada ao sexo
+- Conhecimento de determinação sexual
+- Entendimento de inativação do X
+- Capacidade de deduzir genótipos a partir de fenótipos
+- Explicação de diferenças entre sexos
+
+### Variações possíveis do modelo:
+
+#### **Características Ligadas ao X:**
+- **Daltonismo:** Diferentes tipos de cegueira para cores
+- **Hemofilia:** Distúrbios de coagulação (A e B)
+- **Distrofia muscular:** Duchenne e Becker
+- **Deficiência de G6PD:** Sensibilidade a certas drogas
+
+#### **Padrões de Coloração Animal:**
+- **Gatos:** Tricolores, ponto siamês, albinismo
+- **Cães:** Merle, arlequim, coloração do labrador
+- **Cavalos:** Palomino, cremello, colorações diluídas
+- **Aves:** Dimorfismo sexual, mutações de cor
+
+#### **Mecanismos Genéticos:**
+- **Codominância:** Expressão simultânea de alelos
+- **Dominância incompleta:** Fenótipo intermediário
+- **Epistasia:** Interação entre genes não alelos
+- **Pleiotropia:** Um gene afetando múltiplas características
+
+### Padrões de pergunta:
+- "Aponte os possíveis genótipos de..."
+- "Explique por que [sexo] não apresenta [característica]..."
+- "Justifique a diferença entre machos e fêmeas para..."
+- "Determine a probabilidade de..."
+
+### Estrutura das respostas esperadas:
+- **Genótipos:** Lista completa das combinações possíveis
+- **Explicação:** Justificativa baseada em mecanismos genéticos
+- **Diferenciação sexual:** Comparação entre XY e XX
+
+### Conceitos genéticos adequados:
+- **Alelos:** Versões alternativas de um gene
+- **Locus:** Posição do gene no cromossomo
+- **Heterozigose/Homozigose:** Estados alélicos
+- **Linkage:** Ligação gênica
+- **Recombinação:** Crossing-over e frequência
+
+### Mecanismos de herança ligada ao X:
+- **Mães heterozigotas:** 50% dos filhos afetados
+- **Pais afetados:** Todas as filhas portadoras
+- **Expressão em hemizigose:** Machos com um alelo
+- **Portadoras:** Fêmeas heterozigotas assintomáticas
+
+### Aspectos moleculares:
+- **Inativação do X:** Processo de compensação de dose
+- **Corpúsculo de Barr:** X inativado condensado
+- **Mosaicismo:** Células com diferentes X ativos
+- **Escapamento:** Genes que escapam da inativação
+
+### Aplicações práticas:
+- **Aconselhamento genético:** Previsão de riscos
+- **Medicina veterinária:** Características em animais
+- **Melhoramento animal:** Seleção de características
+- **Biotecnologia:** Marcadores genéticos
+- **Evolução:** Vantagens da diversidade genética
+
+### Terminologia genética adequada:
+- **Hemizigoto, heterozigoto, homozigoto**
+- **Fenótipo, genótipo, alelo**
+- **Codominância, dominância, recessividade**
+- **Ligação sexual, herança maternal**
+- **Inativação, compensação de dose**
+
+### Exemplos de tabelas similares:
+
+#### **Daltonismo:**
+| Gene | Característica |
+|------|----------------|
+| Xᴰ   | visão normal   |
+| Xᵈ   | daltonismo     |
+
+#### **Hemofilia:**
+| Gene | Característica |
+|------|----------------|
+| Xᴴ   | coagulação normal |
+| Xʰ   | hemofilia A    |
+
+#### **Coloração em Drosophila:**
+| Gene | Característica |
+|------|----------------|
+| Xʷ   | olhos brancos  |
+| X⁺   | olhos vermelhos |
+
+### Tipos de fotografias adequadas:
+- **Animais domésticos:** Gatos, cães com padrões genéticos claros
+- **Fenótipos humanos:** Características visíveis (com permissão)
+- **Organismos modelo:** Drosophila, camundongos
+- **Plantas:** Variegação, coloração floral
+- **Aves:** Dimorfismo sexual, mutações
+
+---
+
+# Questão UERJ Biologia - Anemia Falciforme e Transplante de Células-Tronco
+
+## QUESTÃO ORIGINAL
+
+**QUESTÃO 04**
+
+Um indivíduo com anemia falciforme, uma anomalia genética autossômica e recessiva, recebeu um transplante de células-tronco hematopoéticas ainda na infância. O transplante foi bem-sucedido e os sintomas da doença não se manifestaram mais.
+
+Com base nesse contexto, indique se há possibilidade de esse indivíduo transmitir o alelo responsável pela manifestação da anemia falciforme para seus descendentes. Justifique sua resposta.
+
+Em seguida, apresente o motivo pelo qual os indivíduos com essa doença são mais propensos a acidentes vasculares associados à trombose.
+
+## RESPOSTA OFICIAL
+
+**Há possibilidade de transmissão do alelo, pois o transplante não alterou o padrão genético das células germinativas desse indivíduo.**
+
+**Motivo:** as hemácias falciformes frequentemente obstruem os vasos sanguíneos.
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva textual (sem imagens ou gráficos)
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Genética e Medicina
+- **Habilidades avaliadas:** Conhecimento de herança genética, terapia celular, fisiopatologia
+- **Estrutura:** Contextualização médica + análise genética + justificativa + fisiopatologia
+
+### Conceitos-chave avaliados:
+1. **Anemia falciforme:** Doença genética autossômica recessiva
+2. **Transplante de células-tronco:** Terapia para doenças hematológicas
+3. **Células germinativas vs. somáticas:** Diferença na herança genética
+4. **Herança mendeliana:** Transmissão de alelos recessivos
+5. **Fisiopatologia:** Mecanismo de obstrução vascular
+6. **Terapia gênica vs. celular:** Limitações dos tratamentos
+
+### Conhecimentos específicos necessários:
+- **Genética molecular:** Mutação no gene da β-globina
+- **Hemoglobina S:** Estrutura alterada e polimerização
+- **Células-tronco hematopoéticas:** Origem das células sanguíneas
+- **Linhagem germinativa:** Células que originam gametas
+- **Crises vaso-oclusivas:** Complicações da anemia falciforme
+- **Herança autossômica recessiva:** Padrão de transmissão
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Contextualização médica:** Casos clínicos reais e tratamentos atuais
+2. **Integração de conhecimentos:** Genética + medicina + terapia celular
+3. **Análise de limitações:** O que os tratamentos podem e não podem fazer
+4. **Fisiopatologia aplicada:** Mecanismos de doença e complicações
+5. **Distinção conceitual:** Células somáticas vs. germinativas
+
+### Padrões de questões de genética médica UERJ:
+- Doenças genéticas e seus padrões de herança
+- Terapias modernas e suas limitações
+- Distinção entre cura fenotípica e genotípica
+- Fisiopatologia de doenças genéticas
+- Implicações para descendência
+
+### Temas relacionados para questões similares:
+- Terapia gênica e suas aplicações
+- Outras doenças tratadas com células-tronco
+- Hemoglobinopatias (talassemias, outras)
+- Distrofias musculares e terapia celular
+- Imunodeficiências e transplante de medula
+- Doenças autossômicas dominantes
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Contextualização clínica:** Caso de doença genética com tratamento
+2. **Descrição do tratamento:** Terapia aplicada e seus resultados
+3. **Análise genética:** Implicações para herança
+4. **Justificativa biológica:** Diferenciação entre tipos celulares
+5. **Fisiopatologia:** Mecanismo da doença ou complicações
+
+### Elementos essenciais para replicação:
+- **Doenças genéticas:** Condições com padrões de herança conhecidos
+- **Terapias modernas:** Tratamentos celulares ou genéticos
+- **Limitações terapêuticas:** O que não é alterado pelo tratamento
+- **Mecanismos fisiopatológicos:** Como a doença causa complicações
+- **Relevância clínica:** Aplicação prática dos conhecimentos
+
+### Critérios de avaliação implícitos:
+- Distinção entre células somáticas e germinativas
+- Compreensão de padrões de herança
+- Conhecimento de terapias celulares
+- Entendimento de fisiopatologia
+- Aplicação de genética em medicina
+
+### Variações possíveis do modelo:
+
+#### **Doenças Genéticas Tratáveis:**
+- **Talassemias:** Transplante de células-tronco
+- **Imunodeficiências:** SCID, síndrome de Wiskott-Aldrich
+- **Distrofias:** Possível terapia gênica futura
+- **Hemofilia:** Terapia de reposição vs. gênica
+
+#### **Tipos de Terapia:**
+- **Transplante de células-tronco:** Substituição de linhagem celular
+- **Terapia gênica:** Correção do gene defeituoso
+- **Terapia de reposição:** Fornecimento da proteína faltante
+- **Edição gênica:** CRISPR e outras tecnologias
+
+#### **Padrões de Herança:**
+- **Autossômica recessiva:** Anemia falciforme, fibrose cística
+- **Autossômica dominante:** Huntington, algumas formas de câncer
+- **Ligada ao X:** Hemofilia, distrofia de Duchenne
+- **Mitocondrial:** Doenças da fosforilação oxidativa
+
+### Padrões de pergunta:
+- "Indique se há possibilidade de transmitir [alelo/doença]..."
+- "Justifique se o tratamento altera [aspecto genético]..."
+- "Explique por que [doença] causa [complicação]..."
+- "Apresente o motivo pelo qual [condição] predispõe a..."
+
+### Estrutura das respostas esperadas:
+- **Possibilidade de transmissão:** Sim/não com justificativa genética
+- **Justificativa:** Explicação baseada em biologia celular/genética
+- **Mecanismo fisiopatológico:** Como a doença causa complicações
+
+### Anemia falciforme: aspectos genéticos:
+
+#### **Base Molecular:**
+- **Gene afetado:** HBB (β-globina) no cromossomo 11
+- **Mutação:** Substituição GAG → GTG (Glu6Val)
+- **Herança:** Autossômica recessiva
+- **Genótipos:** SS (doente), AS (portador), AA (normal)
+
+#### **Fisiopatologia:**
+- **Hemoglobina S:** Polimerização em baixa tensão de O₂
+- **Falcização:** Deformação das hemácias
+- **Hemólise:** Destruição prematura das hemácias
+- **Vaso-oclusão:** Obstrução de capilares
+
+### Transplante de células-tronco:
+
+#### **Mecanismo:**
+- **Fonte:** Medula óssea, sangue periférico, cordão umbilical
+- **Objetivo:** Substituir células hematopoéticas defeituosas
+- **Resultado:** Produção de hemácias normais
+- **Limitação:** Não altera DNA das células germinativas
+
+#### **Indicações:**
+- **Anemia falciforme grave:** Crises frequentes, AVC
+- **Talassemia major:** Dependência transfusional
+- **Imunodeficiências:** SCID, síndrome de Wiskott-Aldrich
+- **Leucemias:** Após quimioterapia intensiva
+
+### Células somáticas vs. germinativas:
+
+#### **Células Somáticas:**
+- **Função:** Formam todos os tecidos do corpo
+- **Alterações:** Não são herdadas pelos descendentes
+- **Terapias:** Podem ser modificadas por tratamentos
+- **Exemplos:** Células hematopoéticas, musculares, nervosas
+
+#### **Células Germinativas:**
+- **Função:** Originam gametas (óvulos e espermatozoides)
+- **Alterações:** São transmitidas aos descendentes
+- **Proteção:** Isoladas de modificações somáticas
+- **Localização:** Gônadas (ovários e testículos)
+
+### Complicações da anemia falciforme:
+
+#### **Crises Vaso-oclusivas:**
+- **Mecanismo:** Hemácias falciformes obstruem capilares
+- **Sintomas:** Dor intensa, isquemia tecidual
+- **Locais:** Ossos, abdome, tórax, cérebro
+- **Fatores precipitantes:** Desidratação, hipóxia, infecções
+
+#### **Outras Complicações:**
+- **AVC:** Obstrução de artérias cerebrais
+- **Síndrome torácica aguda:** Comprometimento pulmonar
+- **Priapismo:** Ereção prolongada e dolorosa
+- **Úlceras de perna:** Má circulação local
+
+### Outras hemoglobinopatias:
+
+#### **Talassemias:**
+- **Defeito:** Redução na síntese de globinas
+- **Tipos:** α-talassemia, β-talassemia
+- **Gravidade:** Dependente do número de genes afetados
+- **Tratamento:** Transfusões, quelação de ferro, transplante
+
+#### **Hemoglobina C:**
+- **Mutação:** Glu6Lys na β-globina
+- **Manifestação:** Anemia leve, esplenomegalia
+- **Herança:** Autossômica recessiva
+- **Interação:** Com hemoglobina S (doença SC)
+
+### Terapias emergentes:
+
+#### **Terapia Gênica:**
+- **Princípio:** Correção do gene defeituoso
+- **Vetores:** Vírus modificados, nanopartículas
+- **Desafios:** Direcionamento, eficiência, segurança
+- **Potencial:** Cura definitiva
+
+#### **Edição Gênica:**
+- **CRISPR-Cas9:** Correção precisa de mutações
+- **Aplicações:** Células-tronco do próprio paciente
+- **Vantagens:** Evita rejeição imunológica
+- **Limitações:** Ainda experimental
+
+### Aconselhamento genético:
+
+#### **Casais de Risco:**
+- **Ambos portadores:** 25% chance de filho afetado
+- **Um afetado + um normal:** 100% portadores
+- **Um afetado + um portador:** 50% afetados, 50% portadores
+- **Diagnóstico pré-natal:** Possível através de análise genética
+
+#### **Triagem Populacional:**
+- **Teste do pezinho:** Detecção precoce
+- **Programas de triagem:** Populações de risco
+- **Prevenção:** Aconselhamento pré-concepcional
+- **Tratamento precoce:** Melhora prognóstico
+
+### Terminologia adequada:
+- **Autossômica recessiva, células germinativas, somáticas**
+- **Hemoglobina S, falcização, vaso-oclusão**
+- **Células-tronco hematopoéticas, transplante**
+- **Crises álgicas, AVC, síndrome torácica**
+- **Terapia gênica, edição gênica, CRISPR**
+
+### Contextos de aplicação:
+- **Hematologia:** Diagnóstico e tratamento de hemoglobinopatias
+- **Genética médica:** Aconselhamento e triagem
+- **Medicina regenerativa:** Terapias com células-tronco
+- **Pediatria:** Manejo de doenças genéticas
+- **Saúde pública:** Programas de triagem e prevenção
+
+---
+
+# Questão UERJ Biologia - Epistasia e Herança da Cor de Asas em Borboletas
+
+## QUESTÃO ORIGINAL
+
+**QUESTÃO 08**
+
+Uma espécie de borboleta apresenta asas coloridas, quando o gene A é funcional, ou asas brancas, quando o animal é homozigoto recessivo. O gene B, localizado em outro cromossomo, apresenta ação epistática sobre o gene A, impedindo a pigmentação das asas; já o alelo b não impede a expressão do gene A.
+
+Admita uma borboleta fêmea de asas brancas que foi acasalada com dois machos, I e II, ambos de asas coloridas. O cruzamento com o macho I produziu apenas borboletas de asas coloridas; o cruzamento com o macho II gerou 50% de borboletas de asas coloridas e 50% de asas brancas.
+
+Apresente os genótipos tanto da borboleta fêmea quanto dos dois machos.
+
+Suponha que o cruzamento entre um casal de borboletas, heterozigoto para os dois genes, tenha gerado um total de 112 descendentes. Determine o número de descendentes que possuem asas coloridas.
+
+## RESPOSTA OFICIAL
+
+**Borboleta fêmea:** aabb.
+
+**Macho I:** AABb.
+
+**Macho II:** Aabb.
+
+**Descendentes com asas coloridas:** 21.
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva textual (sem imagens ou gráficos)
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Genética
+- **Habilidades avaliadas:** Epistasia, herança de múltiplos genes, análise de cruzamentos
+- **Estrutura:** Contextualização genética + análise de cruzamentos + determinação de genótipos + cálculo de descendentes
+
+### Conceitos-chave avaliados:
+1. **Epistasia:** Interação entre genes não alelos
+2. **Gene epistático vs. hipostático:** B epistático sobre A
+3. **Herança mendeliana:** Segregação independente de genes
+4. **Análise de cruzamentos:** Interpretação de resultados
+5. **Cálculos genéticos:** Proporções e probabilidades
+6. **Expressão gênica:** Relação genótipo-fenótipo
+
+### Conhecimentos específicos necessários:
+- **Epistasia dominante:** Alelo dominante mascarando expressão de outro gene
+- **Segregação independente:** Genes em cromossomos diferentes
+- **Cruzamento teste:** Análise com homozigoto recessivo
+- **Proporções fenotípicas:** 9:3:3:1 modificada pela epistasia
+- **Genótipos parentais:** Determinação através dos descendentes
+- **Cálculo de probabilidades:** Frequência de fenótipos específicos
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Interação gênica:** Epistasia e outros tipos de interação
+2. **Análise de cruzamentos:** Múltiplos cruzamentos para determinar genótipos
+3. **Cálculos genéticos:** Determinação de números absolutos de descendentes
+4. **Contextualização biológica:** Características reais de organismos
+5. **Progressão lógica:** Do qualitativo (genótipos) ao quantitativo (números)
+
+### Padrões de questões de genética UERJ:
+- Interações entre genes não alelos
+- Análise de múltiplos cruzamentos
+- Determinação de genótipos parentais
+- Cálculos de descendentes esperados
+- Modificações das proporções mendelianas
+
+### Temas relacionados para questões similares:
+- Outras formas de epistasia (recessiva, dupla)
+- Pleiotropia e genes modificadores
+- Herança quantitativa
+- Ligação gênica e recombinação
+- Herança ligada ao sexo com epistasia
+- Genes complementares
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Contextualização:** Descrição do sistema genético e interações
+2. **Dados de cruzamentos:** Resultados de acasalamentos específicos
+3. **Análise qualitativa:** Determinação de genótipos
+4. **Análise quantitativa:** Cálculo de descendentes esperados
+5. **Aplicação prática:** Extensão para outros cruzamentos
+
+### Elementos essenciais para replicação:
+- **Interações gênicas:** Epistasia, complementação, modificação
+- **Cruzamentos informativos:** Resultados que permitam dedução
+- **Cálculos específicos:** Números absolutos, não apenas proporções
+- **Contextualização:** Características biológicas reais
+- **Progressão de dificuldade:** Análise → aplicação
+
+### Critérios de avaliação implícitos:
+- Compreensão de interações gênicas
+- Capacidade de análise de cruzamentos
+- Habilidade de determinar genótipos
+- Competência em cálculos genéticos
+- Aplicação de conhecimentos teóricos
+
+### Variações possíveis do modelo:
+
+#### **Tipos de Epistasia:**
+- **Dominante:** Alelo dominante suprime outro gene
+- **Recessiva:** Homozigoto recessivo suprime outro gene
+- **Dupla dominante:** Dois genes dominantes interagem
+- **Dupla recessiva:** Dois homozigotos recessivos necessários
+
+#### **Outros Tipos de Interação:**
+- **Genes complementares:** Ambos necessários para expressão
+- **Genes duplicados:** Redundância funcional
+- **Genes modificadores:** Alteração da expressão
+- **Pleiotropia:** Um gene afeta múltiplas características
+
+#### **Análises de Cruzamento:**
+- **Cruzamento teste:** Com homozigoto recessivo
+- **Retrocruzamento:** Com um dos parentais
+- **F2 modificado:** Proporções alteradas por interação
+- **Cruzamentos recíprocos:** Verificação de efeitos maternos
+
+### Padrões de pergunta:
+- "Apresente os genótipos de [indivíduos] envolvidos..."
+- "Determine o número de descendentes que [característica]..."
+- "Calcule a proporção de [fenótipo] na descendência..."
+- "Explique os resultados dos cruzamentos baseando-se em..."
+
+### Estrutura das respostas esperadas:
+- **Genótipos:** Notação correta para cada indivíduo
+- **Justificativa:** Análise dos cruzamentos
+- **Cálculos:** Números absolutos com base nas proporções
+
+### Epistasia dominante (B > A):
+
+#### **Genótipos e Fenótipos:**
+- **A_bb:** Asas coloridas (A expressa, B ausente)
+- **A_B_ ou aaB_ ou aabb:** Asas brancas (B suprime A ou A ausente)
+
+#### **Análise dos Cruzamentos:**
+- **Fêmea aabb × Macho I AABb:**
+  - Descendentes: AaBb (100% coloridas)
+  - Confirma: fêmea aabb, macho com A e B
+
+- **Fêmea aabb × Macho II Aabb:**
+  - Descendentes: Aabb (50% coloridas), aabb (50% brancas)
+  - Confirma: macho heterozigoto apenas para A
+
+#### **Cruzamento AaBb × AaBb:**
+- **Proporção 9:3:3:1 modificada:**
+  - A_bb: 3/16 (coloridas)
+  - A_B_, aaB_, aabb: 13/16 (brancas)
+- **Em 112 descendentes:**
+  - Coloridas: 3/16 × 112 = 21
+
+### Cálculos genéticos detalhados:
+
+#### **Cruzamento Duplo Heterozigoto:**
+```
+AaBb × AaBb
+
+Gametas: AB, Ab, aB, ab (cada um 1/4)
+
+Quadro de Punnett:
+       AB    Ab    aB    ab
+AB   AABB  AABb  AaBB  AaBb
+Ab   AABb  AAbb  AaBb  Aabb  
+aB   AaBB  AaBb  aaBB  aaBb
+ab   AaBb  Aabb  aaBb  aabb
+
+Genótipos:
+- AABB: 1/16
+- AABb: 2/16  
+- AAbb: 1/16 ← Coloridas
+- AaBB: 2/16
+- AaBb: 4/16
+- Aabb: 2/16 ← Coloridas  
+- aaBB: 1/16
+- aaBb: 2/16
+- aabb: 1/16
+
+Fenótipos:
+- A_bb (coloridas): 3/16
+- Demais (brancas): 13/16
+```
+
+### Outros exemplos de epistasia:
+
+#### **Epistasia Recessiva (aa > B):**
+- **Exemplo:** Cor do pelo em cães
+- **aabb ou aaB_:** Sem pigmento (epistasia)
+- **A_bb:** Pigmento preto
+- **A_B_:** Pigmento marrom
+
+#### **Epistasia Dupla Dominante:**
+- **Exemplo:** Forma de frutos
+- **A_B_:** Esférico
+- **A_bb ou aaB_:** Alongado  
+- **aabb:** Achatado
+
+#### **Genes Complementares:**
+- **Exemplo:** Cor de flores
+- **A_B_:** Colorida
+- **A_bb, aaB_, aabb:** Branca
+- **Proporção 9:7**
+
+### Aplicações práticas:
+
+#### **Melhoramento Genético:**
+- **Seleção:** Consideração de interações gênicas
+- **Cruzamentos:** Estratégias para características complexas
+- **Predição:** Frequências esperadas na descendência
+
+#### **Genética Médica:**
+- **Doenças complexas:** Múltiplos genes envolvidos
+- **Epistasia:** Modificação de penetrância
+- **Aconselhamento:** Riscos em famílias
+
+### Análise de outros cruzamentos:
+
+#### **Cruzamento Teste:**
+- **AaBb × aabb:**
+  - Aabb: 1/4 (coloridas)
+  - AaBb, aaBb, aabb: 3/4 (brancas)
+
+#### **Retrocruzamento:**
+- **AaBb × AAbb:**
+  - AAbb, Aabb: 1/2 (coloridas)
+  - AABb, AaBb: 1/2 (brancas)
+
+### Terminologia genética adequada:
+- **Epistasia, gene epistático, hipostático**
+- **Alelos dominantes, recessivos**
+- **Segregação independente, ligação**
+- **Genótipo, fenótipo, expressão gênica**
+- **Proporções mendelianas modificadas**
+
+### Contextos de aplicação:
+- **Genética clássica:** Compreensão de herança complexa
+- **Melhoramento:** Seleção de características
+- **Evolução:** Variação fenotípica e seleção
+- **Medicina:** Doenças com herança complexa
+- **Biotecnologia:** Engenharia de características
+
+---
+
+## Conversão da Questão e Resposta para Contexto de LLM
+
+### QUESTÃO 08 - BIOLOGIA (UERJ)
+
+**Enunciado:**
+Considere uma população de 200 camundongos que foi criada em laboratório e se encontra em equilíbrio de Hardy-Weinberg. A pelagem desses camundongos é determinada por dois genes, B e b. O gene B é dominante e determina a pelagem marrom; o gene b é recessivo e determina a pelagem branca. A frequência de indivíduos com o genótipo recessivo bb é de 16% nessa população. Sabe-se, ainda, que p representa a frequência do gene B e q a frequência do gene b.
+
+**Comando da questão:**
+Em relação a essa população de camundongos, determine os valores de p e q e, também, o número de indivíduos heterozigotos.
+
+Em seguida, aponte uma condição necessária para que uma população seja considerada em equilíbrio de Hardy-Weinberg.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Frequências alélicas:**
+- p = 0,6 ou 60%
+- q = 0,4 ou 40%
+
+**Heterozigotos:** Aa = 96 indivíduos.
+
+**Uma das condições:**
+- não sofrer mutações
+- ser população panmítica
+- não passar por seleção natural / não sofrer evolução
+- possuir população muito grande
+- não sofrer migração significativa
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Genética de populações
+- Equilíbrio de Hardy-Weinberg
+- Frequências alélicas e genotípicas
+- Cálculos matemáticos em genética populacional
+- Condições para manutenção do equilíbrio genético
+
+**Dados fornecidos para cálculo:**
+- População total: 200 indivíduos
+- Frequência do genótipo recessivo (bb): 16%
+- Sistema de herança: dominância completa (B dominante, b recessivo)
+
+**Resolução matemática implícita:**
+1. Frequência de bb = q² = 0,16
+2. Portanto: q = √0,16 = 0,4
+3. Como p + q = 1: p = 1 - 0,4 = 0,6
+4. Frequência de heterozigotos = 2pq = 2 × 0,6 × 0,4 = 0,48
+5. Número de heterozigotos = 0,48 × 200 = 96 indivíduos
+
+**Nível de complexidade:** Alto - requer domínio de cálculos matemáticos em genética populacional
+
+**Competências avaliadas:**
+- Aplicação da equação de Hardy-Weinberg
+- Cálculos de frequências alélicas e genotípicas
+- Conversão entre frequências e números absolutos
+- Conhecimento teórico sobre condições de equilíbrio populacional
+- Integração entre conceitos matemáticos e biológicos
+
+**Estrutura da resposta:**
+A questão exige duas partes distintas:
+1. **Parte quantitativa:** Cálculos das frequências e número de heterozigotos
+2. **Parte conceitual:** Conhecimento das condições de Hardy-Weinberg
+
+**Observações metodológicas:**
+- Questão sem elementos visuais
+- Combina aplicação prática de fórmulas com conhecimento teórico
+- Exemplifica modelo matemático clássico em biologia evolutiva
+- Permite verificar compreensão tanto de cálculos quanto de princípios teóricos
+
+---
+
+# QUESTÃO 02 - BIOLOGIA UERJ
+## Engenharia Genética: Utilização de Vírus como Vetores de Terapia Gênica
+
+### CONTEXTO DA QUESTÃO
+Esta questão aborda biotecnologia e engenharia genética, especificamente o uso de vírus como vetores para alteração do DNA celular. É uma questão típica do vestibular UERJ que integra conhecimentos de biologia molecular, virologia, genética e biotecnologia, com foco em aplicações terapêuticas modernas.
+
+### ENUNCIADO
+
+Por meio de técnicas desenvolvidas pela engenharia genética, é possível alterar o DNA das células. Uma dessas técnicas se baseia na utilização de vírus, manipulados por meio de duas enzimas: uma responsável pelo corte do material genético viral em pontos específicos e outra pela inserção de genes de interesse no vírus.
+
+**QUESTÕES A RESPONDER:**
+1. Indique a característica dos vírus que justifica sua utilização na alteração do DNA das células.
+2. Em seguida, nomeie as duas enzimas referidas acima, indispensáveis para esse procedimento.
+
+---
+
+## RESOLUÇÃO DETALHADA
+
+### 1. CARACTERÍSTICA DOS VÍRUS QUE JUSTIFICA SEU USO EM TERAPIA GÊNICA
+
+**RESPOSTA:** A característica fundamental dos vírus que justifica sua utilização na alteração do DNA das células é sua **capacidade natural de infectar células e inserir seu material genético no genoma hospedeiro**.
+
+**JUSTIFICATIVA DETALHADA:**
+
+#### **1.1 Tropismo Celular e Especificidade:**
+
+**Capacidade de reconhecimento:**
+- Vírus possuem **proteínas de superfície** que reconhecem **receptores específicos** nas células-alvo
+- **Tropismo tecidual:** diferentes vírus infectam diferentes tipos celulares
+- **Especificidade** permite direcionamento para células ou tecidos específicos
+- **Eficiência de entrada** superior a métodos físicos ou químicos
+
+**Exemplos de tropismo:**
+- **Adenovírus:** amplo tropismo (múltiplos tecidos)
+- **Retrovírus:** tropismo para células em divisão
+- **Lentivírus:** infectam células quiescentes e em divisão
+- **Vírus adenoassociados (AAV):** tropismo tecido-específico
+
+#### **1.2 Mecanismos de Entrada Celular:**
+
+**Endocitose mediada por receptor:**
+- **Ligação específica** a receptores celulares
+- **Internalização** via endocitose
+- **Escape endossomal** para liberação no citoplasma
+- **Transporte nuclear** do material genético
+
+**Fusão de membranas:**
+- **Proteínas de fusão** viral interagem com membrana celular
+- **Fusão direta** libera conteúdo viral no citoplasma
+- **Bypass** de mecanismos de defesa celular
+
+#### **1.3 Integração Genômica:**
+
+**Retrovírus e Lentivírus:**
+- **Transcriptase reversa** converte RNA viral em DNA
+- **Integrase** insere DNA viral no genoma hospedeiro
+- **Integração estável** garante expressão duradoura
+- **Transmissão** para células filhas
+
+**Outros mecanismos:**
+- **Expressão epissomal:** DNA viral permanece no núcleo sem integração
+- **Expressão transitória:** genes expressos temporariamente
+- **Recombinação homóloga:** inserção em locais específicos
+
+#### **1.4 Vantagens dos Vírus como Vetores:**
+
+**A) Eficiência de transfecção:**
+- **Alta eficiência** de entrada celular (>90% em muitos casos)
+- **Capacidade de carga** adequada para genes terapêuticos
+- **Expressão robusta** de genes inseridos
+
+**B) Especificidade:**
+- **Tropismo natural** pode ser mantido ou modificado
+- **Direcionamento** para tecidos específicos
+- **Redução** de efeitos colaterais sistêmicos
+
+**C) Durabilidade:**
+- **Expressão prolongada** (especialmente com vírus integrativos)
+- **Estabilidade** do transgene
+- **Redução** da necessidade de reaplicações
+
+### 2. ENZIMAS INDISPENSÁVEIS PARA O PROCEDIMENTO
+
+#### **RESPOSTA:**
+As duas enzimas indispensáveis são:
+1. **ENZIMAS DE RESTRIÇÃO** (responsáveis pelo corte)
+2. **DNA LIGASE** (responsável pela inserção/ligação)
+
+#### **JUSTIFICATIVA DETALHADA:**
+
+### **2.1 ENZIMAS DE RESTRIÇÃO (Endonucleases de Restrição)**
+
+**Função:**
+- **Cortam** o DNA viral em **pontos específicos** (sítios de restrição)
+- **Reconhecem** sequências palindrômicas específicas (4-8 nucleotídeos)
+- **Criam** extremidades compatíveis para inserção de genes
+
+**Características importantes:**
+- **Especificidade:** cada enzima reconhece uma sequência única
+- **Tipos de corte:**
+  - **Extremidades cegas** (blunt ends): corte reto
+  - **Extremidades coesivas** (sticky ends): corte escalonado
+- **Origem:** isoladas de bactérias (sistema de defesa contra fagos)
+
+**Exemplos comuns:**
+- **EcoRI:** reconhece GAATTC
+- **BamHI:** reconhece GGATCC  
+- **HindIII:** reconhece AAGCTT
+- **NotI:** reconhece GCGGCCGC (corte raro)
+
+**Aplicação na construção de vetores:**
+- **Linearização** do DNA viral circular
+- **Remoção** de genes virais desnecessários ou patogênicos
+- **Criação** de sítios para inserção de genes terapêuticos
+- **Análise** e **mapeamento** de construções
+
+### **2.2 DNA LIGASE**
+
+**Função:**
+- **Une** fragmentos de DNA através da formação de **ligações fosfodiéster**
+- **Sela** quebras na dupla hélice do DNA
+- **Conecta** genes de interesse ao DNA viral
+
+**Mecanismo de ação:**
+1. **Reconhecimento** de extremidades de DNA compatíveis
+2. **Formação** de ligação fosfodiéster entre 3'-OH e 5'-fosfato
+3. **Consumo** de ATP (T4 ligase) ou NAD+ (ligase bacteriana)
+4. **Selagem** completa das quebras
+
+**Tipos principais:**
+- **T4 DNA Ligase:**
+  - Origem: fago T4
+  - **Cofator:** ATP
+  - **Liga** extremidades coesivas e cegas
+  - **Mais versátil** e amplamente usada
+  
+- **E. coli DNA Ligase:**
+  - Origem: *Escherichia coli*
+  - **Cofator:** NAD+
+  - **Liga** apenas extremidades coesivas
+  - **Uso específico** em certas aplicações
+
+**Condições ótimas:**
+- **Temperatura:** 16°C (overnight) ou 22°C (2h) para T4 ligase
+- **pH:** 7.5-8.0
+- **Concentração** de ATP e Mg²⁺ adequadas
+- **Proporção** molar adequada entre vetor e inserto
+
+#### **2.3 Processo Integrado: Clonagem em Vetores Virais**
+
+**Etapa 1 - Preparação do vetor:**
+- **Digestão** do DNA viral com enzima de restrição
+- **Linearização** e **remoção** de sequências indesejadas
+- **Purificação** do vetor linearizado
+
+**Etapa 2 - Preparação do inserto:**
+- **Amplificação** do gene de interesse (PCR)
+- **Digestão** com enzimas compatíveis ao vetor
+- **Purificação** do fragmento de interesse
+
+**Etapa 3 - Ligação:**
+- **Mistura** do vetor e inserto em proporções adequadas
+- **Adição** de DNA ligase e cofatores
+- **Incubação** em condições ótimas
+- **Transformação** em células competentes
+
+**Etapa 4 - Seleção e verificação:**
+- **Seleção** de clones recombinantes
+- **Análise** por digestão e eletroforese
+- **Sequenciamento** para confirmação
+
+---
+
+## CONCEITOS-CHAVE PARA CONTEXTO DE LLM
+
+### Temas Centrais:
+- Terapia gênica e vetores virais
+- Engenharia genética e clonagem molecular
+- Enzimas de restrição e ligação
+- Biologia molecular de vírus
+- Biotecnologia aplicada à medicina
+- Ferramentas de biologia molecular
+
+### Competências Avaliadas:
+- Compreensão de técnicas de engenharia genética
+- Conhecimento sobre biologia viral
+- Integração entre estrutura e função enzimática
+- Aplicação de conceitos em biotecnologia
+- Raciocínio sobre processos moleculares
+- Conhecimento de ferramentas laboratoriais
+
+### Conceitos Específicos Fundamentais:
+
+#### **Vetores Virais em Terapia Gênica:**
+- **Retrovírus:** integração estável, células em divisão
+- **Lentivírus:** infectam células quiescentes, neurônios
+- **Adenovírus:** alta eficiência, expressão transitória
+- **Vírus adenoassociados (AAV):** baixa imunogenicidade, integração sítio-específica
+- **Herpesvírus:** tropismo neural, grande capacidade de carga
+
+#### **Modificações de Vetores:**
+- **Deleção** de genes virulentos
+- **Inserção** de genes terapêuticos
+- **Modificação** de tropismo (pseudotipos)
+- **Sistemas** de regulação da expressão
+- **Elementos** de segurança (suicide genes)
+
+#### **Aplicações Clínicas:**
+- **Doenças monogênicas:** fibrose cística, hemofilia
+- **Câncer:** genes supressores tumorais, suicide genes
+- **Doenças oculares:** distrofias retinianas
+- **Imunodeficiências:** SCID, ADA deficiency
+- **Doenças neurológicas:** Parkinson, Alzheimer
+
+### Ferramentas Complementares:
+
+#### **Outras Enzimas Importantes:**
+- **Fosfatase alcalina:** remove fosfatos 5' (previne religação)
+- **Polinucleotídeo quinase:** adiciona fosfatos 5'
+- **Klenow:** preenche extremidades coesivas
+- **Exonuclease III:** cria deleções progressivas
+
+#### **Métodos de Análise:**
+- **Eletroforese:** separação por tamanho
+- **Southern blot:** detecção específica de sequências
+- **PCR:** amplificação e análise
+- **Sequenciamento:** confirmação de construções
+
+### Variações de Questões Possíveis:
+- CRISPR-Cas9 e edição gênica
+- Outros vetores (plasmídios, cosmídeos, YACs)
+- Terapia gênica somática vs. germinativa
+- Aspectos éticos da engenharia genética
+- Organismos geneticamente modificados
+- Vacinas de DNA e RNA
+- Medicina personalizada
+
+### Nível de Complexidade:
+- Questão de nível médio-alto
+- Requer conhecimento específico de biologia molecular
+- Integra conceitos teóricos com aplicações práticas
+- Adequada para vestibular de universidade pública concorrida
+
+### Aspectos Éticos e Regulatórios:
+- **Biossegurança:** contenção de vetores modificados
+- **Aprovação regulatória:** FDA, ANVISA, comitês de ética
+- **Consentimento informado:** riscos e benefícios
+- **Equidade:** acesso a terapias avançadas
+- **Dual use:** potencial uso militar/bioterrorismo
+
+### Avanços Recentes:
+- **Prime editing:** precisão aumentada na edição
+- **Base editing:** correções pontuais sem quebras
+- **Epigenome editing:** modificações reversíveis
+- **In vivo delivery:** vetores mais seguros e eficientes
+- **CAR-T therapy:** modificação ex vivo de células
+
+### Conexões Interdisciplinares:
+- **Química:** estrutura de ácidos nucleicos e enzimas
+- **Física:** eletroforese, espectrofotometria
+- **Matemática:** cálculos de concentração e eficiência
+- **Ética:** implicações da modificação genética
+- **Economia:** custos de desenvolvimento de terapias
+- **Direito:** propriedade intelectual, regulamentação
+
+### Terminologia Técnica Essencial:
+- Vetor viral, tropismo, transdução
+- Enzima de restrição, sítio de clivagem
+- DNA ligase, ligação fosfodiéster
+- Clonagem molecular, recombinação
+- Transgene, cassete de expressão
+- Promotor, enhancer, terminador
+- Pseudotipo, capsídeo modificado
+
+### Metodologias Laboratoriais:
+- **Cultura celular:** manutenção de linhagens alvo
+- **Transfecção:** métodos físicos e químicos
+- **Titulação viral:** quantificação de partículas
+- **Purificação:** gradientes de densidade, cromatografia
+- **Caracterização:** microscopia, citometria, Western blot
+
+---
+
+# QUESTÃO 03 - BIOLOGIA UERJ
+## Genética de Pombos: Herança Ligada ao Cromossomo Z e Determinação Sexual
+
+### CONTEXTO DA QUESTÃO
+Esta questão aborda genética clássica, especificamente herança ligada ao sexo em aves, usando pombos como modelo. É uma questão típica do vestibular UERJ que integra conhecimentos de determinação sexual, ligação gênica, padrões de herança e cálculos genéticos, demonstrando um sistema de determinação sexual diferente do humano (sistema ZW).
+
+### ENUNCIADO
+
+Em pombos, o sexo é determinado pelos cromossomos Z e W, sendo as fêmeas heterogamáticas ZW e os machos homogamáticos ZZ. A coloração das penas desses animais é definida por três genes ligados ao cromossomo Z. Observe a imagem, que representa o padrão de dominância desses genes no cruzamento dos pombos.
+
+**DESCRIÇÃO DETALHADA DA FIGURA:**
+
+A figura apresenta um esquema de cruzamento genético com as seguintes características:
+
+**GERAÇÃO PARENTAL (P):**
+- **MACHO (esquerda):** Pombo vermelho com dois cromossomos Z (ZᵃZᵃ)
+- **FÊMEA (direita):** Pomba azul com cromossomos ZW (ZᵇW)
+
+**REPRESENTAÇÃO DOS CROMOSSOMOS:**
+- Cromossomos Z representados como barras laranjas verticais
+- Cromossomo W representado como barra rosa/magenta vertical
+- Genes marcados nos cromossomos Z:
+  - Zᵃ (alelo vermelho)
+  - Zᵇ (alelo azul)
+  - Zᵐ (alelo marrom)
+
+**GERAÇÃO F1 (descendência):**
+Quatro fenótipos mostrados:
+1. **Macho Vermelho:** ZᵃZᵇ (cromossomos Z com diferentes alelos)
+2. **Macho Azul:** ZᵇZᵃ (mesma constituição genética, fenótipo azul)
+3. **Fêmea Vermelha:** ZᵃW (cromossomo Z com alelo vermelho)
+4. **Fêmea Marrom:** ZᵐW (cromossomo Z com alelo marrom)
+
+**LEGENDA (canto inferior direito):**
+Esquema detalhado dos cromossomos Z mostrando:
+- **Gene para cor nos cromossomos:** localização dos alelos
+- **Alelo vermelho** (posição superior)
+- **Alelo azul** (posição média)
+- **Alelo marrom** (posição inferior)
+- **Cromossomo W:** "sem gene para cor" (não possui os genes de coloração)
+
+**PADRÃO DE DOMINÂNCIA INDICADO:**
+A partir da análise dos fenótipos da F1, pode-se inferir a hierarquia de dominância entre os alelos.
+
+### QUESTÕES A RESPONDER:
+1. A partir dessas informações, considere o cruzamento entre fêmeas de pombos vermelhos com machos azuis.
+2. Apresente os genótipos possíveis desses machos azuis.
+3. Calcule, ainda, para cada um desses genótipos, a porcentagem de pombos de coloração azul na prole, independentemente do sexo.
+
+---
+
+## RESOLUÇÃO DETALHADA
+
+### ANÁLISE PRELIMINAR: DETERMINAÇÃO DA HIERARQUIA DE DOMINÂNCIA
+
+Antes de resolver as questões, é essencial determinar a ordem de dominância dos alelos analisando a F1:
+
+**Observações da F1:**
+- Macho ZᵃZᵇ → fenótipo vermelho
+- Macho ZᵇZᵃ → fenótipo azul  
+- Fêmea ZᵃW → fenótipo vermelho
+- Fêmea ZᵐW → fenótipo marrom
+
+**CORREÇÃO DA INTERPRETAÇÃO:**
+Analisando cuidadosamente a figura, observo que há um erro na minha interpretação inicial. Vou reinterpretar:
+
+**Da F1 mostrada:**
+- Quando presentes os alelos a e b juntos (ZᵃZᵇ), o fenótipo pode ser vermelho OU azul
+- Isso sugere **codominância** ou **dominância específica**
+
+**Analisando o padrão mais provável:**
+- **Vermelho (a) > Azul (b) > Marrom (m)** (dominância completa)
+- Ou sistema de **alelos múltiplos** com hierarquia específica
+
+**Para esta resolução, assumirei a hierarquia:** 
+**Vermelho (a) > Azul (b) > Marrom (m)**
+
+### 1. CRUZAMENTO: FÊMEAS VERMELHAS × MACHOS AZUIS
+
+**Genótipos dos parentais:**
+- **Fêmeas vermelhas:** ZᵃW
+- **Machos azuis:** ZᵇZᵇ ou ZᵇZᵐ (a determinar)
+
+### 2. GENÓTIPOS POSSÍVEIS DOS MACHOS AZUIS
+
+**RESPOSTA:** Os genótipos possíveis para machos azuis são:
+1. **ZᵇZᵇ** (homozigoto para o alelo azul)
+2. **ZᵇZᵐ** (heterozigoto com alelo azul dominante sobre marrom)
+
+**JUSTIFICATIVA:**
+
+**Por que ZᵇZᵇ produz fenótipo azul:**
+- Homozigoto para o alelo azul
+- Expressão do fenótipo azul puro
+
+**Por que ZᵇZᵐ produz fenótipo azul:**
+- Heterozigoto com dois alelos diferentes
+- Alelo azul (b) é dominante sobre marrom (m)
+- Fenótipo resultante: azul
+
+**Por que outras combinações NÃO produzem fenótipo azul:**
+- **ZᵃZᵇ:** Vermelho (a dominante sobre b)
+- **ZᵃZᵐ:** Vermelho (a dominante sobre m)
+- **ZᵃZᵃ:** Vermelho puro
+- **ZᵐZᵐ:** Marrom puro
+
+### 3. CÁLCULO DA PORCENTAGEM DE DESCENDENTES AZUIS
+
+#### **CASO 1: Fêmeas ZᵃW × Machos ZᵇZᵇ**
+
+**Cruzamento:**
+```
+        ZᵃW    ×    ZᵇZᵇ
+Gametas: Zᵃ, W  ×    Zᵇ
+```
+
+**Quadrado de Punnett:**
+```
+        |  Zᵇ   |  Zᵇ   |
+--------|-------|-------|
+   Zᵃ   | ZᵃZᵇ  | ZᵃZᵇ  |
+        |(verm.)|(verm.)|
+--------|-------|-------|
+   W    | ZᵇW   | ZᵇW   |
+        |(azul) |(azul) |
+```
+
+**Resultados:**
+- **50% machos ZᵃZᵇ** → fenótipo **vermelho**
+- **50% fêmeas ZᵇW** → fenótipo **azul**
+
+**Porcentagem de descendentes azuis:** **50%**
+
+#### **CASO 2: Fêmeas ZᵃW × Machos ZᵇZᵐ**
+
+**Cruzamento:**
+```
+        ZᵃW    ×    ZᵇZᵐ
+Gametas: Zᵃ, W  ×    Zᵇ, Zᵐ
+```
+
+**Quadrado de Punnett:**
+```
+        |  Zᵇ   |  Zᵐ   |
+--------|-------|-------|
+   Zᵃ   | ZᵃZᵇ  | ZᵃZᵐ  |
+        |(verm.)|(verm.)|
+--------|-------|-------|
+   W    | ZᵇW   | ZᵐW   |
+        |(azul) |(marr.)|
+```
+
+**Resultados:**
+- **25% machos ZᵃZᵇ** → fenótipo **vermelho**
+- **25% machos ZᵃZᵐ** → fenótipo **vermelho**
+- **25% fêmeas ZᵇW** → fenótipo **azul**
+- **25% fêmeas ZᵐW** → fenótipo **marrom**
+
+**Porcentagem de descendentes azuis:** **25%**
+
+### RESUMO DAS RESPOSTAS:
+
+1. **Genótipos possíveis dos machos azuis:**
+   - ZᵇZᵇ (homozigoto)
+   - ZᵇZᵐ (heterozigoto)
+
+2. **Porcentagem de descendentes azuis:**
+   - **ZᵇZᵇ:** 50% de descendentes azuis
+   - **ZᵇZᵐ:** 25% de descendentes azuis
+
+---
+
+## CONCEITOS-CHAVE PARA CONTEXTO DE LLM
+
+### Temas Centrais:
+- Sistema de determinação sexual ZW
+- Herança ligada ao sexo
+- Alelos múltiplos e dominância
+- Cruzamentos genéticos e probabilidades
+- Padrões de herança em aves
+- Genética de populações
+
+### Competências Avaliadas:
+- Compreensão de sistemas de determinação sexual
+- Análise de padrões de herança
+- Construção e interpretação de cruzamentos
+- Cálculos de probabilidades genéticas
+- Interpretação de esquemas genéticos
+- Raciocínio lógico-dedutivo
+
+### Conceitos Específicos Fundamentais:
+
+#### **Sistema ZW de Determinação Sexual:**
+- **Aves e alguns peixes:** fêmeas ZW (heterogaméticas), machos ZZ (homogaméticos)
+- **Diferente do sistema XY:** humanos e mamíferos (machos XY, fêmeas XX)
+- **Consequências genéticas:** padrões de herança específicos
+- **Herança ligada ao Z:** genes presentes apenas no cromossomo Z
+
+#### **Características da Herança Ligada ao Z:**
+- **Machos (ZZ):** expressam todos os alelos presentes nos dois cromossomos Z
+- **Fêmeas (ZW):** expressam apenas alelos do cromossomo Z (hemizigose)
+- **Transmissão:** machos transmitem Z para todas as filhas
+- **Padrões:** diferentes de herança ligada ao X
+
+#### **Alelos Múltiplos:**
+- **Série alélica:** mais de dois alelos para o mesmo gene
+- **Hierarquia de dominância:** ordem específica de expressão
+- **Fenótipos variados:** múltiplas possibilidades fenotípicas
+- **Cálculos complexos:** requerem análise cuidadosa
+
+### Comparação com Sistema XY:
+
+| Aspecto | Sistema XY (Mamíferos) | Sistema ZW (Aves) |
+|---------|------------------------|-------------------|
+| **Machos** | XY (heterogaméticos) | ZZ (homogaméticos) |
+| **Fêmeas** | XX (homogaméticas) | ZW (heterogaméticas) |
+| **Herança paterna** | X → filhas, Y → filhos | Z → todos os filhos |
+| **Herança materna** | X → todos os filhos | Z → filhos, W → filhas |
+
+### Variações de Questões Possíveis:
+- Outros sistemas de determinação sexual (haplodiploide, ambiental)
+- Herança ligada ao sexo em diferentes organismos
+- Daltonismo e hemofilia (sistema XY)
+- Epistasia e interação gênica
+- Linkage e recombinação
+- Genética de populações com genes ligados ao sexo
+- Evolução dos cromossomos sexuais
+
+### Nível de Complexidade:
+- Questão de nível médio-alto
+- Requer conhecimento sólido de genética básica
+- Integra múltiplos conceitos genéticos
+- Cálculos probabilísticos moderadamente complexos
+- Adequada para vestibular concorrido
+
+### Aplicações Práticas:
+- **Melhoramento animal:** seleção baseada em características ligadas ao sexo
+- **Conservação:** análise genética de populações selvagens
+- **Avicultura:** produção de linhagens com características específicas
+- **Pesquisa:** modelos para estudo de herança
+- **Medicina veterinária:** diagnóstico de doenças genéticas
+
+### Metodologias de Estudo:
+- **Cruzamentos controlados:** análise experimental
+- **Pedigrees:** rastreamento de características
+- **Análise molecular:** marcadores genéticos
+- **Estatística:** testes de aderência e probabilidades
+- **Bioinformática:** análise de sequências
+
+### Conexões Interdisciplinares:
+- **Matemática:** probabilidades e estatística
+- **Evolução:** origem e evolução dos cromossomos sexuais
+- **Ecologia:** vantagens evolutivas da determinação sexual
+- **Biologia molecular:** estrutura e função dos cromossomos
+- **Biotecnologia:** manipulação genética e transgenia
+
+### Terminologia Técnica Essencial:
+- Sistema ZW, heterogamético, homogamético
+- Alelos múltiplos, dominância, codominância
+- Herança ligada ao sexo, hemizigose
+- Cruzamento teste, retrocruzamento
+- Frequência alélica, equilíbrio genético
+- Linkage, recombinação, mapeamento
+
+### Erros Conceituais Comuns:
+- **Confundir sistemas ZW e XY:** mecanismos diferentes
+- **Ignorar hemizigose:** fêmeas ZW expressam apenas um alelo
+- **Cálculos incorretos:** não considerar as proporções sexuais
+- **Dominância mal interpretada:** hierarquia dos alelos múltiplos
+- **Generalização inadequada:** cada sistema tem suas particularidades
+
+### Extensões do Tema:
+- **Outros genes ligados ao Z:** características além da cor
+- **Cromossomo W:** degeneração e função
+- **Compensação de dose:** mecanismos de equilibrio gênico
+- **Evolução sexual:** vantagens da dioicia
+- **Determinação ambiental:** temperatura, pH, nutrição
+
+---
+
+# QUESTÃO 10 - BIOLOGIA UERJ
+## Síndrome de Kartagener: Deficiência de Dineína e suas Consequências Clínicas
+
+### CONTEXTO DA QUESTÃO
+Esta questão aborda genética médica e biologia celular, especificamente a síndrome de Kartagener (discinesia ciliar primária) e suas manifestações clínicas. É uma questão típica do vestibular UERJ que integra conhecimentos de genética, biologia molecular, anatomia e fisiologia, demonstrando como alterações em proteínas motoras podem afetar múltiplos sistemas orgânicos.
+
+### ENUNCIADO
+
+A ausência da proteína dineína, importante para o bom funcionamento de flagelos e cílios, é uma consequência de um distúrbio hereditário em seres humanos.
+
+**QUESTÕES A RESPONDER:**
+1. Indique o motivo pelo qual essa alteração genética resulta em frequentes problemas respiratórios nos seus portadores.
+2. Em seguida, relacione esse distúrbio com a infertilidade em indivíduos do sexo masculino.
+
+---
+
+## RESOLUÇÃO DETALHADA
+
+### IDENTIFICAÇÃO DO DISTÚRBIO
+
+**Distúrbio:** **Síndrome de Kartagener** (ou Discinesia Ciliar Primária - DCP)
+
+**Características gerais:**
+- **Herança:** Autossômica recessiva
+- **Prevalência:** 1:15.000 a 1:30.000 nascimentos
+- **Proteína afetada:** Dineína (proteína motora dos cílios e flagelos)
+- **Manifestações:** Tríade clássica (sinusite crônica, bronquiectasias, situs inversus)
+
+### 1. PROBLEMAS RESPIRATÓRIOS
+
+**RESPOSTA:** A deficiência de dineína causa **disfunção dos cílios respiratórios**, resultando em **clearance mucociliar deficiente**.
+
+**JUSTIFICATIVA DETALHADA:**
+
+#### **1.1 Função normal dos cílios respiratórios:**
+
+**Anatomia do sistema respiratório:**
+- **Epitélio pseudoestratificado ciliado:** Reveste vias aéreas superiores e inferiores
+- **Cílios:** Estruturas móveis (~200 cílios por célula)
+- **Camada de muco:** Dupla camada (sol e gel) sobre os cílios
+- **Coordenação:** Movimento metacronal (onda coordenada)
+
+**Mecanismo do clearance mucociliar:**
+1. **Batimento ciliar:** Movimento coordenado dos cílios
+2. **Transporte de muco:** Direção das vias distais para proximais
+3. **Remoção de partículas:** Poeira, patógenos, debris celulares
+4. **Proteção:** Primeira linha de defesa respiratória
+
+#### **1.2 Papel da dineína no movimento ciliar:**
+
+**Estrutura ciliar:**
+- **Axonema:** Arranjo 9+2 de microtúbulos
+- **Braços de dineína:** Externa e interna, ligados aos microtúbulos
+- **Proteína central:** Complexos regulatórios
+- **Membrana ciliar:** Continuação da membrana plasmática
+
+**Mecanismo molecular:**
+- **Dineína:** Proteína motora dependente de ATP
+- **Hidrólise de ATP:** Fornece energia para movimento
+- **Deslizamento:** Microtúbulos deslizam uns sobre outros
+- **Curvatura:** Deslizamento gera flexão ciliar
+- **Coordenação:** Batimento rítmico e coordenado
+
+#### **1.3 Consequências da deficiência de dineína:**
+
+**Disfunção ciliar:**
+- **Cílios imóveis:** Ausência completa de movimento
+- **Cílios dismóveis:** Movimento desorganizado/reduzido
+- **Frequência alterada:** Batimento lento ou irregular
+- **Descoordenação:** Perda do padrão metacronal
+
+**Problemas respiratórios resultantes:**
+
+**A) Retenção de secreções:**
+- **Acúmulo de muco:** Clearance deficiente
+- **Espessamento:** Desidratação das secreções
+- **Obstrução:** Bloqueio de vias aéreas menores
+- **Atelectasias:** Colapso de alvéolos
+
+**B) Infecções recorrentes:**
+- **Colonização bacteriana:** *Pseudomonas*, *Staphylococcus*
+- **Biofilmes:** Formação de comunidades bacterianas
+- **Inflamação crônica:** Resposta imune persistente
+- **Sinusites:** Infecção dos seios paranasais
+
+**C) Lesões estruturais:**
+- **Bronquiectasias:** Dilatação anormal dos brônquios
+- **Fibrose:** Deposição de tecido conjuntivo
+- **Perda funcional:** Redução da capacidade respiratória
+- **Insuficiência respiratória:** Casos graves
+
+#### **1.4 Manifestações clínicas específicas:**
+
+**Sintomas respiratórios:**
+- **Tosse produtiva crônica:** Desde o nascimento
+- **Secreção purulenta:** Infecções secundárias
+- **Dispneia:** Dificuldade respiratória progressiva
+- **Sinusite crônica:** Obstrução nasal, rinorreia
+
+**Complicações:**
+- **Otite média:** Disfunção da tuba auditiva
+- **Polipose nasal:** Inflamação crônica
+- **Pneumonias recorrentes:** Infecções pulmonares
+- **Insuficiência respiratória:** Casos avançados
+
+### 2. INFERTILIDADE MASCULINA
+
+**RESPOSTA:** A deficiência de dineína causa **imobilidade dos espermatozoides**, resultando em **infertilidade masculina**.
+
+**JUSTIFICATIVA DETALHADA:**
+
+#### **2.1 Estrutura e função do flagelo espermático:**
+
+**Anatomia do espermatozoide:**
+- **Cabeça:** Núcleo e acrossomo
+- **Peça intermediária:** Mitocôndrias (energia)
+- **Flagelo:** Estrutura motora principal
+- **Axonema:** Mesmo padrão 9+2 dos cílios
+
+**Estrutura flagelar:**
+- **Microtúbulos:** Arranjo 9+2 clássico
+- **Braços de dineína:** Externa e interna
+- **Fibras densas externas:** Suporte estrutural
+- **Bainha fibrosa:** Proteção e rigidez
+
+#### **2.2 Papel da dineína na motilidade espermática:**
+
+**Mecanismo de movimento:**
+- **Contração coordenada:** Dineína gera força motriz
+- **Padrão ondulatório:** Propagação de ondas ao longo do flagelo
+- **Propulsão:** Movimento progressivo do espermatozoide
+- **Hiperativação:** Aumento da motilidade na capacitação
+
+**Tipos de movimento:**
+- **Movimento progressivo:** Deslocamento linear
+- **Movimento circular:** Rotação em torno do eixo
+- **Hiperativação:** Movimento vigoroso assimétrico
+- **Batimento flagelar:** Frequência de 10-40 Hz
+
+#### **2.3 Consequências da deficiência de dineína:**
+
+**Defeitos na motilidade:**
+- **Astenozoospermia:** Redução da motilidade espermática
+- **Espermatozoides imóveis:** Ausência completa de movimento
+- **Movimento anormal:** Padrões de natação alterados
+- **Redução da velocidade:** Progressão lenta ou ausente
+
+#### **2.4 Impacto na fertilidade:**
+
+**Mecanismos de infertilidade:**
+
+**A) Transporte deficiente:**
+- **Ascensão no trato genital:** Incapacidade de alcançar o óvulo
+- **Penetração no muco cervical:** Barreira intransponível
+- **Navegação nas tubas:** Não conseguem atingir local de fecundação
+- **Tempo limitado:** Vida útil reduzida dos gametas
+
+**B) Capacitação inadequada:**
+- **Hiperativação deficiente:** Movimento inadequado para fecundação
+- **Reação acrossomal:** Possível comprometimento
+- **Ligação zona pelúcida:** Dificuldade de penetração
+- **Fusão com óvulo:** Processo pode ser afetado
+
+**C) Consequências reprodutivas:**
+- **Infertilidade primária:** Incapacidade de concepção natural
+- **Oligoastenozoospermia:** Redução do número e motilidade
+- **Necessidade de reprodução assistida:** ICSI (injeção intracitoplasmática)
+- **Prognóstico reprodutivo:** Dependente de tecnologias assistidas
+
+#### **2.5 Diagnóstico da infertilidade:**
+
+**Exames complementares:**
+- **Espermograma:** Avaliação da motilidade
+- **Microscopia eletrônica:** Análise ultraestrutural
+- **Testes funcionais:** Capacitação e reação acrossomal
+- **Análise genética:** Mutações em genes da dineína
+
+**Critérios diagnósticos:**
+- **Motilidade <32%:** Astenozoospermia (OMS)
+- **Progressividade reduzida:** Categoria A+B <32%
+- **Morfologia flagelar:** Defeitos estruturais
+- **Imobilidade total:** Casos graves
+
+---
+
+## CONCEITOS-CHAVE PARA CONTEXTO DE LLM
+
+### Temas Centrais:
+- Síndrome de Kartagener (Discinesia Ciliar Primária)
+- Proteínas motoras (dineína)
+- Estrutura e função de cílios e flagelos
+- Clearance mucociliar
+- Infertilidade masculina
+- Genética médica e doenças hereditárias
+
+### Competências Avaliadas:
+- Compreensão de estruturas celulares especializadas
+- Relação entre genótipo e fenótipo
+- Integração entre biologia molecular e clínica
+- Análise de consequências sistêmicas de defeitos celulares
+- Compreensão de mecanismos fisiopatológicos
+- Aplicação de conhecimentos em medicina
+
+### Conceitos Específicos Fundamentais:
+
+#### **Proteínas Motoras:**
+- **Dineína:** Movimento em direção ao extremo (-) dos microtúbulos
+- **Cinesina:** Movimento em direção ao extremo (+)
+- **Miosina:** Movimento ao longo de filamentos de actina
+- **Dependência de ATP:** Energia para conformação molecular
+
+#### **Estrutura Ciliar (9+2):**
+- **9 dubletos periféricos:** Microtúbulos A e B
+- **2 microtúbulos centrais:** Eixo central
+- **Braços de dineína:** Externa (alta frequência), interna (alta força)
+- **Ligações radiais:** Conexão com aparato central
+- **Ligações de nexina:** União entre dubletos
+
+#### **Clearance Mucociliar:**
+- **Camada periciliar (sol):** Baixa viscosidade
+- **Camada mucosa (gel):** Alta viscosidade, captura partículas
+- **Frequência de batimento:** 1000-1500 vezes/minuto
+- **Velocidade de transporte:** 10-20 mm/minuto
+
+### Manifestações Clínicas da Síndrome de Kartagener:
+
+| Sistema | Manifestações | Mecanismo |
+|---------|---------------|-----------|
+| **Respiratório** | Sinusite crônica, bronquiectasias | Clearance deficiente |
+| **Auditivo** | Otite média recorrente | Disfunção da tuba auditiva |
+| **Reprodutivo** | Infertilidade masculina | Imobilidade espermática |
+| **Situs** | Situs inversus (50%) | Defeito no desenvolvimento embrionário |
+
+### Variações de Questões Possíveis:
+- Outras ciliopatias (síndrome de Bardet-Biedl, doença renal policística)
+- Estrutura e função de centríolos
+- Outros defeitos da motilidade espermática
+- Reprodução assistida e suas indicações
+- Desenvolvimento embrionário e estabelecimento da lateralidade
+- Outras proteínas do citoesqueleto
+- Doenças genéticas e padrões de herança
+- Diagnóstico molecular de doenças hereditárias
+
+### Nível de Complexidade:
+- Questão de nível médio-alto
+- Requer conhecimento integrado de múltiplas disciplinas
+- Aplicação clínica de conceitos básicos
+- Adequada para vestibular de universidade de medicina
+
+### Aspectos Genéticos:
+- **Herança:** Autossômica recessiva
+- **Genes envolvidos:** DNAI1, DNAH5, DNAH11, CCDC39, CCDC40
+- **Penetrância:** Completa para manifestações respiratórias
+- **Expressividade:** Variável entre indivíduos
+- **Aconselhamento genético:** Risco de 25% para filhos de portadores
+
+### Diagnóstico Laboratorial:
+- **Microscopia eletrônica:** Análise ultraestrutural cílios
+- **Teste da sacarina:** Clearance mucociliar
+- **Óxido nítrico nasal:** Reduzido na DCP
+- **Frequência de batimento:** Análise por vídeo de alta velocidade
+- **Imunofluorescência:** Proteínas ciliares específicas
+
+### Tratamento e Manejo:
+- **Fisioterapia respiratória:** Remoção de secreções
+- **Mucolíticos:** Fluidificação do muco
+- **Antibioticoterapia:** Tratamento de infecções
+- **Anti-inflamatórios:** Controle da inflamação
+- **Reprodução assistida:** ICSI para infertilidade
+- **Transplante pulmonar:** Casos graves
+
+### Conexões Interdisciplinares:
+- **Biofísica:** Mecânica do movimento ciliar
+- **Bioquímica:** Metabolismo energético, ATP
+- **Embriologia:** Desenvolvimento do eixo corporal
+- **Pneumologia:** Doenças respiratórias crônicas
+- **Andrologia:** Medicina reprodutiva masculina
+- **Genética médica:** Aconselhamento e diagnóstico
+
+### Terminologia Técnica Essencial:
+- Discinesia ciliar primária (DCP)
+- Síndrome de Kartagener
+- Dineína, axonema, clearance mucociliar
+- Bronquiectasias, situs inversus
+- Astenozoospermia, ICSI
+- Tríade de Kartagener
+- Movimento metacronal
+
+### Pesquisas Atuais:
+- **Terapia gênica:** Correção de defeitos genéticos
+- **Novos biomarcadores:** Diagnóstico mais precoce
+- **Moduladores ciliares:** Drogas que melhoram função
+- **Modelos animais:** Estudo de mecanismos
+- **Medicina personalizada:** Tratamento baseado no genótipo
+
+### Prognóstico e Qualidade de Vida:
+- **Expectativa de vida:** Reduzida se não tratada adequadamente
+- **Qualidade de vida:** Impactada por sintomas respiratórios
+- **Fertilidade:** Tratável com reprodução assistida
+- **Evolução:** Progressiva sem tratamento adequado
+- **Complicações:** Insuficiência respiratória, cor pulmonale
+
+---
+
+### CONVERSÃO PARA CONTEXTO DE LLM
+
+### QUESTÃO 02 - BIOLOGIA (UERJ)
+
+**Texto de apoio:**
+*Em 400 anos, 5 milhões de escravos desembarcaram no Brasil, 1,5 milhão só em Salvador. Agora, brasileiros cruzam o Atlântico e fizeram o caminho inverso de seus antepassados. A partir de um teste de DNA, eles viajaram em busca das suas origens.*
+
+**Fonte:** g1.globo.com, 14/02/16.
+
+**Enunciado:**
+Para rastrear a ancestralidade, existem diferentes tipos de testes de DNA; dentre eles, o que analisa o cromossomo Y e o que analisa o DNA mitocondrial. Os dois testes podem ser aplicados em indivíduos do sexo masculino, enquanto apenas um deles é aplicável ao sexo feminino.
+
+**Comando da questão:**
+Aponte duas justificativas para a realização dos exames citados apenas pelos indivíduos do sexo masculino.
+
+Sabe-se que, nesses dois testes, não é possível utilizar o gene responsável pelo daltonismo. Apresente duas razões que explicam essa impossibilidade, uma para cada teste.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Duas justificativas para realização apenas por homens:**
+1. Apenas indivíduos do sexo masculino possuem cromossomo Y
+2. O cromossomo Y permite rastreamento exclusivo da linhagem paterna
+
+**Razões para impossibilidade de usar o gene do daltonismo:**
+- **Teste do cromossomo Y:** O gene do daltonismo está localizado no cromossomo X, não no cromossomo Y
+- **Teste do DNA mitocondrial:** O gene do daltonismo está localizado no DNA nuclear, não no DNA mitocondrial
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Genética molecular e hereditariedade
+- Cromossomos sexuais (X e Y)
+- DNA mitocondrial vs. DNA nuclear
+- Herança ligada ao sexo
+- Testes de ancestralidade genética
+
+**Nível de complexidade:** Médio-Alto - requer conhecimento sobre genética molecular e hereditariedade
+
+**Formato da resposta:** Justificativas biológicas + explicações baseadas em localização gênica
+
+**Competências avaliadas:**
+- Compreensão da estrutura cromossômica
+- Conhecimento sobre herança de características
+- Entendimento da localização de genes específicos
+- Capacidade de relacionar estrutura genética com aplicações práticas
+
+**Análise detalhada dos testes genéticos:**
+
+**Teste do cromossomo Y:**
+
+**Características:**
+- **Exclusividade masculina:** Apenas homens possuem cromossomo Y
+- **Herança paterna:** Transmitido diretamente de pai para filho
+- **Ausência de recombinação:** Região não recombinante (NRY)
+- **Conservação:** Sequências mantidas por gerações
+
+**Aplicações:**
+- **Linhagem paterna:** Rastreamento da ancestralidade masculina
+- **Identificação forense:** Determinação de parentesco paterno
+- **Estudos populacionais:** Migrações históricas masculinas
+- **Genealogia:** Construção de árvores genealógicas
+
+**Teste do DNA mitocondrial:**
+
+**Características:**
+- **Herança materna:** Transmitido exclusivamente pela mãe
+- **Presença universal:** Todos os indivíduos possuem
+- **Alta cópia:** Múltiplas mitocôndrias por célula
+- **Conservação:** Baixa taxa de mutação
+
+**Aplicações:**
+- **Linhagem materna:** Rastreamento da ancestralidade feminina
+- **Amostras degradadas:** Maior estabilidade que DNA nuclear
+- **Identificação de restos:** Forense e arqueologia
+- **Estudos evolutivos:** Filogenia humana
+
+**Análise da herança ligada ao sexo:**
+
+**Gene do daltonismo:**
+- **Localização:** Cromossomo X (Xq28)
+- **Herança:** Ligada ao sexo, recessiva
+- **Manifestação:** Mais comum em homens (XY)
+- **Função:** Codifica opsinas para visão de cores
+
+**Padrão de herança:**
+- **Homens afetados:** Genótipo X^d Y
+- **Mulheres portadoras:** Genótipo X^D X^d
+- **Transmissão:** Mães portadoras para filhos homens
+
+**Limitações para testes de ancestralidade:**
+
+**Cromossomo Y:**
+- **Ausência do gene:** Daltonismo não está no cromossomo Y
+- **Incompatibilidade:** Gene localizado no cromossomo X
+- **Impossibilidade técnica:** Não há como analisar gene ausente
+
+**DNA mitocondrial:**
+- **Localização nuclear:** Gene do daltonismo no DNA nuclear
+- **Compartimentos celulares:** Separação física entre genomas
+- **Diferença estrutural:** DNA mitocondrial vs. DNA cromossômico
+
+**Contexto histórico e social:**
+
+**Diáspora africana:**
+- **Tráfico atlântico:** Movimento forçado de populações
+- **Miscigenação:** Complexidade genética brasileira
+- **Identidade:** Busca por origens ancestrais
+- **Reparação histórica:** Reconhecimento de raízes africanas
+
+**Tecnologia genética:**
+- **Democratização:** Testes comerciais acessíveis
+- **Precisão:** Melhoria dos métodos de análise
+- **Bancos de dados:** Expansão de referências populacionais
+- **Ética:** Questões sobre privacidade genética
+
+**Aplicações contemporâneas:**
+
+**Genealogia genética:**
+- **Turismo de raízes:** Viagens para locais ancestrais
+- **Reunião familiar:** Encontro de parentes distantes
+- **Identidade cultural:** Reconexão com tradições
+- **Pesquisa histórica:** Validação de registros genealógicos
+
+**Medicina forense:**
+- **Identificação:** Restos mortais e desaparecidos
+- **Paternidade:** Determinação de parentesco
+- **Crimes:** Evidências genéticas
+- **Desastres:** Identificação de vítimas
+
+**Limitações e considerações:**
+
+**Aspectos técnicos:**
+- **Resolução:** Limitações na precisão geográfica
+- **Miscigenação:** Complexidade em populações mistas
+- **Representatividade:** Viés em bancos de dados
+- **Interpretação:** Necessidade de conhecimento especializado
+
+**Aspectos éticos:**
+- **Privacidade:** Proteção de dados genéticos
+- **Discriminação:** Uso indevido de informações
+- **Consentimento:** Implicações para familiares
+- **Comercialização:** Aspectos econômicos dos testes
+
+**Observações metodológicas:**
+- Questão contextualizada historicamente
+- Integra genética molecular com questões sociais
+- Requer conhecimento sobre localização gênica
+- Demonstra aplicações práticas da genética
+
+**Relevância educacional:**
+- **Interdisciplinaridade:** Biologia, história e sociedade
+- **Tecnologia:** Aplicações da genética molecular
+- **Diversidade:** Compreensão da variabilidade humana
+- **Cidadania:** Consciência sobre identidade e origem
+
+---
+
+## Conversão da Questão e Resposta para Contexto de LLM
+
+### QUESTÃO 08 - BIOLOGIA (UERJ)
+
+**Enunciado:**
+Admita uma raça de cães cujo padrão de coloração da pelagem depende de dois tipos de genes. A presença do alelo e, recessivo, em dose dupla, impede que ocorra a deposição de pigmento por outro gene, resultando na cor dourada. No entanto, basta um único gene E, dominante, para que o animal não tenha a cor dourada e exiba pelagem ou branca ou preta. Caso o animal apresente um alelo E dominante e, pelo menos, um alelo B dominante, sua pelagem será preta; caso o alelo E dominante ocorra associado ao gene b duplo recessivo, sua coloração será chocolate.
+
+**Descrição detalhada do esquema:**
+
+**Quadro Superior (Pelagem Dourada):**
+- **Cão 1:** Silhueta amarela/dourada com genótipo "bb" e "ee" → pelagem dourada
+- **Cão 2:** Silhueta amarela/dourada com genótipo "BB ou Bb" e "ee" → pelagem dourada
+
+**Quadro Inferior (Outras Colorações):**
+- **Cão 3:** Silhueta marrom/chocolate com genótipo "bb" e "EE ou Ee" → pelagem chocolate
+- **Cão 4:** Silhueta preta com genótipo "BB ou Bb" e "EE ou Ee" → pelagem preta
+
+**Legenda visual:** O esquema mostra como diferentes combinações genotípicas resultam em fenótipos distintos de coloração.
+
+**Comando da questão:**
+Identifique o tipo de herança encontrada no padrão de pelagem desses animais, justificando sua resposta.
+
+Em seguida, indique o genótipo de um casal de cães com pelagem chocolate que já gerou um filhote dourado. Calcule, ainda, a probabilidade de que esse casal tenha um filhote de pelagem chocolate.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Tipo de herança:** Epistasia
+
+**Justificativa:** A expressão de um gene interfere na expressão de outro.
+
+**Genótipo:** Ambos têm o genótipo Eebb.
+
+**Probabilidade:** 0,75 ou 75%
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Epistasia (interação gênica)
+- Herança com dois genes
+- Dominância e recessividade
+- Cálculos de probabilidade genética
+- Relação genótipo-fenótipo
+
+**Nível de complexidade:** Alto - requer compreensão de interações entre genes
+
+**Formato da resposta:** Tipo de herança + justificativa + genótipo + cálculo probabilístico
+
+**Competências avaliadas:**
+- Identificação de padrões de herança complexos
+- Compreensão de epistasia
+- Dedução de genótipos a partir de fenótipos
+- Cálculos de probabilidade genética
+- Análise de cruzamentos
+
+**Análise da epistasia:**
+
+**Tipo específico:** Epistasia recessiva
+- **Gene epistático:** e (quando em homozigose ee)
+- **Gene hipostático:** B (mascarado por ee)
+- **Mecanismo:** O alelo e recessivo impede a deposição de pigmento
+
+**Análise dos fenótipos:**
+1. **Pelagem dourada (ee):** Gene E inativo → sem deposição de pigmento
+   - Genótipos: eebb, eeBb, eeBB
+   - O gene B não se expressa na ausência de E
+
+2. **Pelagem chocolate (E_bb):** Gene E ativo + gene B recessivo
+   - Genótipos: Eebb, EEbb
+   - Deposição de pigmento marrom
+
+3. **Pelagem preta (E_B_):** Gene E ativo + pelo menos um B dominante
+   - Genótipos: EeBb, EeBB, EEBb, EEBB
+   - Deposição de pigmento escuro
+
+**Resolução do problema:**
+
+**Dedução do genótipo do casal:**
+- **Fenótipo dos pais:** Chocolate (E_bb)
+- **Fenótipo da prole:** Filhote dourado (ee)
+- **Conclusão:** Ambos os pais devem ser heterozigotos para E
+- **Genótipo do casal:** Eebb × Eebb
+
+**Cálculo da probabilidade:**
+
+**Cruzamento:** Eebb × Eebb
+
+**Quadro de Punnett simplificado:**
+- EE: 1/4 (fenótipo não dourado)
+- Ee: 2/4 (fenótipo não dourado)  
+- ee: 1/4 (fenótipo dourado)
+
+**Para pelagem chocolate (E_bb):**
+- Probabilidade de E_: 3/4
+- Probabilidade de bb: 1 (ambos os pais são bb)
+- **Probabilidade final:** 3/4 × 1 = 3/4 = 0,75 = 75%
+
+**Observações metodológicas:**
+- Questão com esquema visual essencial
+- Integra conceitos de dominância, recessividade e epistasia
+- Requer raciocínio dedutivo para determinar genótipos
+- Combina análise qualitativa com cálculos quantitativos
+
+**Relevância conceitual:**
+A questão exemplifica como múltiplos genes podem interagir para determinar um único caractere, demonstrando a complexidade da herança além dos padrões mendelianos simples. A epistasia é fundamental para compreender a variação fenotípica em populações naturais.
+
+---
+
+## Conversão da Questão e Resposta para Contexto de LLM
+
+### QUESTÃO 08 - BIOLOGIA (UERJ)
+
+**Enunciado:**
+Um laboratório analisou algumas reações ocorridas durante o processo de digestão do amido em seres humanos. Para isso, foram utilizados quatro tubos de ensaio, cada um contendo pequena concentração de amido, igual a 0,05 mg/mL, e excesso de enzima digestiva em relação a esse substrato. O experimento consistia em adicionar uma gota de solução de iodo a cada um dos tubos de ensaio. Observe, abaixo, as condições experimentais empregadas:
+
+**Descrição detalhada do experimento:**
+
+**Esquema dos tubos de ensaio:**
+- **4 tubos de ensaio numerados de 1 a 4**
+- **Cada tubo contém:** amido (0,05 mg/mL) + excesso de enzima digestiva
+- **Teste:** Adição de uma gota de solução de iodo a cada tubo
+
+**Condições experimentais:**
+
+**Tubo 1:**
+- **Temperatura:** 37°C
+- **pH:** neutro
+
+**Tubo 2:**
+- **Temperatura:** 100°C
+- **pH:** neutro
+
+**Tubo 3:**
+- **Temperatura:** -1°C
+- **pH:** neutro
+
+**Tubo 4:**
+- **Temperatura:** 0°C
+- **pH:** 3
+
+**Comando da questão:**
+Cite o nome de uma enzima, encontrada no tubo digestório humano, que poderia ser utilizada no experimento para hidrolizar o amido.
+
+Ao reagir com o iodo, o amido assume coloração azulada. Identifique o único tubo de ensaio que não apresentará tal coloração e justifique sua resposta em função das duas condições experimentais empregadas.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Enzima:** Ptialina ou amilase salivar
+
+**Tubo que não apresentará coloração azulada:** Tubo 1
+
+**Uma das possibilidades (justificativa):**
+- A atividade ótima da enzima ocorre em 37°C e em pH neutro.
+- A enzima não degrada o amido em temperaturas muito altas ou muito baixas nem em pH ácido.
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Enzimas digestivas e especificidade
+- Fatores que afetam atividade enzimática (temperatura e pH)
+- Digestão do amido em humanos
+- Testes bioquímicos (teste do iodo)
+- Condições ótimas enzimáticas
+
+**Nível de complexidade:** Médio-Alto - requer compreensão de bioquímica enzimática
+
+**Formato da resposta:** Nome da enzima + identificação do tubo + justificativa
+
+**Competências avaliadas:**
+- Conhecimento sobre enzimas digestivas humanas
+- Compreensão dos fatores que afetam atividade enzimática
+- Capacidade de interpretar resultados experimentais
+- Entendimento de testes bioquímicos
+
+**Análise da enzima:**
+
+**Ptialina (α-amilase salivar):**
+- **Localização:** Glândulas salivares
+- **Função:** Inicia digestão do amido na boca
+- **Substrato:** Amido (polissacarídeo)
+- **Produtos:** Maltose e dextrinas
+- **pH ótimo:** Neutro a ligeiramente alcalino (6,5-7,5)
+- **Temperatura ótima:** 37°C (temperatura corporal)
+
+**Outras amilases no sistema digestório:**
+- **Amilase pancreática:** Continua digestão no intestino delgado
+- **Maltase:** Converte maltose em glicose
+
+**Análise das condições experimentais:**
+
+**Teste do iodo:**
+- **Princípio:** Iodo forma complexo azul-escuro com amido
+- **Resultado positivo:** Coloração azulada (presença de amido)
+- **Resultado negativo:** Ausência de coloração (amido degradado)
+
+**Condições de cada tubo:**
+
+**Tubo 1 (37°C, pH neutro):**
+- **Temperatura:** Ótima para enzimas humanas
+- **pH:** Ótimo para ptialina
+- **Resultado esperado:** Máxima atividade enzimática
+- **Amido:** Completamente degradado
+- **Coloração com iodo:** AUSENTE (sem amido restante)
+
+**Tubo 2 (100°C, pH neutro):**
+- **Temperatura:** Desnaturação enzimática
+- **pH:** Adequado, mas irrelevante devido à temperatura
+- **Resultado esperado:** Enzima inativa
+- **Amido:** Não degradado
+- **Coloração com iodo:** PRESENTE (azulada)
+
+**Tubo 3 (-1°C, pH neutro):**
+- **Temperatura:** Muito baixa, atividade enzimática mínima
+- **pH:** Adequado
+- **Resultado esperado:** Atividade enzimática praticamente nula
+- **Amido:** Não degradado significativamente
+- **Coloração com iodo:** PRESENTE (azulada)
+
+**Tubo 4 (0°C, pH 3):**
+- **Temperatura:** Muito baixa
+- **pH:** Ácido (desfavorável para ptialina)
+- **Resultado esperado:** Dupla inibição da atividade
+- **Amido:** Não degradado
+- **Coloração com iodo:** PRESENTE (azulada)
+
+**Princípios bioquímicos:**
+
+**Efeito da temperatura:**
+- **Baixas temperaturas:** Redução da energia cinética, menor atividade
+- **Temperatura ótima:** Máxima atividade enzimática
+- **Altas temperaturas:** Desnaturação proteica, perda irreversível de atividade
+
+**Efeito do pH:**
+- **pH ótimo:** Manutenção da estrutura tridimensional ativa
+- **pH extremos:** Alteração da ionização de grupos funcionais
+- **Resultado:** Mudança conformacional, perda de atividade
+
+**Interpretação dos resultados:**
+
+**Tubo com ausência de coloração azulada:** Tubo 1
+- **Razão:** Condições ótimas permitiram degradação completa do amido
+- **Consequência:** Ausência de substrato para reagir com iodo
+
+**Tubos com coloração azulada:** Tubos 2, 3 e 4
+- **Razão:** Condições inadequadas impediram atividade enzimática
+- **Consequência:** Amido permanece íntegro para reagir com iodo
+
+**Observações metodológicas:**
+- Experimento controlado com variação de parâmetros
+- Uso de excesso de enzima para garantir que limitação seja por atividade, não quantidade
+- Teste qualitativo simples e eficaz
+- Demonstração clara de princípios enzimáticos
+
+**Relevância fisiológica:**
+- **Digestão bucal:** Importância da ptialina no início da digestão
+- **Condições corporais:** Temperatura e pH otimizados evolutivamente
+- **Patologias:** Alterações de pH podem afetar digestão
+- **Adaptação:** Enzimas humanas adaptadas às condições corporais
+
+**Aplicações práticas:**
+- **Medicina:** Diagnóstico de disfunções digestivas
+- **Biotecnologia:** Produção industrial de enzimas
+- **Alimentação:** Processamento de alimentos ricos em amido
+- **Educação:** Demonstração de princípios enzimáticos
+
+---
+
+## Conversão da Questão e Resposta para Contexto de LLM
+
+### QUESTÃO 10 - BIOLOGIA (UERJ)
+
+**Enunciado:**
+A taxa metabólica dos animais depende de vários fatores, dentre os quais seu tamanho, a temperatura do meio em que se encontram e sua capacidade de termorregulação.
+
+Observe os gráficos abaixo. No gráfico I, indica-se uma relação inversa entre o tamanho de um grupo de animais e suas respectivas taxas metabólicas relativas, ou seja, por unidade de massa corporal; no gráfico II, são apresentadas as curvas de consumo de oxigênio de dois outros animais em função da temperatura ambiente.
+
+**Descrição detalhada dos gráficos:**
+
+**GRÁFICO I:**
+- **Título:** Taxa metabólica relativa vs massa corporal
+- **Eixo X:** Massa (kg) em escala logarítmica (0,001 a 10000)
+- **Eixo Y:** Taxa metabólica relativa (mL O₂ g⁻¹ h⁻¹) variando de 0 a 8
+
+**Curva principal:** Linha azul descendente mostrando relação inversa entre massa e taxa metabólica
+
+**Animais representados (da esquerda para direita, menor para maior massa):**
+- **Musaranho:** Menor animal, maior taxa metabólica (~7 mL O₂ g⁻¹ h⁻¹)
+- **Camundongo:** Taxa metabólica ~2 mL O₂ g⁻¹ h⁻¹
+- **Esquilo voador:** Taxa metabólica ~1,5 mL O₂ g⁻¹ h⁻¹
+- **Coelho:** Taxa metabólica ~1 mL O₂ g⁻¹ h⁻¹
+- **Gato:** Taxa metabólica ~0,8 mL O₂ g⁻¹ h⁻¹
+- **Ovelha:** Taxa metabólica ~0,6 mL O₂ g⁻¹ h⁻¹
+- **Humanos:** Taxa metabólica ~0,4 mL O₂ g⁻¹ h⁻¹
+- **Cavalo:** Taxa metabólica ~0,3 mL O₂ g⁻¹ h⁻¹
+- **Elefante:** Maior animal, menor taxa metabólica (~0,2 mL O₂ g⁻¹ h⁻¹)
+
+**Fonte:** Adaptado de labspace.open.ac.uk
+
+**GRÁFICO II:**
+- **Título:** Taxa de consumo de O₂ vs temperatura ambiente
+- **Eixo X:** Temperatura ambiente (escala relativa)
+- **Eixo Y:** Taxa de consumo de O₂ (escala relativa)
+
+**Duas curvas distintas:**
+- **Curva A:** Forma de "U" invertido - aumenta com temperatura até um pico, depois declina
+- **Curva B:** Forma de "U" - alta em temperaturas baixas, diminui até um vale, depois aumenta novamente
+
+**Fonte:** Adaptado de www.sciencedirect.com
+
+**Comando da questão:**
+Aponte o principal fator responsável pela relação inversa representada no gráfico I e nomeie, dentre os animais nomeados na curva, aquele que precisa passar a maior parte do tempo se alimentando. Em seguida, indique qual das duas curvas do gráfico II é compatível com a taxa metabólica de qualquer um dos animais do gráfico I, justificando sua escolha.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Fator responsável pela relação inversa:**
+**Uma das possibilidades:**
+- Animais pequenos apresentam uma alta relação área/volume, perdendo calor facilmente.
+- Animais grandes apresentam uma baixa relação área/volume, perdendo calor mais lentamente.
+
+**Animal que precisa se alimentar mais:** Musaranho
+
+**Curva compatível:** Curva B
+
+**Justificativa:** Os animais do gráfico I são mamíferos, que apresentam metabolismo mais alto em temperaturas mais baixas.
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Lei de Kleiber (relação massa-metabolismo)
+- Relação área superficial/volume
+- Termorregulação em mamíferos
+- Metabolismo basal e taxa metabólica
+- Estratégias energéticas de diferentes tamanhos corporais
+
+**Nível de complexidade:** Alto - integra fisiologia, física e ecologia
+
+**Formato da resposta:** Fator explicativo + animal específico + curva + justificativa
+
+**Competências avaliadas:**
+- Interpretação de gráficos com escalas logarítmicas
+- Compreensão de relações alométricas
+- Conhecimento sobre termorregulação
+- Capacidade de integrar informações de múltiplos gráficos
+
+**Análise da relação massa-metabolismo:**
+
+**Lei de Kleiber:**
+- **Fórmula:** Metabolismo ∝ Massa^0.75
+- **Consequência:** Taxa metabólica específica ∝ Massa^-0.25
+- **Resultado:** Animais menores têm maior taxa metabólica por grama
+
+**Fator biofísico responsável:**
+
+**Relação área superficial/volume:**
+- **Animais pequenos:** Alta razão superfície/volume
+  - Maior perda de calor por grama de tecido
+  - Necessidade de maior produção metabólica para manter temperatura
+  - Maior taxa metabólica específica
+
+- **Animais grandes:** Baixa razão superfície/volume
+  - Menor perda de calor por grama de tecido
+  - Maior eficiência na retenção de calor
+  - Menor taxa metabólica específica
+
+**Implicações para o musaranho:**
+
+**Por que precisa se alimentar constantemente:**
+- **Taxa metabólica extrema:** ~7 mL O₂ g⁻¹ h⁻¹
+- **Perda rápida de energia:** Alta razão superfície/volume
+- **Necessidade calórica:** Pode consumir 2-3x seu peso corporal/dia
+- **Frequência:** Precisa comer a cada 2-3 horas para sobreviver
+
+**Análise das curvas de termorregulação:**
+
+**Curva A (Forma de sino invertido):**
+- **Padrão:** Típico de animais ectotérmicos
+- **Baixas temperaturas:** Metabolismo reduzido
+- **Temperaturas ótimas:** Pico metabólico
+- **Altas temperaturas:** Declínio por estresse térmico
+
+**Curva B (Forma de U):**
+- **Padrão:** Típico de animais endotérmicos (mamíferos)
+- **Baixas temperaturas:** Alto metabolismo (termogênese)
+- **Zona termoneutra:** Metabolismo basal mínimo
+- **Altas temperaturas:** Aumento para resfriamento ativo
+
+**Justificativa para escolha da Curva B:**
+
+**Características dos mamíferos:**
+- **Endotermia:** Produção interna de calor
+- **Homeotermia:** Manutenção de temperatura constante
+- **Termogênese:** Aumento metabólico em frio
+- **Resfriamento ativo:** Ofegação, sudorese em calor
+
+**Zona termoneutra:**
+- **Definição:** Faixa de temperatura onde metabolismo é mínimo
+- **Localização:** Centro da curva B
+- **Importância:** Condições ótimas para conservação energética
+
+**Mecanismos adaptativos por tamanho:**
+
+**Animais pequenos (musaranho, camundongo):**
+- **Isolamento:** Pelagem densa
+- **Comportamento:** Agregação social, busca por abrigos
+- **Metabolismo:** Capacidade de termogênese rápida
+- **Limitações:** Reservas energéticas limitadas
+
+**Animais grandes (elefante, cavalo):**
+- **Inércia térmica:** Maior estabilidade de temperatura
+- **Isolamento:** Camadas de gordura
+- **Comportamento:** Menor necessidade de abrigo constante
+- **Vantagens:** Maiores reservas energéticas
+
+**Observações metodológicas:**
+- Gráficos com escalas logarítmicas requerem interpretação cuidadosa
+- Integração de conceitos de física (termodinâmica) e biologia
+- Necessidade de distinguir padrões de animais endo vs. ectotérmicos
+- Aplicação de princípios alométricos
+
+**Relevância evolutiva:**
+- **Limitações de tamanho:** Restrições energéticas para organismos muito pequenos
+- **Vantagens de tamanho:** Eficiência energética em organismos grandes
+- **Estratégias adaptativas:** Diferentes soluções para desafios termoregulatórios
+- **Biodiversidade:** Ocupação de nichos energéticos distintos
+
+**Aplicações práticas:**
+- **Veterinária:** Necessidades metabólicas específicas por tamanho
+- **Conservação:** Vulnerabilidade energética de espécies pequenas
+- **Zootecnia:** Manejo térmico e nutricional
+- **Medicina:** Dosagens de medicamentos baseadas em alometria
+
+--
+
+## Conversão da Questão e Resposta para Contexto de LLM
+
+### QUESTÃO 05 - BIOLOGIA (UERJ)
+
+**Enunciado:**
+Considere o cruzamento de um bode sem chifres com três cabras. Em cada cruzamento, foi gerado apenas um filhote. Observe os dados na tabela:
+
+**Tabela de resultados:**
+
+| Cabra | Presença de chifres |  |
+|-------|----------|----------|
+|       | na cabra | no filhote |
+| 1     | sim      | não      |
+| 2     | sim      | sim      |
+| 3     | não      | sim      |
+
+**Informação adicional:**
+Admita que a ausência de chifres em caprinos seja uma característica monogênica dominante.
+
+**Comando da questão:**
+Utilizando as letras A e a para representar os genes envolvidos, determine os genótipos do bode e das três cabras.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Genótipos:**
+- **Bode:** Aa
+- **Cabra 1:** aa
+- **Cabra 2:** aa  
+- **Cabra 3:** Aa
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Herança monogênica
+- Dominância e recessividade
+- Determinação de genótipos através de cruzamentos
+- Análise de descendência para inferir genótipos parentais
+
+**Nível de complexidade:** Médio - requer análise lógica de padrões hereditários
+
+**Formato da resposta:** Genótipos específicos para cada indivíduo
+
+**Competências avaliadas:**
+- Compreensão de dominância genética
+- Capacidade de deduzir genótipos a partir de fenótipos
+- Raciocínio lógico aplicado à genética
+- Interpretação de dados experimentais
+
+**Análise da herança genética:**
+
+**Definição dos símbolos:**
+- **A:** Alelo dominante (ausência de chifres)
+- **a:** Alelo recessivo (presença de chifres)
+
+**Relação genótipo-fenótipo:**
+- **AA:** Sem chifres (homozigoto dominante)
+- **Aa:** Sem chifres (heterozigoto)  
+- **aa:** Com chifres (homozigoto recessivo)
+
+**Análise dos cruzamentos:**
+
+**Dados iniciais:**
+- **Bode:** Sem chifres (fenótipo)
+- **Possíveis genótipos do bode:** AA ou Aa
+
+**Cruzamento 1:**
+- **Cabra 1:** Com chifres → genótipo aa
+- **Filhote 1:** Sem chifres → genótipo A_
+- **Análise:** aa × ? → A_
+- **Conclusão:** O bode deve ter pelo menos um alelo A
+
+**Cruzamento 2:**
+- **Cabra 2:** Com chifres → genótipo aa  
+- **Filhote 2:** Com chifres → genótipo aa
+- **Análise:** aa × ? → aa
+- **Conclusão:** O bode deve ter contribuído com alelo a
+
+**Cruzamento 3:**
+- **Cabra 3:** Sem chifres → genótipo A_
+- **Filhote 3:** Com chifres → genótipo aa
+- **Análise:** A_ × ? → aa
+- **Conclusão:** Ambos os pais devem ter alelo a
+
+**Dedução lógica dos genótipos:**
+
+**Genótipo do bode:**
+- **Evidência 1:** Produziu filhote sem chifres com cabra aa → tem alelo A
+- **Evidência 2:** Produziu filhote com chifres com cabra aa → tem alelo a
+- **Evidência 3:** Produziu filhote aa com cabra que tem chifres ausentes → tem alelo a
+- **Conclusão:** Bode = Aa
+
+**Genótipo das cabras:**
+
+**Cabra 1:**
+- **Fenótipo:** Com chifres
+- **Genótipo:** aa (único possível para fenótipo recessivo)
+
+**Cabra 2:**  
+- **Fenótipo:** Com chifres
+- **Genótipo:** aa (único possível para fenótipo recessivo)
+
+**Cabra 3:**
+- **Fenótipo:** Sem chifres → AA ou Aa
+- **Filhote:** Com chifres (aa)
+- **Análise:** Para produzir aa, deve ter alelo a
+- **Genótipo:** Aa
+
+**Verificação dos cruzamentos:**
+
+**Cruzamento 1: Aa × aa**
+- **Gametas:** A, a × a, a
+- **Descendência esperada:** 50% Aa (sem chifres), 50% aa (com chifres)
+- **Resultado observado:** Filhote sem chifres ✓
+
+**Cruzamento 2: Aa × aa**
+- **Gametas:** A, a × a, a  
+- **Descendência esperada:** 50% Aa (sem chifres), 50% aa (com chifres)
+- **Resultado observado:** Filhote com chifres ✓
+
+**Cruzamento 3: Aa × Aa**
+- **Gametas:** A, a × A, a
+- **Descendência esperada:** 25% AA, 50% Aa, 25% aa
+- **Proporção fenotípica:** 75% sem chifres, 25% com chifres
+- **Resultado observado:** Filhote com chifres ✓
+
+**Conceitos genéticos aplicados:**
+
+**Teste de progênie:**
+- **Definição:** Determinação de genótipos parentais através da análise da descendência
+- **Aplicação:** Uso de cruzamentos para revelar genótipos desconhecidos
+
+**Cruzamento teste:**
+- **Princípio:** Cruzamento com homozigoto recessivo revela genótipo
+- **Exemplo:** Cruzamentos 1 e 2 funcionam como cruzamento teste
+
+**Segregação mendeliana:**
+- **Lei da segregação:** Alelos se separam durante a formação de gametas
+- **Evidência:** Heterozigoto produz dois tipos de gametas
+
+**Observações metodológicas:**
+- Questão baseada em dados experimentais
+- Requer raciocínio dedutivo sistemático
+- Integra conceitos de dominância com análise de cruzamentos
+- Demonstra aplicação prática da genética
+
+**Relevância prática:**
+- **Melhoramento animal:** Seleção de características desejáveis
+- **Genética veterinária:** Compreensão de características hereditárias
+- **Criação de caprinos:** Conhecimento sobre herança de características
+- **Aconselhamento genético:** Predição de características em descendentes
+
+**Estratégias de resolução:**
+1. **Identificar fenótipos:** Relacionar com possíveis genótipos
+2. **Analisar descendência:** Usar filhotes para deduzir genótipos parentais  
+3. **Aplicar lógica:** Eliminar possibilidades inconsistentes
+4. **Verificar resultados:** Confirmar se genótipos explicam todos os dados
+
+**Extensões conceituais:**
+- **Heredogramas:** Análise de padrões em múltiplas gerações
+- **Probabilidades:** Cálculo de chances de características específicas
+- **Genética populacional:** Frequências alélicas em rebanhos
+- **Seleção artificial:** Modificação de características por reprodução dirigida
+
+---
+
+### QUESTÃO 10 - BIOLOGIA (UERJ)
+
+**Enunciado:**
+Uma cultura de células de mamífero foi incubada com um agente mutagênico e teve seu DNA alterado. As células mutantes produziram moléculas de RNA mensageiro cujas proteínas modificadas tinham os aminoácidos isoleucina (ILE) ou valina (VAL), em vez de leucina (LEU), em uma determinada posição. Quando essas células mutantes foram expostas a outro agente mutagênico, foi gerada uma proteína com fenilalanina (PHE) nessa mesma posição.
+
+**Esquema das mutações:**
+```
+    ILE
+     ↗
+LEU     PHE
+     ↘
+    VAL
+```
+
+**Tabela do código genético:**
+
+| | **Segunda Letra** | | | |
+|---|---|---|---|---|
+| **Primeira Letra** | **U** | **C** | **A** | **G** | **Terceira Letra** |
+| **U** | UUU (phe)<br>UUC (phe)<br>UUA (leu)<br>UUG (leu) | UCU (ser)<br>UCC (ser)<br>UCA (ser)<br>UCG (ser) | UAU (tyr)<br>UAC (tyr)<br>UAA (parada)<br>UAG (parada) | UGU (cys)<br>UGC (cys)<br>UGA (parada)<br>UGG (trp) | **U**<br>**C**<br>**A**<br>**G** |
+| **C** | CUU (leu)<br>CUC (leu)<br>CUA (leu)<br>CUG (leu) | CCU (pro)<br>CCC (pro)<br>CCA (pro)<br>CCG (pro) | CAU (his)<br>CAC (his)<br>CAA (gln)<br>CAG (gln) | CGU (arg)<br>CGC (arg)<br>CGA (arg)<br>CGG (arg) | **U**<br>**C**<br>**A**<br>**G** |
+| **A** | AUU (ile)<br>AUC (ile)<br>AUA (ile)<br>AUG (met) | ACU (thr)<br>ACC (thr)<br>ACA (thr)<br>ACG (thr) | AAU (asn)<br>AAC (asn)<br>AAA (lys)<br>AAG (lys) | AGU (ser)<br>AGC (ser)<br>AGA (arg)<br>AGG (arg) | **U**<br>**C**<br>**A**<br>**G** |
+| **G** | GUU (val)<br>GUC (val)<br>GUA (val)<br>GUG (val) | GCU (ala)<br>GCC (ala)<br>GCA (ala)<br>GCG (ala) | GAU (asp)<br>GAC (asp)<br>GAA (glu)<br>GAG (glu) | GGU (gli)<br>GGC (gli)<br>GGA (gli)<br>GGG (gli) | **U**<br>**C**<br>**A**<br>**G** |
+
+**Informação adicional:**
+Admita que as duas mutações ocorridas tenham sido provocadas pela mudança em apenas uma base nitrogenada.
+
+**Comando da questão:**
+Utilizando a tabela de códigos genéticos, indique os códons possíveis para cada um dos quatro aminoácidos envolvidos nessas mutações.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Códons possíveis:**
+- **Leucina:** CUU e CUC
+- **Isoleucina:** AUU e AUC  
+- **Valina:** GUU e GUC
+- **Fenilalanina:** UUU e UUC
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Código genético e degeneração
+- Mutações pontuais e substituições de bases
+- Relação entre códon e aminoácido
+- Mutagênese e seus efeitos moleculares
+- Análise de padrões mutacionais
+
+**Nível de complexidade:** Alto - requer análise integrada de genética molecular
+
+**Formato da resposta:** Lista de códons possíveis para cada aminoácido
+
+**Competências avaliadas:**
+- Uso correto da tabela do código genético
+- Análise lógica de padrões de mutação
+- Compreensão de mutações por substituição de uma base
+- Raciocínio dedutivo baseado em restrições genéticas
+
+**Análise das mutações:**
+
+**Padrão de mutações observado:**
+```
+Leucina (original) → Isoleucina (1ª mutação)
+Leucina (original) → Valina (1ª mutação)
+Isoleucina/Valina → Fenilalanina (2ª mutação)
+```
+
+**Restrição importante:**
+- Cada mutação envolve mudança de apenas **uma base nitrogenada**
+- Isso limita drasticamente os códons possíveis
+
+**Análise dos códons por aminoácido:**
+
+**Leucina (LEU) - códons possíveis:**
+- **Todos os códons:** UUA, UUG, CUU, CUC, CUA, CUG
+- **Análise de mutabilidade:** 
+  - Para Isoleucina: CUU → AUU, CUC → AUC (mudança C→A)
+  - Para Valina: CUU → GUU, CUC → GUC (mudança C→G)
+- **Códons viáveis:** CUU e CUC
+
+**Isoleucina (ILE) - códons possíveis:**
+- **Todos os códons:** AUU, AUC, AUA
+- **Análise de mutabilidade:**
+  - De Leucina: AUU ← CUU, AUC ← CUC
+  - Para Fenilalanina: AUU → UUU, AUC → UUC (mudança A→U)
+- **Códons viáveis:** AUU e AUC
+
+**Valina (VAL) - códons possíveis:**
+- **Todos os códons:** GUU, GUC, GUA, GUG
+- **Análise de mutabilidade:**
+  - De Leucina: GUU ← CUU, GUC ← CUC
+  - Para Fenilalanina: GUU → UUU, GUC → UUC (mudança G→U)
+- **Códons viáveis:** GUU e GUC
+
+**Fenilalanina (PHE) - códons possíveis:**
+- **Todos os códons:** UUU, UUC
+- **Análise de mutabilidade:**
+  - De Isoleucina: UUU ← AUU, UUC ← AUC
+  - De Valina: UUU ← GUU, UUC ← GUC
+- **Códons viáveis:** UUU e UUC
+
+**Verificação das vias mutacionais:**
+
+**Via 1: LEU → ILE → PHE**
+- CUU → AUU → UUU (C→A, depois A→U)
+- CUC → AUC → UUC (C→A, depois A→U)
+
+**Via 2: LEU → VAL → PHE**
+- CUU → GUU → UUU (C→G, depois G→U)
+- CUC → GUC → UUC (C→G, depois G→U)
+
+**Análise das substituições de bases:**
+
+**Tipos de mutações:**
+- **C→A:** Transversão (pirimidina → purina)
+- **C→G:** Transversão (pirimidina → pirimidina)
+- **A→U:** Transversão (purina → pirimidina)
+- **G→U:** Transversão (purina → pirimidina)
+
+**Padrão das posições:**
+- **Primeira posição:** Determina mudança entre aminoácidos
+- **Segunda posição:** Conservada (sempre UU)
+- **Terceira posição:** Variável (U ou C)
+
+**Degeneração do código genético:**
+
+**Característica observada:**
+- Cada aminoácido tem exatamente 2 códons possíveis
+- Diferem apenas na terceira posição (wobble position)
+- Demonstra redundância do código genético
+
+**Significado evolutivo:**
+- **Proteção contra mutações:** Mudanças na 3ª posição muitas vezes são silenciosas
+- **Estabilidade:** Minimiza efeito de mutações pontuais
+- **Flexibilidade:** Permite variação sem alterar função
+
+**Implicações moleculares:**
+
+**Efeito nas proteínas:**
+- **Leucina → Isoleucina/Valina:** Mudança de aminoácidos hidrofóbicos
+- **Isoleucina/Valina → Fenilalanina:** Mudança para aminoácido aromático
+- **Impacto funcional:** Pode alterar estrutura e função da proteína
+
+**Localização na proteína:**
+- **Mesma posição:** Todas as mutações afetam o mesmo resíduo
+- **Importância funcional:** Posição crítica para função da proteína
+
+**Observações metodológicas:**
+- Questão requer uso sistemático da tabela do código genético
+- Integra conceitos de mutagênese com biologia molecular
+- Exige raciocínio lógico para eliminar possibilidades inconsistentes
+- Demonstra aplicação prática do conhecimento sobre código genético
+
+**Relevância biotecnológica:**
+- **Mutagênese dirigida:** Produção de proteínas modificadas
+- **Evolução dirigida:** Seleção de variantes funcionais
+- **Terapia gênica:** Correção de mutações patogênicas
+- **Biotecnologia industrial:** Otimização de enzimas
+
+**Aplicações em pesquisa:**
+- **Estudos de função:** Análise de resíduos críticos
+- **Evolução molecular:** Padrões de substituição de aminoácidos
+- **Farmacologia:** Desenvolvimento de inibidores específicos
+- **Diagnóstico:** Identificação de mutações patogênicas
+
+**Conceitos relacionados:**
+- **Supressão de mutações:** Reversão de fenótipos
+- **Compensação intragênica:** Mutações que restauram função
+- **Epistasia:** Interação entre mutações
+- **Análise de complementação:** Determinação de grupos funcionais
+
+---
+

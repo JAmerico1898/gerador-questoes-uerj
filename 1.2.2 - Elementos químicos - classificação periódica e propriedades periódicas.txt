@@ -1,0 +1,730 @@
+**Questão 02**
+
+Sódio e magnésio são elementos químicos essenciais para o ser humano, constituídos pelos seguintes átomos predominantes: ²³Na e ²⁴Mg, respectivamente.
+
+Nomeie a semelhança existente entre esses átomos e indique o período da Tabela de Classificação Periódica em que estão situados. Em seguida, identifique, entre sódio e magnésio, o elemento de maior raio atômico, justificando sua resposta.
+
+---
+
+**Gabarito Oficial**
+
+- **Semelhança:** isotonia
+- **Período:** terceiro
+- **Maior raio atômico:** Na ou sódio
+- **Justificativa:** ambos os átomos apresentam o mesmo número de camadas eletrônicas, mas o sódio tem menor número de prótons em seu núcleo, o que acarreta menor atração dos elétrons da camada de valência e, consequentemente, maior raio atômico.
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química inorgânica com aplicações biológicas, abordando elementos essenciais ao organismo humano. Os temas centrais incluem:
+- Isotonia (átomos com mesmo número de nêutrons)
+- Localização de elementos na Tabela Periódica (períodos)
+- Propriedades periódicas (raio atômico)
+- Relação entre estrutura atômica e propriedades
+- Influência da carga nuclear efetiva no tamanho atômico
+
+Nível de dificuldade: Médio
+Área: Química Geral e Inorgânica
+Habilidades avaliadas: Interpretação de notação atômica, conhecimento da organização da Tabela Periódica, compreensão de propriedades periódicas e capacidade de justificar cientificamente.
+
+---
+
+**Questão 05**
+
+Na tabela periódica proposta pelo russo Dimitri Mendeleiev, os elementos químicos conhecidos à época foram agrupados de acordo com a ordem crescente de suas massas atômicas, deixando-se espaços livres para outros que ainda seriam descobertos.
+
+Considere o seguinte fragmento da tabela de Mendeleiev, no qual estão indicados os símbolos químicos de alguns elementos e suas respectivas massas atômicas.
+
+**Fragmento da Tabela de Mendeleiev:**
+
+| Rb | Sr | ? | Zr | Nb | Mo | ? |
+|----|----|----|----|----|----|----|
+| 85 | 87 | 88 | 90 | 94 | 96 | 100 |
+
+| Ag | Cd | In | Sn | Sb | Te | I |
+|----|----|----|----|----|----|----|
+| 108 | 112 | 113 | 118 | 122 | 125 | 127 |
+
+*Legenda: Símbolo em cima, Massa atômica embaixo*
+
+Atualmente, a tabela de classificação periódica apresenta outro modelo de agrupamento, no qual os elementos químicos são organizados por famílias.
+
+Dentre os elementos presentes no fragmento da tabela de Mendeleiev, indique o número de camadas eletrônicas daquele com maior massa atômica e escreva, ainda, a fórmula química da substância formada pelo metal alcalino terroso e pelo halogênio.
+
+Sabendo hoje que a massa atômica do telúrio é maior que a do iodo, explique por que esses dois elementos mantêm na classificação periódica atual a mesma posição que tinham na de Mendeleiev.
+
+---
+
+**Gabarito Oficial**
+
+**Número de camadas eletrônicas:** 5
+
+**Fórmula:** SrI₂
+
+**Explicação:** Na classificação periódica atual, os elementos químicos são agrupados em ordem crescente de seus números atômicos. Dessa maneira, como o iodo, dentre os dois elementos, tem número atômico maior, ele continua sendo agrupado depois do telúrio.
+
+---
+
+**Contexto para LLM:**
+Esta questão explora a evolução histórica da classificação periódica e suas bases organizacionais. Os temas centrais incluem:
+
+- **História da Química:** Contribuições de Mendeleiev para a organização dos elementos
+- **Evolução da Tabela Periódica:** Mudança do critério de massa atômica para número atômico
+- **Famílias químicas:** Metais alcalino-terrosos e halogênios
+- **Distribuição eletrônica:** Camadas eletrônicas e períodos
+- **Anomalias históricas:** Inversões de massa atômica (Te-I, Ar-K, Co-Ni)
+
+**Conceitos-chave para o LLM:**
+- **Critério de Mendeleiev:** Ordem crescente de massa atômica
+- **Critério atual (Moseley):** Ordem crescente de número atômico
+- **Metal alcalino-terroso:** Sr (estrôncio) - família 2A
+- **Halogênio:** I (iodo) - família 7A/17
+- **Maior massa atômica no fragmento:** I (127) - 5º período
+
+**Análise do fragmento da tabela:**
+
+**Identificação dos elementos:**
+- **1ª linha:** Rb(85), Sr(87), ?(88), Zr(90), Nb(94), Mo(96), ?(100)
+- **2ª linha:** Ag(108), Cd(112), In(113), Sn(118), Sb(122), Te(125), I(127)
+
+**Elementos com "?" (previsões de Mendeleiev):**
+- **Posição 88:** Rádio (Ra) - descoberto posteriormente
+- **Posição 100:** Ruthênio (Ru) - já conhecido, mas mal posicionado
+
+**Maior massa atômica:**
+- **Elemento:** Iodo (I = 127)
+- **Período:** 5º período
+- **Camadas eletrônicas:** 5 (correspondente ao período)
+
+**Classificação das famílias:**
+
+**Metal alcalino-terroso (família 2A):**
+- **No fragmento:** Sr (estrôncio)
+- **Características:** 2 elétrons na camada de valência, forma cátions +2
+
+**Halogênio (família 7A/17):**
+- **No fragmento:** I (iodo)
+- **Características:** 7 elétrons na camada de valência, forma ânions -1
+
+**Formação do composto SrI₂:**
+```
+Sr²⁺ + 2I⁻ → SrI₂
+```
+- **Tipo de ligação:** Iônica
+- **Proporção:** 1:2 (para neutralizar cargas)
+- **Nome:** Iodeto de estrôncio
+
+**Anomalia Te-I na classificação:**
+
+**Problema histórico:**
+- **Massa atômica Te:** 127,6 u
+- **Massa atômica I:** 126,9 u
+- **Paradoxo:** Te tem massa maior, mas vem antes do I
+
+**Solução moderna (Lei de Moseley, 1913):**
+- **Número atômico Te:** 52
+- **Número atômico I:** 53
+- **Critério atual:** Ordem crescente de número atômico (Z)
+
+**Outras anomalias similares:**
+- **Argônio (39,9) vs Potássio (39,1):** Z(Ar)=18 < Z(K)=19
+- **Cobalto (58,9) vs Níquel (58,7):** Z(Co)=27 < Z(Ni)=28
+
+**Distribuição eletrônica do iodo:**
+```
+I (Z=53): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁵
+Camadas: K(2) L(8) M(18) N(18) O(7) = 5 camadas
+```
+
+**Características dos períodos:**
+- **1º período:** 2 elementos (H, He)
+- **2º período:** 8 elementos (Li ao Ne)
+- **3º período:** 8 elementos (Na ao Ar)
+- **4º período:** 18 elementos (K ao Kr)
+- **5º período:** 18 elementos (Rb ao Xe) - onde está o iodo
+
+**Contribuições de Mendeleiev:**
+- **Previsão de elementos:** Ga, Sc, Ge (eka-alumínio, eka-boro, eka-silício)
+- **Periodicidade:** Propriedades se repetem periodicamente
+- **Lacunas:** Espaços para elementos não descobertos
+- **Base química:** Agrupamento por propriedades similares
+
+**Evolução para a tabela moderna:**
+- **Henry Moseley (1913):** Descoberta do número atômico
+- **Base física:** Carga nuclear (prótons) em vez de massa
+- **Resolução de anomalias:** Explicação das inversões de massa
+- **Lei Periódica atual:** Propriedades variam periodicamente com Z
+
+**Dados importantes:**
+- **Maior massa no fragmento:** I (127 u)
+- **5º período:** 5 camadas eletrônicas
+- **Sr:** Metal alcalino-terroso (+2)
+- **I:** Halogênio (-1)
+- **Fórmula:** SrI₂ (proporção 1:2)
+
+**Processo de resolução:**
+1. **Identificar maior massa:** Iodo (127) no fragmento
+2. **Determinar período:** I está no 5º período → 5 camadas
+3. **Classificar elementos:** Sr (alcalino-terroso) + I (halogênio)
+4. **Escrever fórmula:** Sr²⁺ + I⁻ → SrI₂
+5. **Explicar anomalia:** Critério mudou de massa para número atômico
+
+Nível de dificuldade: Médio
+Área: Tabela Periódica e História da Química
+Habilidades avaliadas: Evolução histórica da classificação periódica, famílias químicas, distribuição eletrônica, fórmulas de compostos iônicos, compreensão das bases organizacionais da tabela periódica.
+
+---
+
+## QUESTÃO 002 - QUÍMICA GERAL - SÍMBOLOS QUÍMICOS E PROPRIEDADES PERIÓDICAS
+**Tipo:** Questão mista (interpretação criativa + classificação periódica + propriedades + ligações + geometria)
+**Tópico:** Elementos químicos, propriedades periódicas, energia de ionização, eletronegatividade, ligações químicas, geometria molecular
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO EMPRESARIAL:**
+Com os símbolos dos vários elementos químicos conhecidos, é possível formar palavras. Considere que uma empresa, utilizando uma sequência de cinco símbolos de elementos químicos, criou um logotipo para divulgar a marca de seu produto.
+
+**LOGOTIPO DA EMPRESA:**
+Sequência de símbolos apresentada:
+
+| C | Ho | Co | La | Te |
+|---|----|----|----|----|
+
+**QUESTÕES:**
+A partir do logotipo e com base na tabela periódica, identifique o símbolo do metal de transição interna que apresenta menor número atômico. Em seguida, nomeie o elemento de maior energia de ionização do grupo do telúrio.
+
+Ainda considerando o logotipo, classifique, quanto à polaridade, o tipo de ligação formada entre o elemento de maior eletronegatividade e o hidrogênio. Classifique, também, o tipo de geometria do composto de menor massa molar formado por esses dois elementos.
+
+**Conceitos envolvidos:**
+- Identificação de elementos químicos por símbolos
+- Classificação de elementos: metais de transição interna (lantanídeos/actinídeos)
+- Propriedades periódicas: energia de ionização, eletronegatividade
+- Tendências nos grupos da tabela periódica
+- Polaridade de ligações químicas
+- Geometria molecular (VSEPR)
+- Cálculo de massa molar
+
+**Dados implícitos necessários:**
+- Elementos do logotipo:
+ - C: carbono (Z=6, não metal)
+ - Ho: hólmio (Z=67, lantanídeo - metal de transição interna)
+ - Co: cobalto (Z=27, metal de transição)
+ - La: lantânio (Z=57, lantanídeo - metal de transição interna)
+ - Te: telúrio (Z=52, semimetal, grupo 16)
+- Metal de transição interna com menor Z: La (lantânio, Z=57)
+- Grupo do telúrio (grupo 16): O, S, Se, Te, Po
+- Maior energia de ionização no grupo 16: O (oxigênio)
+ - Justificativa: energia de ionização diminui de cima para baixo no grupo
+- Maior eletronegatividade do logotipo: C (carbono, χ ≈ 2,5)
+- Ligação C-H: ligação covalente apolar
+ - Justificativa: diferença de eletronegatividade pequena (C=2,5; H=2,1)
+- Composto C-H de menor massa molar: CH₄ (metano, MM = 16 g/mol)
+- Geometria do CH₄: tetraédrica
+ - Justificativa: 4 pares de elétrons ligantes ao redor do carbono
+
+**Aplicação contextual:**
+- Criatividade na comunicação científica
+- Uso de símbolos químicos em marketing
+- Importância das propriedades periódicas na caracterização
+- Metano como hidrocarboneto mais simples
+
+**Informações complementares:**
+- Lantanídeos: elementos de Z=57 a Z=71
+- Actinídeos: elementos de Z=89 a Z=103
+- Teoria VSEPR para previsão de geometria molecular
+- Escala de eletronegatividade de Pauling
+
+**Palavras-chave:** símbolos químicos, logotipo, lantânio, hólmio, energia de ionização, eletronegatividade, ligação covalente apolar, geometria tetraédrica, metano, metais de transição interna, grupo do oxigênio
+
+---
+
+## QUESTÃO 001 - QUÍMICA GERAL - METAIS DAS MEDALHAS OLÍMPICAS E PROPRIEDADES PERIÓDICAS
+**Tipo:** Questão mista (contexto esportivo + classificação periódica + propriedades atômicas + íons + compostos)
+**Tópico:** Metais, propriedades periódicas, classificação por grupos, formação de íons, compostos químicos
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO OLÍMPICO:**
+Na premiação das Olimpíadas, o primeiro, o segundo e o terceiro colocados em cada competição recebem, respectivamente, medalha de ouro (Au), de prata (Ag) e de bronze. Sabe-se que o bronze é uma liga metálica formada, entre outros elementos químicos, por cobre (Cu) e estanho (Sn).
+
+**QUESTÕES:**
+Considerando os metais citados, escreva o símbolo daquele que possui maior massa atômica e o nome daquele que pertence ao grupo 14 da tabela de classificação periódica.
+
+Em seguida, apresente duas fórmulas: a do cátion divalente do metal de menor raio atômico do grupo 11 da tabela de classificação periódica e a do cloreto composto pelo metal correspondente à medalha da segunda colocação.
+
+**Conceitos envolvidos:**
+- Metais de transição e suas aplicações
+- Classificação periódica por grupos
+- Propriedades periódicas: massa atômica, raio atômico
+- Tendências do raio atômico nos grupos e períodos
+- Formação de cátions e estados de oxidação
+- Nomenclatura de compostos iônicos
+- Ligas metálicas (bronze)
+
+**Dados implícitos necessários:**
+- Metais mencionados: Au, Ag, Cu, Sn
+- Massas atômicas aproximadas:
+ - Au (ouro): 197 u
+ - Ag (prata): 108 u
+ - Cu (cobre): 63,5 u
+ - Sn (estanho): 119 u
+- Maior massa atômica: Au (ouro)
+- Grupos na tabela periódica:
+ - Au: grupo 11 (família do cobre)
+ - Ag: grupo 11 (família do cobre)
+ - Cu: grupo 11 (família do cobre)
+ - Sn: grupo 14 (família do carbono)
+- Elemento do grupo 14: Sn (estanho)
+- Grupo 11 (Cu, Ag, Au): raio atômico aumenta de cima para baixo
+- Menor raio atômico do grupo 11: Cu (cobre)
+- Cátion divalente do cobre: Cu²⁺
+- Metal da segunda colocação: Ag (prata)
+- Cloreto de prata: AgCl
+
+**Aplicação contextual:**
+- Importância histórica dos metais preciosos
+- Uso de metais em condecorações e joias
+- Ligas metálicas e suas propriedades melhoradas
+- Bronze: liga Cu-Sn usada desde a Antiguidade
+- Propriedades dos metais de transição
+
+**Informações complementares:**
+- Estados de oxidação comuns: Cu⁺/Cu²⁺, Ag⁺, Au⁺/Au³⁺
+- AgCl: composto pouco solúvel, usado em fotografia
+- Bronze: maior dureza que cobre puro
+- Grupo 11: metais de cunhagem (moedas)
+
+**Palavras-chave:** medalhas olímpicas, ouro, prata, cobre, estanho, bronze, massa atômica, grupo 14, grupo 11, raio atômico, cátion divalente, cloreto de prata, metais de transição, ligas metálicas
+
+---
+
+**Questão 01**
+
+Em algumas indústrias, a fumaça produzida pelo processo de queima de combustíveis fósseis contém a mistura dos seguintes gases residuais: CO₂, CO, SO₂, N₂ e O₂.
+
+Nomeie o CO₂, indique a geometria molecular do SO₂ e escreva a fórmula do óxido neutro.
+
+Em seguida, escreva o símbolo do elemento químico que compõe um dos gases residuais, sabendo que esse elemento pertence ao grupo 15 da tabela de classificação periódica.
+
+---
+
+**Gabarito Oficial**
+
+**Nome do CO₂ (uma das respostas):**
+- anidrido carbônico
+- dióxido de carbono  
+- óxido de carbono IV
+
+**Geometria molecular do SO₂:** angular
+
+**Fórmula do óxido neutro:** CO
+
+**Símbolo do elemento do grupo 15:** N
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de nomenclatura química, geometria molecular e classificação periódica aplicados à química ambiental. Os temas centrais incluem:
+
+- **Poluição atmosférica:** Gases resultantes da queima de combustíveis fósseis
+- **Nomenclatura de óxidos:** Diferentes sistemas de nomenclatura
+- **Geometria molecular:** Teoria VSEPR aplicada a compostos simples
+- **Classificação de óxidos:** Ácidos, básicos, neutros e anfóteros
+- **Tabela periódica:** Localização de elementos por grupos
+
+**Conceitos-chave para o LLM:**
+- **CO₂:** Óxido ácido, linear, principal gás do efeito estufa
+- **SO₂:** Óxido ácido, angular, principal causador da chuva ácida
+- **CO:** Óxido neutro, linear, tóxico
+- **Grupo 15:** Família do nitrogênio (N, P, As, Sb, Bi)
+- **Geometria angular:** Molécula com 2 ligações + pares isolados
+
+**Análise da nomenclatura do CO₂:**
+
+**Nomenclatura oficial (IUPAC):**
+- **Dióxido de carbono:** Dois átomos de oxigênio + carbono
+
+**Nomenclatura clássica:**
+- **Anidrido carbônico:** Óxido ácido derivado do ácido carbônico
+
+**Nomenclatura de Stock:**
+- **Óxido de carbono IV:** Carbono com número de oxidação +4
+
+**Todas as nomenclaturas são aceitas** conforme o gabarito oficial.
+
+**Análise da geometria do SO₂:**
+
+**Estrutura eletrônica do enxofre:**
+- **Configuração:** [Ne] 3s² 3p⁴
+- **Elétrons de valência:** 6
+- **Ligações:** 2 ligações S=O (duplas)
+- **Pares isolados:** 1 par não ligante
+
+**Aplicação da teoria VSEPR:**
+```
+Estrutura: O=S=O (com um par isolado no S)
+```
+- **Pares eletrônicos totais:** 3 (2 ligantes + 1 não ligante)
+- **Geometria eletrônica:** Trigonal plana
+- **Geometria molecular:** Angular
+- **Ângulo O-S-O:** ~119° (menor que 120° devido ao par isolado)
+
+**Classificação dos óxidos:**
+
+**CO₂ - Óxido ácido:**
+- **Reação com água:** CO₂ + H₂O → H₂CO₃
+- **pH resultante:** < 7 (ácido)
+
+**SO₂ - Óxido ácido:**
+- **Reação com água:** SO₂ + H₂O → H₂SO₃
+- **pH resultante:** < 7 (ácido)
+
+**CO - Óxido neutro:**
+- **Reação com água:** Não reage significativamente
+- **pH resultante:** ≈ 7 (neutro)
+- **Característica:** Não forma ácido nem base
+
+**N₂ - Substância simples:**
+- **Classificação:** Não é óxido (elemento puro)
+
+**O₂ - Substância simples:**
+- **Classificação:** Não é óxido (elemento puro)
+
+**Identificação do elemento do grupo 15:**
+
+**Grupo 15 (Família 5A):**
+- **Elementos:** N, P, As, Sb, Bi
+- **Configuração geral:** ns² np³
+- **Elétrons de valência:** 5
+
+**Gases presentes na mistura:**
+- **CO₂:** C (grupo 14) + O (grupo 16)
+- **CO:** C (grupo 14) + O (grupo 16)
+- **SO₂:** S (grupo 16) + O (grupo 16)
+- **N₂:** N (grupo 15) ✓
+- **O₂:** O (grupo 16)
+
+**Elemento identificado:** **Nitrogênio (N)** no gás N₂
+
+**Impactos ambientais dos gases:**
+
+**CO₂ (Dióxido de carbono):**
+- **Efeito estufa:** Principal gás causador do aquecimento global
+- **Concentração:** ~415 ppm na atmosfera (2023)
+- **Fontes:** Queima de combustíveis, respiração, decomposição
+
+**SO₂ (Dióxido de enxofre):**
+- **Chuva ácida:** H₂SO₃ e H₂SO₄ acidificam a chuva
+- **Problemas respiratórios:** Irritação das vias aéreas
+- **Fontes:** Queima de carvão e petróleo com enxofre
+
+**CO (Monóxido de carbono):**
+- **Toxicidade:** Liga-se irreversivelmente à hemoglobina
+- **Asfixia química:** Impede transporte de oxigênio
+- **Fontes:** Combustão incompleta
+
+**N₂ (Nitrogênio):**
+- **Gás inerte:** Não participa de reações em condições normais
+- **Abundância:** ~78% da atmosfera
+- **Função:** Diluente atmosférico
+
+**O₂ (Oxigênio):**
+- **Essential:** Necessário para respiração e combustão
+- **Concentração:** ~21% da atmosfera
+- **Ciclo:** Renovado pela fotossíntese
+
+**Controle de emissões:**
+
+**Tecnologias de redução:**
+- **Filtros:** Remoção de material particulado
+- **Lavadores:** Absorção de SO₂ em soluções alcalinas
+- **Catalisadores:** Conversão de CO em CO₂
+- **Energias alternativas:** Redução de combustíveis fósseis
+
+**Legislação ambiental:**
+- **Limites de emissão:** Padrões nacionais e internacionais
+- **Monitoramento:** Medição contínua de poluentes
+- **Multas:** Penalidades por excesso de emissões
+
+**Dados importantes:**
+- **CO₂:** Nomenclaturas múltiplas aceitas
+- **SO₂:** Geometria angular (VSEPR)
+- **CO:** Único óxido neutro na lista
+- **N:** Elemento do grupo 15 presente em N₂
+
+**Processo de resolução:**
+1. **Nomenclatura CO₂:** Aplicar diferentes sistemas
+2. **Geometria SO₂:** Usar teoria VSEPR (2 ligações + 1 par isolado)
+3. **Óxido neutro:** Identificar CO (não reage com água)
+4. **Grupo 15:** Localizar N em N₂
+
+Nível de dificuldade: Básico-Médio
+Área: Química Geral e Ambiental
+Habilidades avaliadas: Nomenclatura química, geometria molecular, classificação de óxidos, localização na tabela periódica, conhecimentos de química ambiental.
+
+---
+
+**Questão 02:**
+
+Para que os fogos de artifício produzam cores diferentes, os fabricantes misturam à pólvora sais de alguns metais, como os da tabela a seguir.
+
+| Metal | Coloração obtida |
+|-------|------------------|
+| bário | verde |
+| cálcio | laranja |
+| cobre | azul |
+| estrôncio ou lítio | vermelha |
+| ferro | dourada |
+| sódio | amarela |
+| titânio, alumínio ou magnésio | prateada |
+
+Considerando as informações da tabela acima, identifique o metal alcalino terroso responsável pela cor prateada e apresente a fórmula mínima do cloreto formado por esse elemento; em seguida, aponte a coloração obtida pelo metal que possui menor raio atômico e determine seu número de oxidação quando na forma de cátion.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+O metal alcalino terroso responsável pela cor prateada é o **magnésio**.
+
+A fórmula mínima do cloreto de magnésio é **MgCl₂**.
+
+A coloração obtida pelo metal de menor raio atômico é **vermelha**.
+
+O número de oxidação do lítio quando na forma de cátion é **+1**.
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de química inorgânica e tabela periódica, especificamente:
+
+1. **Aplicação prática**: Uso de sais metálicos em fogos de artifício para produção de cores específicas através de emissão de luz por excitação eletrônica.
+
+2. **Dados da tabela**:
+   - Bário → verde
+   - Cálcio → laranja  
+   - Cobre → azul
+   - Estrôncio ou lítio → vermelha
+   - Ferro → dourada
+   - Sódio → amarela
+   - Titânio, alumínio ou magnésio → prateada
+
+3. **Conceitos avaliados**:
+   - **Classificação periódica**: Identificação de metais alcalino terrosos (Grupo 2A: Be, Mg, Ca, Sr, Ba, Ra)
+   - **Fórmulas químicas**: Determinação da fórmula do cloreto de magnésio (MgCl₂)
+   - **Propriedades periódicas**: Raio atômico e sua variação na tabela periódica
+   - **Número de oxidação**: Estados de oxidação de metais alcalinos (+1) e alcalino terrosos (+2)
+
+4. **Raciocínio necessário**:
+   - Entre titânio, alumínio e magnésio, apenas o magnésio é alcalino terroso
+   - O lítio possui o menor raio atômico entre os metais listados
+   - Metais alcalinos (como lítio) formam cátions com carga +1
+
+5. **Nível de complexidade**: Questão de nível intermediário que exige conhecimento sólido de tabela periódica e propriedades dos elementos.
+
+6. **Padrão UERJ**: Questão contextualizada que combina aplicação prática com conceitos teóricos fundamentais, exigindo múltiplas habilidades em uma única resposta.
+
+---
+
+**Questão 02:**
+
+A tabela abaixo apresenta o nome de alguns minerais e a fórmula química da substância que constitui cada um deles.
+
+| Mineral | Fórmula química da substância |
+|---------|-------------------------------|
+| Calcita | CaCO₃ |
+| Cerussita | PbCO₃ |
+| Estroncianita | SrCO₃ |
+| Magnesita | MgCO₃ |
+| Rodocrosita | MnCO₃ |
+| Siderita | FeCO₃ |
+| Witherita | BaCO₃ |
+
+Considerando a tabela, apresente o nome do mineral cujo metal no estado fundamental possui quatro elétrons na sua camada de valência. Apresente, também, a fórmula química da substância que contém o metal de maior raio atômico.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Metal com 4 elétrons na camada de valência:** Cerussita
+
+**Substância com metal de maior raio atômico:** BaCO₃
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de tabela periódica, configuração eletrônica e propriedades atômicas:
+
+1. **Dados da tabela - Minerais carbonatados**:
+   - **Calcita**: CaCO₃ (cálcio)
+   - **Cerussita**: PbCO₃ (chumbo)
+   - **Estroncianita**: SrCO₃ (estrôncio)
+   - **Magnesita**: MgCO₃ (magnésio)
+   - **Rodocrosita**: MnCO₃ (manganês)
+   - **Siderita**: FeCO₃ (ferro)
+   - **Witherita**: BaCO₃ (bário)
+
+2. **Análise da configuração eletrônica**:
+   - **4 elétrons na camada de valência**: Elemento do Grupo 14 (família do carbono)
+   - **Identificação**: Chumbo (Pb) - [Xe] 6s² 6p²
+   - **Camada de valência**: 6s² 6p² = 4 elétrons
+   - **Mineral correspondente**: Cerussita (PbCO₃)
+
+3. **Configurações eletrônicas dos metais**:
+   - **Ca**: [Ar] 4s² (2 elétrons de valência)
+   - **Pb**: [Xe] 6s² 6p² (4 elétrons de valência) ✓
+   - **Sr**: [Kr] 5s² (2 elétrons de valência)
+   - **Mg**: [Ne] 3s² (2 elétrons de valência)
+   - **Mn**: [Ar] 4s² 3d⁵ (7 elétrons de valência)
+   - **Fe**: [Ar] 4s² 3d⁶ (8 elétrons de valência)
+   - **Ba**: [Xe] 6s² (2 elétrons de valência)
+
+4. **Análise do raio atômico**:
+   - **Tendência periódica**: Raio aumenta de cima para baixo no grupo e da direita para esquerda no período
+   - **Comparação entre os metais**: Mg < Ca < Sr < Ba (Grupo 2A)
+   - **Pb**: Está no 6º período, mas é menor que Ba
+   - **Maior raio**: Bário (Ba) - último período entre os alcalino-terrosos
+   - **Substância correspondente**: BaCO₃
+
+5. **Posições na tabela periódica**:
+   - **Grupo 2A (alcalino-terrosos)**: Mg, Ca, Sr, Ba
+   - **Grupo 14**: Pb
+   - **Metais de transição**: Mn, Fe
+
+6. **Conceitos avaliados**:
+   - **Configuração eletrônica**: Identificação de elétrons de valência
+   - **Propriedades periódicas**: Variação do raio atômico
+   - **Classificação periódica**: Grupos e períodos
+   - **Nomenclatura**: Relação mineral-composição química
+
+7. **Raciocínio necessário**:
+   - **1ª parte**: Buscar elemento com 4 elétrons de valência → Pb (Grupo 14)
+   - **2ª parte**: Comparar raios atômicos → Ba (maior período no Grupo 2A)
+
+8. **Conhecimentos complementares**:
+   - **Carbonatos**: Todos os minerais contêm o íon CO₃²⁻
+   - **Estados de oxidação**: Metais formam cátions (+2, exceto Pb que pode ser +2 ou +4)
+   - **Ocorrência natural**: Minerais como fontes de metais
+
+9. **Nível de complexidade**: Questão de nível intermediário que exige domínio de configuração eletrônica e propriedades periódicas.
+
+10. **Padrão UERJ**: Questão que integra conhecimentos de tabela periódica com aplicação prática (mineralogia), exigindo análise comparativa de propriedades atômicas.
+
+---
+
+**Questão 02:**
+
+A reação nuclear entre o ²⁴²Pu e um isótopo do elemento químico com maior energia de ionização localizado no segundo período da tabela de classificação periódica produz o isótopo ²⁶⁰Rf e quatro partículas subatômicas idênticas.
+
+Apresente a equação dessa reação nuclear e indique o número de elétrons do ruterfórdio (Rf) no estado fundamental.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Equação da reação nuclear:**
+
+²⁴²Pu + ²²Ne → ²⁶⁰Rf + 4 ¹n
+₉₄     ₁₀    ₁₀₄    ₀
+
+**Número de elétrons do Rf no estado fundamental:** 104
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de química nuclear, tabela periódica e estrutura atômica:
+
+1. **Identificação do segundo reagente**:
+   - **Critério**: Elemento com maior energia de ionização no 2º período
+   - **Análise do 2º período**: Li, Be, B, C, N, O, F, Ne
+   - **Tendência**: Energia de ionização aumenta da esquerda para direita
+   - **Conclusão**: Neônio (Ne) tem a maior energia de ionização
+   - **Justificativa**: Gás nobre, configuração eletrônica estável
+
+2. **Determinação do isótopo de neônio**:
+   - **Balanceamento nuclear**: Conservação de massa e número atômico
+   - **Equação inicial**: ²⁴²Pu + ᴬNe → ²⁶⁰Rf + partículas
+   - **Conservação de massa**: 242 + A = 260 + massa das partículas
+   - **Análise**: Para produzir 4 nêutrons (4 × 1 = 4), A = 22
+   - **Isótopo**: ²²Ne (neônio-22)
+
+3. **Equação nuclear balanceada**:
+   ```
+   ²⁴²Pu + ²²Ne → ²⁶⁰Rf + 4 ¹n
+   ₉₄     ₁₀    ₁₀₄    ₀
+   ```
+
+4. **Verificação do balanceamento**:
+   
+   **Conservação do número de massa (A)**:
+   - Reagentes: 242 + 22 = 264
+   - Produtos: 260 + 4(1) = 264 ✓
+   
+   **Conservação do número atômico (Z)**:
+   - Reagentes: 94 + 10 = 104
+   - Produtos: 104 + 4(0) = 104 ✓
+
+5. **Identificação das partículas subatômicas**:
+   - **Descrição**: "Quatro partículas subatômicas idênticas"
+   - **Análise**: Baseado no balanceamento, são nêutrons (¹n)
+   - **Características**: Massa = 1, carga = 0
+   - **Símbolo**: ¹₀n ou simplesmente n
+
+6. **Ruterfórdio (Rf)**:
+   - **Símbolo**: Rf
+   - **Número atômico**: 104
+   - **Classificação**: Elemento superpesado, transactinídeo
+   - **Descoberta**: Elemento sintético
+   - **Grupo**: 4 da tabela periódica (mesmo grupo do Ti, Zr, Hf)
+
+7. **Configuração eletrônica do Rf**:
+   - **Número atômico**: Z = 104
+   - **Estado fundamental**: Átomo neutro
+   - **Número de elétrons**: Igual ao número de prótons = 104
+   - **Configuração**: [Rn] 5f¹⁴ 6d² 7s² (prevista)
+
+8. **Conceitos de energia de ionização**:
+   - **Definição**: Energia necessária para remover um elétron
+   - **Tendência periódica**: Aumenta da esquerda para direita no período
+   - **Máximo no período**: Gases nobres (configuração estável)
+   - **Neônio**: 1s² 2s² 2p⁶ (configuração de gás nobre)
+
+9. **Tipos de reação nuclear**:
+   - **Classificação**: Reação de fusão nuclear
+   - **Características**: Núcleos leves bombardeiam núcleos pesados
+   - **Aplicação**: Síntese de elementos superpesados
+   - **Condições**: Altas energias, aceleradores de partículas
+
+10. **Elementos do 2º período e energias de ionização**:
+    - Li: 520 kJ/mol
+    - Be: 900 kJ/mol
+    - B: 801 kJ/mol
+    - C: 1086 kJ/mol
+    - N: 1402 kJ/mol
+    - O: 1314 kJ/mol
+    - F: 1681 kJ/mol
+    - **Ne: 2081 kJ/mol** ← Maior
+
+11. **Isótopos do neônio**:
+    - **Ne-20**: Mais abundante (90,48%)
+    - **Ne-21**: Menos abundante (0,27%)
+    - **Ne-22**: Abundante (9,25%)
+    - **Uso na questão**: ²²Ne para balanceamento nuclear
+
+12. **Aplicações dos elementos superpesados**:
+    - **Pesquisa fundamental**: Expansão da tabela periódica
+    - **Estudo de propriedades**: Relatividade em átomos pesados
+    - **Vida útil**: Geralmente muito curta (milissegundos a minutos)
+    - **Detecção**: Métodos sofisticados de análise
+
+13. **Conceitos avaliados**:
+    - **Tabela periódica**: Localização e propriedades periódicas
+    - **Reações nucleares**: Balanceamento e tipos de partículas
+    - **Estrutura atômica**: Relação entre prótons e elétrons
+    - **Nomenclatura**: Notação nuclear e símbolos
+
+14. **Nível de complexidade**: Questão de nível intermediário que exige conhecimento de propriedades periódicas, química nuclear e estrutura atômica.
+
+15. **Padrão UERJ**: Questão que integra múltiplos conceitos químicos, desde propriedades periódicas até reações nucleares, exigindo raciocínio lógico e conhecimento abrangente.
+
+---

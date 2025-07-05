@@ -1,0 +1,410 @@
+**Questão 09**
+
+Nos sistemas gasosos, a constante de equilíbrio Kc é determinada em função das concentrações molares e a constante de equilíbrio Kp, em função das pressões parciais. Nas reações abaixo, observam-se três estados de equilíbrio a 1200 K:
+
+**Reações químicas e constantes de equilíbrio:**
+
+```
+Reação 1: CO (g) + 3 H₂ (g) ⇌ CH₄ (g) + H₂O (g)     Kc₁ = 4,0 (mol/L)⁻²
+
+Reação 2: CH₄ (g) + 2 H₂S (g) ⇌ CS₂ (g) + 4 H₂ (g)   Kc₂ = 3,3 × 10⁴ (mol/L)²
+
+Reação 3: CO (g) + 2 H₂S (g) ⇌ CS₂ (g) + H₂O (g) + H₂ (g)
+```
+
+Escreva a expressão da constante Kp para o equilíbrio da reação 1. Determine, ainda, para o equilíbrio da reação 3, o valor da constante Kc e a razão Kp/Kc correspondente.
+
+---
+
+**Gabarito Oficial**
+
+**Expressão da constante Kp:**
+
+```
+         (p_CH₄) × (p_H₂O)
+Kp₁ = ─────────────────────
+       (p_CO) × (p_H₂)³
+```
+
+*Explicação da expressão:*
+- **Numerador:** Pressões parciais dos produtos (CH₄ e H₂O)
+- **Denominador:** Pressões parciais dos reagentes (CO e H₂)
+- **Expoentes:** Correspondem aos coeficientes estequiométricos da equação balanceada
+
+**Valor da constante Kc:**
+```
+Kc₃ = Kc₁ × Kc₂ = 4,0 × 3,3 × 10⁴ = 1,32 × 10⁵
+```
+
+**Razão Kp/Kc:**
+```
+Kp₃ = Kc₃ × (RT)^Δn → Kp₃ / Kc₃ = (0,08 × 1200)³⁻³ = 1
+```
+
+*Explicação dos cálculos:*
+- **Relação entre reações:** Reação 3 = Reação 1 + Reação 2
+- **Combinação de constantes:** Kc₃ = Kc₁ × Kc₂
+- **Variação do número de mols (Δn):** (1 + 1 + 1) - (1 + 2) = 0
+- **Como Δn = 0:** Kp = Kc, logo Kp/Kc = 1
+
+---
+
+**Contexto para LLM:**
+Esta questão aborda conceitos avançados de equilíbrio químico em sistemas gasosos. Os temas centrais incluem:
+
+- **Constantes de equilíbrio:** Kc (concentrações) e Kp (pressões parciais)
+- **Expressões de equilíbrio:** Produtos sobre reagentes com expoentes estequiométricos
+- **Combinação de equilíbrios:** Adição de reações e multiplicação de constantes
+- **Relação Kp/Kc:** Dependência da variação do número de mols (Δn)
+- **Lei dos gases ideais:** Aplicação em equilíbrios gasosos
+
+**Conceitos-chave para o LLM:**
+- **Kp vs Kc:** Kp usa pressões parciais, Kc usa concentrações molares
+- **Relação fundamental:** Kp = Kc × (RT)^Δn
+- **Δn:** (soma dos coeficientes dos produtos) - (soma dos coeficientes dos reagentes)
+- **R = 0,08 atm·L/(mol·K)** (constante dos gases ideais)
+- **Temperatura:** 1200 K (constante para todos os equilíbrios)
+
+**Análise das reações:**
+- **Reação 1:** 1 + 3 → 1 + 1 (Δn = -2)
+- **Reação 2:** 1 + 2 → 1 + 4 (Δn = +2)  
+- **Reação 3:** 1 + 2 → 1 + 1 + 1 (Δn = 0)
+
+**Combinação matemática:**
+- **Reação 3 = Reação 1 + Reação 2**
+- **CO + 3H₂ ⇌ CH₄ + H₂O** (Reação 1)
+- **CH₄ + 2H₂S ⇌ CS₂ + 4H₂** (Reação 2)
+- **Soma:** CO + 2H₂S ⇌ CS₂ + H₂O + H₂ (Reação 3)
+
+**Propriedades das constantes:**
+- **Adição de reações:** Multiplicação das constantes
+- **Kc₃ = Kc₁ × Kc₂**
+- **Unidades:** Dependem do valor de Δn
+- **Reação 1:** (mol/L)⁻² → Δn = -2
+- **Reação 2:** (mol/L)² → Δn = +2
+- **Reação 3:** Adimensional → Δn = 0
+
+**Processo de resolução:**
+1. **Expressão Kp₁:** Aplicar definição com pressões parciais
+2. **Identificar relação:** Reação 3 = Reação 1 + Reação 2
+3. **Calcular Kc₃:** Multiplicar Kc₁ × Kc₂
+4. **Determinar Δn:** Contar mols de produtos e reagentes
+5. **Aplicar relação:** Kp/Kc = (RT)^Δn
+
+Nível de dificuldade: Alto
+Área: Físico-Química (Equilíbrio Químico)
+Habilidades avaliadas: Expressões de equilíbrio, combinação de reações, relação entre Kp e Kc, cálculos estequiométricos, aplicação da lei dos gases ideais em equilíbrios.
+
+---
+
+**Questão 09**
+
+Um alceno pode ser identificado a partir dos produtos formados em sua reação de oxidação enérgica. Em um experimento, verificou-se que a reação de oxidação de 3,5 g de um alceno produziu uma cetona e 1,4 L de CO₂, medidos nas CNTP.
+
+Escreva a fórmula molecular e o nome oficial desse alceno.
+
+---
+
+**Gabarito Oficial**
+
+**Reação de oxidação:**
+```
+       [O]
+R₁—C=C—H  ————→  R₁—C=O + CO₂ + H₂O
+   |   |           |
+   R₂  H           R₂
+
+Alceno        Cetona
+```
+
+*Descrição da reação:*
+- **Reagente:** Alceno assimétrico (com pelo menos um H na dupla ligação)
+- **Produtos:** Cetona + CO₂ + H₂O
+- **Condições:** Oxidação enérgica com KMnO₄ ou K₂Cr₂O₇
+- **Mecanismo:** Quebra da ligação C=C
+
+**Cálculos estequiométricos:**
+```
+Alceno    CO₂
+X g ————— 22,4 L
+3,5 g ——— 1,4 L        X = 56 g/mol
+```
+
+**Determinação da fórmula molecular:**
+```
+Fórmula geral dos alcenos: CₙH₂ₙ
+Massa molar: 12 × n + 1 × 2n = 56
+14n = 56
+n = 4
+
+Fórmula molecular: C₄H₈
+```
+
+**Nome:** metilpropeno
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de reações orgânicas, estequiometria e nomenclatura IUPAC. Os temas centrais incluem:
+
+- **Oxidação de alcenos:** Reações de quebra de ligações C=C
+- **Ozonólise e oxidação enérgica:** Métodos de identificação estrutural
+- **Estequiometria gasosa:** Cálculos usando volume molar nas CNTP
+- **Nomenclatura IUPAC:** Alcenos ramificados
+- **Determinação estrutural:** Uso de produtos de reação para identificar reagentes
+
+**Conceitos-chave para o LLM:**
+- **Volume molar:** 22,4 L/mol nas CNTP (0°C, 1 atm)
+- **Oxidação enérgica:** KMnO₄/H⁺ ou K₂Cr₂O₇ quebra duplas ligações
+- **Produtos específicos:** CO₂ forma-se quando há H na dupla ligação
+- **Fórmula geral:** CₙH₂ₙ para alcenos acíclicos
+- **Análise retrossintética:** Determinar estrutura pelos produtos
+
+**Análise da reação detalhada:**
+
+**Condições de oxidação enérgica:**
+- **Agentes oxidantes:** KMnO₄/H⁺, K₂Cr₂O₇/H⁺, O₃ seguido de H₂O₂
+- **Meio:** Ácido, temperatura elevada
+- **Resultado:** Quebra completa da ligação C=C
+
+**Padrões de produtos:**
+- **C=C com 2H:** Produz 2 CO₂
+- **C=C com 1H:** Produz 1 CO₂ + 1 cetona/aldeído
+- **C=C sem H:** Produz 2 cetonas/aldeídos
+
+**Determinação da estrutura:**
+
+**Dados experimentais:**
+- **Massa do alceno:** 3,5 g
+- **Volume de CO₂:** 1,4 L (CNTP)
+- **Produtos:** 1 cetona + 1 CO₂
+
+**Cálculo da massa molar:**
+```
+Proporção: 1 mol alceno → 1 mol CO₂
+Volume CO₂: 1,4 L ÷ 22,4 L/mol = 0,0625 mol
+Massa molar: 3,5 g ÷ 0,0625 mol = 56 g/mol
+```
+
+**Identificação do alceno:**
+```
+CₙH₂ₙ com M = 56 g/mol
+12n + 2n = 56
+14n = 56
+n = 4 → C₄H₈
+```
+
+**Possíveis isômeros de C₄H₈:**
+1. **But-1-eno:** CH₂=CH-CH₂-CH₃
+2. **But-2-eno:** CH₃-CH=CH-CH₃ (não produz CO₂)
+3. **Metilpropeno:** (CH₃)₂C=CH₂
+
+**Análise dos produtos:**
+- **But-1-eno:** Produziria CO₂ + propanal
+- **But-2-eno:** Produziria 2 acetaldeídos (sem CO₂)
+- **Metilpropeno:** Produz CO₂ + acetona ✓
+
+**Estrutura do metilpropeno:**
+```
+    CH₃
+    |
+CH₃-C=CH₂
+```
+
+**Reação específica:**
+```
+    CH₃              CH₃
+    |       [O]      |
+CH₃-C=CH₂  ————→  CH₃-C=O + CO₂ + H₂O
+                     |
+                    CH₃
+metilpropeno        acetona
+```
+
+**Nomenclatura IUPAC:**
+- **Nome oficial:** Metilpropeno
+- **Nome alternativo:** 2-metilprop-1-eno
+- **Nome comum:** Isobuteno
+
+**Aplicações práticas:**
+- **Análise estrutural:** Método clássico de identificação
+- **Síntese orgânica:** Quebra seletiva de ligações
+- **Indústria petroquímica:** Caracterização de hidrocarbonetos
+- **Pesquisa:** Determinação de estruturas desconhecidas
+
+**Dados importantes:**
+- **CNTP:** 0°C (273,15 K) e 1 atm
+- **Volume molar:** 22,4 L/mol para gases ideais
+- **Relação 1:1:** Alceno:CO₂ nesta reação específica
+- **Massa atômica:** C = 12, H = 1
+
+**Processo de resolução:**
+1. **Calcular mols de CO₂:** Volume ÷ 22,4 L/mol
+2. **Determinar massa molar:** Massa alceno ÷ mols CO₂
+3. **Encontrar fórmula:** CₙH₂ₙ com massa calculada
+4. **Identificar estrutura:** Considerar produtos da oxidação
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica e Estequiometria
+Habilidades avaliadas: Reações de oxidação, cálculos estequiométricos, volume molar, determinação de fórmulas moleculares, nomenclatura IUPAC, análise retrossintética.
+
+---
+
+**Questão 08:**
+
+O cobre metálico é obtido a partir do sulfeto de cobre I em duas etapas subsequentes, representadas pelas seguintes equações químicas:
+
+**Etapa 1:** 2 Cu₂S (s) + 3 O₂ (g) → 2 Cu₂O (s) + 2 SO₂ (g)
+
+**Etapa 2:** Cu₂O (s) + C (s) → 2 Cu (s) + CO (g)
+
+Em uma unidade industrial, 477 kg de Cu₂S reagiram com 100% de rendimento em cada uma das etapas.
+
+Nomeie os dois gases formados nesse processo. Em seguida, calcule o volume, em litros, de cada um desses gases, admitindo comportamento ideal e condições normais de temperatura e pressão.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Gases formados:**
+- Dióxido de enxofre
+- Monóxido de carbono
+
+**Cálculo dos volumes:**
+
+**Relação estequiométrica:**
+2 Cu₂S → 2 SO₂ → 2 CO
+
+318 g → 44,8 L → 44,8 L
+
+477.000 g → X → X        X = 67.200 L
+
+**Volumes nas CNTP:**
+- SO₂ = 6,72 × 10⁴ L
+- CO = 6,72 × 10⁴ L
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de estequiometria, gases ideais e processos metalúrgicos:
+
+1. **Processo metalúrgico do cobre**:
+   - **Matéria-prima**: Sulfeto de cobre I (Cu₂S)
+   - **Produto final**: Cobre metálico (Cu)
+   - **Etapas**: Processo de duas etapas sequenciais
+   - **Rendimento**: 100% em cada etapa (condição ideal)
+
+2. **Análise da Etapa 1**:
+   ```
+   2 Cu₂S (s) + 3 O₂ (g) → 2 Cu₂O (s) + 2 SO₂ (g)
+   ```
+   - **Tipo**: Reação de ustulação (oxidação)
+   - **Reagentes**: Sulfeto de cobre I + oxigênio
+   - **Produtos**: Óxido de cobre I + dióxido de enxofre
+   - **Objetivo**: Remover enxofre e formar óxido
+
+3. **Análise da Etapa 2**:
+   ```
+   Cu₂O (s) + C (s) → 2 Cu (s) + CO (g)
+   ```
+   - **Tipo**: Reação de redução
+   - **Agente redutor**: Carbono
+   - **Produto desejado**: Cobre metálico
+   - **Subproduto**: Monóxido de carbono
+
+4. **Identificação dos gases**:
+   
+   **Dióxido de enxofre (SO₂)**:
+   - **Formação**: Etapa 1
+   - **Características**: Gás tóxico, irritante
+   - **Nomenclatura**: Dióxido de enxofre
+   
+   **Monóxido de carbono (CO)**:
+   - **Formação**: Etapa 2
+   - **Características**: Gás tóxico, incolor, inodoro
+   - **Nomenclatura**: Monóxido de carbono
+
+5. **Dados para cálculos**:
+   - **Massa de Cu₂S**: 477 kg = 477.000 g
+   - **Condições**: CNTP (0°C, 1 atm)
+   - **Volume molar**: 22,4 L/mol nas CNTP
+   - **Rendimento**: 100% em ambas as etapas
+
+6. **Cálculo das massas molares**:
+   - **Cu₂S**: 2(63,5) + 32 = 159 g/mol
+   - **SO₂**: 32 + 2(16) = 64 g/mol
+   - **CO**: 12 + 16 = 28 g/mol
+
+7. **Relação estequiométrica global**:
+   - **Etapa 1**: 2 Cu₂S → 2 SO₂
+   - **Etapa 2**: 2 Cu₂S → 1 Cu₂O → 2 CO
+   - **Relação global**: 2 Cu₂S → 2 SO₂ → 2 CO
+   - **Simplificação**: 1 Cu₂S → 1 SO₂ → 1 CO
+
+8. **Cálculo do número de mols**:
+   - **Mols de Cu₂S**: 477.000 g ÷ 159 g/mol = 3.000 mol
+   - **Mols de SO₂**: 3.000 mol (relação 1:1)
+   - **Mols de CO**: 3.000 mol (relação 1:1)
+
+9. **Cálculo dos volumes nas CNTP**:
+   
+   **Volume de SO₂**:
+   - V = n × Vm = 3.000 mol × 22,4 L/mol = 67.200 L
+   - Notação científica: 6,72 × 10⁴ L
+   
+   **Volume de CO**:
+   - V = n × Vm = 3.000 mol × 22,4 L/mol = 67.200 L
+   - Notação científica: 6,72 × 10⁴ L
+
+10. **Verificação através da resposta oficial**:
+    - **Método alternativo**: Usando massa molar do Cu₂S
+    - 2 mol Cu₂S = 2 × 159 g = 318 g
+    - 2 mol de gás = 2 × 22,4 L = 44,8 L
+    - Proporção: 477.000 g × (44,8 L / 318 g) = 67.200 L
+
+11. **Aspectos ambientais**:
+    
+    **SO₂**:
+    - **Poluente**: Contribui para chuva ácida
+    - **Tratamento**: Necessário antes da liberação
+    - **Aproveitamento**: Pode ser convertido em ácido sulfúrico
+    
+    **CO**:
+    - **Toxicidade**: Extremamente tóxico
+    - **Uso**: Pode ser usado como combustível ou redutor
+
+12. **Processo industrial real**:
+    - **Controle ambiental**: Captura e tratamento de gases
+    - **Eficiência**: Rendimentos próximos a 100% são ideais
+    - **Economia**: Aproveitamento de subprodutos
+
+13. **Conceitos de gases ideais**:
+    - **Lei dos gases ideais**: PV = nRT
+    - **CNTP**: Condições padronizadas (0°C, 1 atm)
+    - **Volume molar**: 22,4 L/mol nas CNTP
+
+14. **Verificação dimensional**:
+    ```
+    [g] × [L/g] = [L]
+    [mol] × [L/mol] = [L]
+    477.000 g × (22,4 L/mol ÷ 159 g/mol) = 67.200 L
+    ```
+
+15. **Conceitos avaliados**:
+    - **Estequiometria**: Relações quantitativas em reações
+    - **Gases ideais**: Cálculos de volume
+    - **Processos metalúrgicos**: Sequência de reações
+    - **Nomenclatura inorgânica**: Óxidos e gases
+
+16. **Aplicações práticas**:
+    - **Metalurgia**: Extração de metais
+    - **Controle ambiental**: Tratamento de gases tóxicos
+    - **Economia circular**: Aproveitamento de subprodutos
+
+17. **Nível de complexidade**: Questão de nível intermediário que integra estequiometria, gases ideais e processos industriais.
+
+18. **Padrão UERJ**: Questão que combina conhecimentos teóricos com aplicação industrial, exigindo domínio de cálculos estequiométricos e compreensão de processos metalúrgicos.
+
+---
+

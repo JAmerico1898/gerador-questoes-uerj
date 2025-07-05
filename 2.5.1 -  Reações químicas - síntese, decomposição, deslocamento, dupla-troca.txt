@@ -1,0 +1,3622 @@
+**Questão 06**
+
+Uma indústria decidiu tratar seu descarte de 10000 L de solução aquosa de HNO₃ completamente ionizado, por meio da neutralização com CaCO₃. Para saber se esta substância deveria ser utilizada na forma de grãos ou em pó, foram realizados testes em igualdade de temperatura, pressão, concentração de HNO₃ e massa de CaCO₃. Observe a equação química a seguir, que representa a neutralização completa do HNO₃ com 5 kg de CaCO₃:
+
+**2 HNO₃ (aq) + CaCO₃ (s) → Ca(NO₃)₂ (aq) + H₂O (ℓ) + CO₂ (g)**
+
+Calcule o pH da solução do descarte antes da neutralização. Em seguida, indique a forma de CaCO₃ testada, grãos ou pó, que apresentou a maior velocidade de reação, justificando sua resposta.
+
+---
+
+**Gabarito Oficial**
+
+**Cálculo do pH da solução do descarte:**
+
+```
+Massa molar do CaCO₃: 40 + 12 + 16 × 3 = 100 g/mol
+
+Quantidade de matéria de CaCO₃ empregada: 5000 g / 100 g/mol = 50 mol
+
+Proporção estequiométrica:
+2 mol HNO₃ --- 1 mol CaCO₃
+n_HNO₃ --- 50 mol
+n_HNO₃ = 2 × 50 = 100 mol
+
+Concentração molar do HNO₃:
+[HNO₃] = [H⁺] = 100 mol / 10000 L = 10⁻² mol/L
+
+pH = −log[H⁺] = −log(10⁻²) = 2
+```
+
+**Forma do CaCO₃:** pó
+
+**Justificativa:** a superfície de contato do CaCO₃ em pó é maior.
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de físico-química aplicados ao tratamento industrial de resíduos. Os temas centrais incluem:
+
+- **Cálculo de pH:** Ácidos fortes completamente ionizados
+- **Estequiometria:** Neutralização ácido-base com carbonato
+- **Cinética química:** Fatores que afetam a velocidade de reação
+- **Química ambiental:** Tratamento de efluentes industriais
+- **Aplicação industrial:** Neutralização de resíduos ácidos
+
+**Conceitos-chave para o LLM:**
+- **HNO₃ completamente ionizado:** [H⁺] = [HNO₃] (ácido forte)
+- **Reação de neutralização:** Ácido + carbonato → sal + água + CO₂
+- **Superfície de contato:** Fator determinante da velocidade de reação
+- **Estequiometria 2:1:** 2 mols de HNO₃ para 1 mol de CaCO₃
+- **pH de ácidos fortes:** pH = −log[H⁺]
+
+**Dados importantes:**
+- Volume da solução: 10000 L
+- Massa de CaCO₃ utilizada: 5 kg = 5000 g
+- Massa molar CaCO₃: 100 g/mol
+- Equação balanceada: 2 HNO₃ + CaCO₃ → Ca(NO₃)₂ + H₂O + CO₂
+- HNO₃ completamente ionizado (ácido forte)
+
+**Processo de resolução:**
+1. Calcular mols de CaCO₃ (massa ÷ massa molar)
+2. Usar estequiometria para encontrar mols de HNO₃ (proporção 2:1)
+3. Calcular concentração molar de HNO₃ (mols ÷ volume)
+4. Como HNO₃ é forte: [H⁺] = [HNO₃]
+5. Calcular pH usando pH = −log[H⁺]
+6. Analisar fator cinético: superfície de contato (pó > grãos)
+
+**Aspectos de cinética química:**
+- Velocidade de reação depende da superfície de contato
+- CaCO₃ em pó tem maior área superficial que em grãos
+- Maior superfície = maior velocidade de reação
+- Condições iguais exceto forma física do reagente sólido
+
+Nível de dificuldade: Médio
+Área: Físico-Química e Química Analítica
+Habilidades avaliadas: Cálculos de pH, estequiometria de neutralização, cinética química, aplicação em processos industriais, tratamento de efluentes.
+
+---
+
+**Questão 08**
+
+Em um experimento para aplicar os conceitos de isomeria e reações orgânicas de adição e de eliminação, foi proposta a seguinte sequência reacional, envolvendo os hidrocarbonetos isômeros A e B:
+
+**Descrição detalhada do esquema reacional:**
+
+```
+                    +HCℓ           +KOH
+              A  ————————→  C₄H₉Cℓ  ————————→  B
+                              ↓        meio alcoólico
+                            +H₂│Pd
+                              ↓
+                         2,3-dimetilbutano
+```
+
+**Explicação do esquema:**
+- **Composto A:** Hidrocarboneto inicial (estrutura a ser determinada)
+- **Primeira reação:** A + HCℓ → C₄H₉Cℓ (reação de adição de HCℓ)
+- **Segunda reação:** C₄H₉Cℓ + KOH (meio alcoólico) → B (reação de eliminação)
+- **Terceira reação:** A + H₂ (catalisador Pd) → 2,3-dimetilbutano (hidrogenação catalítica)
+- **Composto B:** Hidrocarboneto isômero de A (produto da eliminação)
+
+Apresente a fórmula estrutural em linha de ligação do hidrocarboneto A. Em seguida, nomeie o tipo de isomeria plana entre A e B. Nomeie, também, o reagente inorgânico de caráter básico utilizado na sequência reacional.
+
+---
+
+**Gabarito Oficial**
+
+**Fórmula estrutural em linha de ligação:**
+```
+      |
+    C=C
+   /    \
+  C      C
+```
+
+*Descrição detalhada da estrutura do composto A:*
+- **Nome:** 2-metil-2-buteno ou 2-metilbut-2-eno
+- **Fórmula molecular:** C₅H₁₀
+- **Estrutura:** Cadeia de 4 carbonos com dupla ligação entre C2-C3 e um grupo metil ligado ao C2
+- **Representação expandida:** CH₃-C(CH₃)=CH-CH₃
+
+**Isomeria plana:** posição
+
+**Reagente inorgânico:** hidróxido de potássio
+
+---
+
+**Contexto para LLM:**
+Esta questão integra múltiplos conceitos de química orgânica em uma sequência reacional complexa. Os temas centrais incluem:
+
+- **Reações de adição:** Adição de HCℓ a alcenos (regra de Markovnikov)
+- **Reações de eliminação:** Eliminação de HCℓ com base forte em meio alcoólico
+- **Hidrogenação catalítica:** Redução de alcenos com H₂/Pd
+- **Isomeria de posição:** Diferentes posições da dupla ligação
+- **Análise retrossintética:** Determinação de estruturas através de produtos
+
+**Conceitos-chave para o LLM:**
+- **Composto A:** 2-metil-2-buteno (dupla ligação na posição 2)
+- **Composto B:** 3-metil-1-buteno (dupla ligação na posição 1)
+- **Intermediário:** Haleto de alquila secundário (C₄H₉Cℓ)
+- **Produto de hidrogenação:** 2,3-dimetilbutano (alcano saturado)
+- **KOH em meio alcoólico:** Condições para reação de eliminação (E2)
+
+**Mecanismos envolvidos:**
+1. **A + HCℓ:** Adição eletrofílica (Markovnikov) → haleto secundário
+2. **Haleto + KOH:** Eliminação E2 → alceno com dupla em posição diferente
+3. **A + H₂/Pd:** Hidrogenação catalítica → alcano com esqueleto ramificado
+
+**Análise da isomeria:**
+- **A e B:** Mesma fórmula molecular (C₅H₁₀)
+- **Diferença:** Posição da dupla ligação
+- **Tipo:** Isomeria de posição (subcategoria da isomeria constitucional)
+
+**Dados importantes:**
+- Fórmula molecular dos isômeros: C₅H₁₀
+- Produto de hidrogenação: 2,3-dimetilbutano
+- Intermediário: C₄H₉Cℓ (haleto de alquila)
+- Base utilizada: KOH (hidróxido de potássio)
+- Meio reacional: alcoólico (favorece eliminação)
+
+**Processo de resolução:**
+1. **Análise do produto de hidrogenação:** 2,3-dimetilbutano revela o esqueleto carbônico
+2. **Determinação de A:** Alceno que gera esse alcano por hidrogenação
+3. **Identificação da sequência:** A → haleto → B (reações de adição/eliminação)
+4. **Classificação da isomeria:** Comparar posições das duplas ligações
+
+Nível de dificuldade: Alto
+Área: Química Orgânica
+Habilidades avaliadas: Análise de sequências reacionais, determinação estrutural, mecanismos de reação, isomeria, síntese orgânica, interpretação de transformações químicas.
+
+---
+
+**Questão 07**
+
+Biopolímeros, como o ácido poliláctico (PLA), que podem ser sintetizados por organismos vivos, vêm sendo empregados na produção de embalagens descartáveis e de fibras para roupas, diminuindo impactos ambientais.
+
+O PLA é um poliéster alifático e sua reação de polimerização se inicia a partir de seu monômero, o ácido láctico, oficialmente nomeado ácido 2-hidroxipropanoico.
+
+Em relação a esse monômero, apresente a fórmula estrutural em linha de ligação e determine o número de oxidação do carbono pertencente ao grupo carboxila. Escreva, ainda, a equação química completa e balanceada correspondente à reação de polimerização.
+
+---
+
+**Gabarito Oficial**
+
+**Fórmula estrutural do monômero:**
+```
+       O
+       ||
+   H₃C-CH-C-OH
+       |
+       OH
+```
+
+*Descrição detalhada da estrutura:*
+- **Carbono 1:** Metil (CH₃) - carbono primário
+- **Carbono 2:** Ligado a OH, H e ao carbono carboxílico - carbono secundário quiral
+- **Carbono 3:** Grupo carboxila (COOH) - carbono do ácido carboxílico
+- **Fórmula molecular:** C₃H₆O₃
+- **Nome oficial:** Ácido 2-hidroxipropanoico
+
+**Número de oxidação do carbono:** +3
+
+**Reação de polimerização:**
+```
+              O                                O
+              ||                               ||
+(n + 2) H₃C-CH-C-OH  ——→  HO-CH-C-O-[CH-C-O-]ₙ-CH-C-OH + (n + 1) H₂O
+              |                |       |       |
+              OH              CH₃     CH₃     CH₃
+```
+
+*Explicação da reação:*
+- **Tipo:** Polimerização por condensação
+- **Mecanismo:** Eliminação de água entre grupos COOH e OH
+- **Produto:** Poliéster com ligações éster (-COO-)
+- **Subproduto:** Água (n + 1 moléculas)
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica, polímeros e sustentabilidade ambiental. Os temas centrais incluem:
+
+- **Biopolímeros:** Polímeros biodegradáveis de origem biológica
+- **Polimerização por condensação:** Formação de polímeros com eliminação de moléculas pequenas
+- **Números de oxidação:** Determinação em compostos orgânicos
+- **Nomenclatura IUPAC:** Ácidos carboxílicos funcionalizados
+- **Química verde:** Alternativas sustentáveis aos polímeros convencionais
+
+**Conceitos-chave para o LLM:**
+- **Ácido láctico:** Monômero do PLA, produzido por fermentação
+- **Poliéster:** Polímero com ligações éster repetidas
+- **Centro quiral:** Carbono 2 do ácido láctico (estereoisomeria)
+- **Ligação éster:** Formada entre COOH e OH com eliminação de H₂O
+- **Biodegradabilidade:** Quebra por enzimas naturais
+
+**Análise estrutural detalhada:**
+
+**Monômero (ácido láctico):**
+- **Grupos funcionais:** Ácido carboxílico (-COOH) + álcool secundário (-OH)
+- **Quiralidade:** Carbono 2 é centro quiral (4 grupos diferentes)
+- **Reatividade:** Ambos os grupos podem participar da polimerização
+
+**Determinação do NOx do carbono carboxílico:**
+```
+Carbono na carboxila: C-OH + C=O
+Ligações: C-O (×2) + C-C (×1)
+NOx = +4 - 1 (ligação C-C) = +3
+```
+
+**Mecanismo de polimerização:**
+1. **Ativação:** Grupo COOH de uma molécula
+2. **Ataque nucleofílico:** OH de outra molécula ataca o carbono carbonílico
+3. **Eliminação:** Saída de H₂O
+4. **Formação:** Ligação éster C-O-C=O
+5. **Propagação:** Repetição com crescimento da cadeia
+
+**Propriedades do PLA:**
+- **Biodegradabilidade:** Decomposição por hidrólise e enzimas
+- **Biocompatibilidade:** Não tóxico, usado em implantes médicos
+- **Processabilidade:** Similar aos termoplásticos convencionais
+- **Origem renovável:** Produzido a partir de biomassa
+
+**Aplicações práticas:**
+- **Embalagens:** Substituição de plásticos convencionais
+- **Têxtil:** Fibras para roupas esportivas e de cama
+- **Medicina:** Suturas biodegradáveis e implantes temporários
+- **Impressão 3D:** Filamento popular por ser atóxico
+
+**Aspectos ambientais:**
+- **Redução de poluição:** Alternativa aos plásticos persistentes
+- **Compostagem:** Decomposição em condições industriais controladas
+- **Pegada de carbono:** Menor impacto na produção vs plásticos petroquímicos
+- **Economia circular:** Produção a partir de resíduos agrícolas
+
+**Dados da reação:**
+- **Estequiometria:** (n+2) monômeros → 1 polímero + (n+1) H₂O
+- **Condições:** Catálise ácida ou enzimática, temperatura elevada
+- **Reversibilidade:** Hidrólise quebra as ligações éster
+- **Grau de polimerização:** Variável, determina propriedades finais
+
+**Processo de resolução:**
+1. **Estrutura:** Desenhar ácido 2-hidroxipropanoico
+2. **NOx:** Analisar ligações do carbono carboxílico
+3. **Polimerização:** Conectar moléculas via formação de ésteres
+4. **Balanceamento:** Contar moléculas de água eliminadas
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica e Polímeros
+Habilidades avaliadas: Estruturas orgânicas, números de oxidação, reações de polimerização, nomenclatura IUPAC, aplicações sustentáveis, mecanismos de condensação.
+
+---
+
+**Questão 10**
+
+A dissolução de sais em água produz soluções ácidas, básicas ou neutras, dependendo da reação de hidrólise do sal.
+
+Considere uma solução aquosa de etanoato de sódio, totalmente dissociado, na concentração de 0,05 mol/L, e os seguintes valores das constantes de ionização Kw da água e Ka do ácido etanoico, à temperatura de 25°C:
+
+**Constantes fornecidas:**
+- **Kw = 1,0 × 10⁻¹⁴**
+- **Ka = 2,0 × 10⁻⁵**
+
+Sabendo que um dos íons do etanoato de sódio sofre hidrólise, escreva a equação química que representa essa hidrólise. Calcule, ainda, o pH da solução salina mencionada, considerando log 5 = 0,7.
+
+---
+
+**Gabarito Oficial**
+
+**Hidrólise do íon etanoato:**
+```
+H₃C—COO⁻ + H₂O ⇌ H₃C—COOH + OH⁻
+```
+
+*Explicação da hidrólise:*
+- **Íon que hidrolisa:** CH₃COO⁻ (etanoato/acetato)
+- **Tipo:** Hidrólise básica (produz OH⁻)
+- **Razão:** Base conjugada de ácido fraco
+- **Resultado:** Solução com pH > 7
+
+**Cálculo do pH:**
+
+```
+        Kw     1,0 × 10⁻¹⁴
+Kh = ——— = ——————————— = 5,0 × 10⁻¹⁰
+        Ka     2,0 × 10⁻⁵
+
+         _______________
+Kh = M × α² ⇒ α = √(5,0 × 10⁻¹⁰/5,0 × 10⁻²) = 10⁻⁴
+
+[OH⁻] = M × α = 5 × 10⁻² × 10⁻⁴ = 5 × 10⁻⁶ mol/L
+
+pOH = -log[OH⁻] = -log(5 × 10⁻⁶) = -log 5 + 6 = -0,7 + 6 = 5,3
+
+pH = 14 - pOH = 14 - 5,3 = 8,7
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão aborda conceitos avançados de equilíbrio ácido-base e hidrólise salina. Os temas centrais incluem:
+
+- **Hidrólise salina:** Reação de íons com água alterando o pH
+- **Sais de ácido fraco + base forte:** Produzem soluções básicas
+- **Constantes de equilíbrio:** Relação entre Kw, Ka e Kh
+- **Cálculos de pH:** Aproximações para eletrólitos fracos
+- **Grau de hidrólise:** Extensão da reação de hidrólise
+
+**Conceitos-chave para o LLM:**
+- **Etanoato de sódio:** CH₃COONa (sal de ácido fraco + base forte)
+- **Hidrólise básica:** Apenas o ânion hidrolisa (cátion espectador)
+- **Constante de hidrólise:** Kh = Kw/Ka
+- **Aproximação:** α pequeno permite simplificações
+- **Relação pH-pOH:** pH + pOH = 14 (25°C)
+
+**Análise da hidrólise:**
+
+**Dissociação do sal:**
+```
+CH₃COONa (s) → CH₃COO⁻ (aq) + Na⁺ (aq)
+```
+
+**Comportamento dos íons:**
+- **Na⁺:** Cátion de base forte (NaOH) → não hidrolisa
+- **CH₃COO⁻:** Ânion de ácido fraco (CH₃COOH) → hidrolisa
+
+**Equação de hidrólise:**
+```
+CH₃COO⁻ + H₂O ⇌ CH₃COOH + OH⁻
+```
+
+**Cálculos detalhados:**
+
+**1. Constante de hidrólise:**
+```
+Kh = Kw/Ka = (1,0 × 10⁻¹⁴)/(2,0 × 10⁻⁵) = 5,0 × 10⁻¹⁰
+```
+
+**2. Expressão de equilíbrio:**
+```
+Kh = [CH₃COOH][OH⁻]/[CH₃COO⁻]
+```
+
+**3. Tabela ICE:**
+```
+              CH₃COO⁻    +    H₂O    ⇌    CH₃COOH    +    OH⁻
+Inicial:      0,05            -              0              0
+Variação:     -x              -              +x             +x
+Equilíbrio:   0,05-x          -              x              x
+```
+
+**4. Aproximação (α << 1):**
+```
+Kh = x²/(0,05) = 5,0 × 10⁻¹⁰
+x² = 5,0 × 10⁻¹⁰ × 5,0 × 10⁻²
+x² = 2,5 × 10⁻¹¹
+x = 5,0 × 10⁻⁶ mol/L = [OH⁻]
+```
+
+**5. Grau de hidrólise:**
+```
+α = x/C₀ = (5,0 × 10⁻⁶)/(5,0 × 10⁻²) = 1,0 × 10⁻⁴ = 0,01%
+```
+
+**6. Cálculo do pH:**
+```
+pOH = -log(5,0 × 10⁻⁶) = -log 5 - log 10⁻⁶ = -0,7 + 6 = 5,3
+pH = 14 - 5,3 = 8,7
+```
+
+**Verificação da aproximação:**
+- **α = 0,01% << 5%** → Aproximação válida
+- **pH = 8,7 > 7** → Solução básica (coerente)
+
+**Características do sistema:**
+- **Concentração:** 0,05 mol/L (relativamente diluída)
+- **Temperatura:** 25°C (condições padrão)
+- **Força do ácido:** Ka = 2,0 × 10⁻⁵ (ácido fraco)
+- **Extensão da hidrólise:** Baixa (α = 0,01%)
+
+**Aplicações práticas:**
+- **Soluções tampão:** Sistemas acetato são tampões importantes
+- **Análise de alimentos:** pH de conservantes acetatos
+- **Bioquímica:** Acetato no metabolismo celular
+- **Indústria farmacêutica:** Controle de pH em formulações
+
+**Dados importantes:**
+- **Kw (25°C):** 1,0 × 10⁻¹⁴
+- **Ka (ácido etanoico):** 2,0 × 10⁻⁵
+- **log 5:** 0,7 (dado para cálculos)
+- **Concentração do sal:** 0,05 mol/L
+
+**Processo de resolução:**
+1. **Identificar hidrólise:** Apenas CH₃COO⁻ hidrolisa
+2. **Calcular Kh:** Usar relação Kh = Kw/Ka
+3. **Resolver equilíbrio:** Aproximação para eletrólito fraco
+4. **Calcular pH:** Via pOH e relação pH + pOH = 14
+
+Nível de dificuldade: Alto
+Área: Equilíbrio Químico e Ácido-Base
+Habilidades avaliadas: Hidrólise salina, cálculos de pH, constantes de equilíbrio, aproximações matemáticas, interpretação de resultados, aplicação de logaritmos.
+
+---
+
+**Questão 09**
+
+O ácido pícrico é utilizado tanto na fabricação de pomadas para queimaduras como em detonadores e explosivos. A formação desse ácido, a partir do fenol, está representada na equação química a seguir:
+
+**Reação química:**
+```
+     OH                           OH
+     |                            |
+  [benzeno] + 3 HNO₃ ——→  O₂N—[benzeno]—NO₂ + 3 H₂O
+                                  |
+                                 NO₂
+
+   Fenol                    Ácido pícrico
+```
+
+*Descrição detalhada da reação:*
+- **Reagente:** Fenol (C₆H₅OH) - anel benzênico com grupo hidroxila (-OH)
+- **Reagente:** 3 moléculas de ácido nítrico (HNO₃)
+- **Produto principal:** Ácido pícrico - fenol com três grupos nitro (-NO₂)
+  - **Posições dos grupos NO₂:** Carbonos 2, 4 e 6 (orto e para ao grupo OH)
+- **Produto secundário:** 3 moléculas de água (H₂O)
+- **Nome IUPAC do ácido pícrico:** 2,4,6-trinitrofenol
+
+Com base nessa reação, indique qual composto orgânico, fenol ou ácido pícrico, apresenta maior acidez, justificando sua resposta.
+
+Em seguida, nomeie o reagente inorgânico e classifique a reação quanto ao mecanismo da partícula reagente.
+
+---
+
+**Gabarito Oficial**
+
+**Composto com maior acidez:** Ácido pícrico
+
+**Justificativa:** o ácido pícrico apresenta maior acidez pois os grupamentos nitro são eletroatraentes e aumentam a acidez.
+
+**Reagente inorgânico:** ácido nítrico
+
+**Classificação da reação:** reação de substituição eletrofílica
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica, acidez e mecanismos reacionais. Os temas centrais incluem:
+
+- **Substituição eletrofílica aromática:** Nitração do fenol
+- **Acidez de compostos orgânicos:** Efeito de grupos funcionais na acidez
+- **Grupos eletroatraentes:** Influência dos grupos nitro na densidade eletrônica
+- **Estabilização por ressonância:** Estabilidade da base conjugada
+- **Aplicações práticas:** Medicamentos e explosivos
+
+**Conceitos-chave para o LLM:**
+- **Ácido pícrico:** 2,4,6-trinitrofenol, muito mais ácido que fenol
+- **Grupos nitro (-NO₂):** Fortemente eletroatraentes (efeito -I e -M)
+- **Substituição eletrofílica:** Mecanismo de reação em anéis aromáticos
+- **HNO₃:** Ácido nítrico, agente nitrante
+- **Orientação:** Grupos OH dirigem para posições orto e para
+
+**Análise da acidez:**
+
+**Fenol (C₆H₅OH):**
+- **pKa:** ~10,0
+- **Acidez:** Moderadamente ácido (mais que álcoois)
+- **Estabilização:** Ressonância do ânion fenóxido com o anel
+
+**Ácido pícrico (2,4,6-trinitrofenol):**
+- **pKa:** ~0,4
+- **Acidez:** Muito forte (comparável a ácidos minerais)
+- **Estabilização:** Três grupos NO₂ estabilizam fortemente a base conjugada
+
+**Justificativa da maior acidez do ácido pícrico:**
+
+**Efeito dos grupos nitro:**
+1. **Efeito indutivo (-I):** Retiram densidade eletrônica por eletronegatividade
+2. **Efeito mesomérico (-M):** Retiram elétrons por ressonância
+3. **Estabilização da base conjugada:** Deslocalização da carga negativa
+
+**Estruturas de ressonância do ânion picrato:**
+```
+O ânion picrato pode deslocalizar a carga negativa através:
+- Do anel benzênico
+- Dos três grupos nitro
+- Múltiplas estruturas canônicas
+```
+
+**Comparação quantitativa:**
+- **Fenol:** pKa ≈ 10 → [H⁺] = 10⁻¹⁰ M
+- **Ácido pícrico:** pKa ≈ 0,4 → [H⁺] = 10⁻⁰'⁴ M
+- **Diferença:** Ácido pícrico é ~10⁹'⁶ vezes mais ácido
+
+**Análise da reação:**
+
+**Reagente inorgânico:** Ácido nítrico (HNO₃)
+- **Função:** Agente nitrante
+- **Forma ativa:** Íon nitrônio (NO₂⁺) em meio ácido
+- **Geração:** HNO₃ + H₂SO₄ → NO₂⁺ + HSO₄⁻ + H₂O
+
+**Mecanismo da substituição eletrofílica aromática:**
+
+**Etapa 1 - Formação do eletrófilo:**
+```
+HNO₃ + H₂SO₄ → NO₂⁺ + HSO₄⁻ + H₂O
+```
+
+**Etapa 2 - Ataque eletrofílico:**
+```
+C₆H₅OH + NO₂⁺ → [C₆H₅OH-NO₂]⁺ (íon arenônio)
+```
+
+**Etapa 3 - Eliminação do próton:**
+```
+[C₆H₅OH-NO₂]⁺ → C₆H₄(OH)(NO₂) + H⁺
+```
+
+**Repetição:** Processo ocorre três vezes (posições 2, 4, 6)
+
+**Orientação da substituição:**
+
+**Grupo OH como diretor:**
+- **Tipo:** Ativante e orto/para dirigente
+- **Mecanismo:** Doação de elétrons por ressonância (+M)
+- **Resultado:** Substituição nas posições 2, 4 e 6
+
+**Ordem de substituição:**
+1. **Primeira:** Posição para (4) - menos impedimento
+2. **Segunda:** Posições orto (2 e 6)
+3. **Resultado:** 2,4,6-trinitrofenol
+
+**Aplicações práticas:**
+
+**Uso medicinal:**
+- **Antisséptico:** Propriedades bactericidas
+- **Queimaduras:** Tratamento tópico (uso limitado)
+- **Toxicidade:** Absorção pela pele pode ser perigosa
+
+**Uso militar/industrial:**
+- **Explosivos:** Alto poder detonante
+- **Detonadores:** Sensível ao impacto
+- **Munições:** Projéteis de artilharia (historicamente)
+
+**Aspectos de segurança:**
+- **Instabilidade:** Forma sais metálicos explosivos
+- **Toxicidade:** Absorção cutânea, nefrotóxico
+- **Manuseio:** Requer cuidados especiais
+- **Armazenamento:** Manter úmido para evitar explosões
+
+**Propriedades físico-químicas:**
+
+**Ácido pícrico:**
+- **Cor:** Amarelo intenso
+- **Solubilidade:** Solúvel em água e etanol
+- **Ponto de fusão:** 122°C
+- **Estabilidade:** Estável quando úmido
+
+**Comparação com outros nitroderivados:**
+- **TNT (trinitrotolueno):** Menos sensível, mais seguro
+- **Nitrobenzeno:** Mono-substituído, menos explosivo
+- **Ácido nítrico:** Agente nitrante, oxidante forte
+
+**Dados importantes:**
+- **Fórmula do ácido pícrico:** C₆H₂(NO₂)₃OH
+- **Massa molar:** 229 g/mol
+- **Densidade:** ~1,76 g/cm³
+- **Velocidade de detonação:** ~7000 m/s
+
+**Processo de resolução:**
+1. **Comparar acidez:** Grupos NO₂ aumentam acidez vs fenol simples
+2. **Identificar reagente:** HNO₃ (ácido nítrico)
+3. **Classificar mecanismo:** Substituição eletrofílica aromática
+4. **Justificar:** Efeito eletroatraente dos grupos nitro
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica
+Habilidades avaliadas: Mecanismos de reação, acidez de compostos orgânicos, substituição eletrofílica aromática, efeitos eletrônicos, aplicações práticas da química orgânica.
+
+---
+
+**Questão 06**
+
+**Texto de referência:**
+
+*Café quentinho a qualquer hora: chegou ao Brasil o café hot when you want, que, em português, significa "quente quando você quiser". Basta apertar um botão no fundo da lata, esperar três minutos e pronto! Café quentinho por 20 minutos!*
+
+*Adaptado de www1.folha.uol.com.br, 15/02/2002.*
+
+Para garantir o aquecimento, as latas desse produto possuem um compartimento com óxido de cálcio e outro com água. Ao pressionar o botão, essas duas substâncias se misturam, gerando energia e esquentando o café rapidamente.
+
+Escreva a equação química que representa a reação entre o óxido de cálcio e a água, nomeando o produto formado.
+
+Classifique, ainda, a reação química ocorrida quanto ao calor envolvido.
+
+---
+
+**Gabarito Oficial**
+
+**Equação química:**
+```
+CaO + H₂O → Ca(OH)₂
+```
+
+**Produto:** hidróxido de cálcio
+
+**Reação:** exotérmica
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química inorgânica com aplicações tecnológicas cotidianas. Os temas centrais incluem:
+
+- **Reações de óxidos básicos:** Reação de óxidos metálicos com água
+- **Termoquímica:** Classificação de reações quanto ao calor
+- **Nomenclatura química:** Identificação de hidróxidos
+- **Aplicações práticas:** Tecnologia de autoaquecimento
+- **Inovações alimentícias:** Sistemas de aquecimento instantâneo
+
+**Conceitos-chave para o LLM:**
+- **Óxido de cálcio (CaO):** Cal viva, óxido básico
+- **Hidratação:** Reação com água formando hidróxido
+- **Reação exotérmica:** Libera energia térmica
+- **Hidróxido de cálcio:** Ca(OH)₂, cal hidratada/apagada
+- **Autoaquecimento:** Tecnologia baseada em reações químicas
+
+**Análise da reação química:**
+
+**Reação de hidratação do óxido de cálcio:**
+```
+CaO(s) + H₂O(ℓ) → Ca(OH)₂(s) + calor
+```
+
+**Características da reação:**
+- **Tipo:** Síntese ou combinação
+- **Natureza:** Hidratação de óxido básico
+- **Velocidade:** Rápida e vigorosa
+- **Energia:** Altamente exotérmica
+
+**Nomenclatura do produto:**
+
+**Ca(OH)₂ - Hidróxido de cálcio:**
+- **Nome comum:** Cal hidratada ou cal apagada
+- **Classificação:** Base inorgânica
+- **Solubilidade:** Pouco solúvel em água
+- **Caráter:** Básico (pH ~12)
+
+**Classificação termoquímica:**
+
+**Reação exotérmica:**
+- **Definição:** Libera energia na forma de calor
+- **ΔH:** Negativo (ΔH < 0)
+- **Temperatura:** Sistema aquece durante a reação
+- **Aplicação:** Energia liberada aquece o café
+
+**Dados energéticos:**
+- **Entalpia de reação:** ΔH ≈ -65 kJ/mol
+- **Temperatura atingida:** Pode ultrapassar 100°C
+- **Duração:** Aquecimento sustentado por 20 minutos
+
+**Mecanismo de funcionamento:**
+
+**Sistema de autoaquecimento:**
+1. **Compartimentos separados:** CaO e H₂O isolados
+2. **Ativação:** Botão rompe barreira entre compartimentos
+3. **Mistura:** Reagentes entram em contato
+4. **Reação:** CaO + H₂O → Ca(OH)₂ + calor
+5. **Transferência:** Calor aquece o café
+
+**Vantagens tecnológicas:**
+- **Portabilidade:** Não requer fonte externa de energia
+- **Praticidade:** Ativação instantânea
+- **Duração:** Aquecimento prolongado
+- **Segurança:** Reação controlada
+
+**Propriedades dos reagentes e produtos:**
+
+**Óxido de cálcio (CaO):**
+- **Aparência:** Sólido branco
+- **Nome comum:** Cal viva
+- **Reatividade:** Muito reativo com água
+- **Higroscópico:** Absorve umidade do ar
+
+**Água (H₂O):**
+- **Função:** Agente hidratante
+- **Estado:** Líquido nas condições de uso
+- **Quantidade:** Estequiometria 1:1 com CaO
+
+**Hidróxido de cálcio [Ca(OH)₂]:**
+- **Aparência:** Sólido branco
+- **Solubilidade:** 1,85 g/L a 0°C
+- **pH:** Fortemente básico
+- **Estabilidade:** Estável ao ar
+
+**Outras aplicações da reação CaO + H₂O:**
+
+**Construção civil:**
+- **Argamassa:** Cal hidratada em misturas
+- **Pintura:** Cal como pigmento branco
+- **Estabilização:** Tratamento de solos
+
+**Indústria química:**
+- **Neutralização:** Controle de pH
+- **Precipitação:** Remoção de impurezas
+- **Síntese:** Precursor de outros compostos
+
+**Aspectos de segurança:**
+
+**Precauções com CaO:**
+- **Corrosivo:** Pode causar queimaduras
+- **Calor intenso:** Reação muito exotérmica
+- **Proteção:** Uso de equipamentos adequados
+- **Ventilação:** Evitar inalação de vapores
+
+**Considerações ambientais:**
+- **Produtos atóxicos:** Ca(OH)₂ é relativamente seguro
+- **Biodegradabilidade:** Compostos inorgânicos simples
+- **Descarte:** Neutralização antes do descarte
+
+**Cálculos energéticos:**
+
+**Energia liberada:**
+```
+CaO + H₂O → Ca(OH)₂     ΔH = -65 kJ/mol
+
+Para 1 g de CaO (MM = 56 g/mol):
+n = 1/56 ≈ 0,018 mol
+Energia = 0,018 × 65 ≈ 1,2 kJ
+```
+
+**Capacidade de aquecimento:**
+- **Energia específica:** ~1 kJ/g de CaO
+- **Comparação:** Eficiente para aquecimento rápido
+- **Duração:** Calor latente mantém temperatura
+
+**Dados importantes:**
+- **Reação:** CaO + H₂O → Ca(OH)₂
+- **Produto:** Hidróxido de cálcio (cal hidratada)
+- **Classificação:** Exotérmica
+- **Aplicação:** Autoaquecimento de bebidas
+
+**Processo de resolução:**
+1. **Identificar reagentes:** CaO (óxido básico) + H₂O
+2. **Prever produto:** Óxido básico + água → hidróxido
+3. **Escrever equação:** CaO + H₂O → Ca(OH)₂
+4. **Classificar termicamente:** Liberação de calor → exotérmica
+
+Nível de dificuldade: Básico-Médio
+Área: Química Inorgânica e Termoquímica
+Habilidades avaliadas: Reações de óxidos, nomenclatura de hidróxidos, classificação termoquímica, aplicações tecnológicas, interpretação de contextos práticos.
+
+---
+
+**Questão 07**
+
+A bioplastia é um procedimento estético que, se feito de forma segura, permite preencher pequenas regiões do corpo. Para isso, injetam-se no paciente quantidades reduzidas do polímero polimetilacrilato de metila (PMMA), produzido a partir do metilacrilato de metila, conforme a seguinte reação química de polimerização:
+
+**Reação de polimerização:**
+
+```
+                     H    CH₃
+                     |    |
+              H—C═C—C—O—CH₃
+                     |    
+                     H—C—O—CH₃
+                         ||
+                         O
+
+        metilacrilato de metila
+
+                P,T
+              catalisador
+                  ↓
+
+        ┌─ H   CH₃                     ─┐
+        │  |    |                       │
+    ──C—C──C—C──                      │ n
+        │  |    |                       │
+        │  H    C—O—CH₃                │
+        │       ||                      │
+        └─      O                      ─┘
+
+     polimetilacrilato de metila
+```
+
+*Descrição detalhada da reação:*
+
+**Monômero (metilacrilato de metila):**
+- **Cadeia principal:** Dupla ligação C=C com um carbono substituído por CH₃
+- **Grupo funcional:** Éster (-COO-)
+- **Substituintes:** Grupo metila (CH₃) na dupla ligação e grupo metoxila (OCH₃) no éster
+- **Fórmula molecular:** C₅H₈O₂
+
+**Polímero (PMMA):**
+- **Estrutura:** Cadeia saturada formada pela abertura da dupla ligação
+- **Grupo lateral:** Grupo éster metílico pendente (-COOCH₃)
+- **Repetição:** Unidade monomérica repetida n vezes
+- **Formação:** Polimerização por adição
+
+Classifique a reação química de polimerização e nomeie a função orgânica oxigenada presente no polímero.
+
+Em seguida, calcule o número de unidades de monômero presente em uma molécula do polímero com massa molar igual a 20000 g/mol.
+
+---
+
+**Gabarito Oficial**
+
+**Classificação:** adição
+
+**Função orgânica:** éster
+
+**Cálculo:**
+```
+Massa molar do monômero: 100 g/mol
+Número de unidades: 20000/100 = 200 unidades
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica (polímeros) com aplicações médicas estéticas. Os temas centrais incluem:
+
+- **Polimerização por adição:** Formação de polímeros pela abertura de duplas ligações
+- **Funções orgânicas:** Identificação de grupos funcionais em polímeros
+- **Cálculos de massa molar:** Relação entre massa molar e grau de polimerização
+- **Aplicações biomédicas:** Uso de polímeros em procedimentos estéticos
+- **PMMA:** Polímero importante com diversas aplicações industriais
+
+**Conceitos-chave para o LLM:**
+- **Polimerização por adição:** Quebra da dupla ligação C=C sem eliminação
+- **Metilacrilato de metila:** Monômero com dupla ligação e grupo éster
+- **PMMA:** Polímero termoplástico, transparente e biocompatível
+- **Éster:** Grupo funcional -COO- presente no polímero
+- **Grau de polimerização:** Número de unidades monoméricas na cadeia
+
+**Análise da reação de polimerização:**
+
+**Classificação: Polimerização por adição**
+
+**Características da reação:**
+- **Mecanismo:** Abertura da dupla ligação C=C
+- **Iniciação:** Radicais livres ou catalisadores
+- **Propagação:** Crescimento da cadeia por adições sucessivas
+- **Terminação:** Combinação ou desproporção de radicais
+
+**Diferença com condensação:**
+- **Adição:** Não há eliminação de moléculas pequenas
+- **Condensação:** Eliminação de H₂O, HCl, etc.
+- **Exemplo PMMA:** Apenas quebra de dupla ligação
+
+**Identificação da função orgânica:**
+
+**Função éster (-COO-):**
+```
+     O
+     ||
+—C—O—CH₃
+```
+
+**Características do grupo éster:**
+- **Fórmula geral:** R-COO-R'
+- **No PMMA:** -COOCH₃ (éster metílico)
+- **Propriedades:** Polar, pode formar ligações de hidrogênio fracas
+- **Estabilidade:** Resistente à hidrólise em condições normais
+
+**Cálculo do grau de polimerização:**
+
+**Dados fornecidos:**
+- **Massa molar do polímero:** 20000 g/mol
+- **Necessário:** Número de unidades monoméricas
+
+**Cálculo da massa molar do monômero:**
+```
+Metilacrilato de metila: C₅H₈O₂
+C: 5 × 12 = 60 g/mol
+H: 8 × 1 = 8 g/mol  
+O: 2 × 16 = 32 g/mol
+Total: 100 g/mol
+```
+
+**Grau de polimerização:**
+```
+n = Massa molar do polímero / Massa molar do monômero
+n = 20000 g/mol / 100 g/mol = 200 unidades
+```
+
+**Propriedades e aplicações do PMMA:**
+
+**Propriedades físicas:**
+- **Transparência:** ~92% de transmitância
+- **Densidade:** ~1,18 g/cm³
+- **Temperatura de transição vítrea:** ~105°C
+- **Resistência:** Boa resistência ao impacto
+
+**Aplicações médicas:**
+- **Bioplastia:** Preenchimento facial e corporal
+- **Lentes intraoculares:** Cirurgia de catarata
+- **Próteses ósseas:** Cimento ósseo
+- **Dispositivos médicos:** Diversos implantes
+
+**Outras aplicações:**
+- **Óptica:** Lentes, janelas de aviões
+- **Arquitetura:** Coberturas transparentes
+- **Arte:** Esculturas e objetos decorativos
+- **Eletrônicos:** Displays e telas
+
+**Aspectos de segurança na bioplastia:**
+
+**Biocompatibilidade:**
+- **PMMA aprovado:** FDA e ANVISA para uso médico
+- **Inerte:** Não reativo com tecidos biológicos
+- **Durabilidade:** Permanente, não biodegradável
+- **Integração:** Boa aceitação pelos tecidos
+
+**Riscos e cuidados:**
+- **Qualidade do produto:** Pureza e esterilidade
+- **Técnica adequada:** Profissional qualificado
+- **Quantidade:** Doses controladas
+- **Acompanhamento:** Monitoramento pós-procedimento
+
+**Mecanismo de polimerização radicalar:**
+
+**Iniciação:**
+```
+Iniciador → 2R• (radicais livres)
+R• + CH₂=C(CH₃)COOCH₃ → R-CH₂-•C(CH₃)COOCH₃
+```
+
+**Propagação:**
+```
+R-CH₂-•C(CH₃)COOCH₃ + n[CH₂=C(CH₃)COOCH₃] → 
+R-[CH₂-C(CH₃)COOCH₃]ₙ-CH₂-•C(CH₃)COOCH₃
+```
+
+**Terminação:**
+```
+2 radicais → molécula estável (combinação ou desproporção)
+```
+
+**Fatores que afetam a polimerização:**
+- **Temperatura:** Influencia velocidade e massa molar
+- **Concentração do iniciador:** Afeta número de cadeias
+- **Solvente:** Pode influenciar mecanismo
+- **Tempo:** Determina conversão e propriedades
+
+**Dados importantes:**
+- **Monômero:** C₅H₈O₂ (100 g/mol)
+- **Função:** Éster (-COOCH₃)
+- **Tipo:** Polimerização por adição
+- **Grau de polimerização:** 200 unidades para MM = 20000 g/mol
+
+**Processo de resolução:**
+1. **Classificar reação:** Abertura de dupla ligação → adição
+2. **Identificar função:** Grupo -COO- → éster
+3. **Calcular MM do monômero:** C₅H₈O₂ = 100 g/mol
+4. **Determinar grau:** 20000 ÷ 100 = 200 unidades
+
+Nível de dificuldade: Médio
+Área: Química Orgânica (Polímeros)
+Habilidades avaliadas: Mecanismos de polimerização, funções orgânicas, cálculos de massa molar, aplicações de polímeros, interpretação de estruturas químicas.
+
+---
+
+**Questão 09**
+
+A reação química de adição entre haletos orgânicos e magnésio produz compostos de Grignard. Um exemplo desses compostos é o brometo de etilmagnésio.
+
+Em um experimento, a pentan-2-ona reagiu com o brometo de etilmagnésio. Posteriormente, o produto dessa reação foi submetido à hidrólise.
+
+Apresente a fórmula estrutural do reagente oxigenado, empregando a notação em linha de ligação.
+
+Considerando os dois produtos formados ao final da hidrólise, nomeie o produto orgânico e indique a fórmula química do produto inorgânico.
+
+---
+
+**Gabarito Oficial**
+
+**Reagente oxigenado:**
+```
+    O
+    ||
+    C—CH₂—CH₂—CH₃
+   /
+CH₃
+```
+
+**Produto orgânico:** 3-metil-hexan-3-ol
+
+**Produto inorgânico:** MgOHBr
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química organometálica e síntese orgânica, abordando reagentes de Grignard. Os temas centrais incluem:
+
+- **Reagentes de Grignard:** Compostos organomagnésicos (R-MgX)
+- **Reação com cetonas:** Formação de álcoois terciários
+- **Hidrólise:** Quebra do complexo organomagnésico
+- **Nomenclatura orgânica:** Cetonas e álcoois
+- **Síntese orgânica:** Metodologia importante para formar ligações C-C
+
+**Conceitos-chave para o LLM:**
+- **Pentan-2-ona:** Cetona de 5 carbonos com carbonila no C2
+- **Brometo de etilmagnésio:** CH₃CH₂MgBr (reagente de Grignard)
+- **Adição nucleofílica:** Ataque do carbanion à carbonila
+- **Hidrólise:** H₂O quebra ligação C-Mg formando C-H
+- **Produto terciário:** Álcool com 3 grupos ligados ao carbono do OH
+
+**Análise da reação:**
+
+**Reagente oxigenado - Pentan-2-ona:**
+```
+CH₃-CO-CH₂-CH₂-CH₃
+```
+
+**Em notação em linha de ligação:**
+```
+    O
+    ||
+    C—CH₂—CH₂—CH₃
+   /
+CH₃
+```
+
+*Descrição da estrutura:*
+- **Cadeia principal:** 5 carbonos
+- **Grupo funcional:** Cetona (C=O) na posição 2
+- **Numeração:** C1 (metil), C2 (carbonila), C3-C5 (propil)
+
+**Mecanismo da reação:**
+
+**Etapa 1 - Formação do complexo:**
+```
+CH₃-CO-CH₂-CH₂-CH₃ + CH₃CH₂MgBr →
+CH₃-C(OMgBr)(CH₂CH₃)-CH₂-CH₂-CH₃
+```
+
+**Etapa 2 - Hidrólise:**
+```
+CH₃-C(OMgBr)(CH₂CH₃)-CH₂-CH₂-CH₃ + H₂O →
+CH₃-C(OH)(CH₂CH₃)-CH₂-CH₂-CH₃ + MgOHBr
+```
+
+**Análise dos produtos:**
+
+**Produto orgânico - 3-metil-hexan-3-ol:**
+
+**Estrutura:**
+```
+      OH
+      |
+CH₃-C-CH₂-CH₂-CH₃
+      |
+   CH₂CH₃
+```
+
+**Análise estrutural:**
+- **Cadeia principal:** 6 carbonos (hexano)
+- **Grupo funcional:** Álcool (-OH) na posição 3
+- **Substituinte:** Grupo metil na posição 3
+- **Classificação:** Álcool terciário
+
+**Nomenclatura IUPAC:**
+- **Nome:** 3-metil-hexan-3-ol
+- **Numeração:** Prioridade para o grupo OH
+- **Substituinte:** Metil na posição 3
+
+**Produto inorgânico - MgOHBr:**
+
+**Formação:**
+```
+MgBr⁺ + OH⁻ (da hidrólise) → MgOHBr
+```
+
+**Características:**
+- **Nome:** Bromohidróxido de magnésio
+- **Tipo:** Sal misto (hidróxido e haleto)
+- **Solubilidade:** Parcialmente solúvel em água
+- **Estrutura:** Mg ligado a OH e Br
+
+**Reagentes de Grignard:**
+
+**Características gerais:**
+- **Fórmula:** R-MgX (X = Cl, Br, I)
+- **Caráter:** Fortemente nucleofílico e básico
+- **Solvente:** Éter etílico ou THF (anidro)
+- **Sensibilidade:** Reagem com água e álcoois
+
+**Preparação:**
+```
+R-X + Mg → R-MgX (em éter seco)
+```
+
+**Reações com compostos carbonílicos:**
+
+**Com aldeídos:**
+```
+R-CHO + R'-MgX → R-CH(OH)-R' (álcool secundário)
+```
+
+**Com cetonas:**
+```
+R-CO-R' + R''-MgX → R-C(OH)(R'')(R') (álcool terciário)
+```
+
+**Com CO₂:**
+```
+R-MgX + CO₂ → R-COOH (ácido carboxílico)
+```
+
+**Aspectos mecanísticos:**
+
+**Natureza da ligação C-Mg:**
+- **Polarização:** C⁻δ—Mg⁺δ
+- **Caráter iônico:** ~35% (ligação polarizada)
+- **Nucleofilicidade:** Carbono com densidade eletrônica alta
+
+**Ataque nucleofílico:**
+- **Sítio de ataque:** Carbono carbonílico (eletrofílico)
+- **Formação:** Alcóxido de magnésio intermediário
+- **Estereoquímica:** Ataque pode ser estereosseletivo
+
+**Hidrólise:**
+- **Reagente:** Água ou soluções aquosas
+- **Processo:** Protonação do alcóxido
+- **Produtos:** Álcool + sal de magnésio
+
+**Aplicações sintéticas:**
+
+**Vantagens:**
+- **Formação de ligação C-C:** Método confiável
+- **Regioseletividade:** Ataque específico na carbonila
+- **Versatilidade:** Funciona com diversos eletrófilos
+
+**Limitações:**
+- **Sensibilidade à umidade:** Requer condições anidras
+- **Grupos funcionais incompatíveis:** OH, NH, SH
+- **Impedimento estérico:** Pode afetar rendimento
+
+**Dados importantes:**
+- **Reagente oxigenado:** Pentan-2-ona (cetona de 5C)
+- **Produto orgânico:** 3-metil-hexan-3-ol (álcool terciário)
+- **Produto inorgânico:** MgOHBr (sal misto)
+- **Mecanismo:** Adição nucleofílica seguida de hidrólise
+
+**Processo de resolução:**
+1. **Identificar reagente:** Pentan-2-ona (CH₃COCH₂CH₂CH₃)
+2. **Prever produto:** Adição de Et-MgBr → álcool terciário
+3. **Nomear álcool:** 6C, OH no C3, metil no C3
+4. **Hidrólise:** MgBr + OH → MgOHBr
+
+Nível de dificuldade: Alto
+Área: Química Orgânica (Organometálicos)
+Habilidades avaliadas: Reagentes de Grignard, mecanismos de reação, nomenclatura IUPAC, síntese orgânica, hidrólise de organometálicos.
+
+---
+
+**Questão 10**
+
+O bicarbonato de sódio (NaHCO₃) é um sal que, ao ser hidrolisado, forma uma solução alcalina. Por conta dessa característica, costuma ser utilizado para aliviar incômodos decorrentes de acidez estomacal. Em sua ação, esse composto neutraliza o ácido clorídrico do suco gástrico, conforme representado pela equação química:
+
+**NaHCO₃ + HCℓ → NaCℓ + H₂O + CO₂**
+
+Admita que 252 mg de NaHCO₃ foram adicionados a 200 mL de uma solução de HCℓ com pH igual a 2, acarretando o consumo completo de um desses reagentes.
+
+Calcule a massa de reagente, em gramas, que não foi consumida na reação de neutralização.
+
+Apresente, ainda, a equação química de hidrólise do íon bicarbonato.
+
+---
+
+**Gabarito Oficial**
+
+**Cálculo da massa de reagente não consumida:**
+
+```
+pH = 2 → [H⁺] = 10⁻² mol/L
+
+Quantidade de HCℓ: 10⁻² mol/L × 0,2 L = 0,002 mol
+
+Quantidade de NaHCO₃: 252 × 10⁻³ g ÷ 84 g/mol = 0,003 mol
+
+Excesso de NaHCO₃: 0,003 - 0,002 = 0,001 mol × 84 g/mol = 0,084 g
+```
+
+**Equação de hidrólise:**
+```
+HCO₃⁻ + H₂O → CO₂ + H₂O + OH⁻
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de equilíbrio ácido-base, estequiometria e aplicações farmacológicas. Os temas centrais incluem:
+
+- **Neutralização ácido-base:** Reação entre bicarbonato e ácido clorídrico
+- **Cálculos estequiométricos:** Determinação de reagente limitante e excesso
+- **pH e concentração:** Relação entre pH e concentração hidrogeniônica
+- **Hidrólise salina:** Comportamento de íons em solução aquosa
+- **Aplicações medicinais:** Uso de bicarbonato como antiácido
+
+**Conceitos-chave para o LLM:**
+- **Bicarbonato de sódio:** Sal anfótero, age como base fraca
+- **Neutralização:** HCO₃⁻ + H⁺ → H₂O + CO₂
+- **Reagente limitante:** Menor quantidade em mols determina produto
+- **Hidrólise:** Reação do íon com água gerando basicidade
+- **pH = 2:** [H⁺] = 10⁻² mol/L (solução ácida)
+
+**Análise da reação de neutralização:**
+
+**Reação química:**
+```
+NaHCO₃ + HCℓ → NaCℓ + H₂O + CO₂
+```
+
+**Características da reação:**
+- **Tipo:** Neutralização ácido-base
+- **Estequiometria:** 1:1 (mol NaHCO₃ : mol HCℓ)
+- **Produtos:** Sal (NaCℓ) + água + gás (CO₂)
+- **Aplicação:** Alívio de acidez estomacal
+
+**Cálculo estequiométrico detalhado:**
+
+**Dados fornecidos:**
+- **NaHCO₃:** 252 mg = 0,252 g
+- **Solução HCℓ:** 200 mL, pH = 2
+- **Massa molar NaHCO₃:** 84 g/mol
+
+**Passo 1 - Cálculo da [H⁺]:**
+```
+pH = -log[H⁺]
+2 = -log[H⁺]
+[H⁺] = 10⁻² mol/L = 0,01 mol/L
+```
+
+**Passo 2 - Quantidade de HCℓ:**
+```
+n(HCℓ) = [H⁺] × V = 0,01 mol/L × 0,2 L = 0,002 mol
+```
+
+**Passo 3 - Quantidade de NaHCO₃:**
+```
+n(NaHCO₃) = massa / MM = 0,252 g / 84 g/mol = 0,003 mol
+```
+
+**Passo 4 - Identificação do reagente limitante:**
+```
+Estequiometria: 1 NaHCO₃ : 1 HCℓ
+HCℓ disponível: 0,002 mol
+NaHCO₃ disponível: 0,003 mol
+Reagente limitante: HCℓ (menor quantidade)
+```
+
+**Passo 5 - Cálculo do excesso:**
+```
+NaHCO₃ consumido: 0,002 mol (igual ao HCℓ)
+NaHCO₃ em excesso: 0,003 - 0,002 = 0,001 mol
+Massa em excesso: 0,001 mol × 84 g/mol = 0,084 g
+```
+
+**Hidrólise do íon bicarbonato:**
+
+**Equação de hidrólise:**
+```
+HCO₃⁻ + H₂O ⇌ H₂CO₃ + OH⁻
+```
+
+**Forma simplificada (gabarito):**
+```
+HCO₃⁻ + H₂O → CO₂ + H₂O + OH⁻
+```
+
+**Explicação:**
+- **H₂CO₃ instável:** Decompõe-se em CO₂ + H₂O
+- **Resultado:** Liberação de OH⁻ (caráter básico)
+- **pH resultante:** > 7 (solução alcalina)
+
+**Mecanismo da ação antiácida:**
+
+**No estômago:**
+1. **Ácido gástrico:** HCℓ (pH ~1-2)
+2. **Adição de bicarbonato:** NaHCO₃
+3. **Neutralização:** H⁺ + HCO₃⁻ → H₂O + CO₂
+4. **Resultado:** Aumento do pH, alívio da acidez
+
+**Efeitos fisiológicos:**
+- **Redução da acidez:** pH sobe para ~4-5
+- **Liberação de CO₂:** Pode causar eructação
+- **Alívio temporário:** Efeito de curta duração
+- **Segurança:** Geralmente seguro em doses moderadas
+
+**Outras aplicações do bicarbonato:**
+
+**Culinária:**
+- **Fermento:** Liberação de CO₂ para crescimento de massas
+- **Reação:** NaHCO₃ + ácido → CO₂ + sal + água
+
+**Limpeza:**
+- **Abrasivo suave:** Remoção de manchas
+- **Desodorizante:** Neutraliza odores ácidos
+- **Clareamento:** Pasta de dentes
+
+**Laboratório:**
+- **Tampão:** Sistemas bicarbonato/carbonato
+- **Neutralização:** Tratamento de derramamentos ácidos
+- **Síntese:** Precursor de outros compostos
+
+**Considerações de segurança:**
+
+**Uso medicinal:**
+- **Dosagem:** Máximo 1-2 g por dose
+- **Frequência:** Não usar continuamente
+- **Interações:** Pode afetar absorção de medicamentos
+- **Contraindicações:** Hipertensão (alto teor de sódio)
+
+**Efeitos colaterais:**
+- **Excesso de sódio:** Retenção hídrica
+- **Alcalose:** pH sanguíneo muito alto
+- **Distensão:** Produção excessiva de CO₂
+- **Rebote ácido:** Aumento posterior da acidez
+
+**Dados importantes:**
+- **Estequiometria:** 1:1 entre NaHCO₃ e HCℓ
+- **Reagente limitante:** HCℓ (0,002 mol)
+- **Excesso:** 0,084 g de NaHCO₃
+- **Hidrólise:** HCO₃⁻ + H₂O → produtos básicos
+
+**Processo de resolução:**
+1. **Calcular [H⁺]:** pH = 2 → [H⁺] = 10⁻² mol/L
+2. **Determinar mols:** HCℓ e NaHCO₃ em solução
+3. **Identificar limitante:** Menor quantidade em mols
+4. **Calcular excesso:** Diferença × massa molar
+5. **Escrever hidrólise:** HCO₃⁻ reage com H₂O
+
+Nível de dificuldade: Médio
+Área: Equilíbrio Ácido-Base e Estequiometria
+Habilidades avaliadas: Cálculos de pH, estequiometria, reagente limitante, hidrólise salina, aplicações farmacológicas, conversões de unidades.
+
+---
+
+## QUESTÃO 003 - QUÍMICA INORGÂNICA - REAÇÕES DE DECOMPOSIÇÃO E SÍNTESE
+**Tipo:** Questão mista (experimento laboratorial + identificação de produtos + massas molares + nomenclatura)
+**Tópico:** Decomposição térmica, síntese inorgânica, gases, massas molares, nomenclatura de sais
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO EXPERIMENTAL:**
+As reações a seguir foram realizadas em um laboratório, em condições idênticas de temperatura e pressão, para o recolhimento dos gases indicados pelas letras A e B.
+
+**REAÇÕES ESTUDADAS:**
+- **(I)** CaCO₃ (s) → CaO (s) + A (g)
+- **(II)** Mg (s) + 2 HCl (aq) → MgCl₂ (aq) + B (g)
+
+**QUESTÕES:**
+Indique as fórmulas moleculares dos gases A e B, nomeando aquele de maior massa molar.
+
+Nomeie, também, o sal formado na reação II.
+
+**Conceitos envolvidos:**
+- Decomposição térmica de carbonatos
+- Reações de metais com ácidos
+- Identificação de produtos gasosos
+- Cálculo e comparação de massas molares
+- Nomenclatura de sais inorgânicos
+- Experimentos de laboratório
+
+**Dados implícitos necessários:**
+- Identificação dos gases:
+ - Reação I (decomposição do carbonato de cálcio):
+   - CaCO₃ → CaO + CO₂
+   - Gás A: CO₂ (dióxido de carbono)
+ - Reação II (metal + ácido):
+   - Mg + 2 HCl → MgCl₂ + H₂
+   - Gás B: H₂ (hidrogênio)
+- Cálculo das massas molares:
+ - CO₂: 12 + 2(16) = 44 g/mol
+ - H₂: 2(1) = 2 g/mol
+ - Maior massa molar: CO₂ (44 g/mol)
+- Nomenclatura do sal da reação II:
+ - MgCl₂: cloreto de magnésio
+
+**Aplicação contextual:**
+- Produção industrial de cal viva (CaO)
+- Obtenção de hidrogênio em laboratório
+- Processos de calcinação na siderurgia
+- Geração de gases para análises químicas
+- Reações características de identificação
+
+**Informações complementares:**
+- Decomposição térmica: processo endotérmico
+- Reação de metal com ácido: processo exotérmico
+- CO₂: gás incolor, mais denso que o ar
+- H₂: gás incolor, menos denso que o ar, inflamável
+- Importância industrial dos produtos formados
+
+**Palavras-chave:** decomposição térmica, carbonato de cálcio, cal viva, dióxido de carbono, hidrogênio, cloreto de magnésio, massa molar, reação metal-ácido, gases laboratoriais
+
+---
+
+## QUESTÃO 005 - QUÍMICA ORGÂNICA - COMPOSTOS AROMÁTICOS VOLÁTEIS E ISOMERIA
+
+**Tipo:** Questão mista (nomenclatura + isomeria + fórmulas estruturais + reações orgânicas)
+**Tópico:** Compostos aromáticos, álcoois, aldeídos, ácidos carboxílicos, isomeria plana funcional
+**Nível:** Ensino Médio/Vestibular
+
+## CONTEXTO COTIDIANO
+Ao abrir uma embalagem de chocolate, pode-se perceber seu aroma. Esse fato é explicado pela presença de mais de duzentos tipos de compostos voláteis em sua composição. As fórmulas A, B e C, apresentadas a seguir, são exemplos desses compostos.
+
+## ESTRUTURAS QUÍMICAS DOS COMPOSTOS
+
+### Composto A:
+```
+    OH
+    |
+-CH₂-CH₂-[benzeno]
+```
+*Estrutura: anel benzênico ligado a uma cadeia -CH₂-CH₂-OH*
+
+### Composto B:
+```
+    O
+    ‖
+-CH₂-C-H
+    |
+  [benzeno]
+```
+*Estrutura: anel benzênico ligado a uma cadeia -CH₂-CHO*
+
+### Composto C:
+```
+  O
+  ‖
+-C-OH
+  |
+[grupo metil]
+```
+*Estrutura: CH₃-COOH (ácido acético)*
+
+## QUESTÕES
+1. Escreva o nome do composto A e a fórmula estrutural do isômero plano funcional do composto B.
+2. Utilizando fórmulas estruturais, escreva, também, a equação química completa da reação do etanol com o composto C. Em seguida, nomeie o composto orgânico formado nessa reação.
+
+## CONCEITOS ENVOLVIDOS
+- Nomenclatura IUPAC de álcoois aromáticos
+- Isomeria plana funcional (aldeído ↔ cetona)
+- Reações de esterificação
+- Compostos aromáticos voláteis
+- Funções orgânicas oxigenadas
+
+## DADOS NECESSÁRIOS PARA RESOLUÇÃO
+- **Composto A:** 2-feniletanol (álcool feniletílico)
+- **Composto B:** 2-fenilacetaldeído (fenilacetaldeído)
+- **Isômero funcional de B:** acetofenona (cetona aromática)
+- **Composto C:** ácido acético (ácido etanoico)
+
+## FÓRMULAS ESTRUTURAIS DETALHADAS
+- **Composto A:** C₆H₅-CH₂-CH₂-OH
+- **Composto B:** C₆H₅-CH₂-CHO
+- **Isômero de B:** C₆H₅-CO-CH₃ (acetofenona)
+- **Composto C:** CH₃-COOH
+
+## REAÇÃO ESPERADA
+```
+CH₃-CH₂-OH + CH₃-COOH → CH₃-COO-CH₂-CH₃ + H₂O
+   (etanol)  (ác. acético)  (acetato de etila)   (água)
+```
+
+## MECANISMO DA REAÇÃO
+- Esterificação de Fischer
+- Catálise ácida
+- Formação de éster + água
+- Reação de condensação
+
+## APLICAÇÕES PRÁTICAS
+- Aromas e sabores alimentares
+- Indústria de chocolates
+- Compostos voláteis naturais
+- Síntese de ésteres aromáticos
+
+## INFORMAÇÕES COMPLEMENTARES
+- Volatilidade relacionada à massa molecular
+- Compostos aromáticos e percepção olfativa
+- Chocolate contém centenas de compostos voláteis
+- Importância dos ésteres em aromas
+
+## RESPOSTAS ESPERADAS
+
+### Questão 1:
+- **Nome do composto A:** 2-feniletanol (ou álcool feniletílico)
+- **Isômero funcional do composto B:** 
+  ```
+  C₆H₅-CO-CH₃ (acetofenona)
+  ```
+
+### Questão 2:
+- **Equação da reação:**
+  ```
+  CH₃-CH₂-OH + CH₃-COOH → CH₃-COO-CH₂-CH₃ + H₂O
+  ```
+- **Nome do composto orgânico formado:** acetato de etila (etanoato de etila)
+
+**Palavras-chave:** compostos voláteis, chocolate, aroma, 2-feniletanol, fenilacetaldeído, acetofenona, isômero funcional, esterificação, acetato de etila, compostos aromáticos
+
+---
+
+## QUESTÃO 007 - FÍSICO-QUÍMICA - HIDROGENAÇÃO CATALÍTICA E ENTALPIA
+
+**Tipo:** Questão mista (interpretação de gráfico + cálculos termoquímicos + nomenclatura orgânica)
+**Tópico:** Hidrogenação de alcenos, catálise, energia de ativação, entalpia de reação
+**Nível:** Ensino Médio/Vestibular
+
+## CONTEXTO EXPERIMENTAL
+Observe no gráfico os valores de entalpia ao longo do caminho de uma reação de hidrogenação do pent-2-eno, em duas condições: presença e ausência de catalisador.
+
+## GRÁFICO DE ENTALPIA vs CAMINHO DA REAÇÃO
+
+```
+Entalpia (kJ/mol)
+    ↑
+110 |........................ 
+    |                    ∩    (pico máximo da curva A)
+ 90 |................/\../....
+    |              /    \
+ 70 |............./      \.... (pico máximo da curva B)
+    |           /          \
+ 50 |.........../            \..
+    |        /                 \
+ 30 |......./                   \________________
+    |     /                                      \
+ 10 |____/                                        \____
+    |                                                   \
+  0 |_____________________________________________________→
+                            caminho da reação
+
+Legenda:
+—————— curva A (azul)
+—————— curva B (laranja)
+```
+
+**Descrição detalhada do gráfico:**
+- **Eixo Y:** Entalpia (kJ/mol), variando de 0 a 110
+- **Eixo X:** Caminho da reação (direção →)
+- **Curva A (azul):** 
+  - Início: ~10 kJ/mol
+  - Pico máximo: ~110 kJ/mol
+  - Final: ~30 kJ/mol
+- **Curva B (laranja):**
+  - Início: ~10 kJ/mol  
+  - Pico máximo: ~70 kJ/mol
+  - Final: ~30 kJ/mol
+- **Diferença principal:** Altura dos picos (energia de ativação)
+
+## QUESTÕES
+1. Indique a curva que representa a reação química na presença de catalisador e calcule, em kJ/mol, sua energia de ativação.
+2. Determine, ainda, a variação de entalpia dessa reação, em kJ/mol, e nomeie o produto formado.
+
+## CONCEITOS ENVOLVIDOS
+- Hidrogenação catalítica de alcenos
+- Energia de ativação (Ea)
+- Entalpia de reação (ΔH)
+- Efeito do catalisador na cinética química
+- Nomenclatura IUPAC de alcanos
+- Perfil energético de reações
+
+## DADOS NECESSÁRIOS PARA RESOLUÇÃO
+
+### Reação química:
+```
+CH₃-CH=CH-CH₂-CH₃ + H₂ → CH₃-CH₂-CH₂-CH₂-CH₃
+   (pent-2-eno)              (pentano)
+```
+
+### Análise do gráfico:
+- **Reagentes:** ~10 kJ/mol (estado inicial)
+- **Produtos:** ~30 kJ/mol (estado final)
+- **Curva A (sem catalisador):** Ea = 110 - 10 = 100 kJ/mol
+- **Curva B (com catalisador):** Ea = 70 - 10 = 60 kJ/mol
+- **ΔH da reação:** 30 - 10 = +20 kJ/mol
+
+## PRINCÍPIOS TEÓRICOS
+
+### Função do catalisador:
+- Diminui a energia de ativação
+- Não altera a entalpia de reação (ΔH)
+- Acelera a velocidade da reação
+- Oferece caminho alternativo
+
+### Características da hidrogenação:
+- Adição de H₂ a duplas ligações C=C
+- Geralmente catalizada por metais (Ni, Pt, Pd)
+- Processo industrial importante
+- Saturação de compostos insaturados
+
+## MECANISMO DA REAÇÃO
+1. Adsorção dos reagentes na superfície catalítica
+2. Quebra da ligação H-H
+3. Adição dos átomos de hidrogênio ao alceno
+4. Formação do alcano saturado
+5. Dessorção do produto
+
+## APLICAÇÕES PRÁTICAS
+- Hidrogenação de óleos vegetais (margarina)
+- Produção de combustíveis
+- Síntese de compostos saturados
+- Indústria petroquímica
+
+## INFORMAÇÕES COMPLEMENTARES
+- Reação endotérmica: ΔH > 0
+- Catalisador heterogêneo típico
+- Processo reversível
+- Temperatura e pressão influenciam o equilíbrio
+
+## RESPOSTAS ESPERADAS
+
+### Questão 1:
+- **Curva com catalisador:** Curva B (laranja)
+- **Justificativa:** Menor energia de ativação
+- **Energia de ativação:** Ea = 70 - 10 = **60 kJ/mol**
+
+### Questão 2:
+- **Variação de entalpia:** ΔH = 30 - 10 = **+20 kJ/mol**
+- **Produto formado:** **pentano** (ou n-pentano)
+- **Fórmula molecular:** C₅H₁₂
+
+## ANÁLISE ADICIONAL
+- Reação endotérmica (absorve energia)
+- Catalisador reduz Ea em 40 kJ/mol (100 - 60)
+- Ambas as curvas têm mesmo ΔH
+- Produtos mais energéticos que reagentes
+
+**Palavras-chave:** hidrogenação catalítica, pent-2-eno, pentano, energia de ativação, entalpia de reação, catalisador, perfil energético, alcenos, alcanos
+
+##QUESTÃO 004 - QUÍMICA ORGÂNICA - SÍNTESE DO m-CLORONITROBENZENO
+
+**Tipo:** Questão mista (síntese orgânica + fórmulas estruturais + isomeria de posição)
+**Tópico:** Reações de substituição eletrofílica aromática, orientação em benzeno dissubstituído, antioxidantes
+**Nível:** Ensino Médio/Vestibular
+
+## CONTEXTO INDUSTRIAL
+O m-cloronitrobenzeno é utilizado como matéria-prima para fabricação de antioxidantes na produção de borrachas. Em laboratório, esse composto pode ser sintetizado a partir do benzeno através de uma sequência de duas reações químicas.
+
+## QUESTÕES
+1. Utilizando as fórmulas estruturais, apresente a sequência de reações envolvidas na obtenção do m-cloronitrobenzeno.
+2. Apresente, também, as fórmulas estruturais dos isômeros planos de posição desse composto.
+
+## CONCEITOS ENVOLVIDOS
+- Substituição eletrofílica aromática
+- Nitração do benzeno
+- Cloração do benzeno
+- Efeitos orientadores de substituintes
+- Isomeria de posição em compostos aromáticos
+- Síntese de compostos aromáticos dissubstituídos
+
+## DADOS NECESSÁRIOS PARA RESOLUÇÃO
+
+### Composto alvo:
+- **m-cloronitrobenzeno** (1-cloro-3-nitrobenzeno)
+- **Fórmula molecular:** C₆H₄ClNO₂
+- **Estrutura:** benzeno com Cl e NO₂ em posições meta (1,3)
+
+### Possíveis rotas sintéticas:
+1. **Rota A:** Benzeno → Nitrobenzeno → m-Cloronitrobenzeno
+2. **Rota B:** Benzeno → Clorobenzeno → m-Cloronitrobenzeno
+
+## ANÁLISE DA ORIENTAÇÃO DE SUBSTITUINTES
+
+### Grupo nitro (-NO₂):
+- **Efeito:** Desativador forte, meta-orientador
+- **Mecanismo:** Retirada de elétrons por ressonância e indução
+- **Posições favorecidas:** Meta (3 e 5)
+
+### Grupo cloro (-Cl):
+- **Efeito:** Desativador fraco, orto/para-orientador
+- **Mecanismo:** Retirada de elétrons por indução, doação por ressonância
+- **Posições favorecidas:** Orto (2,6) e para (4)
+
+## ROTA SINTÉTICA RECOMENDADA
+
+### Sequência: Benzeno → Nitrobenzeno → m-Cloronitrobenzeno
+
+**Etapa 1: Nitração do benzeno**
+```
+        HNO₃/H₂SO₄
+C₆H₆ ─────────────→ C₆H₅-NO₂ + H₂O
+(benzeno)    Δ     (nitrobenzeno)
+```
+
+**Etapa 2: Cloração do nitrobenzeno**
+```
+              Cl₂/FeCl₃
+C₆H₅-NO₂ ─────────────→ m-ClC₆H₄-NO₂ + HCl
+(nitrobenzeno)        (m-cloronitrobenzeno)
+```
+
+### Justificativa da rota:
+- NO₂ é meta-orientador forte
+- Direciona a entrada do Cl para posição meta
+- Evita mistura de isômeros
+- Maior seletividade
+
+## FÓRMULAS ESTRUTURAIS DETALHADAS
+
+### Produto principal:
+**m-cloronitrobenzeno (1-cloro-3-nitrobenzeno)**
+```
+      NO₂
+       |
+   2 ╱   ╲ 3
+  1 ●─────● Cl
+   6 ╲   ╱ 4
+      5
+```
+
+### Reagentes e intermediários:
+**Benzeno:**
+```
+   ╱ ╲
+  ●───●
+  ╲ ╱
+   ╲ ╱
+  ●───●
+   ╲ ╱
+```
+
+**Nitrobenzeno:**
+```
+      NO₂
+       |
+   ╱ ╲
+  ●───●
+  ╲ ╱
+   ╲ ╱
+  ●───●
+   ╲ ╱
+```
+
+## ISÔMEROS DE POSIÇÃO DO m-CLORONITROBENZENO
+
+### 1. o-cloronitrobenzeno (1-cloro-2-nitrobenzeno):
+```
+     Cl
+      |
+  6 ╱   ╲ 1
+ 5 ●─────● NO₂
+  4 ╲   ╱ 2
+     3
+```
+
+### 2. m-cloronitrobenzeno (1-cloro-3-nitrobenzeno):
+```
+      NO₂
+       |
+   2 ╱   ╲ 3
+  1 ●─────● Cl
+   6 ╲   ╱ 4
+      5
+```
+
+### 3. p-cloronitrobenzeno (1-cloro-4-nitrobenzeno):
+```
+     Cl
+      |
+  2 ╱   ╲ 1
+ 3 ●─────●
+  4 ╲   ╱ 6
+      |
+     NO₂
+```
+
+## CONDIÇÕES REACIONAIS
+
+### Nitração:
+- **Reagentes:** HNO₃ concentrado + H₂SO₄ concentrado
+- **Temperatura:** 50-60°C
+- **Mecanismo:** Substituição eletrofílica aromática
+- **Eletrófilo:** NO₂⁺ (íon nitrônio)
+
+### Cloração:
+- **Reagentes:** Cl₂ + FeCl₃ (catalisador)
+- **Temperatura:** Ambiente ou aquecimento suave
+- **Mecanismo:** Substituição eletrofílica aromática
+- **Eletrófilo:** Cl⁺ (complexo Cl-FeCl₃)
+
+## APLICAÇÕES INDUSTRIAIS
+- Síntese de antioxidantes para borracha
+- Intermediário na produção de corantes
+- Precursor de compostos farmacêuticos
+- Síntese de agroquímicos
+
+## CONSIDERAÇÕES DE SEGURANÇA
+- Compostos nitroaromáticos são tóxicos
+- Reações com ácidos concentrados requerem cuidado
+- Produtos podem ser explosivos se aquecidos
+- Necessário controle de temperatura
+
+## INFORMAÇÕES COMPLEMENTARES
+- Meta-orientação do NO₂ é devido ao efeito -I e -M
+- Cloração em nitrobenzeno é mais lenta que em benzeno
+- Possibilidade de formação de traços de outros isômeros
+- Purificação por recristalização ou destilação
+
+**Palavras-chave:** m-cloronitrobenzeno, substituição eletrofílica aromática, nitração, cloração, meta-orientador, isômeros de posição, antioxidantes, síntese aromática, efeitos orientadores
+
+---
+
+## QUESTÃO 005 - QUÍMICA GERAL - pH DO SOLO E COLORAÇÃO DAS HORTÊNSIAS
+
+**Tipo:** Questão mista (interpretação de tabela + química de solos + reações ácido-base + nomenclatura)
+**Tópico:** pH, indicadores naturais, química de solos, óxidos, reações de hidrólise
+**Nível:** Ensino Médio/Vestibular
+
+## CONTEXTO BOTÂNICO E QUÍMICO
+Hortênsias são flores cujas cores variam de acordo com o pH do solo, conforme indica a tabela:
+
+## TABELA: VARIAÇÃO DE COR DAS HORTÊNSIAS CONFORME pH DO SOLO
+
+| **Faixa de pH do solo** | **Coloração** |
+|-------------------------|---------------|
+| menor que 7            | azul          |
+| igual a 7              | vermelha      |
+| maior que 7            | rosa          |
+
+## DADOS EXPERIMENTAIS
+Considere os seguintes aditivos utilizados na plantação de hortênsias em um solo neutro:
+
+**Aditivos disponíveis:**
+- **NaHCO₃** (bicarbonato de sódio)
+- **CaO** (óxido de cálcio)
+- **Al₂(SO₄)₃** (sulfato de alumínio)
+- **KNO₃** (nitrato de potássio)
+
+## QUESTÕES
+1. Indique a cor das flores produzidas quando se adiciona KNO₃ a esse solo e a fórmula química do aditivo que deve ser acrescentado, em quantidade adequada, para produzir hortênsias azuis.
+
+2. Em seguida, dentre os aditivos, nomeie o óxido e apresente a equação química completa e balanceada da sua reação com a água.
+
+## CONCEITOS ENVOLVIDOS
+- Escala de pH e acidez/basicidade
+- Indicadores naturais de pH
+- Química de solos
+- Hidrólise salina
+- Óxidos básicos e ácidos
+- Reações de neutralização
+- Nomenclatura de compostos inorgânicos
+
+## ANÁLISE DOS ADITIVOS
+
+### Classificação quanto ao efeito no pH:
+
+#### **NaHCO₃ (bicarbonato de sódio)**
+- **Natureza:** Sal de base forte (NaOH) e ácido fraco (H₂CO₃)
+- **Efeito:** Hidrólise básica → pH > 7
+- **Resultado:** Flores rosas
+
+#### **CaO (óxido de cálcio)**
+- **Natureza:** Óxido metálico (básico)
+- **Efeito:** Reação com água → Ca(OH)₂ → pH > 7
+- **Resultado:** Flores rosas
+
+#### **Al₂(SO₄)₃ (sulfato de alumínio)**
+- **Natureza:** Sal de base fraca (Al(OH)₃) e ácido forte (H₂SO₄)
+- **Efeito:** Hidrólise ácida → pH < 7
+- **Resultado:** Flores azuis
+
+#### **KNO₃ (nitrato de potássio)**
+- **Natureza:** Sal de base forte (KOH) e ácido forte (HNO₃)
+- **Efeito:** Hidrólise neutra → pH = 7
+- **Resultado:** Flores vermelhas
+
+## MECANISMOS DE HIDRÓLISE
+
+### KNO₃ (neutro):
+```
+KNO₃ → K⁺ + NO₃⁻
+K⁺ + H₂O → sem reação (base forte)
+NO₃⁻ + H₂O → sem reação (ácido forte)
+pH = 7 (neutro)
+```
+
+### Al₂(SO₄)₃ (ácido):
+```
+Al₂(SO₄)₃ → 2Al³⁺ + 3SO₄²⁻
+Al³⁺ + 6H₂O → [Al(H₂O)₆]³⁺
+[Al(H₂O)₆]³⁺ → [Al(H₂O)₅OH]²⁺ + H⁺
+pH < 7 (ácido)
+```
+
+### CaO (básico):
+```
+CaO + H₂O → Ca(OH)₂
+Ca(OH)₂ → Ca²⁺ + 2OH⁻
+pH > 7 (básico)
+```
+
+## REAÇÃO DO ÓXIDO COM ÁGUA
+
+### Identificação do óxido:
+- **Óxido presente:** CaO (óxido de cálcio)
+- **Nome:** óxido de cálcio (cal viva)
+
+### Equação química completa e balanceada:
+```
+CaO(s) + H₂O(l) → Ca(OH)₂(aq)
+```
+
+**Detalhamento:**
+- **Reagentes:** 1 mol de CaO + 1 mol de H₂O
+- **Produto:** 1 mol de Ca(OH)₂ (hidróxido de cálcio)
+- **Tipo de reação:** Síntese (combinação)
+- **Característica:** Reação exotérmica
+
+## APLICAÇÕES PRÁTICAS
+
+### Jardinagem:
+- Controle de pH do solo para flores ornamentais
+- Correção de acidez em solos
+- Ajuste de cor de hortênsias
+
+### Agricultura:
+- Calagem de solos ácidos
+- Melhoria da disponibilidade de nutrientes
+- Correção de deficiências de cálcio
+
+## INFORMAÇÕES COMPLEMENTARES
+
+### Sobre as hortênsias:
+- Nome científico: Hydrangea macrophylla
+- Pigmentos responsáveis: antocianinas
+- Disponibilidade de alumínio influencia a cor
+- Solo ácido → maior disponibilidade de Al³⁺ → flores azuis
+
+### Sobre o pH do solo:
+- Solo ácido: pH < 7
+- Solo neutro: pH = 7
+- Solo básico (alcalino): pH > 7
+- Influencia disponibilidade de nutrientes
+
+## RESPOSTAS ESPERADAS
+
+### Questão 1:
+- **Cor com KNO₃:** Vermelha (pH permanece neutro = 7)
+- **Aditivo para flores azuis:** Al₂(SO₄)₃ (sulfato de alumínio)
+- **Justificativa:** Al₂(SO₄)₃ sofre hidrólise ácida, reduzindo o pH para < 7
+
+### Questão 2:
+- **Nome do óxido:** Óxido de cálcio (ou cal viva)
+- **Equação balanceada:** CaO(s) + H₂O(l) → Ca(OH)₂(aq)
+
+## CONCEITOS RELACIONADOS
+- Indicadores ácido-base naturais
+- Equilíbrio químico em solos
+- Propriedades dos óxidos metálicos
+- Hidrólise de sais
+- Química ambiental
+
+**Palavras-chave:** hortênsias, pH do solo, indicadores naturais, hidrólise salina, óxido de cálcio, sulfato de alumínio, acidez, basicidade, jardinagem química
+
+---
+
+## QUESTÃO 006 - FÍSICO-QUÍMICA - EXTRAÇÃO DE PETRÓLEO E PRODUTO DE SOLUBILIDADE
+**Tipo:** Questão mista (aplicação industrial + balanceamento químico + produto de solubilidade + cálculos de equilíbrio)
+**Tópico:** Extração de petróleo, precipitação, produto de solubilidade (Kps), equilíbrio iônico
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO INDUSTRIAL:**
+Um inconveniente no processo de extração de petróleo é a precipitação de sulfato de bário (BaSO₄) nas tubulações. Essa precipitação se deve à baixa solubilidade desse sal, cuja constante do produto de solubilidade é 10⁻¹⁰ mol².L⁻², a 25°C.
+
+**EXPERIMENTO PROPOSTO:**
+Admita um experimento no qual foi obtido sulfato de bário a partir da reação entre cloreto de bário e ácido sulfúrico.
+
+**QUESTÕES:**
+Apresente a equação química completa e balanceada da obtenção do sulfato de bário no experimento e calcule a solubilidade desse sal, em mol.L⁻¹, em uma solução saturada, a 25°C.
+
+**Conceitos envolvidos:**
+- Problemas na extração de petróleo
+- Reações de precipitação
+- Balanceamento de equações químicas
+- Produto de solubilidade (Kps)
+- Solubilidade de sais pouco solúveis
+- Equilíbrio iônico em soluções saturadas
+
+**Dados implícitos necessários:**
+- Identificação dos reagentes:
+ - Cloreto de bário: BaCl₂
+ - Ácido sulfúrico: H₂SO₄
+- Equação química balanceada:
+ - BaCl₂ + H₂SO₄ → BaSO₄ + 2 HCl
+ - Verificação: Ba(1), Cl(2), H(2), S(1), O(4) - balanceada
+- Cálculo da solubilidade do BaSO₄:
+ - Equilíbrio de dissolução: BaSO₄(s) ⇌ Ba²⁺(aq) + SO₄²⁻(aq)
+ - Kps = [Ba²⁺][SO₄²⁻] = 10⁻¹⁰ mol².L⁻²
+ - Em solução saturada: [Ba²⁺] = [SO₄²⁻] = s (solubilidade)
+ - Kps = s × s = s²
+ - s² = 10⁻¹⁰
+ - s = √(10⁻¹⁰) = 10⁻⁵ mol.L⁻¹
+
+**Aplicação contextual:**
+- Problemas operacionais na indústria petrolífera
+- Incrustações em tubulações e equipamentos
+- Tratamento químico de águas de produção
+- Prevenção de precipitações indesejadas
+- Manutenção de poços petrolíferos
+
+**Informações complementares:**
+- Barita (BaSO₄): mineral comum em formações petrolíferas
+- Águas de formação: ricas em íons Ba²⁺ e SO₄²⁻
+- Métodos de prevenção: inibidores químicos
+- Impacto econômico das incrustações
+- Remoção de depósitos: acidificação controlada
+
+**Palavras-chave:** extração de petróleo, sulfato de bário, precipitação, produto de solubilidade, Kps, solubilidade, cloreto de bário, ácido sulfúrico, tubulações, incrustação
+
+---
+
+## QUESTÃO 010 - QUÍMICA ORGÂNICA - REAÇÕES DE DESIDRATAÇÃO DE ÁLCOOIS
+**Tipo:** Questão mista (experimento comparativo + cálculos estequiométricos + classificação de reações + fórmulas estruturais)
+**Tópico:** Desidratação de álcoois, reações de eliminação, temperatura de reação, estequiometria
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO EXPERIMENTAL:**
+Para um experimento, quantidades iguais de propan-1-ol e de ácido sulfúrico foram adicionadas em dois reatores idênticos, A e B, mantidos em temperaturas diferentes. Ao final das reações, em cada reator, formaram-se um produto orgânico distinto e diferentes quantidades de água, conforme apresentado na tabela a seguir.
+
+**DADOS EXPERIMENTAIS:**
+| Reator | Temperatura (°C) | Produto orgânico | Concentração de água formada (g.L⁻¹) |
+|--------|------------------|------------------|--------------------------------------|
+| A | < 140 | X | 18 |
+| B | > 170 | Y | 36 |
+
+**QUESTÕES:**
+Considerando o reator B, calcule a concentração inicial de propan-1-ol, em g.L⁻¹, nomeie o produto orgânico Y e classifique a reação. Em seguida, apresente a fórmula estrutural do produto orgânico X.
+
+**Conceitos envolvidos:**
+- Reações de desidratação de álcoois
+- Influência da temperatura em reações orgânicas
+- Desidratação intermolecular vs. intramolecular
+- Cálculos estequiométricos
+- Classificação de reações orgânicas
+- Fórmulas estruturais
+
+**Dados implícitos necessários:**
+- Identificação dos produtos por temperatura:
+ - Reator A (< 140°C): desidratação intermolecular → éter
+ - Reator B (> 170°C): desidratação intramolecular → alceno
+- Reações específicas:
+ - Reator A: 2 C₃H₇OH → C₃H₇-O-C₃H₇ + H₂O (éter dipropílico)
+ - Reator B: C₃H₇OH → C₃H₆ + H₂O (propeno)
+- Cálculo da concentração inicial (Reator B):
+ - Concentração de água: 36 g/L
+ - Massa molar H₂O: 18 g/mol
+ - Mols de H₂O: 36 g/L ÷ 18 g/mol = 2 mol/L
+ - Estequiometria: 1 C₃H₇OH → 1 H₂O
+ - Mols iniciais de propan-1-ol: 2 mol/L
+ - Massa molar C₃H₇OH: 3(12) + 8(1) + 16 = 60 g/mol
+ - Concentração inicial: 2 mol/L × 60 g/mol = 120 g/L
+- Identificação dos produtos:
+ - Produto Y (Reator B): propeno (C₃H₆)
+ - Produto X (Reator A): éter dipropílico (C₃H₇-O-C₃H₇)
+- Classificação da reação B: reação de eliminação (desidratação intramolecular)
+- Fórmula estrutural do produto X: CH₃-CH₂-CH₂-O-CH₂-CH₂-CH₃
+
+**Aplicação contextual:**
+- Síntese industrial de éteres e alcenos
+- Produção de combustíveis (propeno para polipropileno)
+- Processos petroquímicos
+- Controle de temperatura em síntese orgânica
+- Seletividade em reações químicas
+
+**Informações complementares:**
+- Mecanismo E1 vs. E2 na desidratação
+- Catálise ácida: H₂SO₄ como agente desidratante
+- Produtos secundários: rearranjos carbocatiônicos
+- Importância industrial do propeno
+
+**Palavras-chave:** desidratação de álcoois, propan-1-ol, éter dipropílico, propeno, reação de eliminação, temperatura de reação, ácido sulfúrico, estequiometria, seletividade, catálise ácida
+
+---
+
+**Questão 02**
+
+**Imagem apresentada:**
+
+A questão apresenta um meme com a seguinte estrutura:
+- **Título:** "PARA QUE SERVE O ÁCIDO CLORÍDRICO EM UM ARSENAL MILITAR?"
+- **Imagem:** Um gato branco usando óculos e gravata borboleta vermelha, em um ambiente que simula um laboratório químico, com vidrarias, fórmulas químicas escritas em um quadro ao fundo e equipamentos de laboratório
+- **Resposta do meme:** "PARA NEUTRALIZAR AS BASES DO INIMIGO."
+- **Fonte:** FB.com/QualitativaqlnorgUfrj
+
+Considere que, no texto acima, as "bases do inimigo" correspondam, na verdade, ao hidróxido de bário.
+
+Escreva a equação química completa e balanceada da reação de neutralização total do ácido clorídrico por essa base. Aponte, ainda, o nome do produto iônico formado na reação.
+
+---
+
+**Gabarito Oficial**
+
+**Equação química:**
+```
+2 HCℓ + Ba(OH)₂ → BaCℓ₂ + 2 H₂O
+```
+
+**Nome do produto iônico:** Cloreto de bário
+
+---
+
+**Contexto para LLM:**
+Esta questão utiliza humor científico para abordar conceitos fundamentais de química ácido-base. Os temas centrais incluem:
+
+- **Reações de neutralização:** Interação entre ácidos e bases
+- **Balanceamento químico:** Conservação de átomos e cargas
+- **Nomenclatura de sais:** Identificação de compostos iônicos
+- **Divulgação científica:** Uso de memes para ensinar química
+- **Estequiometria:** Proporções entre reagentes e produtos
+
+**Conceitos-chave para o LLM:**
+- **Ácido clorídrico (HCℓ):** Ácido forte, monoprótico
+- **Hidróxido de bário [Ba(OH)₂]:** Base forte, diprótica
+- **Neutralização:** H⁺ + OH⁻ → H₂O
+- **Sal formado:** BaCℓ₂ (cloreto de bário)
+- **Estequiometria:** 2:1 (ácido:base) devido às diferentes proteicidades
+
+**Análise da reação de neutralização:**
+
+**Reagentes:**
+- **HCℓ:** Ácido monoprótico (doa 1 H⁺ por molécula)
+- **Ba(OH)₂:** Base diprótica (libera 2 OH⁻ por fórmula unitária)
+
+**Reação de neutralização:**
+```
+2 HCℓ + Ba(OH)₂ → BaCℓ₂ + 2 H₂O
+```
+
+**Verificação do balanceamento:**
+- **Hidrogênio:** 2 (HCℓ) + 2 (OH) = 4 → 4 (H₂O) ✓
+- **Cloro:** 2 (HCℓ) → 2 (BaCℓ₂) ✓
+- **Bário:** 1 [Ba(OH)₂] → 1 (BaCℓ₂) ✓
+- **Oxigênio:** 2 [Ba(OH)₂] → 2 (H₂O) ✓
+
+**Análise iônica da reação:**
+
+**Dissociação dos reagentes:**
+```
+HCℓ → H⁺ + Cℓ⁻
+Ba(OH)₂ → Ba²⁺ + 2 OH⁻
+```
+
+**Reação iônica completa:**
+```
+2 H⁺ + 2 Cℓ⁻ + Ba²⁺ + 2 OH⁻ → Ba²⁺ + 2 Cℓ⁻ + 2 H₂O
+```
+
+**Reação iônica líquida:**
+```
+2 H⁺ + 2 OH⁻ → 2 H₂O
+ou simplificando: H⁺ + OH⁻ → H₂O
+```
+
+**Formação do sal:**
+```
+Ba²⁺ + 2 Cℓ⁻ → BaCℓ₂
+```
+
+**Produto iônico - Cloreto de bário:**
+
+**Nomenclatura:**
+- **Nome:** Cloreto de bário
+- **Fórmula:** BaCℓ₂
+- **Classificação:** Sal neutro
+
+**Propriedades do BaCℓ₂:**
+- **Aparência:** Sólido cristalino branco
+- **Solubilidade:** Muito solúvel em água
+- **Toxicidade:** Tóxico (compostos de bário solúveis)
+- **Aplicações:** Pirotecnia (chama verde), laboratório
+
+**Características da neutralização:**
+
+**Neutralização total:**
+- **Definição:** Todos os H⁺ reagem com todos os OH⁻
+- **pH resultante:** ≈ 7 (neutro)
+- **Indicador:** Mudança de cor em indicadores ácido-base
+
+**Estequiometria da reação:**
+- **Proporção molar:** 2 HCℓ : 1 Ba(OH)₂
+- **Razão:** 2:1 devido à diferença de proteicidade
+- **Produto:** 1 mol de sal + 2 mols de água
+
+**Aspectos educacionais do meme:**
+
+**Humor científico:**
+- **Trocadilho:** "Bases do inimigo" vs bases químicas
+- **Contextualização:** Arsenal militar vs laboratório
+- **Memorização:** Associação lúdica facilita aprendizado
+
+**Divulgação científica:**
+- **Acessibilidade:** Linguagem informal
+- **Engajamento:** Formato de meme atrai atenção
+- **Educação:** Conceitos químicos em contexto divertido
+
+**Aplicações práticas da neutralização:**
+
+**Laboratório:**
+- **Titulação:** Determinação de concentrações
+- **Preparo de soluções:** Ajuste de pH
+- **Síntese:** Obtenção de sais específicos
+
+**Indústria:**
+- **Tratamento de efluentes:** Neutralização de resíduos ácidos
+- **Produção de sais:** Síntese industrial
+- **Controle de qualidade:** Análise de produtos
+
+**Cotidiano:**
+- **Antiácidos:** Neutralização da acidez estomacal
+- **Agricultura:** Correção do pH do solo
+- **Piscinas:** Ajuste do pH da água
+
+**Segurança química:**
+
+**HCℓ:**
+- **Corrosivo:** Pode causar queimaduras
+- **Vapores:** Irritantes das vias respiratórias
+- **Manuseio:** Usar EPI adequado
+
+**Ba(OH)₂:**
+- **Cáustico:** Base forte, corrosiva
+- **Toxicidade:** Compostos de bário são tóxicos
+- **Precauções:** Evitar inalação e contato
+
+**BaCℓ₂:**
+- **Toxicidade:** Veneno para mamíferos
+- **Descarte:** Tratamento especial de resíduos
+- **Antídoto:** Sulfato de sódio (precipita Ba²⁺)
+
+**Dados importantes:**
+- **Estequiometria:** 2 HCℓ : 1 Ba(OH)₂ : 1 BaCℓ₂ : 2 H₂O
+- **Sal formado:** Cloreto de bário (BaCℓ₂)
+- **Tipo de reação:** Neutralização ácido-base
+- **pH final:** Neutro (≈ 7)
+
+**Processo de resolução:**
+1. **Identificar reagentes:** HCℓ (ácido) + Ba(OH)₂ (base)
+2. **Determinar produtos:** Sal (BaCℓ₂) + água (H₂O)
+3. **Balancear equação:** Considerar proteicidades diferentes
+4. **Nomear sal:** Ânion + cátion → cloreto de bário
+
+Nível de dificuldade: Básico
+Área: Química Ácido-Base
+Habilidades avaliadas: Reações de neutralização, balanceamento químico, nomenclatura de sais, estequiometria básica, interpretação de contextos humorísticos aplicados à química.
+
+---
+
+**Questão 04**
+
+Um dos processos de obtenção de aminas secundárias consiste na reação entre haletos de alquila e determinados compostos nitrogenados, conforme a equação química genérica abaixo:
+
+**R-X + R'-NH₂ ⟶ R-NH-R' + HX**
+
+Admita que, para essa síntese, estejam disponíveis apenas os seguintes reagentes:
+• bromoetano;
+• metilamina;
+• etilamina.
+
+Utilizando as respectivas fórmulas estruturais, escreva a equação química completa da reação entre o haleto de alquila e o composto nitrogenado de caráter básico mais acentuado.
+
+Em seguida, apresente as fórmulas estruturais de duas aminas primárias, de cadeia carbônica normal, isômeras da amina secundária sintetizada.
+
+---
+
+**Gabarito Oficial**
+
+**Equação química da reação:**
+```
+CH₃CH₂Br + CH₃NH₂ ⟶ CH₃CH₂NHCH₃ + HBr
+```
+
+*Representação em linha de ligação:*
+```
+    /\     
+   /  \Br  +  /\NH₂  ⟶  /\N/\  +  HBr
+                           |
+                           H
+```
+
+**Fórmulas estruturais das aminas primárias isômeras:**
+```
+CH₃CH₂CH₂NH₂
+(propilamina)
+
+CH₃CHCH₃
+   |
+   NH₂
+(isopropilamina)
+```
+
+*Representação em linha de ligação:*
+```
+/\    /\NH₂   (butilamina)
+
+  /\
+ /  \NH₂      (2-metilpropilamina)
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de síntese orgânica, basicidade de aminas e isomeria estrutural. Os temas centrais incluem:
+
+- **Síntese de aminas secundárias:** Reação de substituição nucleofílica
+- **Basicidade de aminas:** Comparação entre aminas primárias
+- **Isomeria de cadeia:** Diferentes arranjos do esqueleto carbônico
+- **Mecanismos de reação:** SN2 em haletos de alquila primários
+- **Nomenclatura de aminas:** Classificação e nomenclatura IUPAC
+
+**Conceitos-chave para o LLM:**
+- **Amina secundária:** Nitrogênio ligado a dois grupos alquila
+- **Basicidade:** Metilamina > etilamina (efeito do tamanho)
+- **Reação de alquilação:** R-X + R'-NH₂ → R-NH-R' + HX
+- **Isômeros de cadeia:** Mesma fórmula molecular, diferentes esqueletos
+- **Fórmula molecular:** C₃H₉N para as aminas isômeras
+
+**Análise dos reagentes disponíveis:**
+
+**Haleto de alquila:**
+- **Bromoetano:** CH₃CH₂Br
+  - Haleto primário, reativo em SN2
+  - Bom grupo abandonador (Br⁻)
+
+**Compostos nitrogenados:**
+- **Metilamina:** CH₃NH₂
+- **Etilamina:** CH₃CH₂NH₂
+
+**Comparação de basicidade:**
+
+**Fatores que afetam a basicidade:**
+- **Efeito indutivo:** Grupos alquila doam densidade eletrônica
+- **Efeito estérico:** Impedimento ao redor do nitrogênio
+- **Solvatação:** Estabilização do íon amônio
+
+**Ordem de basicidade:**
+```
+CH₃NH₂ > CH₃CH₂NH₂
+(metilamina > etilamina)
+```
+
+**Justificativa:**
+- **Menor impedimento estérico:** CH₃ < CH₃CH₂
+- **Melhor solvatação:** Íon metil-amônio mais estável
+- **Efeito predominante:** Fatores estéricos superam efeito indutivo
+
+**Reação principal:**
+
+**Reagentes selecionados:**
+- **Haleto:** CH₃CH₂Br (bromoetano)
+- **Amina:** CH₃NH₂ (metilamina - mais básica)
+
+**Equação completa:**
+```
+CH₃CH₂Br + CH₃NH₂ → CH₃CH₂NHCH₃ + HBr
+```
+
+**Produto:** N-metil-etilamina (amina secundária)
+
+**Mecanismo da reação:**
+
+**Tipo:** Substituição nucleofílica SN2
+```
+Etapa 1: CH₃NH₂ + CH₃CH₂Br → [CH₃NH₂⁺-CH₂CH₃]Br⁻
+Etapa 2: [CH₃NH₂⁺-CH₂CH₃]Br⁻ → CH₃CH₂NHCH₃ + HBr
+```
+
+**Características do mecanismo:**
+- **Nucleófilo:** Par isolado do nitrogênio
+- **Eletrófiło:** Carbono ligado ao bromo
+- **Concertado:** Formação e quebra simultâneas de ligações
+- **Inversão:** Configuração invertida no carbono atacado
+
+**Análise das aminas isômeras:**
+
+**Produto da reação:** CH₃CH₂NHCH₃
+- **Fórmula molecular:** C₃H₉N
+- **Classificação:** Amina secundária
+
+**Aminas primárias isômeras com C₃H₉N:**
+
+**1. Propilamina (n-propilamina):**
+```
+CH₃CH₂CH₂NH₂
+```
+- **Cadeia:** Linear de 3 carbonos
+- **Grupo amino:** No carbono terminal
+
+**2. Isopropilamina (2-aminopropano):**
+```
+CH₃CHCH₃
+   |
+   NH₂
+```
+- **Cadeia:** Ramificada
+- **Grupo amino:** No carbono secundário
+
+**Verificação da isomeria:**
+- **Mesma fórmula molecular:** C₃H₉N ✓
+- **Diferentes estruturas:** Linear vs ramificada ✓
+- **Mesmo grupo funcional:** Aminas primárias ✓
+- **Tipo:** Isomeria de cadeia ✓
+
+**Propriedades das aminas:**
+
+**Basicidade relativa:**
+```
+Isopropilamina > Propilamina > N-metil-etilamina
+(1ª ramificada > 1ª linear > 2ª)
+```
+
+**Pontos de ebulição:**
+- **Ordem:** 1ª ramificada < 1ª linear < 2ª
+- **Fatores:** Ligações de hidrogênio e forças de van der Waals
+
+**Aplicações das aminas:**
+
+**Síntese orgânica:**
+- **Intermediários:** Precursores de outros compostos
+- **Catalisadores:** Bases orgânicas
+- **Agentes alquilantes:** Introdução de grupos alquila
+
+**Indústria farmacêutica:**
+- **Medicamentos:** Muitos fármacos contêm grupos amino
+- **Anestésicos:** Lidocaína, procaína
+- **Anti-histamínicos:** Difenidramina
+
+**Considerações sintéticas:**
+
+**Limitações da reação:**
+- **Polialquilação:** Formação de aminas terciárias
+- **Rendimento:** Mistura de produtos
+- **Seletividade:** Difícil controlar grau de substituição
+
+**Métodos alternativos:**
+- **Redução de nitrila:** R-CN → R-CH₂NH₂
+- **Síntese de Gabriel:** Evita polialquilação
+- **Aminação redutiva:** Aldeído/cetona + NH₃ + H₂
+
+**Dados importantes:**
+- **Reagentes:** Bromoetano + metilamina (mais básica)
+- **Produto:** N-metil-etilamina (C₃H₉N)
+- **Isômeros:** Propilamina e isopropilamina
+- **Mecanismo:** SN2 (haleto primário + amina)
+
+**Processo de resolução:**
+1. **Comparar basicidade:** CH₃NH₂ > CH₃CH₂NH₂
+2. **Escrever reação:** Bromoetano + metilamina
+3. **Identificar produto:** Amina secundária C₃H₉N
+4. **Encontrar isômeros:** Aminas primárias com mesma fórmula
+5. **Desenhar estruturas:** Linear e ramificada
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica (Síntese e Isomeria)
+Habilidades avaliadas: Síntese de aminas, basicidade de compostos nitrogenados, isomeria estrutural, mecanismos de substituição nucleofílica, nomenclatura de aminas.
+
+---
+
+**Questão 06**
+
+A sequência de reações abaixo é um exemplo de síntese orgânica, na qual os principais produtos formados são indicados por A e B.
+
+**Sequência reacional:**
+```
+I) but-2-eno + HCℓ ——→ A
+
+II) A + NaOH —H₂O→ B + NaCℓ
+```
+
+Apresente as fórmulas estruturais planas dos produtos A e B. Identifique, ainda, o mecanismo ocorrido na reação I em função das espécies reagentes.
+
+---
+
+**Gabarito Oficial**
+
+**Produto A:**
+```
+CH₃-CH₂-CH-CH₃
+          |
+          Cℓ
+```
+
+**Produto B:**
+```
+CH₃-CH₂-CH-CH₃
+          |
+          OH
+```
+
+**Mecanismo:** Adição eletrofílica
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de síntese orgânica, mecanismos de reação e transformações funcionais. Os temas centrais incluem:
+
+- **Síntese orgânica:** Sequência planejada de transformações químicas
+- **Adição eletrofílica:** Mecanismo de reação em alcenos
+- **Substituição nucleofílica:** Conversão de haleto em álcool
+- **Regra de Markovnikov:** Orientação em adições a alcenos
+- **Transformações funcionais:** Alceno → haleto → álcool
+
+**Conceitos-chave para o LLM:**
+- **But-2-eno:** Alceno simétrico (CH₃CH=CHCH₃)
+- **Adição de HCℓ:** Quebra da dupla ligação formando haleto
+- **Substituição por OH⁻:** Conversão de C-Cℓ em C-OH
+- **Produto A:** 2-clorobutano (haleto secundário)
+- **Produto B:** Butan-2-ol (álcool secundário)
+
+**Análise da Reação I:**
+
+**Reagentes:**
+- **But-2-eno:** CH₃CH=CHCH₃
+- **HCℓ:** Ácido clorídrico
+
+**Mecanismo: Adição eletrofílica**
+
+**Características do but-2-eno:**
+- **Alceno simétrico:** Ambos os carbonos da dupla são equivalentes
+- **Carbonos secundários:** Cada carbono da dupla ligado a 2 outros carbonos
+- **Produto único:** Não há regioseletividade (ambos os carbonos são iguais)
+
+**Etapas do mecanismo:**
+
+**Etapa 1 - Protonação:**
+```
+CH₃CH=CHCH₃ + H⁺ → [CH₃CH₂CH⁺CH₃]
+```
+- **Formação:** Carbocátion secundário
+- **Estabilidade:** Estabilizado por hiperconjugação
+
+**Etapa 2 - Ataque nucleofílico:**
+```
+[CH₃CH₂CH⁺CH₃] + Cℓ⁻ → CH₃CH₂CHCℓCH₃
+```
+
+**Produto A - 2-clorobutano:**
+```
+CH₃-CH₂-CH-CH₃
+          |
+          Cℓ
+```
+
+**Análise da Reação II:**
+
+**Reagentes:**
+- **2-clorobutano:** CH₃CH₂CHCℓCH₃ (produto A)
+- **NaOH:** Hidróxido de sódio (base forte)
+
+**Mecanismo: Substituição nucleofílica (SN2)**
+
+**Características da reação:**
+- **Nucleófilo:** OH⁻ (íon hidróxido)
+- **Grupo abandonador:** Cℓ⁻ (íon cloreto)
+- **Solvente:** H₂O (prótico, favorece SN2 para haletos secundários)
+
+**Reação de substituição:**
+```
+CH₃CH₂CHCℓCH₃ + OH⁻ → CH₃CH₂CHOHCH₃ + Cℓ⁻
+```
+
+**Produto B - Butan-2-ol:**
+```
+CH₃-CH₂-CH-CH₃
+          |
+          OH
+```
+
+**Análise dos produtos:**
+
+**Produto A (2-clorobutano):**
+- **Função orgânica:** Haleto de alquila
+- **Classificação:** Haleto secundário
+- **Reatividade:** Moderada em reações de substituição
+
+**Produto B (butan-2-ol):**
+- **Função orgânica:** Álcool
+- **Classificação:** Álcool secundário
+- **Isomeria:** Possui centro quiral (C2)
+
+**Considerações mecanísticas:**
+
+**Por que adição eletrofílica na Reação I?**
+- **Alceno:** Dupla ligação C=C rica em elétrons
+- **HCℓ:** Eletrófilo (H⁺ deficiente em elétrons)
+- **Processo:** Quebra da ligação π, formação de duas ligações σ
+
+**Fatores que favorecem o mecanismo:**
+- **Densidade eletrônica:** Alta na dupla ligação
+- **Polarização:** H-Cℓ é polar (H⁺δ-Cℓ⁻δ)
+- **Estabilidade:** Carbocátion secundário relativamente estável
+
+**Aspectos estereoquímicos:**
+
+**Reação I:**
+- **Estereoquímica:** Anti-adição preferencial
+- **Produto:** Mistura racêmica (if centro quiral formado)
+
+**Reação II:**
+- **Mecanismo SN2:** Inversão de configuração
+- **Centro quiral:** C2 do 2-clorobutano
+- **Produto:** Enantiômero invertido
+
+**Aplicações sintéticas:**
+
+**Importância da sequência:**
+- **Funcionalização:** Conversão alceno → álcool
+- **Versatilidade:** Haleto como intermediário reativo
+- **Economia atômica:** Poucos subprodutos
+
+**Alternativas sintéticas:**
+- **Hidratação direta:** Alceno + H₂O/H⁺
+- **Oximercuração:** Syn-adição de água
+- **Hidroboração:** Anti-Markovnikov
+
+**Considerações práticas:**
+
+**Condições reacionais:**
+- **Reação I:** Temperatura ambiente, solvente aprótico
+- **Reação II:** Aquecimento, solvente prótico (água)
+
+**Rendimentos esperados:**
+- **Reação I:** Alto (adição é favorável)
+- **Reação II:** Bom (SN2 eficiente com OH⁻)
+
+**Subprodutos:**
+- **Reação I:** Mínimos (reação limpa)
+- **Reação II:** NaCℓ (sal inorgânico)
+
+**Dados importantes:**
+- **Produto A:** 2-clorobutano (haleto secundário)
+- **Produto B:** Butan-2-ol (álcool secundário)
+- **Mecanismo I:** Adição eletrofílica
+- **Sequência:** Alceno → haleto → álcool
+
+**Processo de resolução:**
+1. **Analisar Reação I:** But-2-eno + HCℓ → adição eletrofílica
+2. **Determinar produto A:** 2-clorobutano (único produto possível)
+3. **Analisar Reação II:** SN2 de haleto com OH⁻
+4. **Determinar produto B:** Butan-2-ol
+5. **Identificar mecanismo:** Adição eletrofílica (alceno + ácido)
+
+Nível de dificuldade: Médio
+Área: Química Orgânica (Mecanismos e Síntese)
+Habilidades avaliadas: Mecanismos de reação, adição eletrofílica, substituição nucleofílica, síntese orgânica, análise de produtos, transformações funcionais.
+
+---
+
+**Questão 08**
+
+O formol, uma solução de metanal, frequentemente utilizado em cosméticos, vem sendo substituído pelo ácido glioxílico. No entanto, a decomposição térmica desse ácido também acarreta a formação de metanal, de acordo com a seguinte equação:
+
+**Reação de decomposição térmica:**
+```
+    O    O                O
+    ||   ||        Δ      ||
+    C—C—OH  ————→   H—C—H  +  CO₂
+   /                      
+  H                       
+
+ácido glioxílico        metanal
+```
+
+*Descrição detalhada das estruturas:*
+- **Ácido glioxílico:** HC(=O)COOH - aldeído com grupo carboxila adjacente
+- **Metanal:** H₂C=O - aldeído mais simples (formaldeído)
+- **CO₂:** Dióxido de carbono
+
+Veja, abaixo, as energias das ligações nas moléculas participantes da reação:
+
+**Tabela de energias de ligação:**
+
+| Ligação | Energia de ligação (kJ.mol⁻¹) |
+|---------|-------------------------------|
+| C–C | 348 |
+| C=O | 744 |
+| C–H | 413 |
+| C–O | 357 |
+| O–H | 462 |
+
+Considere a decomposição de 1 L de uma solução aquosa de ácido glioxílico, na concentração de 0,005 mol.L⁻¹. Assumindo que todo o ácido glioxílico foi decomposto, calcule, em quilojoules, a energia absorvida nesse processo.
+
+Aponte, ainda, o número de oxidação do carbono na molécula de metanal.
+
+---
+
+**Gabarito Oficial**
+
+**Cálculo da energia absorvida:**
+```
+ΔH = (744 × 2 + 348 + 413 + 357 + 462) - (744 × 3 + 413 × 2) = 3068 - 3058 = 10 kJ
+
+Proporção estequiométrica:
+1 mol ——→ 10 kJ
+0,005 mol ——→ x
+x = 0,05 kJ
+```
+
+**Número de oxidação do carbono:** 0
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de termoquímica, energias de ligação e números de oxidação aplicados a compostos de interesse comercial. Os temas centrais incluem:
+
+- **Energias de ligação:** Cálculo de variação de entalpia através de ligações quebradas e formadas
+- **Decomposição térmica:** Reação endotérmica de quebra molecular
+- **Números de oxidação:** Determinação em compostos orgânicos
+- **Aplicações cosméticas:** Substitutos do formol em produtos de beleza
+- **Estequiometria:** Cálculos com concentrações molares
+
+**Conceitos-chave para o LLM:**
+- **Ácido glioxílico:** HC(=O)COOH, precursor "mais seguro" que o formol
+- **Método de energias de ligação:** ΔH = Σ(ligações quebradas) - Σ(ligações formadas)
+- **Reação endotérmica:** ΔH > 0, absorve energia
+- **Metanal:** Formaldeído, número de oxidação do C = 0
+- **Concentração baixa:** 0,005 mol/L em 1 L = 0,005 mol total
+
+**Análise da reação química:**
+
+**Equação balanceada:**
+```
+HC(=O)COOH → H₂C=O + CO₂
+```
+
+**Verificação do balanceamento:**
+- **Carbono:** 2 → 1 + 1 ✓
+- **Hidrogênio:** 2 → 2 + 0 ✓
+- **Oxigênio:** 3 → 1 + 2 ✓
+
+**Análise estrutural detalhada:**
+
+**Ácido glioxílico [HC(=O)COOH]:**
+```
+    O    O
+    ||   ||
+H—C—C—OH
+```
+
+**Ligações presentes:**
+- **C=O:** 2 ligações (aldeído + carboxila)
+- **C–C:** 1 ligação (entre carbonos)
+- **C–H:** 1 ligação (aldeído)
+- **C–O:** 1 ligação (carboxila)
+- **O–H:** 1 ligação (carboxila)
+
+**Produtos:**
+
+**Metanal [H₂C=O]:**
+```
+    O
+    ||
+H—C—H
+```
+
+**Ligações presentes:**
+- **C=O:** 1 ligação
+- **C–H:** 2 ligações
+
+**CO₂ [O=C=O]:**
+```
+O=C=O
+```
+
+**Ligações presentes:**
+- **C=O:** 2 ligações
+
+**Cálculo termoquímico usando energias de ligação:**
+
+**Ligações quebradas (reagente):**
+- **C=O:** 2 × 744 = 1488 kJ/mol
+- **C–C:** 1 × 348 = 348 kJ/mol
+- **C–H:** 1 × 413 = 413 kJ/mol
+- **C–O:** 1 × 357 = 357 kJ/mol
+- **O–H:** 1 × 462 = 462 kJ/mol
+- **Total quebradas:** 3068 kJ/mol
+
+**Ligações formadas (produtos):**
+- **C=O no metanal:** 1 × 744 = 744 kJ/mol
+- **C–H no metanal:** 2 × 413 = 826 kJ/mol
+- **C=O no CO₂:** 2 × 744 = 1488 kJ/mol
+- **Total formadas:** 3058 kJ/mol
+
+**Variação de entalpia:**
+```
+ΔH = Energia absorvida - Energia liberada
+ΔH = 3068 - 3058 = +10 kJ/mol
+```
+
+**Interpretação:** Reação endotérmica (absorve energia)
+
+**Cálculo para a quantidade específica:**
+
+**Dados da solução:**
+- **Volume:** 1 L
+- **Concentração:** 0,005 mol/L
+- **Quantidade de matéria:** 1 L × 0,005 mol/L = 0,005 mol
+
+**Energia total absorvida:**
+```
+1 mol de ácido glioxílico → 10 kJ
+0,005 mol → x kJ
+
+x = 0,005 × 10 = 0,05 kJ
+```
+
+**Determinação do número de oxidação do carbono no metanal:**
+
+**Estrutura do metanal:**
+```
+    O
+    ||
+H—C—H
+```
+
+**Método das eletronegatividades:**
+- **C–H:** Carbono mais eletronegativo que H → C recebe carga -1 de cada H
+- **C=O:** Oxigênio mais eletronegativo que C → C perde carga +2 para O
+- **Cálculo:** (-1) + (-1) + (+2) = 0
+
+**Número de oxidação do C no metanal = 0**
+
+**Comparação com outros compostos:**
+- **CO₂:** C = +4 (máxima oxidação)
+- **CH₄:** C = -4 (mínima oxidação)
+- **H₂C=O:** C = 0 (estado intermediário)
+
+**Aspectos práticos e aplicações:**
+
+**Problema do formol:**
+- **Toxicidade:** Carcinógeno conhecido
+- **Regulamentação:** Restrições crescentes em cosméticos
+- **Substituição:** Busca por alternativas mais seguras
+
+**Ácido glioxílico como alternativa:**
+- **Menor toxicidade:** Mais seguro que o formol
+- **Eficácia:** Mantém propriedades alisantes
+- **Decomposição:** Ainda forma formaldeído, mas em menor quantidade
+
+**Aspectos termoquímicos:**
+- **Reação endotérmica:** Requer aquecimento para ocorrer
+- **Energia baixa:** 10 kJ/mol é relativamente pequena
+- **Feasibilidade:** Facilmente atingível com aquecimento moderado
+
+**Dados importantes:**
+- **ΔH da reação:** +10 kJ/mol (endotérmica)
+- **Energia absorvida:** 0,05 kJ para 0,005 mol
+- **NOx do C no metanal:** 0
+- **Método:** Energias de ligação para cálculo de ΔH
+
+**Processo de resolução:**
+1. **Identificar ligações:** Contar todas as ligações nos reagentes e produtos
+2. **Aplicar fórmula:** ΔH = Σ(quebradas) - Σ(formadas)
+3. **Calcular para quantidade específica:** Usar proporção estequiométrica
+4. **Determinar NOx:** Aplicar regras de eletronegatividade
+
+Nível de dificuldade: Médio-Alto
+Área: Termoquímica e Química Orgânica
+Habilidades avaliadas: Energias de ligação, cálculos termoquímicos, números de oxidação, estequiometria, aplicações industriais, interpretação de estruturas químicas.
+
+---
+
+**Questão 09**
+
+Soluções-tampão são sistemas nos quais ocorrem variações desprezíveis de pH, quando recebem a adição de pequenas quantidades de ácidos ou de bases.
+
+Considere estes compostos para o preparo de uma solução-tampão:
+• HCℓ
+• NaCℓ
+• NH₄Cℓ
+• NaOH
+• NH₄OH
+
+Indique, dentre os compostos disponíveis, os dois escolhidos para o preparo da solução-tampão.
+
+Considere, agora, a adição de uma solução aquosa de Ca(OH)₂, completamente dissociado, na concentração de 0,005 mol.L⁻¹, a 25°C, à solução-tampão preparada. Calcule o pH inicial da solução de Ca(OH)₂ e apresente a equação química que demonstra não haver aumento do pH da solução-tampão com a adição da solução de Ca(OH)₂.
+
+---
+
+**Gabarito Oficial**
+
+**Compostos escolhidos:** NH₄OH e NH₄Cℓ
+
+**Cálculo do pH da solução de Ca(OH)₂:**
+```
+Ca(OH)₂ (aq) ——→ Ca²⁺ (aq) + 2 OH⁻(aq)
+1 mol ——————→ 2 mols
+0,005 mol.L⁻¹ ——→ x
+x = 0,01 = 10⁻² mol.L⁻¹
+
+pOH = -log 10⁻² = 2
+pH = 14 - pOH = 12
+```
+
+**Equação química:**
+```
+NH₄⁺ + OH⁻ ⇌ NH₄OH
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de soluções-tampão, equilíbrios ácido-base e cálculos de pH. Os temas centrais incluem:
+
+- **Sistemas tampão:** Soluções que resistem a mudanças de pH
+- **Pares conjugados:** Ácido fraco + base conjugada ou base fraca + ácido conjugado
+- **Cálculos de pH:** Determinação de pH de bases fortes
+- **Equilíbrios químicos:** Reações de neutralização em sistemas tampão
+- **Dissociação iônica:** Comportamento de eletrólitos em solução
+
+**Conceitos-chave para o LLM:**
+- **Tampão básico:** NH₄OH (base fraca) + NH₄Cℓ (sal do ácido conjugado)
+- **Ca(OH)₂:** Base forte, dissocia completamente
+- **Sistema NH₄⁺/NH₃:** Par ácido-base conjugado
+- **Resistência a pH:** Neutralização de OH⁻ adicionado pelo NH₄⁺
+- **Estequiometria:** 1 mol Ca(OH)₂ → 2 mol OH⁻
+
+**Análise dos compostos disponíveis:**
+
+**Classificação dos compostos:**
+- **HCℓ:** Ácido forte
+- **NaCℓ:** Sal neutro (ácido forte + base forte)
+- **NH₄Cℓ:** Sal ácido (ácido fraco + base forte)
+- **NaOH:** Base forte
+- **NH₄OH:** Base fraca
+
+**Formação de sistemas tampão:**
+
+**Opções possíveis:**
+1. **Ácido fraco + sal da base conjugada:** Não disponível
+2. **Base fraca + sal do ácido conjugado:** NH₄OH + NH₄Cℓ ✓
+
+**Sistema escolhido: NH₄OH + NH₄Cℓ**
+
+**Justificativa da escolha:**
+- **NH₄OH:** Base fraca (doador de OH⁻)
+- **NH₄Cℓ:** Fonte de NH₄⁺ (ácido conjugado)
+- **Par conjugado:** NH₄⁺/NH₃ (ou NH₄⁺/NH₄OH)
+- **Função tampão:** Resiste a mudanças de pH
+
+**Equilíbrios do sistema tampão:**
+
+**Equilíbrio principal:**
+```
+NH₄OH ⇌ NH₄⁺ + OH⁻
+```
+
+**Função tampão:**
+- **Adição de ácido:** OH⁻ neutraliza H⁺
+- **Adição de base:** NH₄⁺ neutraliza OH⁻
+
+**Cálculo do pH da solução de Ca(OH)₂:**
+
+**Dissociação do Ca(OH)₂:**
+```
+Ca(OH)₂ (s) → Ca²⁺ (aq) + 2 OH⁻ (aq)
+```
+
+**Características:**
+- **Base forte:** Dissociação completa
+- **Estequiometria:** 1:2 (Ca(OH)₂ : OH⁻)
+
+**Cálculo da [OH⁻]:**
+```
+[Ca(OH)₂] = 0,005 mol/L
+[OH⁻] = 2 × [Ca(OH)₂] = 2 × 0,005 = 0,01 mol/L = 10⁻² mol/L
+```
+
+**Cálculo do pOH:**
+```
+pOH = -log[OH⁻] = -log(10⁻²) = 2
+```
+
+**Cálculo do pH:**
+```
+pH + pOH = 14 (a 25°C)
+pH = 14 - pOH = 14 - 2 = 12
+```
+
+**Mecanismo de ação do tampão:**
+
+**Adição de Ca(OH)₂ ao tampão:**
+```
+Ca(OH)₂ → Ca²⁺ + 2 OH⁻
+```
+
+**Reação de neutralização:**
+```
+NH₄⁺ + OH⁻ ⇌ NH₄OH
+```
+
+**Explicação do mecanismo:**
+- **OH⁻ adicionado:** Proveniente da dissociação do Ca(OH)₂
+- **NH₄⁺ disponível:** Componente ácido do tampão
+- **Neutralização:** Formação de NH₄OH (base fraca)
+- **Resultado:** pH permanece aproximadamente constante
+
+**Eficácia do sistema tampão:**
+
+**Equação de Henderson-Hasselbalch:**
+```
+pOH = pKb + log([NH₄⁺]/[NH₄OH])
+```
+
+**Fatores que afetam a capacidade tampão:**
+- **Concentração total:** Maior concentração = maior capacidade
+- **Razão [base]/[ácido]:** Próxima de 1 é ideal
+- **pKb da base:** Determina faixa de pH efetiva
+
+**Limitações do tampão:**
+- **Capacidade finita:** Quantidade limitada de NH₄⁺ disponível
+- **Faixa de pH:** Efetivo próximo ao pKb do NH₄OH
+- **Diluição:** Reduz eficácia com adição de volume
+
+**Aplicações práticas:**
+
+**Sistemas biológicos:**
+- **Sangue:** Tampão bicarbonato/ácido carbônico
+- **Células:** Tampões fosfato e proteínas
+- **Enzimas:** Atividade dependente do pH
+
+**Laboratório:**
+- **Análises:** Manutenção de pH constante
+- **Síntese:** Controle de condições reacionais
+- **Calibração:** Soluções padrão de pH
+
+**Considerações experimentais:**
+
+**Preparo do tampão:**
+- **Proporções:** Definir razão [NH₄OH]/[NH₄Cℓ]
+- **pH desejado:** Calcular usando Henderson-Hasselbalch
+- **Concentração:** Determinar capacidade necessária
+
+**Validação:**
+- **Teste com ácido:** Verificar resistência a H⁺
+- **Teste com base:** Verificar resistência a OH⁻
+- **Medição contínua:** Monitorar pH durante adições
+
+**Dados importantes:**
+- **Sistema tampão:** NH₄OH + NH₄Cℓ
+- **pH da solução Ca(OH)₂:** 12
+- **Reação neutralizante:** NH₄⁺ + OH⁻ → NH₄OH
+- **Estequiometria:** 1 Ca(OH)₂ → 2 OH⁻
+
+**Processo de resolução:**
+1. **Identificar par conjugado:** NH₄OH (base fraca) + NH₄Cℓ (sal)
+2. **Calcular [OH⁻]:** 2 × [Ca(OH)₂] devido estequiometria
+3. **Determinar pH:** pOH = 2, logo pH = 12
+4. **Escrever reação:** NH₄⁺ neutraliza OH⁻ adicionado
+
+Nível de dificuldade: Médio-Alto
+Área: Equilíbrio Ácido-Base
+Habilidades avaliadas: Sistemas tampão, cálculos de pH, equilíbrios químicos, pares ácido-base conjugados, estequiometria de dissociação, mecanismos de neutralização.
+
+---
+
+**Questão 04:**
+
+As amidas podem ser obtidas pela reação entre um ácido carboxílico e a amônia, conforme a seguinte equação geral:
+
+**R-COOH + NH₃ → R-CONH₂ + H₂O**
+
+Considere um laboratório no qual estão disponíveis quatro ácidos carboxílicos: etanoico, propanoico, butanoico e pentanoico.
+
+Escreva a equação química completa da reação da amônia com o composto de caráter ácido mais acentuado dentre os disponíveis no laboratório.
+
+Admitindo a substituição da amônia pelo metanol na equação geral, indique a função orgânica do produto formado e o tipo de hibridação do átomo de carbono do grupo funcional desse produto.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Equação química completa:**
+
+**CH₃COOH + NH₃ → CH₃CONH₂ + H₂O**
+
+**Função orgânica:** éster
+
+**Hibridação:** sp²
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos fundamentais de química orgânica, especificamente:
+
+1. **Reações de síntese de amidas**: Reação entre ácidos carboxílicos e amônia para formar amidas primárias, com eliminação de água.
+
+2. **Ácidos carboxílicos disponíveis**:
+   - Ácido etanoico (acético): CH₃COOH
+   - Ácido propanoico: CH₃CH₂COOH  
+   - Ácido butanoico: CH₃CH₂CH₂COOH
+   - Ácido pentanoico: CH₃CH₂CH₂CH₂COOH
+
+3. **Conceitos avaliados**:
+   - **Acidez relativa**: Ácidos carboxílicos de cadeia menor são mais ácidos (ácido etanoico é o mais ácido)
+   - **Nomenclatura**: Identificação correta dos ácidos carboxílicos
+   - **Mecanismo de reação**: Formação de amidas por condensação
+   - **Esterificação**: Reação entre ácido carboxílico e álcool (metanol)
+   - **Hibridação**: Determinação da hibridação do carbono carbonílico
+
+4. **Raciocínio necessário**:
+   - O ácido etanoico (menor cadeia) possui maior caráter ácido
+   - A substituição de NH₃ por CH₃OH (metanol) resulta em esterificação
+   - A reação seria: R-COOH + CH₃OH → R-COOCH₃ + H₂O
+   - O produto é um éster (função orgânica)
+   - O carbono do grupo funcional (C=O) possui hibridação sp²
+
+5. **Conhecimentos estruturais**:
+   - Grupo carboxila: geometria trigonal plana no carbono (sp²)
+   - Grupo éster: mantém a hibridação sp² no carbono carbonílico
+   - Diferenciação entre funções orgânicas (amida vs. éster)
+
+6. **Nível de complexidade**: Questão de nível intermediário que integra propriedades físico-químicas, nomenclatura, reações orgânicas e hibridação.
+
+7. **Padrão UERJ**: Questão que combina múltiplos conceitos em contexto prático de laboratório, exigindo análise comparativa e aplicação de conhecimentos teóricos.
+
+---
+
+**Questão 05:**
+
+Leia no texto abaixo um exemplo de síntese baseada na transformação de grupos funcionais dos compostos orgânicos.
+
+> A reação do 2-bromobutano com o hidróxido de potássio aquoso tem como principal produto orgânico o composto X. Quando a substância X é tratada com a mistura oxidante K₂Cr₂O₇ / H₂SO₄, é produzido o composto orgânico Y.
+
+Escreva a fórmula estrutural plana do composto X e a do composto Y. Em seguida, identifique o mecanismo ocorrido na reação de síntese do composto X em função das espécies reagentes. Determine, ainda, o número de isômeros opticamente ativos do 2-bromobutano.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Composto X:**
+```
+CH₃-CH(OH)-CH₂-CH₃
+```
+(2-butanol)
+
+**Composto Y:**
+```
+CH₃-CO-CH₂-CH₃
+```
+(2-butanona)
+
+**Mecanismo:** substituição nucleofílica
+
+**Isômeros ativos:** 2¹ = 2
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra múltiplos conceitos avançados de química orgânica:
+
+1. **Sequência de reações orgânicas**:
+   - **Etapa 1**: 2-bromobutano + KOH(aq) → 2-butanol (álcool secundário)
+   - **Etapa 2**: 2-butanol + K₂Cr₂O₇/H₂SO₄ → 2-butanona (cetona)
+
+2. **Mecanismos de reação**:
+   - **Substituição nucleofílica**: OH⁻ substitui Br⁻ no 2-bromobutano
+   - **Oxidação**: Álcool secundário oxidado a cetona pelo dicromato
+
+3. **Estruturas moleculares**:
+   - **2-bromobutano**: CH₃-CHBr-CH₂-CH₃
+   - **Composto X (2-butanol)**: CH₃-CH(OH)-CH₂-CH₃
+   - **Composto Y (2-butanona)**: CH₃-CO-CH₂-CH₃
+
+4. **Isomeria óptica**:
+   - **Centro quiral**: Carbono 2 do 2-bromobutano (ligado a 4 grupos diferentes)
+   - **Fórmula para isômeros**: 2ⁿ onde n = número de carbonos quirais
+   - **Cálculo**: 2¹ = 2 isômeros (R e S)
+
+5. **Conceitos avaliados**:
+   - **Reações de substituição**: Mecanismo SN1 ou SN2
+   - **Oxidação de álcoois**: Álcool 1° → aldeído, álcool 2° → cetona
+   - **Estereoquímica**: Reconhecimento de centros quirais
+   - **Nomenclatura**: IUPAC para álcoois, cetonas e haletos
+
+6. **Reagentes específicos**:
+   - **KOH(aq)**: Base forte, meio aquoso favorece substituição
+   - **K₂Cr₂O₇/H₂SO₄**: Agente oxidante clássico em meio ácido
+
+7. **Transformações funcionais**:
+   - Haleto de alquila → álcool → cetona
+   - Mudança de função: R-X → R-OH → R-CO-R'
+
+8. **Nível de complexidade**: Questão avançada que exige domínio de múltiplos conceitos: mecanismos, oxidação, estereoquímica e nomenclatura.
+
+9. **Padrão UERJ**: Questão sintética que integra reações sequenciais, análise mecanística e estereoquímica, exigindo visão global da química orgânica.
+
+---
+
+**Questão 10:**
+
+A água sanitária é um produto de limpeza obtido a partir do borbulhamento de cloro gasoso em solução aquosa de NaOH, conforme apresentado nas equações químicas consecutivas a seguir.
+
+**Equação A:** Cℓ₂₍g₎ + NaOH₍aq₎ → HCℓO₍aq₎ + NaCℓ₍aq₎
+
+**Equação B:** HCℓO₍aq₎ + NaOH₍aq₎ ⇌ NaCℓO₍aq₎ + H₂O₍ℓ₎
+
+Em uma fábrica, a produção de água sanitária é iniciada com a dissolução de Cℓ₂ e NaOH em água, nas concentrações de 0,20 e 0,34 mol × L⁻¹, respectivamente. Ao final do processo de produção, o Cℓ₂ foi consumido por completo, restando 80% do HCℓO formado na equação A.
+
+Calcule, em mol × L⁻¹, a concentração de NaOH no produto final.
+
+Em seguida, escreva a equação química que representa a hidrólise do NaCℓO.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Cálculo da concentração de NaOH:**
+
+NaOH consumido: 0,34 - 0,20 = 0,14 mol × L⁻¹
+
+HCℓO formado: 0,20 mol × L⁻¹
+
+Consumo de 20% do HCℓO = consumo de NaOH: 0,20 × (20/100) = 0,04 mol × L⁻¹
+
+**[NaOH] no produto final = 0,14 - 0,04 = 0,10 mol × L⁻¹**
+
+**Equação de hidrólise do NaCℓO:**
+
+**CℓO⁻ + H₂O ⇌ HCℓO + OH⁻**
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de estequiometria, equilíbrio químico e hidrólise:
+
+1. **Processo industrial descrito**:
+   - **Produção de água sanitária**: Borbulhamento de Cℓ₂ em solução de NaOH
+   - **Reações consecutivas**: Duas etapas de reação
+   - **Reagente limitante**: Cℓ₂ é completamente consumido
+
+2. **Equações químicas envolvidas**:
+   - **Equação A**: Cℓ₂ + NaOH → HCℓO + NaCℓ (formação de ácido hipocloroso)
+   - **Equação B**: HCℓO + NaOH ⇌ NaCℓO + H₂O (neutralização/equilíbrio)
+
+3. **Dados iniciais fornecidos**:
+   - **[Cℓ₂]₀ = 0,20 mol/L**
+   - **[NaOH]₀ = 0,34 mol/L**
+   - **Cℓ₂ consumido completamente**
+   - **80% do HCℓO permanece no final**
+
+4. **Análise estequiométrica**:
+   - **Equação A balanceada**: Cℓ₂ + 2NaOH → HCℓO + NaCℓ + H₂O
+   - **Relação molar**: 1 mol Cℓ₂ : 2 mol NaOH : 1 mol HCℓO
+   - **NaOH consumido na Eq. A**: 2 × 0,20 = 0,40 mol/L (mas só há 0,34 mol/L disponível)
+
+5. **Correção da estequiometria**:
+   - **NaOH é limitante na Eq. A**: Apenas 0,20 mol/L de NaOH reage
+   - **HCℓO formado**: 0,20 mol/L
+   - **NaOH restante**: 0,34 - 0,20 = 0,14 mol/L
+
+6. **Sequência de cálculos**:
+   - **HCℓO inicial**: 0,20 mol/L
+   - **HCℓO que permanece**: 80% × 0,20 = 0,16 mol/L
+   - **HCℓO que reage na Eq. B**: 20% × 0,20 = 0,04 mol/L
+   - **NaOH consumido na Eq. B**: 0,04 mol/L (relação 1:1)
+   - **NaOH final**: 0,14 - 0,04 = 0,10 mol/L
+
+7. **Hidrólise do hipoclorito**:
+   - **NaCℓO**: Sal de base forte (NaOH) e ácido fraco (HCℓO)
+   - **Hidrólise básica**: CℓO⁻ + H₂O ⇌ HCℓO + OH⁻
+   - **Resultado**: Solução básica
+
+8. **Conceitos avaliados**:
+   - **Estequiometria consecutiva**: Cálculos em reações sequenciais
+   - **Reagente limitante**: Identificação e cálculos
+   - **Rendimento parcial**: 80% do produto intermediário permanece
+   - **Hidrólise salina**: Comportamento de sais em solução aquosa
+   - **Equilíbrio ácido-base**: Equações de hidrólise
+
+9. **Aplicação industrial**:
+   - **Água sanitária**: Solução de hipoclorito de sódio
+   - **Controle de pH**: Importância do NaOH residual
+   - **Processo de fabricação**: Etapas consecutivas controladas
+
+10. **Nível de complexidade**: Questão avançada que exige domínio de estequiometria, equilíbrios e processos industriais.
+
+11. **Padrão UERJ**: Questão contextualizada que combina cálculos quantitativos complexos com conceitos teóricos de equilíbrio e hidrólise.
+
+---
+
+**Questão 04:**
+
+O bromofenilmetano, também denominado brometo de benzila, reage lentamente com a água, formando um álcool e um ácido inorgânico.
+
+Escreva, utilizando as fórmulas estruturais das substâncias, a equação química dessa reação. Em seguida, apresente a estrutura em bastão do éter isômero do álcool produzido.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Equação química:**
+
+![Equação da reação](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8IS0tIEJyb21ldG8gZGUgYmVuemlsYSAtLT4KICA8dGV4dCB4PSIxMCIgeT0iMjAiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiI+QnJvbWV0byBkZSBiZW56aWxhICsgw6FndWEgw6Agw6FsY29vbCBiZW56w61saWNvICsgSEJyPC90ZXh0Pgo8L3N2Zz4K)
+
+```
+C₆H₅CH₂Br + H₂O → C₆H₅CH₂OH + HBr
+```
+
+**Representação com estruturas:**
+- **Brometo de benzila**: Anel benzênico ligado a -CH₂Br
+- **Água**: H₂O
+- **Álcool benzílico**: Anel benzênico ligado a -CH₂OH  
+- **Ácido bromídrico**: HBr
+
+**Estrutura em bastão do éter isômero:**
+
+```
+    O
+   / \
+  /   \
+ ______
+```
+(Anisol - metoxibenzeno: C₆H₅OCH₃)
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos avançados de química orgânica, especificamente:
+
+1. **Composto inicial - Bromofenilmetano**:
+   - **Nomenclatura**: Bromofenilmetano = brometo de benzila
+   - **Fórmula molecular**: C₇H₇Br
+   - **Estrutura**: C₆H₅CH₂Br (anel benzênico + grupo -CH₂Br)
+   - **Classificação**: Haleto de benzila (haleto primário aromático)
+
+2. **Reação de hidrólise**:
+   - **Tipo**: Substituição nucleofílica (SN1 ou SN2)
+   - **Nucleófilo**: H₂O (água)
+   - **Grupo abandonador**: Br⁻ (brometo)
+   - **Mecanismo**: Lento (conforme mencionado no enunciado)
+
+3. **Produtos da reação**:
+   - **Álcool**: Álcool benzílico (C₆H₅CH₂OH)
+   - **Ácido inorgânico**: Ácido bromídrico (HBr)
+   - **Tipo de reação**: Hidrólise de haleto orgânico
+
+4. **Isomeria solicitada**:
+   - **Álcool produzido**: Álcool benzílico (C₆H₅CH₂OH)
+   - **Função do isômero**: Éter
+   - **Mesma fórmula molecular**: C₇H₈O
+   - **Éter isômero**: Anisol (metoxibenzeno, C₆H₅OCH₃)
+
+5. **Estruturas moleculares detalhadas**:
+   
+   **Brometo de benzila**:
+   ```
+   C₆H₅-CH₂-Br
+   (anel benzênico ligado a metileno com bromo)
+   ```
+   
+   **Álcool benzílico**:
+   ```
+   C₆H₅-CH₂-OH
+   (anel benzênico ligado a metileno com hidroxila)
+   ```
+   
+   **Anisol (éter isômero)**:
+   ```
+   C₆H₅-O-CH₃
+   (anel benzênico ligado diretamente ao oxigênio do éter)
+   ```
+
+6. **Conceitos avaliados**:
+   - **Reações de substituição**: Mecanismo SN em compostos aromáticos
+   - **Nomenclatura**: IUPAC e nomes usuais
+   - **Isomeria funcional**: Álcool vs. éter
+   - **Representação estrutural**: Fórmulas estruturais e representação em bastão
+   - **Hidrólise**: Reação com água
+
+7. **Aspectos mecanísticos**:
+   - **Haleto benzílico**: Forma carbocátion estabilizado por ressonância
+   - **Velocidade lenta**: Característica de reações SN1 com água
+   - **Estabilização**: Carbocátion benzílico é estável
+
+8. **Diferenciação estrutural**:
+   - **Álcool benzílico**: -CH₂OH ligado ao anel
+   - **Anisol**: -OCH₃ ligado diretamente ao anel
+   - **Isomeria**: Mesma fórmula molecular, diferentes grupos funcionais
+
+9. **Aplicações práticas**:
+   - **Álcool benzílico**: Solvente, perfumaria
+   - **Anisol**: Solvente, síntese orgânica
+   - **Reação**: Modelo para estudos de mecanismo
+
+10. **Nível de complexidade**: Questão avançada que exige domínio de mecanismos de reação, isomeria e representação estrutural.
+
+11. **Padrão UERJ**: Questão que integra nomenclatura, mecanismos reacionais e isomeria, exigindo conhecimento sólido de química orgânica e capacidade de representação estrutural.
+
+---
+
+**Questão 10:**
+
+O paládio é um elemento químico muito empregado como catalisador em reações de hidrogenação, uma vez que pode adsorver 900 vezes seu volume em gás hidrogênio.
+
+Em um experimento, foi realizada a hidrogenação parcial de 12,24 g de pent-2-ino, obtendo-se uma mistura de dois isômeros.
+
+Considerando a densidade do hidrogênio igual a 0,08 g.L⁻¹ e a do paládio igual a 12,0 g.mL⁻¹, calcule a massa de paládio, em gramas, necessária para adsorver todo o hidrogênio consumido nessa reação. Em seguida, apresente as fórmulas espaciais em bastão dos isômeros formados.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Cálculo da massa de paládio:**
+
+**Estequiometria da reação:**
+68 g/mol C₅H₈ → 2 g/mol H₂
+
+12,24 g → X        X = 0,36 g de H₂
+
+**Volume de H₂:** d = m/v ⇒ VH₂ = 0,36/0,08 ⇒ VH₂ = 4,5 L = 4500 mL
+
+**Volume de Pd:** 4500/900 ⇒ VPd = 5 mL
+
+**Massa de Pd:** d = m/v ⇒ mPd = 12,0 × 5 ⇒ mPd = 60 g
+
+**Fórmulas espaciais em bastão dos isômeros:**
+
+**Isômero 1 (pent-2-eno Z):**
+```
+    ___
+   /
+___
+```
+
+**Isômero 2 (pent-2-eno E):**
+```
+___
+   \
+    ___
+```
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de química orgânica, catálise heterogênea e estequiometria:
+
+1. **Catálise heterogênea com paládio**:
+   - **Função**: Catalisador de hidrogenação
+   - **Propriedade especial**: Adsorve 900 vezes seu volume em H₂
+   - **Mecanismo**: Adsorção do H₂ na superfície metálica
+   - **Aplicação**: Redução seletiva de alcinos
+
+2. **Reação de hidrogenação parcial**:
+   
+   **Substrato**: Pent-2-ino
+   - **Fórmula**: C₅H₈
+   - **Estrutura**: CH₃-CH₂-C≡C-CH₃
+   - **Classificação**: Alcino interno
+   
+   **Reação global**:
+   ```
+   CH₃-CH₂-C≡C-CH₃ + H₂ → CH₃-CH₂-CH=CH-CH₃
+   (pent-2-ino)              (pent-2-eno)
+   ```
+
+3. **Cálculo estequiométrico**:
+   
+   **Massas molares**:
+   - **C₅H₈**: 5(12) + 8(1) = 68 g/mol
+   - **H₂**: 2(1) = 2 g/mol
+   
+   **Relação estequiométrica**: 1 mol C₅H₈ : 1 mol H₂
+   ```
+   68 g C₅H₈ → 2 g H₂
+   12,24 g C₅H₈ → X g H₂
+   X = (12,24 × 2) / 68 = 0,36 g H₂
+   ```
+
+4. **Cálculo do volume de H₂**:
+   - **Densidade do H₂**: 0,08 g/L
+   - **Fórmula**: d = m/V → V = m/d
+   - **Cálculo**: V = 0,36 g / 0,08 g/L = 4,5 L = 4.500 mL
+
+5. **Cálculo do volume de paládio necessário**:
+   - **Capacidade de adsorção**: 900 vezes o volume do Pd
+   - **Relação**: VH₂ = 900 × VPd
+   - **Cálculo**: VPd = 4.500 mL / 900 = 5 mL
+
+6. **Cálculo da massa de paládio**:
+   - **Densidade do Pd**: 12,0 g/mL
+   - **Fórmula**: d = m/V → m = d × V
+   - **Cálculo**: m = 12,0 g/mL × 5 mL = 60 g
+
+7. **Isomeria dos produtos**:
+   
+   **Hidrogenação parcial**: Alcino → Alceno
+   - **Produto**: Pent-2-eno (C₅H₁₀)
+   - **Tipo de isomeria**: Isomeria geométrica (cis-trans ou Z-E)
+   
+   **Condições estereoquímicas**:
+   - **Catálise heterogênea**: Favorece isômero Z (cis)
+   - **Produto principal**: (Z)-pent-2-eno
+   - **Produto minoritário**: (E)-pent-2-eno
+
+8. **Estruturas dos isômeros**:
+   
+   **Pent-2-eno Z (cis)**:
+   ```
+   CH₃-CH₂    CH₃
+          \  /
+           C=C
+          /  \
+         H    H
+   ```
+   **Representação em bastão**:
+   ```
+       ___
+      /
+   ___
+   ```
+   
+   **Pent-2-eno E (trans)**:
+   ```
+   CH₃-CH₂    H
+          \  /
+           C=C
+          /  \
+         H    CH₃
+   ```
+   **Representação em bastão**:
+   ```
+   ___
+      \
+       ___
+   ```
+
+9. **Aspectos do mecanismo catalítico**:
+   - **Adsorção**: H₂ e alcino se adsorvem na superfície do Pd
+   - **Ativação**: Quebra da ligação H-H
+   - **Transferência**: Átomos de H migram para o alcino
+   - **Dessorção**: Produto (alceno) se desprende do catalisador
+
+10. **Seletividade da hidrogenação**:
+    - **Paládio**: Favorece hidrogenação syn (adição cis)
+    - **Resultado**: Predominância do isômero Z
+    - **Vantagem**: Controle estereoquímico
+
+11. **Representação em bastão**:
+    - **Convenção**: Linhas representam ligações C-C
+    - **Extremidades**: Representam átomos de carbono
+    - **Estereoquímica**: Ângulos mostram configuração Z ou E
+
+12. **Verificação dimensional**:
+    ```
+    [g alcino] × [g H₂/g alcino] = [g H₂]
+    [g H₂] / [g/L] = [L H₂]
+    [L H₂] / [adimension.] = [L Pd]
+    [L Pd] × [g/L] = [g Pd]
+    ```
+
+13. **Comparação com outros catalisadores**:
+    - **Níquel Raney**: Menos seletivo
+    - **Platina**: Atividade similar ao Pd
+    - **Lindlar**: Pd envenenado (maior seletividade)
+
+14. **Aplicações industriais**:
+    - **Síntese farmacêutica**: Hidrogenações seletivas
+    - **Petroquímica**: Refino de hidrocarbonetos
+    - **Síntese orgânica**: Formação de ligações C-H
+
+15. **Propriedades do paládio**:
+    - **Metal nobre**: Resistente à corrosão
+    - **Adsorção de H₂**: Propriedade única
+    - **Atividade catalítica**: Muito alta para hidrogenações
+
+16. **Conceitos avaliados**:
+    - **Estequiometria**: Cálculos mol-massa
+    - **Densidade**: Conversões massa-volume
+    - **Isomeria geométrica**: Configurações Z e E
+    - **Catálise**: Mecanismos e seletividade
+
+17. **Nível de complexidade**: Questão de nível intermediário-avançado que integra cálculos estequiométricos, propriedades físicas e estereoquímica.
+
+18. **Padrão UERJ**: Questão que combina química orgânica com físico-química, exigindo domínio de múltiplos conceitos e representação estrutural adequada.
+
+---
+

@@ -1,0 +1,446 @@
+**Questão 04**
+
+Observe a fórmula estrutural plana da frutose, um dos principais açúcares presentes nas frutas:
+
+**Estrutura da frutose:**
+```
+HO—CH₂—C—CH—CH—CH—CH₂—OH
+         ||  |   |   |
+         O   OH  OH  OH
+```
+
+*Descrição detalhada da estrutura:*
+- **Cadeia principal:** 6 carbonos
+- **Grupos funcionais:**
+  - 1 grupo cetona (C=O) no carbono 2
+  - 5 grupos álcool (-OH) nos carbonos 1, 3, 4, 5 e 6
+- **Classificação:** Cetohexose (açúcar com 6 carbonos e grupo cetona)
+- **Fórmula molecular:** C₆H₁₂O₆
+
+Ao ser ingerido, esse açúcar é metabolizado de acordo com a equação química abaixo:
+
+**C₆H₁₂O₆ (s) + 6 O₂ (g) → 6 CO₂ (g) + 6 H₂O (ℓ)**
+
+As substâncias envolvidas nessa equação apresentam as seguintes entalpias-padrão de formação:
+
+**Tabela de entalpias-padrão de formação:**
+
+| SUBSTÂNCIA | ENTALPIA-PADRÃO DE FORMAÇÃO (kJ/mol) |
+|------------|--------------------------------------|
+| C₆H₁₂O₆ (s) | -1265 |
+| CO₂ (g) | -394 |
+| H₂O (ℓ) | -286 |
+
+Nomeie as funções orgânicas presentes na molécula de frutose. Em seguida, calcule a variação de entalpia-padrão da reação de metabolização desse açúcar, em kJ/mol.
+
+---
+
+**Gabarito Oficial**
+
+**Funções:** álcool e cetona
+
+**Cálculo da variação de entalpia:**
+```
+ΔH° = 6 ΔH°f(CO₂ (g)) + 6 ΔH°f(H₂O (ℓ)) − ΔH°f(C₆H₁₂O₆ (s))
+ΔH° = 6(−394) + 6(−286) − (−1265)
+ΔH° = −2364 − 1716 + 1265 = −2815 kJ/mol
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica (carboidratos) com termoquímica aplicada ao metabolismo. Os temas centrais incluem:
+
+- **Carboidratos:** Estrutura e função dos monossacarídeos
+- **Funções orgânicas:** Álcoois e cetonas em biomoléculas
+- **Termoquímica:** Cálculo de variação de entalpia usando entalpias de formação
+- **Metabolismo:** Respiração celular como combustão biológica
+- **Bioenergética:** Liberação de energia a partir de nutrientes
+
+**Conceitos-chave para o LLM:**
+- **Frutose:** Cetohexose, isômero da glicose
+- **Respiração celular:** Oxidação completa de carboidratos
+- **Lei de Hess:** ΔH°reação = Σ ΔH°f(produtos) - Σ ΔH°f(reagentes)
+- **Entalpia de formação:** Energia para formar 1 mol de substância a partir dos elementos
+- **Processo exotérmico:** ΔH° negativo indica liberação de energia
+
+**Análise estrutural da frutose:**
+
+**Grupos funcionais identificados:**
+1. **Álcool (-OH):** 5 grupos hidroxila
+   - Carbono 1: -CH₂OH (álcool primário)
+   - Carbono 3: -CHOH (álcool secundário)
+   - Carbono 4: -CHOH (álcool secundário)
+   - Carbono 5: -CHOH (álcool secundário)
+   - Carbono 6: -CH₂OH (álcool primário)
+
+2. **Cetona (C=O):** 1 grupo carbonila
+   - Carbono 2: C=O (cetona)
+
+**Características da frutose:**
+- **Nome IUPAC:** D-arabino-hex-2-ulose
+- **Nome comum:** Frutose ou levulose
+- **Poder adoçante:** ~1,7× maior que a sacarose
+- **Ocorrência:** Frutas, mel, xarope de milho
+
+**Reação de metabolização (respiração celular):**
+
+**Equação global:**
+```
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O
+```
+
+**Etapas do metabolismo:**
+1. **Glicólise:** Quebra da glicose em piruvato
+2. **Ciclo de Krebs:** Oxidação do piruvato
+3. **Cadeia respiratória:** Produção de ATP
+
+**Cálculo termoquímico detalhado:**
+
+**Aplicação da Lei de Hess:**
+```
+ΔH°reação = [Σ ΔH°f(produtos)] - [Σ ΔH°f(reagentes)]
+```
+
+**Produtos:**
+- 6 mol CO₂: 6 × (-394) = -2364 kJ
+- 6 mol H₂O: 6 × (-286) = -1716 kJ
+- Total produtos: -4080 kJ
+
+**Reagentes:**
+- 1 mol C₆H₁₂O₆: 1 × (-1265) = -1265 kJ
+- 6 mol O₂: 6 × 0 = 0 kJ (elemento no estado padrão)
+- Total reagentes: -1265 kJ
+
+**Variação de entalpia:**
+```
+ΔH° = -4080 - (-1265) = -4080 + 1265 = -2815 kJ/mol
+```
+
+**Significado biológico:**
+- **Energia liberada:** 2815 kJ por mol de frutose
+- **Conversão em ATP:** ~38 mol ATP por mol de glicose
+- **Eficiência:** ~40% da energia é capturada como ATP
+- **Calor corporal:** 60% da energia vira calor
+
+**Comparação com outras fontes energéticas:**
+- **Glicose:** Mesma energia (C₆H₁₂O₆)
+- **Gorduras:** ~37 kJ/g (vs ~17 kJ/g para carboidratos)
+- **Proteínas:** ~17 kJ/g
+- **Álcool:** ~29 kJ/g
+
+**Aplicações práticas:**
+- **Nutrição esportiva:** Energia rápida
+- **Indústria alimentícia:** Adoçante natural
+- **Metabolismo:** Diagnóstico de diabetes
+- **Biotecnologia:** Fermentação de frutose
+
+**Dados importantes:**
+- **Massa molar da frutose:** 180 g/mol
+- **Energia específica:** ~15,6 kJ/g
+- **Solubilidade:** Muito solúvel em água
+- **Estabilidade:** Sensível ao calor e pH
+
+**Isomeria da frutose:**
+- **Isômero de posição da glicose:** Cetose vs aldose
+- **Ciclização:** Forma anéis furanósicos em solução
+- **Anômeros:** α e β formas cíclicas
+- **Mutarrotação:** Equilíbrio entre formas
+
+**Processo de resolução:**
+1. **Identificar funções:** Analisar grupos -OH (álcool) e C=O (cetona)
+2. **Aplicar Lei de Hess:** Somar entalpias de produtos e subtrair reagentes
+3. **Considerar coeficientes:** Multiplicar por coeficientes estequiométricos
+4. **Interpretar resultado:** ΔH° negativo = processo exotérmico
+
+Nível de dificuldade: Médio
+Área: Química Orgânica e Termoquímica
+Habilidades avaliadas: Identificação de funções orgânicas, cálculos termoquímicos, Lei de Hess, aplicações biológicas, interpretação de estruturas de carboidratos.
+
+---
+
+**Questão 05**
+
+Os ovos de galinha possuem em sua composição aminoácidos importantes para a síntese de proteínas. Observe as fórmulas estruturais de três desses aminoácidos:
+
+**Estruturas dos aminoácidos:**
+
+**Leucina:**
+```
+    O
+    ||
+    C—OH
+    |
+H₂N—CH
+    |
+    CH₂
+    |
+    CH
+   / \
+  CH₃ CH₃
+```
+
+**Isoleucina:**
+```
+    O
+    ||
+    C—OH
+    |
+H₂N—CH
+    |
+    CH
+   / \
+  CH₃ CH₂—CH₃
+```
+
+**Fenilalanina:**
+```
+    O
+    ||
+    C—OH
+    |
+H₂N—CH
+    |
+    CH₂
+    |
+   [Ar]
+```
+
+*Descrição detalhada das estruturas:*
+
+- **Leucina:** Aminoácido com cadeia lateral ramificada contendo 4 carbonos, terminando em dois grupos metil
+- **Isoleucina:** Aminoácido com cadeia lateral ramificada contendo 4 carbonos, com ramificação no segundo carbono
+- **Fenilalanina:** Aminoácido com cadeia lateral aromática (grupo benzil), onde Ar representa o anel benzênico
+
+**Características comuns:**
+- Todos possuem grupo amino (-NH₂) 
+- Todos possuem grupo carboxila (-COOH)
+- Todos têm um carbono quiral (carbono α)
+
+Indique o tipo de isomeria plana que ocorre entre a leucina e a isoleucina e identifique o aminoácido que possui quatro isômeros opticamente ativos.
+
+Em seguida, determine o número de oxidação do carbono insaturado presente nos três aminoácidos e represente a fórmula estrutural da fenilalanina, empregando a notação em linha de ligação, sabendo que Ar é o radical benzil.
+
+---
+
+**Gabarito Oficial**
+
+**Tipo de isomeria:** posição
+
+**Aminoácido:** isoleucina
+
+**Número de oxidação:** +3
+
+**Fenilalanina:**
+```
+    O
+    ||
+   [benzeno]—CH₂—CH—C—OH
+                 |
+                NH₂
+```
+
+*Descrição da estrutura da fenilalanina em linha de ligação:*
+- **Anel benzênico:** Hexágono representando o anel aromático
+- **Cadeia lateral:** -CH₂- conectando o anel ao carbono α
+- **Carbono α:** Ligado a NH₂, COOH e à cadeia lateral benzílica
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica aplicados à bioquímica, abordando aminoácidos essenciais. Os temas centrais incluem:
+
+- **Isomeria de aminoácidos:** Diferentes tipos de isomeria estrutural
+- **Atividade óptica:** Centros quirais e estereoisômeros
+- **Números de oxidação:** Estados de oxidação em compostos orgânicos
+- **Representação estrutural:** Notação em linha de ligação
+- **Aplicações biológicas:** Aminoácidos na síntese proteica
+
+**Conceitos-chave para o LLM:**
+- **Aminoácidos:** Unidades básicas das proteínas
+- **Carbono α:** Carbono central dos aminoácidos, sempre quiral (exceto glicina)
+- **Isomeria de posição:** Diferente posição de ramificações na cadeia
+- **Isômeros ópticos:** 2ⁿ onde n = número de centros quirais
+- **Radical benzil:** C₆H₅-CH₂- (fenilalanina)
+
+**Análise da isomeria entre leucina e isoleucina:**
+
+**Leucina:**
+- **Cadeia lateral:** (CH₃)₂CH-CH₂-
+- **Ramificação:** No terceiro carbono da cadeia lateral
+- **Estrutura:** Isobutilglicina
+
+**Isoleucina:**
+- **Cadeia lateral:** CH₃-CH₂-CH(CH₃)-
+- **Ramificação:** No segundo carbono da cadeia lateral
+- **Estrutura:** sec-butilglicina
+
+**Tipo de isomeria:**
+- **Classificação:** Isomeria de posição
+- **Definição:** Mesma fórmula molecular, diferentes posições de ramificação
+- **Fórmula molecular comum:** C₆H₁₃NO₂
+
+**Análise dos centros quirais:**
+
+**Leucina:**
+- **Centros quirais:** 1 (apenas o carbono α)
+- **Isômeros ópticos:** 2¹ = 2 (L e D)
+
+**Isoleucina:**
+- **Centros quirais:** 2 (carbono α + carbono da ramificação)
+- **Isômeros ópticos:** 2² = 4
+- **Configurações possíveis:** L-isoleucina, D-isoleucina, L-aloisoleucina, D-aloisoleucina
+
+**Fenilalanina:**
+- **Centros quirais:** 1 (apenas o carbono α)
+- **Isômeros ópticos:** 2¹ = 2 (L e D)
+
+**Identificação:** **Isoleucina** possui 4 isômeros opticamente ativos.
+
+**Cálculo do número de oxidação:**
+
+**Carbono carbonílico (C=O) do grupo carboxila:**
+```
+Ligações do carbono:
+- C=O (dupla ligação com oxigênio): contribuição -2×2 = -4
+- C-OH (ligação com grupo hidroxila): contribuição -1
+- C-C (ligação com carbono α): contribuição 0
+
+NOx = +4 - 1 + 0 = +3
+```
+
+**Verificação:** O carbono carbonílico em ácidos carboxílicos sempre tem NOx = +3.
+
+**Estrutura da fenilalanina em linha de ligação:**
+
+**Representação completa:**
+```
+        O
+        ||
+[🔀]—CH₂—CH—C—OH
+           |
+          NH₂
+```
+
+**Componentes estruturais:**
+- **Anel benzênico:** Representado como hexágono
+- **Grupo benzil:** C₆H₅-CH₂-
+- **Esqueleto do aminoácido:** NH₂-CH(R)-COOH
+- **Cadeia lateral (R):** -CH₂-C₆H₅
+
+**Características dos aminoácidos estudados:**
+
+**Classificação por polaridade:**
+- **Leucina:** Hidrofóbico, apolar
+- **Isoleucina:** Hidrofóbico, apolar
+- **Fenilalanina:** Hidrofóbico, aromático
+
+**Essencialidade:**
+- **Leucina:** Aminoácido essencial
+- **Isoleucina:** Aminoácido essencial
+- **Fenilalanina:** Aminoácido essencial
+
+**Funções biológicas:**
+- **Síntese proteica:** Incorporação em proteínas
+- **Metabolismo:** Fonte de energia
+- **Neurotransmissores:** Fenilalanina → tirosina → dopamina
+
+**Aplicações nutricionais:**
+
+**Ovos como fonte proteica:**
+- **Proteína completa:** Contém todos os aminoácidos essenciais
+- **Alto valor biológico:** Boa absorção e utilização
+- **Referência:** Padrão para avaliação de outras proteínas
+
+**Importância dos aminoácidos de cadeia ramificada (BCAA):**
+- **Leucina e isoleucina:** Estimulam síntese proteica
+- **Metabolismo muscular:** Importantes para atletas
+- **Recuperação:** Reduzem catabolismo proteico
+
+**Dados importantes:**
+- **Isomeria:** Leucina e isoleucina são isômeros de posição
+- **Centros quirais:** Isoleucina tem 2, outros têm 1
+- **NOx do C carbonílico:** +3 em todos os aminoácidos
+- **Fenilalanina:** Contém anel aromático (grupo benzil)
+
+**Processo de resolução:**
+1. **Comparar estruturas:** Leucina vs isoleucina → isomeria de posição
+2. **Contar centros quirais:** Isoleucina tem 2 → 2² = 4 isômeros
+3. **Calcular NOx:** Carbono carbonílico → +3
+4. **Desenhar fenilalanina:** Anel benzênico + cadeia aminoacídica
+
+Nível de dificuldade: Médio
+Área: Química Orgânica e Bioquímica
+Habilidades avaliadas: Isomeria estrutural, estereoquímica, números de oxidação, representação estrutural, conhecimentos de bioquímica básica.
+
+---
+
+## QUESTÃO 004 - QUÍMICA ORGÂNICA - NEUROTRANSMISSORES E FUNÇÕES BIOLÓGICAS
+**Tipo:** Questão mista (bioquímica + funções orgânicas + massas moleculares + isomeria óptica)
+**Tópico:** Neurotransmissores, funções orgânicas, massas moleculares, isomeria óptica, fórmulas moleculares
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO NEUROBIOLÓGICO:**
+A dopamina e a adrenalina são neurotransmissores que, apesar da semelhança em sua composição química, geram sensações diferentes nos seres humanos. Observe as informações da tabela:
+
+**TABELA DE NEUROTRANSMISSORES:**
+| NEUROTRANSMISSOR | FÓRMULA ESTRUTURAL | SENSAÇÃO PRODUZIDA |
+|------------------|--------------------|--------------------|
+| dopamina | HO-C₆H₃(OH)-CH₂-CH₂-NH₂ | felicidade |
+| adrenalina | HO-C₆H₃(OH)-CH(OH)-CH₂-NH(CH₃) | medo |
+
+**DESCRIÇÃO ESTRUTURAL DETALHADA:**
+- **Dopamina:** anel benzênico com duas hidroxilas + cadeia etil-amino
+ - Estrutura: catecol + etilamina
+ - Funções: álcool (fenol) + amina primária
+- **Adrenalina:** anel benzênico com duas hidroxilas + cadeia com OH e metilamina
+ - Estrutura: catecol + β-hidroxi-N-metiletanamina
+ - Funções: álcool (fenol) + álcool secundário + amina secundária
+
+**QUESTÕES:**
+Indique a função química que difere a dopamina da adrenalina e nomeie a sensação gerada pelo neurotransmissor que apresenta menor massa molecular.
+
+Identifique, ainda, o neurotransmissor com isomeria óptica e escreva sua fórmula molecular.
+
+**Conceitos envolvidos:**
+- Neurotransmissores e neurobiologia
+- Funções orgânicas: álcool, fenol, amina
+- Cálculo de massas moleculares
+- Isomeria óptica e carbonos assimétricos
+- Fórmulas moleculares
+- Relação estrutura-atividade biológica
+
+**Dados implícitos necessários:**
+- Análise das funções químicas:
+ - Dopamina: fenol + amina primária
+ - Adrenalina: fenol + álcool secundário + amina secundária
+ - Função que difere: álcool secundário (presente apenas na adrenalina)
+- Cálculo das massas moleculares:
+ - Dopamina (C₈H₁₁NO₂): 8(12) + 11(1) + 14 + 2(16) = 153 g/mol
+ - Adrenalina (C₉H₁₃NO₃): 9(12) + 13(1) + 14 + 3(16) = 183 g/mol
+ - Menor massa molecular: dopamina (153 g/mol)
+ - Sensação correspondente: felicidade
+- Análise de isomeria óptica:
+ - Dopamina: sem carbonos assimétricos
+ - Adrenalina: possui 1 carbono assimétrico (C-OH da cadeia lateral)
+ - Neurotransmissor com isomeria óptica: adrenalina
+- Fórmula molecular da adrenalina: C₉H₁₃NO₃
+
+**Aplicação contextual:**
+- Neurobiologia e comportamento humano
+- Sistema nervoso e regulação emocional
+- Doenças neurodegenerativas (Parkinson, depressão)
+- Farmacologia e desenvolvimento de medicamentos
+- Resposta de luta ou fuga (adrenalina)
+- Sistema de recompensa cerebral (dopamina)
+
+**Informações complementares:**
+- Dopamina: precursor da adrenalina
+- Via de síntese: tirosina → DOPA → dopamina → noradrenalina → adrenalina
+- Importância clínica dos neurotransmissores
+- Efeitos de drogas no sistema nervoso
+
+**Palavras-chave:** neurotransmissores, dopamina, adrenalina, funções orgânicas, álcool secundário, massa molecular, isomeria óptica, carbono assimétrico, felicidade, medo, neurobiologia
+
+---
+

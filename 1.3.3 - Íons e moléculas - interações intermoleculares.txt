@@ -1,0 +1,207 @@
+**Questão 05**
+
+As propriedades físicas dos compostos orgânicos estão relacionadas tanto com as estruturas de suas moléculas quanto com suas interações intermoleculares. Com base nesse princípio, considere as seguintes temperaturas de ebulição, sob pressão atmosférica, dos três isômeros planos de fórmula molecular C₅H₁₂:
+
+**Tabela de temperaturas de ebulição:**
+
+| ISÔMERO | TEMPERATURA DE EBULIÇÃO (°C) |
+|---------|------------------------------|
+| A | 9,5 |
+| B | 28,0 |
+| C | 36,0 |
+
+Escreva a nomenclatura oficial de cada isômero, em ordem crescente de temperatura de ebulição. Determine, ainda, a porcentagem em massa de carbono presente nesses isômeros.
+
+---
+
+**Gabarito Oficial**
+
+**Nome dos isômeros:** A - dimetilpropano; B - metilbutano; C - pentano
+
+**Cálculos:**
+```
+Massa molar do C₅H₁₂ = 5 × 12 + 12 × 1 = 72 g/mol
+
+Porcentagem em massa de carbono:
+72 g ——————— 100%
+60 g ——————— X        X = 83,33%
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de isomeria estrutural com propriedades físicas e cálculos de composição percentual. Os temas centrais incluem:
+
+- **Isomeria de cadeia:** Diferentes arranjos do esqueleto carbônico
+- **Forças intermoleculares:** Relação entre estrutura e ponto de ebulição
+- **Nomenclatura IUPAC:** Nomenclatura oficial de alcanos ramificados
+- **Composição percentual:** Cálculos de porcentagem em massa
+- **Propriedades físicas:** Influência da ramificação nas propriedades
+
+**Conceitos-chave para o LLM:**
+- **Fórmula molecular C₅H₁₂:** Três isômeros de cadeia possíveis
+- **Ramificação vs ponto de ebulição:** Maior ramificação → menor ponto de ebulição
+- **Forças de van der Waals:** Intensidade depende da área de contato molecular
+- **Nomenclatura IUPAC:** Cadeia principal + substituintes
+- **Composição fixa:** Isômeros têm mesma porcentagem de elementos
+
+**Análise estrutural dos isômeros:**
+
+**Isômero A (9,5°C) - 2,2-dimetilpropano:**
+```
+    CH₃
+    |
+CH₃-C-CH₃
+    |
+    CH₃
+```
+- **Estrutura:** Máxima ramificação (carbono quaternário)
+- **Forma:** Esférica compacta
+- **Nomenclatura:** 2,2-dimetilpropano (neopentano)
+
+**Isômero B (28,0°C) - 2-metilbutano:**
+```
+CH₃-CH-CH₂-CH₃
+    |
+    CH₃
+```
+- **Estrutura:** Ramificação intermediária
+- **Forma:** Moderadamente compacta
+- **Nomenclatura:** 2-metilbutano (isopentano)
+
+**Isômero C (36,0°C) - pentano:**
+```
+CH₃-CH₂-CH₂-CH₂-CH₃
+```
+- **Estrutura:** Cadeia linear
+- **Forma:** Alongada
+- **Nomenclatura:** pentano (n-pentano)
+
+**Relação estrutura-propriedade:**
+- **Cadeia linear:** Maior área de contato → forças intermoleculares mais intensas → maior PE
+- **Ramificação:** Menor área de contato → forças mais fracas → menor PE
+- **Ordem de PE:** Linear > ramificado > muito ramificado
+
+**Cálculo da porcentagem em massa:**
+```
+Fórmula molecular: C₅H₁₂
+Massa atômica: C = 12 g/mol, H = 1 g/mol
+
+Massa molar total: (5 × 12) + (12 × 1) = 60 + 12 = 72 g/mol
+Massa de carbono: 5 × 12 = 60 g/mol
+
+Porcentagem de carbono: (60/72) × 100% = 83,33%
+```
+
+**Forças intermoleculares:**
+- **Tipo:** Forças de dispersão de London (van der Waals)
+- **Intensidade:** Proporcional à área de contato molecular
+- **Efeito da ramificação:** Diminui área de contato efetiva
+- **Resultado:** PE diminui com aumento da ramificação
+
+**Aplicações práticas:**
+- **Combustíveis:** Diferentes isômeros têm propriedades distintas
+- **Octanagem:** Isômeros ramificados têm melhor desempenho
+- **Separação:** Destilação fracionada baseada em diferentes PE
+- **Síntese:** Controle da estrutura para propriedades específicas
+
+**Dados importantes:**
+- **Pressão:** Atmosférica (condição padrão)
+- **Estado físico:** Todos são gases em condições normais
+- **Diferença máxima de PE:** 26,5°C entre extremos
+- **Mesma composição:** Todos têm 83,33% de carbono
+
+**Processo de resolução:**
+1. **Identificar estruturas:** Desenhar os três isômeros possíveis
+2. **Relacionar com PE:** Maior ramificação → menor PE
+3. **Nomenclatura:** Aplicar regras IUPAC para cada estrutura
+4. **Cálculo percentual:** (massa C / massa total) × 100%
+
+Nível de dificuldade: Médio
+Área: Química Orgânica
+Habilidades avaliadas: Isomeria estrutural, nomenclatura IUPAC, relação estrutura-propriedade, forças intermoleculares, cálculos de composição percentual, interpretação de dados experimentais.
+
+---
+
+## Questão de Química - UERJ (Questão 09)
+
+### Enunciado da Questão
+
+Em condições ambientes, o cloreto de hidrogênio é uma substância molecular gasosa de fórmula HCℓ. Quando dissolvido em água, ioniza-se e passa a apresentar caráter ácido.
+
+Admita uma solução aquosa saturada de HCℓ com concentração percentual mássica de 36,5% e densidade igual a 1,2 kg.L⁻¹.
+
+Calcule a concentração dessa solução, em mol.L⁻¹, e nomeie a força intermolecular existente entre o HCℓ e a água.
+
+### Dados Fornecidos
+
+- Concentração percentual mássica: 36,5%
+- Densidade da solução: 1,2 kg.L⁻¹
+- Fórmula molecular: HCℓ
+
+### Resposta Oficial
+
+**Cálculo da concentração molar:**
+
+Massa molar do HCℓ = 36,5 g/mol
+
+Utilizando regra de três:
+- 1 mol HCℓ = 36,5 g
+- 1 mol → 100 g de solução
+- X → 1200 g de solução (1,2 kg = 1200 g)
+
+X = 12 mol.L⁻¹
+
+**Força intermolecular:** dipolo-dipolo ou dipolo-permanente
+
+### Resolução Detalhada
+
+**Passo 1 - Determinação da massa de solução por litro:**
+- Densidade = 1,2 kg.L⁻¹ = 1200 g.L⁻¹
+- Portanto, 1 litro de solução possui 1200 g
+
+**Passo 2 - Cálculo da massa de HCℓ por litro:**
+- Concentração percentual = 36,5%
+- Massa de HCℓ em 1200 g de solução = 36,5% × 1200 g = 438 g
+
+**Passo 3 - Conversão para mols:**
+- Massa molar do HCℓ = 1 + 35,5 = 36,5 g/mol
+- Número de mols = 438 g ÷ 36,5 g/mol = 12 mol
+
+**Passo 4 - Concentração molar:**
+- Concentração = 12 mol/L = 12 mol.L⁻¹
+
+### Conceitos-Chave Avaliados
+
+- **Soluções:** Concentração percentual mássica, concentração molar, densidade
+- **Cálculos estequiométricos:** Conversão entre diferentes unidades de concentração
+- **Forças intermoleculares:** Interação dipolo-dipolo entre moléculas polares
+- **Propriedades do HCℓ:** Caráter molecular no estado gasoso e iônico em solução aquosa
+
+### Conhecimentos Específicos Exigidos
+
+- **Matemática química:** Regra de três, conversão de unidades
+- **Teoria atômica:** Massa molar, cálculo de número de mols
+- **Polaridade molecular:** Identificação de moléculas polares e apolares
+- **Interações intermoleculares:** Classificação e nomenclatura das forças intermoleculares
+
+### Estrutura da Questão
+
+Esta é uma questão mista que combina:
+1. **Cálculo quantitativo:** Determinação da concentração molar
+2. **Conceito teórico:** Identificação da força intermolecular
+
+### Nível de Complexidade
+
+Questão de nível médio que exige:
+- Domínio de cálculos de concentração
+- Conhecimento sobre forças intermoleculares
+- Capacidade de integrar conceitos teóricos com aplicações práticas
+
+### Aplicação Prática
+
+A questão aborda um sistema químico real (ácido clorídrico comercial) e suas propriedades, conectando conceitos teóricos com situações práticas do cotidiano laboratorial e industrial.
+
+---
+
+

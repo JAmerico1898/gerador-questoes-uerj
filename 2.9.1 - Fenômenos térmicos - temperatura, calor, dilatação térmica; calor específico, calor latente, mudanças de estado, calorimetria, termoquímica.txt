@@ -1,0 +1,1675 @@
+**Questão 02**
+
+O emprego de mercúrio em atividades de garimpo ilegal é prejudicial à saúde humana e ao meio ambiente. Nessas atividades, o ouro é separado das impurezas por meio da ligação interatômica que ele forma com o mercúrio, produzindo uma liga denominada amálgama. Posteriormente, com o aquecimento dessa liga, ouro e mercúrio são separados. Observe na tabela as temperaturas de ebulição desses metais.
+
+**Tabela de temperaturas de ebulição:**
+
+| METAL | TEMPERATURA DE EBULIÇÃO (°C) |
+|-------|------------------------------|
+| mercúrio | 357 |
+| ouro | 2700 |
+
+Nomeie a ligação interatômica formada entre mercúrio e ouro. Indique, ainda, o metal que irá vaporizar primeiro com o aquecimento da amálgama, justificando sua resposta.
+
+---
+
+**Gabarito Oficial**
+
+**Ligação:** metálica
+
+**Metal:** mercúrio
+
+**Justificativa:** o mercúrio apresenta menor temperatura de ebulição.
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de ligações químicas com aplicações ambientais e processos de separação. Os temas centrais incluem:
+
+- **Ligações químicas:** Ligação metálica entre metais
+- **Propriedades físicas:** Temperaturas de ebulição como critério de separação
+- **Processos de separação:** Destilação baseada em diferenças de ponto de ebulição
+- **Química ambiental:** Impactos do mercúrio na mineração
+- **Aplicações práticas:** Processos metalúrgicos no garimpo
+
+**Conceitos-chave para o LLM:**
+- **Amálgama:** Liga metálica de mercúrio com outros metais
+- **Ligação metálica:** Tipo de ligação entre átomos metálicos
+- **Mar de elétrons:** Modelo da ligação metálica
+- **Separação por destilação:** Baseada em diferentes pontos de ebulição
+- **Contaminação por mercúrio:** Problema ambiental em garimpos
+
+**Dados importantes da tabela:**
+- **Mercúrio:** Temperatura de ebulição = 357°C
+- **Ouro:** Temperatura de ebulição = 2700°C
+- **Diferença:** 2343°C entre as temperaturas de ebulição
+
+**Processo de separação:**
+1. **Aquecimento da amálgama:** Fornecimento de energia térmica
+2. **Vaporização do mercúrio:** Primeiro metal a vaporizar (357°C)
+3. **Permanência do ouro:** Sólido até temperatura muito mais alta (2700°C)
+4. **Separação física:** Mercúrio gasoso é removido, ouro permanece
+
+**Aspectos ambientais:**
+- **Toxicidade do mercúrio:** Prejudicial à saúde humana
+- **Contaminação ambiental:** Vapor de mercúrio no meio ambiente
+- **Garimpo ilegal:** Prática prejudicial ao ecossistema
+- **Bioacumulação:** Mercúrio se acumula na cadeia alimentar
+
+**Conceitos químicos relacionados:**
+- **Liga metálica:** Mistura de dois ou mais metais
+- **Ligação metálica:** Atração entre cátions metálicos e elétrons deslocalizados
+- **Propriedades metálicas:** Condutividade, maleabilidade, ductilidade
+- **Ponto de ebulição:** Temperatura na qual líquido se torna vapor
+
+**Processo de resolução:**
+1. **Identificar tipo de ligação:** Entre metais → ligação metálica
+2. **Comparar temperaturas:** Mercúrio (357°C) < Ouro (2700°C)
+3. **Aplicar princípio:** Menor temperatura de ebulição vaporiza primeiro
+4. **Justificar:** Diferença significativa nas temperaturas de ebulição
+
+**Aplicações práticas:**
+- **Mineração responsável:** Alternativas ao uso de mercúrio
+- **Recuperação de metais:** Técnicas de separação industrial
+- **Controle ambiental:** Monitoramento de contaminação por mercúrio
+
+Nível de dificuldade: Básico-Médio
+Área: Ligações Químicas e Química Ambiental
+Habilidades avaliadas: Identificação de tipos de ligação, interpretação de dados tabulares, relação entre propriedades físicas e separação de misturas, consciência ambiental sobre uso de metais tóxicos.
+
+---
+
+**Questão 03**
+
+Para contribuir com a captação de CO₂ atmosférico, uma unidade industrial chilena anunciou a produção de gasolina sintética. Como o principal componente da gasolina é o isooctano (C₈H₁₈), o processo industrial empregado se baseou na reação química representada pela seguinte equação não balanceada:
+
+**CO₂ (g) + H₂ (g) ——→ C₈H₁₈ (ℓ) + H₂O (ℓ)**
+
+Observe na tabela as entalpias-padrão de formação das substâncias que participam dessa reação:
+
+**Tabela de entalpias-padrão de formação:**
+
+| SUBSTÂNCIA | ENTALPIA-PADRÃO DE FORMAÇÃO (kJ/mol) |
+|------------|--------------------------------------|
+| CO₂ (g) | -394 |
+| H₂ (g) | 0 |
+| C₈H₁₈ (ℓ) | -209 |
+| H₂O (ℓ) | -286 |
+
+Após balancear a equação, determine a razão entre o número de mols de CO₂ e H₂. Calcule, ainda, a variação de entalpia da reação, em quilojoules.
+
+---
+
+**Gabarito Oficial**
+
+**Equação balanceada:** 8 CO₂ + 25 H₂ → C₈H₁₈ + 16 H₂O
+
+**Razão:** CO₂/H₂ = 8/25
+
+**Cálculo da variação de entalpia:**
+```
+ΔH° = (ΔH°f C₈H₁₈) + (16 × ΔH°f H₂O) - (8 × ΔH°f CO₂) - (25 × ΔH°f H₂)
+ΔH° = -209 - (16 × 286) + (8 × 394) = -209 - 4576 + 3152 = -1633 kJ
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de termoquímica com aplicações industriais sustentáveis. Os temas centrais incluem:
+
+- **Balanceamento químico:** Equações complexas com múltiplos produtos
+- **Termoquímica:** Cálculo de variação de entalpia usando entalpias de formação
+- **Sustentabilidade:** Captura e conversão de CO₂ atmosférico
+- **Química industrial:** Produção de combustíveis sintéticos
+- **Estequiometria:** Proporções molares em reações químicas
+
+**Conceitos-chave para o LLM:**
+- **Entalpia de formação (ΔH°f):** Energia para formar 1 mol de substância a partir dos elementos
+- **Lei de Hess:** ΔH°reação = Σ ΔH°f(produtos) - Σ ΔH°f(reagentes)
+- **Balanceamento:** Conservação de átomos de cada elemento
+- **Isooctano:** C₈H₁₈, componente principal da gasolina
+- **Reação exotérmica:** ΔH° negativo indica liberação de energia
+
+**Dados importantes da tabela:**
+- **CO₂ (g):** ΔH°f = -394 kJ/mol
+- **H₂ (g):** ΔH°f = 0 kJ/mol (elemento no estado padrão)
+- **C₈H₁₈ (ℓ):** ΔH°f = -209 kJ/mol
+- **H₂O (ℓ):** ΔH°f = -286 kJ/mol
+
+**Processo de balanceamento:**
+1. **Carbono:** 8 CO₂ → C₈H₁₈ (8 carbonos)
+2. **Hidrogênio:** 18 H no produto + 32 H na água = 50 H total → 25 H₂
+3. **Oxigênio:** 16 O₂ do CO₂ = 16 O na água
+4. **Equação balanceada:** 8 CO₂ + 25 H₂ → C₈H₁₈ + 16 H₂O
+
+**Cálculo termoquímico detalhado:**
+```
+ΔH°reação = [ΔH°f(C₈H₁₈) + 16 × ΔH°f(H₂O)] - [8 × ΔH°f(CO₂) + 25 × ΔH°f(H₂)]
+
+Produtos:
+- C₈H₁₈: 1 × (-209) = -209 kJ
+- H₂O: 16 × (-286) = -4576 kJ
+- Total produtos: -4785 kJ
+
+Reagentes:
+- CO₂: 8 × (-394) = -3152 kJ
+- H₂: 25 × (0) = 0 kJ
+- Total reagentes: -3152 kJ
+
+ΔH°reação = -4785 - (-3152) = -1633 kJ
+```
+
+**Aspectos ambientais e industriais:**
+- **Captura de CO₂:** Conversão de gás do efeito estufa em combustível
+- **Economia circular:** Reutilização de resíduos atmosféricos
+- **Energia renovável:** H₂ pode ser produzido por eletrólise sustentável
+- **Combustíveis sintéticos:** Alternativa aos combustíveis fósseis
+
+**Significado do resultado:**
+- **Razão 8:25:** Para cada 8 mols de CO₂, são necessários 25 mols de H₂
+- **ΔH° = -1633 kJ:** Reação altamente exotérmica (libera muita energia)
+- **Viabilidade:** Reação termodinamicamente favorável
+
+**Processo de resolução:**
+1. **Balancear a equação:** Começar pelo elemento mais complexo (C)
+2. **Calcular a razão:** Usar coeficientes da equação balanceada
+3. **Aplicar Lei de Hess:** Somar entalpias de produtos e subtrair reagentes
+4. **Verificar sinais:** Negativo indica processo exotérmico
+
+Nível de dificuldade: Médio-Alto
+Área: Termoquímica e Estequiometria
+Habilidades avaliadas: Balanceamento de equações complexas, cálculos termoquímicos, aplicação da Lei de Hess, interpretação de dados tabulares, contextualização com sustentabilidade ambiental.
+
+---
+
+**Questão 04**
+
+Observe a fórmula estrutural plana da frutose, um dos principais açúcares presentes nas frutas:
+
+**Estrutura da frutose:**
+```
+HO—CH₂—C—CH—CH—CH—CH₂—OH
+         ||  |   |   |
+         O   OH  OH  OH
+```
+
+*Descrição detalhada da estrutura:*
+- **Cadeia principal:** 6 carbonos
+- **Grupos funcionais:**
+  - 1 grupo cetona (C=O) no carbono 2
+  - 5 grupos álcool (-OH) nos carbonos 1, 3, 4, 5 e 6
+- **Classificação:** Cetohexose (açúcar com 6 carbonos e grupo cetona)
+- **Fórmula molecular:** C₆H₁₂O₆
+
+Ao ser ingerido, esse açúcar é metabolizado de acordo com a equação química abaixo:
+
+**C₆H₁₂O₆ (s) + 6 O₂ (g) → 6 CO₂ (g) + 6 H₂O (ℓ)**
+
+As substâncias envolvidas nessa equação apresentam as seguintes entalpias-padrão de formação:
+
+**Tabela de entalpias-padrão de formação:**
+
+| SUBSTÂNCIA | ENTALPIA-PADRÃO DE FORMAÇÃO (kJ/mol) |
+|------------|--------------------------------------|
+| C₆H₁₂O₆ (s) | -1265 |
+| CO₂ (g) | -394 |
+| H₂O (ℓ) | -286 |
+
+Nomeie as funções orgânicas presentes na molécula de frutose. Em seguida, calcule a variação de entalpia-padrão da reação de metabolização desse açúcar, em kJ/mol.
+
+---
+
+**Gabarito Oficial**
+
+**Funções:** álcool e cetona
+
+**Cálculo da variação de entalpia:**
+```
+ΔH° = 6 ΔH°f(CO₂ (g)) + 6 ΔH°f(H₂O (ℓ)) − ΔH°f(C₆H₁₂O₆ (s))
+ΔH° = 6(−394) + 6(−286) − (−1265)
+ΔH° = −2364 − 1716 + 1265 = −2815 kJ/mol
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica (carboidratos) com termoquímica aplicada ao metabolismo. Os temas centrais incluem:
+
+- **Carboidratos:** Estrutura e função dos monossacarídeos
+- **Funções orgânicas:** Álcoois e cetonas em biomoléculas
+- **Termoquímica:** Cálculo de variação de entalpia usando entalpias de formação
+- **Metabolismo:** Respiração celular como combustão biológica
+- **Bioenergética:** Liberação de energia a partir de nutrientes
+
+**Conceitos-chave para o LLM:**
+- **Frutose:** Cetohexose, isômero da glicose
+- **Respiração celular:** Oxidação completa de carboidratos
+- **Lei de Hess:** ΔH°reação = Σ ΔH°f(produtos) - Σ ΔH°f(reagentes)
+- **Entalpia de formação:** Energia para formar 1 mol de substância a partir dos elementos
+- **Processo exotérmico:** ΔH° negativo indica liberação de energia
+
+**Análise estrutural da frutose:**
+
+**Grupos funcionais identificados:**
+1. **Álcool (-OH):** 5 grupos hidroxila
+   - Carbono 1: -CH₂OH (álcool primário)
+   - Carbono 3: -CHOH (álcool secundário)
+   - Carbono 4: -CHOH (álcool secundário)
+   - Carbono 5: -CHOH (álcool secundário)
+   - Carbono 6: -CH₂OH (álcool primário)
+
+2. **Cetona (C=O):** 1 grupo carbonila
+   - Carbono 2: C=O (cetona)
+
+**Características da frutose:**
+- **Nome IUPAC:** D-arabino-hex-2-ulose
+- **Nome comum:** Frutose ou levulose
+- **Poder adoçante:** ~1,7× maior que a sacarose
+- **Ocorrência:** Frutas, mel, xarope de milho
+
+**Reação de metabolização (respiração celular):**
+
+**Equação global:**
+```
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O
+```
+
+**Etapas do metabolismo:**
+1. **Glicólise:** Quebra da glicose em piruvato
+2. **Ciclo de Krebs:** Oxidação do piruvato
+3. **Cadeia respiratória:** Produção de ATP
+
+**Cálculo termoquímico detalhado:**
+
+**Aplicação da Lei de Hess:**
+```
+ΔH°reação = [Σ ΔH°f(produtos)] - [Σ ΔH°f(reagentes)]
+```
+
+**Produtos:**
+- 6 mol CO₂: 6 × (-394) = -2364 kJ
+- 6 mol H₂O: 6 × (-286) = -1716 kJ
+- Total produtos: -4080 kJ
+
+**Reagentes:**
+- 1 mol C₆H₁₂O₆: 1 × (-1265) = -1265 kJ
+- 6 mol O₂: 6 × 0 = 0 kJ (elemento no estado padrão)
+- Total reagentes: -1265 kJ
+
+**Variação de entalpia:**
+```
+ΔH° = -4080 - (-1265) = -4080 + 1265 = -2815 kJ/mol
+```
+
+**Significado biológico:**
+- **Energia liberada:** 2815 kJ por mol de frutose
+- **Conversão em ATP:** ~38 mol ATP por mol de glicose
+- **Eficiência:** ~40% da energia é capturada como ATP
+- **Calor corporal:** 60% da energia vira calor
+
+**Comparação com outras fontes energéticas:**
+- **Glicose:** Mesma energia (C₆H₁₂O₆)
+- **Gorduras:** ~37 kJ/g (vs ~17 kJ/g para carboidratos)
+- **Proteínas:** ~17 kJ/g
+- **Álcool:** ~29 kJ/g
+
+**Aplicações práticas:**
+- **Nutrição esportiva:** Energia rápida
+- **Indústria alimentícia:** Adoçante natural
+- **Metabolismo:** Diagnóstico de diabetes
+- **Biotecnologia:** Fermentação de frutose
+
+**Dados importantes:**
+- **Massa molar da frutose:** 180 g/mol
+- **Energia específica:** ~15,6 kJ/g
+- **Solubilidade:** Muito solúvel em água
+- **Estabilidade:** Sensível ao calor e pH
+
+**Isomeria da frutose:**
+- **Isômero de posição da glicose:** Cetose vs aldose
+- **Ciclização:** Forma anéis furanósicos em solução
+- **Anômeros:** α e β formas cíclicas
+- **Mutarrotação:** Equilíbrio entre formas
+
+**Processo de resolução:**
+1. **Identificar funções:** Analisar grupos -OH (álcool) e C=O (cetona)
+2. **Aplicar Lei de Hess:** Somar entalpias de produtos e subtrair reagentes
+3. **Considerar coeficientes:** Multiplicar por coeficientes estequiométricos
+4. **Interpretar resultado:** ΔH° negativo = processo exotérmico
+
+Nível de dificuldade: Médio
+Área: Química Orgânica e Termoquímica
+Habilidades avaliadas: Identificação de funções orgânicas, cálculos termoquímicos, Lei de Hess, aplicações biológicas, interpretação de estruturas de carboidratos.
+
+---
+
+**Questão 08**
+
+Na naftalina, produto comercial utilizado para repelir traças e baratas de residências, existe uma grande quantidade da substância naftaleno, que muda de estado físico, estabelecendo o equilíbrio representado abaixo:
+
+**Equilíbrio químico:**
+```
+C₁₀H₈(s) ⇌ C₁₀H₈(g)     Kc = 4 × 10⁻⁶ mol/L, a 25°C e a 1 atm
+```
+
+Considere a apresentação da naftalina, comumente vendida em mercados, sob a forma de pequenas esferas, cada uma com massa de 256 mg.
+
+Nomeie a mudança de estado físico que ocorre com o naftaleno e represente sua fórmula estrutural.
+
+Em seguida, calcule o número de esferas de naftalina necessárias para atingir o equilíbrio químico no interior de um armário com 2 m³ de volume.
+
+---
+
+**Gabarito Oficial**
+
+**Mudança de estado:** sublimação
+
+**Fórmula estrutural (uma das seguintes):**
+```
+[Naftaleno - três representações equivalentes mostrando dois anéis benzênicos fundidos]
+```
+
+*Descrição das estruturas:*
+- **Primeira estrutura:** Dois hexágonos fundidos com todas as ligações duplas e simples alternadas explicitamente
+- **Segunda estrutura:** Representação simplificada com linhas representando o sistema aromático
+- **Terceira estrutura:** Representação mais esquemática dos dois anéis fundidos
+
+**Cálculo do número de esferas:**
+```
+Kc = [C₁₀H₈]     4 × 10⁻⁶ = [C₁₀H₈]
+
+Regra de três para concentração:
+4 × 10⁻⁶ mol ——— 1 L
+y ——— 2000 L
+y = 8 × 10⁻³ mol
+
+Conversão para massa:
+1 mol ——— 128 g
+8 × 10⁻³ mol ——— z
+z = 1,024 g
+
+Número de esferas:
+1 esfera ——— 0,256 g
+w ——— 1,024 g
+w = 4 esferas
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de equilíbrio químico, mudanças de estado e aplicações domésticas. Os temas centrais incluem:
+
+- **Sublimação:** Transição direta sólido → gás
+- **Equilíbrio heterogêneo:** Sólido em equilíbrio com vapor
+- **Compostos aromáticos:** Estrutura e propriedades do naftaleno
+- **Cálculos estequiométricos:** Aplicação de constantes de equilíbrio
+- **Aplicações práticas:** Repelentes domésticos
+
+**Conceitos-chave para o LLM:**
+- **Naftaleno (C₁₀H₈):** Hidrocarboneto aromático bicíclico
+- **Sublimação:** Mudança de estado sólido → gasoso sem fusão
+- **Kc:** Constante de equilíbrio em termos de concentração
+- **Equilíbrio heterogêneo:** [sólido] não aparece na expressão de Kc
+- **Pressão de vapor:** Relacionada à tendência de sublimação
+
+**Análise da mudança de estado:**
+
+**Sublimação do naftaleno:**
+- **Processo:** C₁₀H₈(s) → C₁₀H₈(g)
+- **Características:** Transição direta sólido-gás
+- **Temperatura:** Ocorre à temperatura ambiente
+- **Energia:** Requer energia para quebrar forças intermoleculares
+
+**Fatores que favorecem a sublimação:**
+- **Forças intermoleculares fracas:** Van der Waals
+- **Estrutura cristalina:** Arranjo relativamente frouxo
+- **Volatilidade:** Pressão de vapor significativa à temp. ambiente
+
+**Estrutura do naftaleno:**
+
+**Fórmula molecular:** C₁₀H₈
+
+**Características estruturais:**
+- **Dois anéis benzênicos fundidos:** Compartilham dois carbonos
+- **Sistema aromático:** 10 elétrons π deslocalizados
+- **Planaridade:** Estrutura planar rígida
+- **Hibridização:** Todos os carbonos sp²
+
+**Propriedades do naftaleno:**
+- **Ponto de fusão:** 80,2°C
+- **Ponto de ebulição:** 218°C
+- **Solubilidade:** Pouco solúvel em água, solúvel em solventes orgânicos
+- **Odor:** Característico (repelente)
+
+**Análise do equilíbrio:**
+
+**Expressão da constante:**
+```
+C₁₀H₈(s) ⇌ C₁₀H₈(g)
+Kc = [C₁₀H₈(g)] = 4 × 10⁻⁶ mol/L
+```
+
+**Observações importantes:**
+- **Sólido puro:** Concentração não varia, não aparece em Kc
+- **Equilíbrio dinâmico:** Taxa de sublimação = taxa de condensação
+- **Temperatura constante:** Kc depende apenas da temperatura
+
+**Cálculo detalhado:**
+
+**Dados fornecidos:**
+- **Volume do armário:** 2 m³ = 2000 L
+- **Kc:** 4 × 10⁻⁶ mol/L
+- **Massa por esfera:** 256 mg = 0,256 g
+- **Massa molar C₁₀H₈:** 10(12) + 8(1) = 128 g/mol
+
+**Passo 1 - Concentração no equilíbrio:**
+```
+[C₁₀H₈] = Kc = 4 × 10⁻⁶ mol/L
+```
+
+**Passo 2 - Mols necessários:**
+```
+n = [C₁₀H₈] × V = 4 × 10⁻⁶ × 2000 = 8 × 10⁻³ mol
+```
+
+**Passo 3 - Massa total:**
+```
+m = n × MM = 8 × 10⁻³ × 128 = 1,024 g
+```
+
+**Passo 4 - Número de esferas:**
+```
+N = massa total / massa por esfera = 1,024 / 0,256 = 4 esferas
+```
+
+**Aplicações práticas:**
+
+**Repelente doméstico:**
+- **Mecanismo:** Vapor tóxico para insetos
+- **Eficácia:** Concentração constante por sublimação
+- **Duração:** Depende da massa e ventilação
+- **Segurança:** Evitar inalação excessiva
+
+**Outras aplicações do naftaleno:**
+- **Síntese orgânica:** Precursor de outros compostos
+- **Indústria têxtil:** Corantes e pigmentos
+- **Conservação:** Preservação de documentos
+- **Análise química:** Padrão analítico
+
+**Aspectos de segurança:**
+- **Toxicidade:** Possível carcinógeno
+- **Inalação:** Evitar exposição prolongada
+- **Ventilação:** Necessária em ambientes fechados
+- **Substituição:** Produtos menos tóxicos disponíveis
+
+**Conceitos relacionados:**
+
+**Pressão de vapor:**
+- **Relação com Kc:** Kc = P/(RT) para gases ideais
+- **Temperatura:** Aumenta exponencialmente com T
+- **Equação de Clausius-Clapeyron:** Relaciona P e T
+
+**Forças intermoleculares:**
+- **Van der Waals:** Forças de dispersão dominantes
+- **π-π stacking:** Interação entre anéis aromáticos
+- **Energia de sublimação:** ~73 kJ/mol
+
+**Dados importantes:**
+- **Sublimação:** Transição sólido → gás
+- **Estrutura:** Dois anéis benzênicos fundidos
+- **Cálculo:** 4 esferas para atingir equilíbrio
+- **Volume:** 2000 L (conversão de m³)
+
+**Processo de resolução:**
+1. **Identificar mudança de estado:** Sólido → gás = sublimação
+2. **Desenhar estrutura:** Dois hexágonos fundidos aromáticos
+3. **Usar Kc:** Concentração de equilíbrio = Kc
+4. **Calcular massa:** Concentração × volume × massa molar
+5. **Determinar esferas:** Massa total ÷ massa por esfera
+
+Nível de dificuldade: Médio
+Área: Equilíbrio Químico e Química Orgânica
+Habilidades avaliadas: Mudanças de estado, estruturas aromáticas, constantes de equilíbrio, cálculos estequiométricos, aplicações práticas da química.
+
+---
+
+**Questão 06**
+
+**Texto de referência:**
+
+*Café quentinho a qualquer hora: chegou ao Brasil o café hot when you want, que, em português, significa "quente quando você quiser". Basta apertar um botão no fundo da lata, esperar três minutos e pronto! Café quentinho por 20 minutos!*
+
+*Adaptado de www1.folha.uol.com.br, 15/02/2002.*
+
+Para garantir o aquecimento, as latas desse produto possuem um compartimento com óxido de cálcio e outro com água. Ao pressionar o botão, essas duas substâncias se misturam, gerando energia e esquentando o café rapidamente.
+
+Escreva a equação química que representa a reação entre o óxido de cálcio e a água, nomeando o produto formado.
+
+Classifique, ainda, a reação química ocorrida quanto ao calor envolvido.
+
+---
+
+**Gabarito Oficial**
+
+**Equação química:**
+```
+CaO + H₂O → Ca(OH)₂
+```
+
+**Produto:** hidróxido de cálcio
+
+**Reação:** exotérmica
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química inorgânica com aplicações tecnológicas cotidianas. Os temas centrais incluem:
+
+- **Reações de óxidos básicos:** Reação de óxidos metálicos com água
+- **Termoquímica:** Classificação de reações quanto ao calor
+- **Nomenclatura química:** Identificação de hidróxidos
+- **Aplicações práticas:** Tecnologia de autoaquecimento
+- **Inovações alimentícias:** Sistemas de aquecimento instantâneo
+
+**Conceitos-chave para o LLM:**
+- **Óxido de cálcio (CaO):** Cal viva, óxido básico
+- **Hidratação:** Reação com água formando hidróxido
+- **Reação exotérmica:** Libera energia térmica
+- **Hidróxido de cálcio:** Ca(OH)₂, cal hidratada/apagada
+- **Autoaquecimento:** Tecnologia baseada em reações químicas
+
+**Análise da reação química:**
+
+**Reação de hidratação do óxido de cálcio:**
+```
+CaO(s) + H₂O(ℓ) → Ca(OH)₂(s) + calor
+```
+
+**Características da reação:**
+- **Tipo:** Síntese ou combinação
+- **Natureza:** Hidratação de óxido básico
+- **Velocidade:** Rápida e vigorosa
+- **Energia:** Altamente exotérmica
+
+**Nomenclatura do produto:**
+
+**Ca(OH)₂ - Hidróxido de cálcio:**
+- **Nome comum:** Cal hidratada ou cal apagada
+- **Classificação:** Base inorgânica
+- **Solubilidade:** Pouco solúvel em água
+- **Caráter:** Básico (pH ~12)
+
+**Classificação termoquímica:**
+
+**Reação exotérmica:**
+- **Definição:** Libera energia na forma de calor
+- **ΔH:** Negativo (ΔH < 0)
+- **Temperatura:** Sistema aquece durante a reação
+- **Aplicação:** Energia liberada aquece o café
+
+**Dados energéticos:**
+- **Entalpia de reação:** ΔH ≈ -65 kJ/mol
+- **Temperatura atingida:** Pode ultrapassar 100°C
+- **Duração:** Aquecimento sustentado por 20 minutos
+
+**Mecanismo de funcionamento:**
+
+**Sistema de autoaquecimento:**
+1. **Compartimentos separados:** CaO e H₂O isolados
+2. **Ativação:** Botão rompe barreira entre compartimentos
+3. **Mistura:** Reagentes entram em contato
+4. **Reação:** CaO + H₂O → Ca(OH)₂ + calor
+5. **Transferência:** Calor aquece o café
+
+**Vantagens tecnológicas:**
+- **Portabilidade:** Não requer fonte externa de energia
+- **Praticidade:** Ativação instantânea
+- **Duração:** Aquecimento prolongado
+- **Segurança:** Reação controlada
+
+**Propriedades dos reagentes e produtos:**
+
+**Óxido de cálcio (CaO):**
+- **Aparência:** Sólido branco
+- **Nome comum:** Cal viva
+- **Reatividade:** Muito reativo com água
+- **Higroscópico:** Absorve umidade do ar
+
+**Água (H₂O):**
+- **Função:** Agente hidratante
+- **Estado:** Líquido nas condições de uso
+- **Quantidade:** Estequiometria 1:1 com CaO
+
+**Hidróxido de cálcio [Ca(OH)₂]:**
+- **Aparência:** Sólido branco
+- **Solubilidade:** 1,85 g/L a 0°C
+- **pH:** Fortemente básico
+- **Estabilidade:** Estável ao ar
+
+**Outras aplicações da reação CaO + H₂O:**
+
+**Construção civil:**
+- **Argamassa:** Cal hidratada em misturas
+- **Pintura:** Cal como pigmento branco
+- **Estabilização:** Tratamento de solos
+
+**Indústria química:**
+- **Neutralização:** Controle de pH
+- **Precipitação:** Remoção de impurezas
+- **Síntese:** Precursor de outros compostos
+
+**Aspectos de segurança:**
+
+**Precauções com CaO:**
+- **Corrosivo:** Pode causar queimaduras
+- **Calor intenso:** Reação muito exotérmica
+- **Proteção:** Uso de equipamentos adequados
+- **Ventilação:** Evitar inalação de vapores
+
+**Considerações ambientais:**
+- **Produtos atóxicos:** Ca(OH)₂ é relativamente seguro
+- **Biodegradabilidade:** Compostos inorgânicos simples
+- **Descarte:** Neutralização antes do descarte
+
+**Cálculos energéticos:**
+
+**Energia liberada:**
+```
+CaO + H₂O → Ca(OH)₂     ΔH = -65 kJ/mol
+
+Para 1 g de CaO (MM = 56 g/mol):
+n = 1/56 ≈ 0,018 mol
+Energia = 0,018 × 65 ≈ 1,2 kJ
+```
+
+**Capacidade de aquecimento:**
+- **Energia específica:** ~1 kJ/g de CaO
+- **Comparação:** Eficiente para aquecimento rápido
+- **Duração:** Calor latente mantém temperatura
+
+**Dados importantes:**
+- **Reação:** CaO + H₂O → Ca(OH)₂
+- **Produto:** Hidróxido de cálcio (cal hidratada)
+- **Classificação:** Exotérmica
+- **Aplicação:** Autoaquecimento de bebidas
+
+**Processo de resolução:**
+1. **Identificar reagentes:** CaO (óxido básico) + H₂O
+2. **Prever produto:** Óxido básico + água → hidróxido
+3. **Escrever equação:** CaO + H₂O → Ca(OH)₂
+4. **Classificar termicamente:** Liberação de calor → exotérmica
+
+Nível de dificuldade: Básico-Médio
+Área: Química Inorgânica e Termoquímica
+Habilidades avaliadas: Reações de óxidos, nomenclatura de hidróxidos, classificação termoquímica, aplicações tecnológicas, interpretação de contextos práticos.
+
+---
+## QUESTÃO 007 - FÍSICO-QUÍMICA - HIDROGENAÇÃO CATALÍTICA E ENTALPIA
+
+**Tipo:** Questão mista (interpretação de gráfico + cálculos termoquímicos + nomenclatura orgânica)
+**Tópico:** Hidrogenação de alcenos, catálise, energia de ativação, entalpia de reação
+**Nível:** Ensino Médio/Vestibular
+
+## CONTEXTO EXPERIMENTAL
+Observe no gráfico os valores de entalpia ao longo do caminho de uma reação de hidrogenação do pent-2-eno, em duas condições: presença e ausência de catalisador.
+
+## GRÁFICO DE ENTALPIA vs CAMINHO DA REAÇÃO
+
+```
+Entalpia (kJ/mol)
+    ↑
+110 |........................ 
+    |                    ∩    (pico máximo da curva A)
+ 90 |................/\../....
+    |              /    \
+ 70 |............./      \.... (pico máximo da curva B)
+    |           /          \
+ 50 |.........../            \..
+    |        /                 \
+ 30 |......./                   \________________
+    |     /                                      \
+ 10 |____/                                        \____
+    |                                                   \
+  0 |_____________________________________________________→
+                            caminho da reação
+
+Legenda:
+—————— curva A (azul)
+—————— curva B (laranja)
+```
+
+**Descrição detalhada do gráfico:**
+- **Eixo Y:** Entalpia (kJ/mol), variando de 0 a 110
+- **Eixo X:** Caminho da reação (direção →)
+- **Curva A (azul):** 
+  - Início: ~10 kJ/mol
+  - Pico máximo: ~110 kJ/mol
+  - Final: ~30 kJ/mol
+- **Curva B (laranja):**
+  - Início: ~10 kJ/mol  
+  - Pico máximo: ~70 kJ/mol
+  - Final: ~30 kJ/mol
+- **Diferença principal:** Altura dos picos (energia de ativação)
+
+## QUESTÕES
+1. Indique a curva que representa a reação química na presença de catalisador e calcule, em kJ/mol, sua energia de ativação.
+2. Determine, ainda, a variação de entalpia dessa reação, em kJ/mol, e nomeie o produto formado.
+
+## CONCEITOS ENVOLVIDOS
+- Hidrogenação catalítica de alcenos
+- Energia de ativação (Ea)
+- Entalpia de reação (ΔH)
+- Efeito do catalisador na cinética química
+- Nomenclatura IUPAC de alcanos
+- Perfil energético de reações
+
+## DADOS NECESSÁRIOS PARA RESOLUÇÃO
+
+### Reação química:
+```
+CH₃-CH=CH-CH₂-CH₃ + H₂ → CH₃-CH₂-CH₂-CH₂-CH₃
+   (pent-2-eno)              (pentano)
+```
+
+### Análise do gráfico:
+- **Reagentes:** ~10 kJ/mol (estado inicial)
+- **Produtos:** ~30 kJ/mol (estado final)
+- **Curva A (sem catalisador):** Ea = 110 - 10 = 100 kJ/mol
+- **Curva B (com catalisador):** Ea = 70 - 10 = 60 kJ/mol
+- **ΔH da reação:** 30 - 10 = +20 kJ/mol
+
+## PRINCÍPIOS TEÓRICOS
+
+### Função do catalisador:
+- Diminui a energia de ativação
+- Não altera a entalpia de reação (ΔH)
+- Acelera a velocidade da reação
+- Oferece caminho alternativo
+
+### Características da hidrogenação:
+- Adição de H₂ a duplas ligações C=C
+- Geralmente catalizada por metais (Ni, Pt, Pd)
+- Processo industrial importante
+- Saturação de compostos insaturados
+
+## MECANISMO DA REAÇÃO
+1. Adsorção dos reagentes na superfície catalítica
+2. Quebra da ligação H-H
+3. Adição dos átomos de hidrogênio ao alceno
+4. Formação do alcano saturado
+5. Dessorção do produto
+
+## APLICAÇÕES PRÁTICAS
+- Hidrogenação de óleos vegetais (margarina)
+- Produção de combustíveis
+- Síntese de compostos saturados
+- Indústria petroquímica
+
+## INFORMAÇÕES COMPLEMENTARES
+- Reação endotérmica: ΔH > 0
+- Catalisador heterogêneo típico
+- Processo reversível
+- Temperatura e pressão influenciam o equilíbrio
+
+## RESPOSTAS ESPERADAS
+
+### Questão 1:
+- **Curva com catalisador:** Curva B (laranja)
+- **Justificativa:** Menor energia de ativação
+- **Energia de ativação:** Ea = 70 - 10 = **60 kJ/mol**
+
+### Questão 2:
+- **Variação de entalpia:** ΔH = 30 - 10 = **+20 kJ/mol**
+- **Produto formado:** **pentano** (ou n-pentano)
+- **Fórmula molecular:** C₅H₁₂
+
+## ANÁLISE ADICIONAL
+- Reação endotérmica (absorve energia)
+- Catalisador reduz Ea em 40 kJ/mol (100 - 60)
+- Ambas as curvas têm mesmo ΔH
+- Produtos mais energéticos que reagentes
+
+**Palavras-chave:** hidrogenação catalítica, pent-2-eno, pentano, energia de ativação, entalpia de reação, catalisador, perfil energético, alcenos, alcanos
+
+## QUESTÃO 007 - FÍSICO-QUÍMICA - OBTENÇÃO DE ALUMÍNIO METÁLICO
+
+**Tipo:** Questão mista (termoquímica + eletrólise + cálculos estequiométricos + conversão de energia)
+**Tópico:** Metalurgia do alumínio, termoquímica, eletrólise, energia de processos industriais
+**Nível:** Ensino Médio/Vestibular
+
+## CONTEXTO HISTÓRICO E INDUSTRIAL
+A sequência de equações termoquímicas abaixo representa o processo pioneiro de obtenção de alumínio metálico a partir do seu óxido (Al₂O₃).
+
+## DADOS TERMOQUÍMICOS DO PROCESSO PIONEIRO
+
+### Equações termoquímicas:
+
+**Reação 1:**
+```
+Al₂O₃(s) + 6 HCl(aq) → 2 AlCl₃(aq) + 3 H₂O(l)    ΔH° = -460 kJ.mol⁻¹
+```
+
+**Reação 2:**
+```
+AlCl₃(aq) + 3 Na(s) → 3 NaCl(aq) + Al(s)    ΔH° = +410 kJ.mol⁻¹
+```
+
+## DESENVOLVIMENTO TECNOLÓGICO
+Posteriormente, foi desenvolvido outro processo de obtenção, mais barato, baseado na eletrólise ígnea do Al₂O₃.
+
+## PROBLEMA PROPOSTO
+Considere a obtenção de 27 g de alumínio metálico pelo processo pioneiro e por meio de eletrólise, ambos com rendimento de 100%.
+
+### Questões:
+1. **Calcule a quantidade de energia, em quilojoules, necessária no primeiro processo**
+2. **Calcule a carga elétrica, em coulombs, consumida no segundo processo**
+
+## CONCEITOS ENVOLVIDOS
+- Termoquímica e variação de entalpia
+- Eletrólise e leis de Faraday
+- Estequiometria de reações
+- Metalurgia extrativa
+- Processos industriais de redução
+- Conversão de unidades energéticas
+
+## DADOS NECESSÁRIOS PARA RESOLUÇÃO
+
+### Massas molares:
+- **Al:** 27 g/mol
+- **Al₂O₃:** 102 g/mol
+- **AlCl₃:** 133,5 g/mol
+
+### Constantes:
+- **Constante de Faraday:** F = 96.485 C/mol (≈ 96.500 C/mol)
+- **Carga do elétron:** e = 1,602 × 10⁻¹⁹ C
+
+### Dados do alumínio:
+- **Número atômico:** Z = 13
+- **Configuração eletrônica:** [Ne] 3s² 3p¹
+- **Estado de oxidação comum:** +3
+
+## RESOLUÇÃO DETALHADA
+
+### **QUESTÃO 1: Energia no processo pioneiro**
+
+#### Etapa 1: Cálculo dos mols de alumínio
+```
+n(Al) = massa / massa molar = 27 g / 27 g/mol = 1,0 mol de Al
+```
+
+#### Etapa 2: Análise estequiométrica
+
+**Para a Reação 1:**
+- Produz 2 mol de AlCl₃ por equação
+- Para 1 mol de Al, precisamos de 1 mol de AlCl₃
+- Portanto: 0,5 × (reação 1)
+
+**Para a Reação 2:**
+- Produz 1 mol de Al por equação
+- Para 1 mol de Al: 1,0 × (reação 2)
+
+#### Etapa 3: Cálculo da variação de entalpia total
+```
+ΔH total = 0,5 × (-460) + 1,0 × (+410)
+ΔH total = -230 + 410 = +180 kJ
+```
+
+**Resposta:** São necessários **180 kJ** de energia.
+
+### **QUESTÃO 2: Carga elétrica na eletrólise**
+
+#### Processo de eletrólise do Al₂O₃:
+```
+Al₂O₃(l) → 2 Al(l) + 3/2 O₂(g)
+```
+
+#### Semi-reação catódica (redução):
+```
+Al³⁺ + 3e⁻ → Al
+```
+
+#### Cálculo da carga elétrica:
+```
+1 mol de Al consome 3 mol de elétrons
+Carga = n(e⁻) × F = 3 mol × 96.485 C/mol = 289.455 C
+```
+
+**Resposta:** São consumidos **289.455 coulombs** (≈ **289.500 C**).
+
+## COMPARAÇÃO DOS PROCESSOS
+
+### Processo Pioneiro (Químico):
+- **Vantagens:** Tecnologia mais simples
+- **Desvantagens:** Alto consumo energético, múltiplas etapas
+- **Reagentes:** HCl, Na metálico (caro)
+- **Energia:** +180 kJ/mol Al
+
+### Processo Moderno (Eletrólise):
+- **Vantagens:** Processo direto, mais eficiente
+- **Desvantagens:** Requer energia elétrica constante
+- **Temperatura:** ~950°C (Al₂O₃ fundido)
+- **Carga elétrica:** ~289.500 C/mol Al
+
+## INFORMAÇÕES HISTÓRICAS
+
+### Processo pioneiro (Wöhler, 1827):
+- Primeiro isolamento do alumínio
+- Redução com potássio/sódio
+- Alumínio mais caro que ouro
+
+### Processo Hall-Héroult (1886):
+- Eletrólise de Al₂O₃ em criolita fundida
+- Revolucionou a produção de alumínio
+- Tornou o alumínio economicamente viável
+
+## APLICAÇÕES INDUSTRIAIS ATUAIS
+
+### Eletrólise moderna:
+- **Eletrólito:** Al₂O₃ dissolvido em criolita (Na₃AlF₆)
+- **Temperatura:** 950-970°C
+- **Energia típica:** 13-15 kWh/kg Al
+- **Pureza:** >99,5%
+
+### Considerações ambientais:
+- Alto consumo energético
+- Emissões de CO₂ (anodos de carbono)
+- Reciclagem: 95% menos energia que produção primária
+
+## CÁLCULOS COMPLEMENTARES
+
+### Eficiência energética:
+```
+Energia teórica mínima: ΔG° ≈ 1600 kJ/mol Al
+Energia prática: ~50-60 MJ/kg Al
+Eficiência: ~50-60%
+```
+
+### Produção mundial:
+- **Consumo energético:** ~3% da eletricidade mundial
+- **Capacidade:** ~65 milhões de toneladas/ano
+- **Principais produtores:** China, Rússia, Canadá
+
+## RESPOSTAS FINAIS
+
+### Questão 1:
+**Energia necessária no processo pioneiro:** **180 kJ**
+
+### Questão 2:
+**Carga elétrica consumida na eletrólise:** **289.455 coulombs**
+
+**Palavras-chave:** alumínio metálico, termoquímica, eletrólise, processo Hall-Héroult, metalurgia, variação de entalpia, leis de Faraday, carga elétrica, processo pioneiro, Al₂O₃
+
+---
+
+**Questão 08**
+
+O formol, uma solução de metanal, frequentemente utilizado em cosméticos, vem sendo substituído pelo ácido glioxílico. No entanto, a decomposição térmica desse ácido também acarreta a formação de metanal, de acordo com a seguinte equação:
+
+**Reação de decomposição térmica:**
+```
+    O    O                O
+    ||   ||        Δ      ||
+    C—C—OH  ————→   H—C—H  +  CO₂
+   /                      
+  H                       
+
+ácido glioxílico        metanal
+```
+
+*Descrição detalhada das estruturas:*
+- **Ácido glioxílico:** HC(=O)COOH - aldeído com grupo carboxila adjacente
+- **Metanal:** H₂C=O - aldeído mais simples (formaldeído)
+- **CO₂:** Dióxido de carbono
+
+Veja, abaixo, as energias das ligações nas moléculas participantes da reação:
+
+**Tabela de energias de ligação:**
+
+| Ligação | Energia de ligação (kJ.mol⁻¹) |
+|---------|-------------------------------|
+| C–C | 348 |
+| C=O | 744 |
+| C–H | 413 |
+| C–O | 357 |
+| O–H | 462 |
+
+Considere a decomposição de 1 L de uma solução aquosa de ácido glioxílico, na concentração de 0,005 mol.L⁻¹. Assumindo que todo o ácido glioxílico foi decomposto, calcule, em quilojoules, a energia absorvida nesse processo.
+
+Aponte, ainda, o número de oxidação do carbono na molécula de metanal.
+
+---
+
+**Gabarito Oficial**
+
+**Cálculo da energia absorvida:**
+```
+ΔH = (744 × 2 + 348 + 413 + 357 + 462) - (744 × 3 + 413 × 2) = 3068 - 3058 = 10 kJ
+
+Proporção estequiométrica:
+1 mol ——→ 10 kJ
+0,005 mol ——→ x
+x = 0,05 kJ
+```
+
+**Número de oxidação do carbono:** 0
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de termoquímica, energias de ligação e números de oxidação aplicados a compostos de interesse comercial. Os temas centrais incluem:
+
+- **Energias de ligação:** Cálculo de variação de entalpia através de ligações quebradas e formadas
+- **Decomposição térmica:** Reação endotérmica de quebra molecular
+- **Números de oxidação:** Determinação em compostos orgânicos
+- **Aplicações cosméticas:** Substitutos do formol em produtos de beleza
+- **Estequiometria:** Cálculos com concentrações molares
+
+**Conceitos-chave para o LLM:**
+- **Ácido glioxílico:** HC(=O)COOH, precursor "mais seguro" que o formol
+- **Método de energias de ligação:** ΔH = Σ(ligações quebradas) - Σ(ligações formadas)
+- **Reação endotérmica:** ΔH > 0, absorve energia
+- **Metanal:** Formaldeído, número de oxidação do C = 0
+- **Concentração baixa:** 0,005 mol/L em 1 L = 0,005 mol total
+
+**Análise da reação química:**
+
+**Equação balanceada:**
+```
+HC(=O)COOH → H₂C=O + CO₂
+```
+
+**Verificação do balanceamento:**
+- **Carbono:** 2 → 1 + 1 ✓
+- **Hidrogênio:** 2 → 2 + 0 ✓
+- **Oxigênio:** 3 → 1 + 2 ✓
+
+**Análise estrutural detalhada:**
+
+**Ácido glioxílico [HC(=O)COOH]:**
+```
+    O    O
+    ||   ||
+H—C—C—OH
+```
+
+**Ligações presentes:**
+- **C=O:** 2 ligações (aldeído + carboxila)
+- **C–C:** 1 ligação (entre carbonos)
+- **C–H:** 1 ligação (aldeído)
+- **C–O:** 1 ligação (carboxila)
+- **O–H:** 1 ligação (carboxila)
+
+**Produtos:**
+
+**Metanal [H₂C=O]:**
+```
+    O
+    ||
+H—C—H
+```
+
+**Ligações presentes:**
+- **C=O:** 1 ligação
+- **C–H:** 2 ligações
+
+**CO₂ [O=C=O]:**
+```
+O=C=O
+```
+
+**Ligações presentes:**
+- **C=O:** 2 ligações
+
+**Cálculo termoquímico usando energias de ligação:**
+
+**Ligações quebradas (reagente):**
+- **C=O:** 2 × 744 = 1488 kJ/mol
+- **C–C:** 1 × 348 = 348 kJ/mol
+- **C–H:** 1 × 413 = 413 kJ/mol
+- **C–O:** 1 × 357 = 357 kJ/mol
+- **O–H:** 1 × 462 = 462 kJ/mol
+- **Total quebradas:** 3068 kJ/mol
+
+**Ligações formadas (produtos):**
+- **C=O no metanal:** 1 × 744 = 744 kJ/mol
+- **C–H no metanal:** 2 × 413 = 826 kJ/mol
+- **C=O no CO₂:** 2 × 744 = 1488 kJ/mol
+- **Total formadas:** 3058 kJ/mol
+
+**Variação de entalpia:**
+```
+ΔH = Energia absorvida - Energia liberada
+ΔH = 3068 - 3058 = +10 kJ/mol
+```
+
+**Interpretação:** Reação endotérmica (absorve energia)
+
+**Cálculo para a quantidade específica:**
+
+**Dados da solução:**
+- **Volume:** 1 L
+- **Concentração:** 0,005 mol/L
+- **Quantidade de matéria:** 1 L × 0,005 mol/L = 0,005 mol
+
+**Energia total absorvida:**
+```
+1 mol de ácido glioxílico → 10 kJ
+0,005 mol → x kJ
+
+x = 0,005 × 10 = 0,05 kJ
+```
+
+**Determinação do número de oxidação do carbono no metanal:**
+
+**Estrutura do metanal:**
+```
+    O
+    ||
+H—C—H
+```
+
+**Método das eletronegatividades:**
+- **C–H:** Carbono mais eletronegativo que H → C recebe carga -1 de cada H
+- **C=O:** Oxigênio mais eletronegativo que C → C perde carga +2 para O
+- **Cálculo:** (-1) + (-1) + (+2) = 0
+
+**Número de oxidação do C no metanal = 0**
+
+**Comparação com outros compostos:**
+- **CO₂:** C = +4 (máxima oxidação)
+- **CH₄:** C = -4 (mínima oxidação)
+- **H₂C=O:** C = 0 (estado intermediário)
+
+**Aspectos práticos e aplicações:**
+
+**Problema do formol:**
+- **Toxicidade:** Carcinógeno conhecido
+- **Regulamentação:** Restrições crescentes em cosméticos
+- **Substituição:** Busca por alternativas mais seguras
+
+**Ácido glioxílico como alternativa:**
+- **Menor toxicidade:** Mais seguro que o formol
+- **Eficácia:** Mantém propriedades alisantes
+- **Decomposição:** Ainda forma formaldeído, mas em menor quantidade
+
+**Aspectos termoquímicos:**
+- **Reação endotérmica:** Requer aquecimento para ocorrer
+- **Energia baixa:** 10 kJ/mol é relativamente pequena
+- **Feasibilidade:** Facilmente atingível com aquecimento moderado
+
+**Dados importantes:**
+- **ΔH da reação:** +10 kJ/mol (endotérmica)
+- **Energia absorvida:** 0,05 kJ para 0,005 mol
+- **NOx do C no metanal:** 0
+- **Método:** Energias de ligação para cálculo de ΔH
+
+**Processo de resolução:**
+1. **Identificar ligações:** Contar todas as ligações nos reagentes e produtos
+2. **Aplicar fórmula:** ΔH = Σ(quebradas) - Σ(formadas)
+3. **Calcular para quantidade específica:** Usar proporção estequiométrica
+4. **Determinar NOx:** Aplicar regras de eletronegatividade
+
+Nível de dificuldade: Médio-Alto
+Área: Termoquímica e Química Orgânica
+Habilidades avaliadas: Energias de ligação, cálculos termoquímicos, números de oxidação, estequiometria, aplicações industriais, interpretação de estruturas químicas.
+
+---
+
+**Questão 09:**
+
+Considere os seguintes valores das entalpias-padrão da síntese do HCℓ, a partir dos mesmos reagentes no estado gasoso.
+
+• HCℓ₍g₎: ΔH° = - 92,5 kJ × mol⁻¹
+• HCℓ₍ℓ₎: ΔH° = - 108,7 kJ × mol⁻¹
+
+Calcule a entalpia-padrão, em kJ × mol⁻¹, de vaporização do HCℓ e nomeie duas mudanças de estado físico dessa substância que sejam exotérmicas.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Cálculo da entalpia de vaporização:**
+
+½H₂₍g₎ + ½Cℓ₂₍g₎ → HCℓ₍g₎    ΔH° = - 92,5 kJ × mol⁻¹
+
+\+ HCℓ₍ℓ₎ → ½H₂₍g₎ + ½Cℓ₂₍g₎    ΔH° = + 108,7 kJ × mol⁻¹
+_______________________________________________
+HCℓ₍ℓ₎ → HCℓ₍g₎                ΔH° = + 16,2 kJ × mol⁻¹
+
+**Mudanças de estado exotérmicas:**
+- Solidificação
+- Condensação ou liquefação
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos fundamentais de termoquímica e mudanças de estado:
+
+1. **Dados fornecidos**:
+   - **Síntese do HCℓ gasoso**: ½H₂₍g₎ + ½Cℓ₂₍g₎ → HCℓ₍g₎, ΔH° = -92,5 kJ/mol
+   - **Síntese do HCℓ líquido**: ½H₂₍g₎ + ½Cℓ₂₍g₎ → HCℓ₍ℓ₎, ΔH° = -108,7 kJ/mol
+
+2. **Conceitos de termoquímica aplicados**:
+   - **Lei de Hess**: A variação de entalpia independe do caminho da reação
+   - **Manipulação de equações**: Inversão de equações altera o sinal do ΔH
+   - **Soma algébrica**: Equações podem ser somadas para obter nova equação
+
+3. **Estratégia de resolução**:
+   - **Objetivo**: Calcular HCℓ₍ℓ₎ → HCℓ₍g₎ (vaporização)
+   - **Método**: Usar as duas reações de síntese fornecidas
+   - **Manipulação**: Inverter a segunda equação e somar com a primeira
+
+4. **Processo de cálculo detalhado**:
+   - **Equação 1**: ½H₂₍g₎ + ½Cℓ₂₍g₎ → HCℓ₍g₎, ΔH° = -92,5 kJ/mol
+   - **Equação 2 invertida**: HCℓ₍ℓ₎ → ½H₂₍g₎ + ½Cℓ₂₍g₎, ΔH° = +108,7 kJ/mol
+   - **Soma**: HCℓ₍ℓ₎ → HCℓ₍g₎, ΔH° = -92,5 + 108,7 = +16,2 kJ/mol
+
+5. **Interpretação do resultado**:
+   - **ΔH° > 0**: Processo endotérmico (vaporização)
+   - **Magnitude**: 16,2 kJ/mol de energia necessária para vaporizar HCℓ
+
+6. **Mudanças de estado físico**:
+   - **Processos endotérmicos** (ΔH > 0): fusão, vaporização, sublimação
+   - **Processos exotérmicos** (ΔH < 0): solidificação, condensação, deposição
+   - **Resposta**: Solidificação e condensação (ou liquefação)
+
+7. **Conceitos avaliados**:
+   - **Aplicação da Lei de Hess**: Manipulação de equações termoquímicas
+   - **Interpretação de sinais**: Endotérmico vs. exotérmico
+   - **Estados físicos**: Compreensão das transições entre sólido, líquido e gasoso
+   - **Terminologia**: Diferenciação entre vaporização, condensação, etc.
+
+8. **Relação entre dados**:
+   - **HCℓ líquido**: Formação mais exotérmica (-108,7 kJ/mol)
+   - **HCℓ gasoso**: Formação menos exotérmica (-92,5 kJ/mol)
+   - **Diferença**: Representa energia de vaporização (+16,2 kJ/mol)
+
+9. **Nível de complexidade**: Questão de nível intermediário que exige domínio de termoquímica e manipulação matemática de equações.
+
+10. **Padrão UERJ**: Questão que combina cálculos quantitativos com conceitos teóricos, exigindo tanto habilidades matemáticas quanto compreensão conceitual.
+
+---
+
+**Questão 01:**
+
+O trióxido de diarsênio é um sólido venenoso obtido pela reação do arsênio (As) com o gás oxigênio. Sua entalpia padrão de formação é igual a -660 kJ.mol⁻¹.
+
+Escreva a equação química completa e balanceada da obtenção do trióxido de diarsênio. Em seguida, calcule a quantidade de energia, em quilojoules, liberada dessa formação de sólido a partir da oxidação de 1,5 kg de arsênio.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Equação química balanceada:**
+
+**4 As₍s₎ + 3 O₂₍g₎ → 2 As₂O₃₍s₎**
+
+**Cálculo da energia liberada:**
+
+4 × 75g As → 2 × 660 kJ
+
+1.500g As → X        X = 6.600 kJ
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos fundamentais de termoquímica e estequiometria:
+
+1. **Informações fornecidas**:
+   - **Composto**: Trióxido de diarsênio (As₂O₃)
+   - **Natureza**: Sólido venenoso
+   - **Formação**: Reação entre arsênio metálico e oxigênio gasoso
+   - **Entalpia de formação**: ΔHf° = -660 kJ/mol
+
+2. **Conhecimentos prévios necessários**:
+   - **Massa molar do arsênio**: 75 g/mol
+   - **Fórmula do trióxido de diarsênio**: As₂O₃
+   - **Estados físicos**: As (sólido), O₂ (gasoso), As₂O₃ (sólido)
+
+3. **Balanceamento da equação**:
+   - **Elementos envolvidos**: As e O
+   - **Produtos**: As₂O₃ (2 átomos de As, 3 átomos de O)
+   - **Balanceamento**: 4 As + 3 O₂ → 2 As₂O₃
+   - **Verificação**: 4 As à esquerda = 4 As à direita; 6 O à esquerda = 6 O à direita
+
+4. **Conceitos de termoquímica**:
+   - **Entalpia de formação**: Energia envolvida na formação de 1 mol de composto
+   - **Sinal negativo**: Reação exotérmica (libera energia)
+   - **Interpretação**: -660 kJ/mol significa que cada mol de As₂O₃ formado libera 660 kJ
+
+5. **Cálculo estequiométrico**:
+   - **Relação molar**: 4 mol As → 2 mol As₂O₃
+   - **Conversão**: 1,5 kg = 1.500 g de arsênio
+   - **Massa molar**: 4 × 75g = 300g de As produzem 2 mol de As₂O₃
+   - **Energia**: 2 mol As₂O₃ × 660 kJ/mol = 1.320 kJ para 300g As
+   - **Proporção**: 1.500g As × (1.320 kJ / 300g As) = 6.600 kJ
+
+6. **Raciocínio alternativo**:
+   - **1.500g ÷ 75g/mol = 20 mol de As**
+   - **20 mol As × (2 mol As₂O₃ / 4 mol As) = 10 mol As₂O₃**
+   - **10 mol As₂O₃ × 660 kJ/mol = 6.600 kJ**
+
+7. **Conceitos avaliados**:
+   - **Balanceamento de equações**: Conservação de massa
+   - **Estequiometria**: Relações quantitativas em reações químicas
+   - **Termoquímica**: Aplicação de entalpias de formação
+   - **Conversão de unidades**: kg para g, mol para energia
+
+8. **Contextualização**:
+   - **Toxicidade**: Menção ao caráter venenoso do As₂O₃
+   - **Aplicação prática**: Cálculo de energia em processo industrial
+   - **Relevância ambiental**: Formação de óxidos de arsênio
+
+9. **Nível de complexidade**: Questão de nível básico-intermediário que integra balanceamento, estequiometria e termoquímica.
+
+10. **Padrão UERJ**: Questão que combina conhecimentos teóricos com cálculos práticos, exigindo domínio de conceitos fundamentais e habilidades matemáticas.
+
+---
+
+**Questão 06:**
+
+A equação química abaixo representa a reação da produção industrial de gás hidrogênio.
+
+**H₂O (g) + C (s) → CO (g) + H₂ (g)**
+
+Na determinação da variação de entalpia dessa reação química, são consideradas as seguintes equações termoquímicas, a 25 °C e 1 atm:
+
+```
+H₂ (g) + ½ O₂ (g) → H₂O (g)     ΔH° = - 242,0 kJ
+
+C (s) + O₂ (g) → CO₂ (g)        ΔH° = - 393,5 kJ
+
+O₂ (g) + 2 CO (g) → 2 CO₂ (g)   ΔH° = - 477,0 kJ
+```
+
+Calcule a energia, em quilojoules, necessária para a produção de 1 kg de gás hidrogênio e nomeie o agente redutor desse processo industrial.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Aplicação da Lei de Hess:**
+
+**Equação 1 (invertida):** H₂O (g) → H₂ (g) + ½ O₂ (g)     ΔH° = + 242,0 kJ
+
+**Equação 2:** C (s) + O₂ (g) → CO₂ (g)                    ΔH° = - 393,5 kJ
+
+**Equação 3 (invertida e dividida por 2):** CO₂ (g) → ½ O₂ (g) + CO (g)     ΔH° = + 238,5 kJ
+
+**Soma das equações:**
+_______________________________________________________________
+**H₂O (g) + C (s) → CO (g) + H₂ (g)     ΔH° = + 87 kJ**
+
+**Cálculo da energia para 1 kg de H₂:**
+
+87 kJ → 2 g
+
+X → 1.000 g        X = 4,35 × 10⁴ kJ
+
+**Agente redutor:** Carbono
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de termoquímica, Lei de Hess e processos industriais:
+
+1. **Reação industrial estudada**:
+   - **Processo**: Produção de gás hidrogênio
+   - **Reação**: H₂O (g) + C (s) → CO (g) + H₂ (g)
+   - **Nome**: Reação do gás d'água ou gaseificação do carbono
+   - **Importância**: Fonte industrial de H₂
+
+2. **Dados termoquímicos fornecidos**:
+   - **Reação 1**: H₂ + ½ O₂ → H₂O (g), ΔH° = -242,0 kJ
+   - **Reação 2**: C + O₂ → CO₂ (g), ΔH° = -393,5 kJ  
+   - **Reação 3**: O₂ + 2 CO → 2 CO₂ (g), ΔH° = -477,0 kJ
+   - **Condições**: 25°C, 1 atm (condições padrão)
+
+3. **Aplicação da Lei de Hess**:
+   - **Princípio**: ΔH independe do caminho da reação
+   - **Método**: Manipulação algébrica de equações
+   - **Objetivo**: Obter a equação desejada
+
+4. **Manipulação das equações**:
+   
+   **Equação 1 (invertida)**:
+   - Original: H₂ + ½ O₂ → H₂O, ΔH° = -242,0 kJ
+   - Invertida: H₂O → H₂ + ½ O₂, ΔH° = +242,0 kJ
+   
+   **Equação 2 (inalterada)**:
+   - C + O₂ → CO₂, ΔH° = -393,5 kJ
+   
+   **Equação 3 (invertida e dividida por 2)**:
+   - Original: O₂ + 2 CO → 2 CO₂, ΔH° = -477,0 kJ
+   - Invertida: 2 CO₂ → O₂ + 2 CO, ΔH° = +477,0 kJ
+   - Dividida por 2: CO₂ → ½ O₂ + CO, ΔH° = +238,5 kJ
+
+5. **Soma das equações manipuladas**:
+   ```
+   H₂O (g) → H₂ (g) + ½ O₂ (g)           ΔH° = +242,0 kJ
+   C (s) + O₂ (g) → CO₂ (g)               ΔH° = -393,5 kJ  
+   CO₂ (g) → ½ O₂ (g) + CO (g)           ΔH° = +238,5 kJ
+   ________________________________________________
+   H₂O (g) + C (s) → CO (g) + H₂ (g)     ΔH° = +87,0 kJ
+   ```
+
+6. **Verificação do cancelamento**:
+   - **O₂**: ½ O₂ + O₂ - ½ O₂ = O₂ (cancela)
+   - **CO₂**: +CO₂ - CO₂ = 0 (cancela)
+   - **Resultado**: Apenas reagentes e produtos desejados
+
+7. **Cálculo da energia para 1 kg de H₂**:
+   
+   **Interpretação do ΔH°**:
+   - ΔH° = +87 kJ para 1 mol de H₂ produzido
+   - Massa molar do H₂ = 2 g/mol
+   - Portanto: 87 kJ necessários para produzir 2 g de H₂
+   
+   **Proporção**:
+   - 87 kJ → 2 g de H₂
+   - X → 1.000 g de H₂
+   - X = (87 × 1.000) / 2 = 43.500 kJ = 4,35 × 10⁴ kJ
+
+8. **Identificação do agente redutor**:
+   - **Análise da reação**: H₂O + C → CO + H₂
+   - **Estados de oxidação**:
+     - C: 0 → +2 (perde elétrons, oxidação)
+     - H: +1 → 0 (ganha elétrons, redução)
+   - **Agente redutor**: Carbono (provoca redução do H⁺)
+
+9. **Estados de oxidação detalhados**:
+   ```
+   H₂O + C → CO + H₂
+   +1-2   0   +2-2  0
+   ```
+   - **Carbono**: 0 → +2 (oxidação)
+   - **Hidrogênio**: +1 → 0 (redução)
+
+10. **Aspectos energéticos**:
+    - **ΔH° > 0**: Reação endotérmica
+    - **Necessidade**: Fornecimento de energia (aquecimento)
+    - **Condições industriais**: Altas temperaturas (800-1000°C)
+
+11. **Processo industrial - Gás d'água**:
+    - **Matérias-primas**: Vapor d'água + carvão/coque
+    - **Produtos**: H₂ + CO (gás de síntese)
+    - **Aplicações**: Produção de amônia, metanol, combustíveis
+
+12. **Reação complementar (shift)**:
+    ```
+    CO + H₂O → CO₂ + H₂ (reação de deslocamento)
+    ```
+    - **Objetivo**: Aumentar produção de H₂
+    - **Resultado**: Conversão de CO em mais H₂
+
+13. **Conceitos avaliados**:
+    - **Lei de Hess**: Manipulação de equações termoquímicas
+    - **Termoquímica**: Cálculos de variação de entalpia
+    - **Estequiometria**: Relações mol-massa
+    - **Oxidação-redução**: Identificação de agentes
+
+14. **Verificação dimensional**:
+    ```
+    kJ/mol × mol = kJ
+    (87 kJ/2g) × 1000g = 43.500 kJ = 4,35 × 10⁴ kJ
+    ```
+
+15. **Importância industrial**:
+    - **Produção de H₂**: Matéria-prima para diversos processos
+    - **Processo Haber-Bosch**: Síntese de amônia
+    - **Refinarias**: Hidrocraqueamento, dessulfurização
+
+16. **Nível de complexidade**: Questão de nível intermediário-avançado que exige domínio da Lei de Hess e cálculos estequiométricos.
+
+17. **Padrão UERJ**: Questão que combina conceitos teóricos de termoquímica com aplicação industrial prática, exigindo manipulação matemática e compreensão de processos redox.
+
+---
+
+**Questão 07:**
+
+Observe os diagramas de mudança de fases das substâncias puras A e B, submetidas às mesmas condições experimentais.
+
+**[DESCRIÇÃO DETALHADA DOS GRÁFICOS]:**
+
+**Substância A:**
+- **Eixo X**: Tempo (min) - escala de 0 a 80 minutos
+- **Eixo Y**: Temperatura (°C) - escala de aproximadamente -116°C a +50°C
+- **Perfil da curva**:
+  - **0-20 min**: Aquecimento de -116°C até -116°C (curva ascendente)
+  - **20-35 min**: Patamar horizontal em -116°C (fusão)
+  - **35-55 min**: Aquecimento de -116°C até +50°C (curva ascendente)
+  - **55-80 min**: Patamar horizontal em +50°C (ebulição)
+- **Pontos críticos**:
+  - **Ponto de fusão**: -116°C (patamar de 20-35 min)
+  - **Ponto de ebulição**: +50°C (patamar de 55-80 min)
+
+**Substância B:**
+- **Eixo X**: Tempo (min) - escala de 0 a 90 minutos
+- **Eixo Y**: Temperatura (°C) - escala de aproximadamente -89°C a +118°C
+- **Perfil da curva**:
+  - **0-10 min**: Aquecimento de -89°C até -89°C (curva ascendente)
+  - **10-30 min**: Patamar horizontal em -89°C (fusão)
+  - **30-60 min**: Aquecimento de -89°C até +118°C (curva ascendente)
+  - **60-75 min**: Patamar horizontal em +118°C (ebulição)
+  - **75-90 min**: Continuação do patamar em +118°C
+- **Pontos críticos**:
+  - **Ponto de fusão**: -89°C (patamar de 10-30 min)
+  - **Ponto de ebulição**: +118°C (patamar de 60-75 min)
+
+Indique a substância que se funde mais rapidamente. Nomeie, também, o processo mais adequado para separar uma mistura homogênea contendo volumes iguais dessas substâncias, inicialmente à temperatura ambiente, justificando sua resposta.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Substância que se funde mais rapidamente:** Substância A
+
+**Processo de separação:** Destilação, pois seus pontos de ebulição são distintos.
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos de mudanças de estado e métodos de separação:
+
+1. **Análise dos diagramas de aquecimento**:
+   - **Tipo**: Curvas de aquecimento com patamares de mudança de fase
+   - **Condições**: Mesma taxa de aquecimento para ambas as substâncias
+   - **Interpretação**: Patamares horizontais = mudanças de fase
+
+2. **Características da Substância A**:
+   - **Ponto de fusão**: -116°C
+   - **Ponto de ebulição**: +50°C
+   - **Tempo de fusão**: 15 minutos (20-35 min)
+   - **Tempo de ebulição**: 25 minutos (55-80 min)
+   - **Faixa líquida**: -116°C a +50°C (166°C de amplitude)
+
+3. **Características da Substância B**:
+   - **Ponto de fusão**: -89°C
+   - **Ponto de ebulição**: +118°C
+   - **Tempo de fusão**: 20 minutos (10-30 min)
+   - **Tempo de ebulição**: 15 minutos (60-75 min)
+   - **Faixa líquida**: -89°C a +118°C (207°C de amplitude)
+
+4. **Comparação da velocidade de fusão**:
+   - **Substância A**: Fusão completa em 15 minutos
+   - **Substância B**: Fusão completa em 20 minutos
+   - **Conclusão**: Substância A se funde mais rapidamente
+   - **Fatores**: Calor latente de fusão e massa das amostras
+
+5. **Interpretação dos patamares**:
+   - **Patamar de fusão**: Energia fornecida quebra ligações intermoleculares
+   - **Patamar de ebulição**: Energia fornecida converte líquido em vapor
+   - **Duração**: Proporcional ao calor latente e quantidade de matéria
+
+6. **Análise da mistura homogênea**:
+   - **Temperatura ambiente**: ~25°C
+   - **Estado da Substância A**: Líquida (-116°C < 25°C < 50°C)
+   - **Estado da Substância B**: Líquida (-89°C < 25°C < 118°C)
+   - **Tipo de mistura**: Líquido-líquido homogênea
+
+7. **Método de separação - Destilação**:
+   - **Princípio**: Diferença nos pontos de ebulição
+   - **Substância A**: PE = 50°C (mais volátil)
+   - **Substância B**: PE = 118°C (menos volátil)
+   - **Diferença**: ΔPE = 118°C - 50°C = 68°C (significativa)
+
+8. **Processo de destilação**:
+   - **Etapa 1**: Aquecimento da mistura até 50°C
+   - **Etapa 2**: Vaporização da Substância A
+   - **Etapa 3**: Condensação do vapor da Substância A
+   - **Resultado**: Separação eficiente dos componentes
+
+9. **Justificativa para destilação**:
+   - **Pontos de ebulição distintos**: 50°C vs 118°C
+   - **Diferença significativa**: 68°C permite separação eficiente
+   - **Mistura homogênea**: Destilação é o método adequado
+   - **Alternativas inadequadas**: Filtração (não funciona), decantação (homogênea)
+
+10. **Outros métodos considerados**:
+    
+    **Filtração**: Inadequada
+    - **Motivo**: Mistura homogênea (não há sólidos)
+    
+    **Decantação**: Inadequada
+    - **Motivo**: Mistura homogênea (não há separação de fases)
+    
+    **Destilação fracionada**: Adequada
+    - **Aplicação**: Para diferenças menores de PE
+
+11. **Fatores que influenciam a velocidade de fusão**:
+    - **Calor latente de fusão**: Energia necessária por grama
+    - **Massa da amostra**: Mesmas condições experimentais
+    - **Taxa de aquecimento**: Constante para ambas
+    - **Estrutura molecular**: Afeta as forças intermoleculares
+
+12. **Interpretação física dos gráficos**:
+    - **Segmentos inclinados**: Aquecimento sensível (mudança de temperatura)
+    - **Segmentos horizontais**: Aquecimento latente (mudança de fase)
+    - **Duração dos patamares**: Relacionada ao calor latente
+
+13. **Aplicação à temperatura ambiente**:
+    - **25°C**: Ambas substâncias são líquidas
+    - **Volatilidade**: Substância A é mais volátil (PE menor)
+    - **Separação**: Destilação simples é suficiente
+
+14. **Conceitos avaliados**:
+    - **Interpretação de gráficos**: Curvas de aquecimento
+    - **Mudanças de estado**: Fusão e ebulição
+    - **Métodos de separação**: Escolha baseada em propriedades
+    - **Propriedades físicas**: Pontos de fusão e ebulição
+
+15. **Aspectos práticos da destilação**:
+    - **Equipamento**: Balão, coluna, condensador
+    - **Controle**: Temperatura e velocidade de aquecimento
+    - **Eficiência**: Dependente da diferença de PE
+
+16. **Nível de complexidade**: Questão de nível básico-intermediário que exige interpretação gráfica e conhecimento de métodos de separação.
+
+17. **Padrão UERJ**: Questão que combina análise de dados experimentais (gráficos) com aplicação prática de métodos de separação, exigindo raciocínio lógico e conhecimento de propriedades físicas.
+
+---
+

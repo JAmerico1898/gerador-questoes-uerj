@@ -1,0 +1,2145 @@
+# Questão UERJ Biologia - Vírus e Especificidade Celular
+
+## QUESTÃO ORIGINAL
+
+**Questão 01**
+
+Vírus são parasitas que conseguem invadir e se reproduzir em diferentes tipos celulares, apresentando uma especificidade em relação às células em que conseguem se hospedar. Sabe-se que, em hemácias de mamíferos, esses parasitas não conseguem se reproduzir.
+
+Explique por que esses parasitas são específicos em relação aos tipos celulares que conseguem invadir. Explique, também, por que os vírus não conseguem se multiplicar em hemácias de mamíferos.
+
+## RESPOSTA OFICIAL
+
+**Explicação 1:** As proteínas dos vírus se encaixam nos receptores de membrana presentes em alguns tipos de células / diferentes células apresentam diferentes tipos de receptores de membrana.
+
+**Explicação 2:** Hemácias de mamíferos não apresentam núcleo / material genético / DNA cromossomial.
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão dissertativa explicativa
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia
+- **Tópicos abordados:** Virologia, biologia celular, especificidade viral
+- **Estrutura:** Duas partes explicativas interconectadas
+
+### Conceitos-chave avaliados:
+1. **Especificidade viral:** Interação proteína-receptor
+2. **Tropismo celular:** Seletividade de hospedeiros
+3. **Estrutura de hemácias:** Ausência de núcleo em mamíferos
+4. **Replicação viral:** Dependência de material genético celular
+
+### Padrão de resposta esperado:
+- Explicação baseada em mecanismos moleculares
+- Conexão entre estrutura e função
+- Conhecimento específico sobre hemácias de mamíferos
+- Raciocínio biológico integrado
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Formato:** Questões que exigem explicações científicas fundamentadas
+2. **Abordagem:** Integração de conhecimentos de diferentes áreas da biologia
+3. **Linguagem:** Científica, mas acessível ao nível do ensino médio
+4. **Estrutura:** Apresentação de informação seguida de questionamento explicativo
+5. **Avaliação:** Compreensão conceitual e capacidade de aplicação
+
+### Temas relacionados para questões similares:
+- Especificidade enzima-substrato
+- Interações antígeno-anticorpo
+- Tropismo de patógenos
+- Estruturas celulares especializadas
+- Mecanismos de infecção viral
+- Diferenças entre células procarióticas e eucarióticas
+
+### Padrões de formulação:
+- Apresentação de fenômeno biológico
+- Solicitação de explicação baseada em fundamentos científicos
+- Conexão entre estrutura molecular e função biológica
+- Uso de exemplos específicos (hemácias de mamíferos)
+
+## MODELO PARA QUESTÕES SIMILARES
+
+**Estrutura sugerida:**
+1. Apresentação de um fenômeno biológico
+2. Contextualização com exemplo específico
+3. Solicitação de explicação em duas partes
+4. Foco em mecanismos moleculares/celulares
+5. Integração de conhecimentos de diferentes áreas
+
+**Elementos essenciais:**
+- Linguagem científica apropriada
+- Conceitos fundamentais da biologia
+- Exemplos concretos
+- Raciocínio causa-efeito
+- Aplicação prática do conhecimento teórico
+
+---
+
+# Questão UERJ Biologia - Açafrão e Estruturas Reprodutivas Vegetais
+
+## QUESTÃO ORIGINAL
+
+**Questão 07**
+
+O açafrão é um tempero com aroma e sabor acentuados, extraído da planta *Crocus sativus*. No processo de obtenção dessa especiaria, retiram-se o estigma e o estilete encontrados nos pistilos florais da planta, os quais são ricos em carotenoides, responsáveis por sua cor avermelhada.
+
+### DESCRIÇÃO DETALHADA DA IMAGEM:
+
+**Composição da imagem:**
+- Imagem dividida em duas partes principais: esquema anatômico (esquerda) e fotografia real (direita)
+- Crédito: "Adaptado de seducintec.com.br"
+
+**ESQUEMA ANATÔMICO (lado esquerdo):**
+
+**Estrutura geral:**
+- Representação esquemática de um pistilo em corte longitudinal
+- Desenho científico em estilo didático
+- Identificação das partes com setas e rótulos
+
+**Componentes identificados:**
+- **Estigma:** Localizado no topo da estrutura
+  - Representado como uma estrutura avermelhada expandida
+  - Formato típico de receptáculo para grãos de pólen
+  - Posição terminal no pistilo
+
+- **Estilete:** Estrutura intermediária
+  - Representado como um tubo/coluna alongada
+  - Conecta o estigma ao ovário
+  - Coloração intermediária entre estigma e ovário
+
+- **Ovário:** Base da estrutura
+  - Representado como estrutura expandida na base
+  - Localização inferior no pistilo
+  - Contém os óvulos (estruturas reprodutivas femininas)
+
+**Orientação e proporções:**
+- Pistilo apresentado verticalmente
+- Estigma no topo, estilete no meio, ovário na base
+- Proporções anatômicas realistas
+- Seta indicativa: "pistilo ou gineceu"
+
+**FOTOGRAFIA REAL (lado direito):**
+
+**Flores de açafrão:**
+- Duas flores de *Crocus sativus* em foco
+- Pétalas de coloração lilás/roxa característica
+- Flores abertas mostrando estruturas reprodutivas internas
+
+**Estruturas visíveis:**
+- **Pétalas:** Coloração roxa/lilás intensa
+  - Formato alongado e delicado
+  - Disposição típica de flores de Crocus
+  - Superfície lisa e uniforme
+
+- **Estigmas:** Claramente visíveis no centro das flores
+  - Coloração avermelhada/alaranjada intensa
+  - Estruturas filamentosas e ramificadas
+  - Três estigmas por flor (típico de Crocus)
+  - Posição proeminente para recepção de pólen
+
+- **Estiletes:** Conectados aos estigmas
+  - Menos visíveis na fotografia
+  - Coloração semelhante aos estigmas
+
+**Produto processado:**
+- Ao lado das flores: material já processado
+- Estigmas secos de coloração avermelhada intensa
+- Textura filamentosa característica do açafrão comercial
+- Demonstra o produto final da colheita
+
+**Características visuais adicionais:**
+- Fundo neutro que destaca as flores
+- Iluminação adequada para mostrar as cores
+- Contraste entre as pétalas roxas e estigmas vermelhos
+- Demonstração clara da origem botânica do açafrão
+
+**Pergunta:**
+Cite a organela da célula vegetal onde a pigmentação do açafrão é armazenada, indicando a importância desse pigmento para as plantas. Em seguida, aponte o principal evento que ocorre no estilete e que foi determinante para a independência da água para a reprodução dos vegetais.
+
+## RESPOSTA OFICIAL
+
+**Organela:** cloroplastos / cromoplastos / plastos.
+
+**Importância:** o pigmento tem propriedade fotossintética / atração de polinizadores.
+
+**Evento:** formação do tubo polínico.
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva com esquema anatômico + fotografia real
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Botânica (anatomia e reprodução vegetal)
+- **Habilidades avaliadas:** Conhecimento de organelas, pigmentos vegetais, reprodução vegetal
+- **Estrutura:** Contextualização prática + identificação anatômica + conceitos evolutivos
+
+### Conceitos-chave avaliados:
+1. **Organelas vegetais:** Cloroplastos, cromoplastos, plastos
+2. **Pigmentos vegetais:** Carotenoides e suas funções
+3. **Anatomia floral:** Pistilo, estigma, estilete, ovário
+4. **Reprodução vegetal:** Polinização e fecundação
+5. **Evolução vegetal:** Independência da água para reprodução
+6. **Tubo polínico:** Estrutura fundamental para fecundação
+
+### Conhecimentos específicos necessários:
+- **Cromoplastos:** Organelas que armazenam pigmentos (carotenoides)
+- **Funções dos pigmentos:** Fotossíntese e atração de polinizadores
+- **Tubo polínico:** Crescimento através do estilete até o ovário
+- **Evolução:** Transição de reprodução aquática para terrestre
+- **Estruturas florais:** Função de cada parte do pistilo
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Aplicação prática:** Conexão com produtos do cotidiano
+2. **Esquemas + fotografias:** Combinação de representação científica e realidade
+3. **Múltiplos conceitos:** Integração de anatomia, fisiologia e evolução
+4. **Contextualização econômica:** Plantas de valor comercial
+5. **Progressão conceitual:** Do específico (organela) ao geral (evolução)
+
+### Padrões de imagens UERJ:
+- Esquemas anatômicos didáticos com rótulos
+- Fotografias reais complementando esquemas
+- Cores naturais e contrastes evidentes
+- Créditos de fonte apropriados
+- Escalas e proporções realistas
+
+### Temas relacionados para questões similares:
+- Outras especiarias e corantes naturais
+- Frutas e suas cores (antocianinas, carotenoides)
+- Flores e estratégias de polinização
+- Evolução das estruturas reprodutivas
+- Biotecnologia vegetal e produção de metabólitos
+- Importância econômica de plantas medicinais
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Contextualização prática:** Produto comercial ou aplicação
+2. **Descrição anatômica:** Estruturas envolvidas no processo
+3. **Representação visual:** Esquema + fotografia real
+4. **Questões progressivas:** Organela → função → processo evolutivo
+5. **Integração conceitual:** Múltiplas áreas da botânica
+
+### Elementos essenciais para replicação:
+- **Produtos reconhecíveis:** Especiarias, medicamentos, corantes
+- **Esquemas anatômicos:** Estruturas claramente rotuladas
+- **Fotografias complementares:** Material real correspondente
+- **Progressão de complexidade:** Questões do simples ao complexo
+- **Aplicação evolutiva:** Vantagens adaptativas
+
+### Critérios de avaliação implícitos:
+- Conhecimento de organelas vegetais específicas
+- Compreensão de funções biológicas de pigmentos
+- Entendimento de processos reprodutivos
+- Capacidade de relacionar estrutura e função
+- Conhecimento de evolução vegetal
+
+### Variações possíveis do modelo:
+- Frutos e dispersão de sementes
+- Raízes e absorção de nutrientes
+- Caules e transporte de substâncias
+- Folhas e fotossíntese
+- Adaptações a diferentes ambientes
+
+### Tipos de produtos adequados:
+- Especiarias (canela, pimenta, baunilha)
+- Corantes naturais (urucum, açaí, beterraba)
+- Fibras vegetais (algodão, linho, juta)
+- Medicamentos fitoterápicos
+- Óleos essenciais e aromáticos
+
+### Padrões de pergunta:
+- "Cite a organela... indicando a importância..."
+- "Aponte o principal evento que ocorre..."
+- Progressão: estrutura → função → evolução
+- Integração de conhecimentos anatômicos e fisiológicos
+- Conexão com vantagens evolutivas
+
+### Estrutura das imagens:
+- Esquema anatômico com rótulos claros
+- Fotografia real do produto/planta
+- Cores naturais destacando estruturas importantes
+- Proporções anatômicas corretas
+- Demonstração do produto final/comercial
+
+### Conceitos botânicos adequados:
+- Organelas vegetais e suas funções
+- Pigmentos e metabolismo secundário
+- Estruturas reprodutivas e polinização
+- Evolução das plantas terrestres
+- Adaptações a diferentes ambientes
+- Importância econômica da biodiversidade
+
+### Aplicações práticas relevantes:
+- Indústria alimentícia e especiarias
+- Cosméticos e corantes naturais
+- Farmacologia e plantas medicinais
+- Agricultura e melhoramento vegetal
+- Biotecnologia e produção sustentável
+
+---
+
+# Questão UERJ Biologia - Espermatogênese e Meiose
+
+## QUESTÃO ORIGINAL
+
+**QUESTÃO 01**
+
+Durante a espermatogênese, um espermatócito primário com 36 cromossomos entra em divisão celular normal para a produção de gametas.
+
+Nomeie esse tipo de divisão celular e identifique em que fase dessa divisão ocorre a separação das cromátides irmãs. Em seguida, indique o processo celular que possibilita tal separação e quantos cromossomos serão encontrados na célula ao final dessa fase.
+
+## RESPOSTA OFICIAL
+
+**Tipo de divisão:** meiose.
+
+**Fase da divisão:** anáfase II.
+
+**Processo celular:** divisão dos centrômeros / encurtamento do fuso acromático.
+
+**Número de cromossomos:** 36.
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva textual (sem imagens ou gráficos)
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Citologia e Reprodução
+- **Habilidades avaliadas:** Conhecimento de divisão celular, espermatogênese, fases da meiose
+- **Estrutura:** Contextualização + quatro aspectos específicos (tipo, fase, processo, número)
+
+### Conceitos-chave avaliados:
+1. **Espermatogênese:** Processo de formação de gametas masculinos
+2. **Meiose:** Divisão reducional para formação de gametas
+3. **Fases da meiose:** Meiose I e meiose II com suas subfases
+4. **Cromátides irmãs:** Separação durante a anáfase II
+5. **Fuso acromático:** Estrutura responsável pela separação cromossômica
+6. **Número cromossômico:** Manutenção durante anáfase II
+
+### Conhecimentos específicos necessários:
+- **Meiose I:** Separação de cromossomos homólogos (redução cromossômica)
+- **Meiose II:** Separação de cromátides irmãs (similar à mitose)
+- **Anáfase I:** Cromossomos homólogos se separam (2n → n)
+- **Anáfase II:** Cromátides irmãs se separam (número de cromossomos mantido)
+- **Centrômeros:** Divisão permite separação das cromátides
+- **Fuso mitótico:** Encurtamento traciona cromátides para polos opostos
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Contextualização específica:** Processo biológico concreto (espermatogênese)
+2. **Informação numérica:** Número específico de cromossomos
+3. **Múltiplas identificações:** Várias informações em sequência lógica
+4. **Progressão conceitual:** Do geral (tipo de divisão) ao específico (número final)
+5. **Terminologia precisa:** Uso correto de nomenclatura citológica
+
+### Padrões de questões de citologia UERJ:
+- Identificação de tipos de divisão celular
+- Especificação de fases e subfases
+- Descrição de processos moleculares
+- Cálculos cromossômicos
+- Integração com processos reprodutivos
+
+### Temas relacionados para questões similares:
+- Ovogênese e formação de gametas femininos
+- Mitose e crescimento celular
+- Crossing-over e recombinação genética
+- Não-disjunção e anomalias cromossômicas
+- Fecundação e restauração da diploidia
+- Ciclos de vida e alternância de gerações
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Contextualização biológica:** Processo específico (gametogênese, desenvolvimento)
+2. **Informação inicial:** Número de cromossomos ou características celulares
+3. **Identificação múltipla:** Tipo de divisão, fase, processo, resultado
+4. **Progressão lógica:** Sequência de perguntas interconectadas
+5. **Quantificação final:** Número de cromossomos ou células resultantes
+
+### Elementos essenciais para replicação:
+- **Processos reprodutivos:** Gametogênese masculina e feminina
+- **Números cromossômicos:** Valores específicos para cálculos
+- **Fases precisas:** Identificação de momentos específicos
+- **Processos moleculares:** Mecanismos celulares subjacentes
+- **Resultados quantitativos:** Números finais de cromossomos/células
+
+### Critérios de avaliação implícitos:
+- Distinção entre meiose I e meiose II
+- Compreensão da separação de homólogos vs. cromátides irmãs
+- Conhecimento de processos moleculares (fuso, centrômeros)
+- Capacidade de cálculo cromossômico
+- Integração de conhecimentos de reprodução e citologia
+
+### Variações possíveis do modelo:
+
+#### **Espermatogênese:**
+- **Espermatogônia:** Células germinativas primordiais (mitose)
+- **Espermatócito primário:** Meiose I (2n → n)
+- **Espermatócito secundário:** Meiose II (n → n)
+- **Espermátides:** Diferenciação em espermatozoides
+
+#### **Ovogênese:**
+- **Ovogônia:** Células germinativas primordiais
+- **Ovócito primário:** Parada em prófase I
+- **Ovócito secundário:** Parada em metáfase II
+- **Óvulo:** Formação após fecundação
+
+#### **Comparação Mitose vs. Meiose:**
+- **Mitose:** Manutenção do número cromossômico (2n → 2n)
+- **Meiose I:** Redução cromossômica (2n → n)
+- **Meiose II:** Manutenção pós-redução (n → n)
+
+### Padrões de pergunta:
+- "Nomeie esse tipo de divisão celular..."
+- "Identifique em que fase... ocorre..."
+- "Indique o processo celular que possibilita..."
+- "Quantos cromossomos serão encontrados..."
+
+### Estrutura das respostas esperadas:
+- **Tipo de divisão:** Meiose ou mitose
+- **Fase específica:** Prófase, metáfase, anáfase, telófase (I ou II)
+- **Processo molecular:** Mecanismo celular específico
+- **Quantificação:** Número preciso de cromossomos
+
+### Conceitos citológicos adequados:
+- **Cromossomos homólogos:** Pares cromossômicos equivalentes
+- **Cromátides irmãs:** Cópias idênticas unidas pelo centrômero
+- **Crossing-over:** Recombinação entre homólogos
+- **Segregação independente:** Distribuição aleatória dos homólogos
+- **Fuso acromático:** Sistema de microtúbulos para movimentação
+
+### Processos de gametogênese:
+- **Fase mitótica:** Multiplicação das células germinativas
+- **Fase meiótica:** Redução cromossômica
+- **Fase de diferenciação:** Especialização dos gametas
+- **Regulação hormonal:** Controle endócrino dos processos
+
+### Cálculos cromossômicos típicos:
+- **Espermatócito primário (2n=36):** 36 cromossomos
+- **Após meiose I (n=18):** 18 cromossomos
+- **Durante anáfase II:** 36 cromátides = 36 cromossomos futuros
+- **Espermatozoides (n=18):** 18 cromossomos
+
+### Processos moleculares importantes:
+- **Divisão do centrômero:** Separação das cromátides irmãs
+- **Encurtamento do fuso:** Movimentação dos cromossomos
+- **Coesinas:** Proteínas que mantêm cromátides unidas
+- **Separases:** Enzimas que clivam coesinas
+- **Quinetócoros:** Complexos proteicos no centrômero
+
+### Anomalias possíveis:
+- **Não-disjunção:** Falha na separação cromossômica
+- **Aneuploidias:** Número anormal de cromossomos
+- **Poliploidias:** Múltiplos jogos cromossômicos
+- **Deleções:** Perda de segmentos cromossômicos
+
+### Aplicações práticas:
+- **Reprodução assistida:** TRA e análise cromossômica
+- **Aconselhamento genético:** Prevenção de anomalias
+- **Medicina reprodutiva:** Tratamento de infertilidade
+- **Pesquisa básica:** Estudos de desenvolvimento
+- **Biotecnologia:** Produção de gametas in vitro
+
+### Terminologia científica adequada:
+- **Gametogênese, espermatogênese, ovogênese**
+- **Cromátides irmãs, cromossomos homólogos**
+- **Anáfase I, anáfase II, prófase, metáfase, telófase**
+- **Fuso acromático, centrômero, quinetócoro**
+- **Diplóide, haplóide, reducional, equacional**
+
+### Contextos biológicos adequados:
+- **Desenvolvimento reprodutivo:** Puberdade e maturação sexual
+- **Ciclos reprodutivos:** Espermatogênese contínua vs. ovogênese cíclica
+- **Evolução:** Vantagens da reprodução sexuada
+- **Genética:** Variabilidade e hereditariedade
+- **Medicina:** Infertilidade e reprodução assistida
+
+---
+
+# Questão UERJ Biologia - Doença de Alzheimer e Complexo de Golgi
+
+## QUESTÃO ORIGINAL
+
+**QUESTÃO 02**
+
+Nos últimos anos, estudos mostraram que, em neurônios de pacientes com Alzheimer, uma enzima desencadeia a fragmentação de uma determinada organela citoplasmática. Essa fragmentação resulta em alterações no empacotamento e encaminhamento de proteínas para o exterior da célula.
+
+Nomeie a organela citoplasmática fragmentada nos casos dos pacientes com Alzheimer e apresente uma função dessa organela relacionada à reprodução humana.
+
+## RESPOSTA OFICIAL
+
+**Organela:** complexo ou aparelho de Golgi / complexo ou aparelho golgiense.
+
+**Função:** formação do acrossomo.
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva textual (sem imagens ou gráficos)
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Citologia e Medicina
+- **Habilidades avaliadas:** Conhecimento de organelas, patologias celulares, reprodução
+- **Estrutura:** Contextualização médica + identificação de organela + função reprodutiva
+
+### Conceitos-chave avaliados:
+1. **Doença de Alzheimer:** Patologia neurodegenerativa
+2. **Complexo de Golgi:** Organela de processamento e transporte
+3. **Fragmentação celular:** Alterações patológicas em organelas
+4. **Empacotamento de proteínas:** Função do complexo de Golgi
+5. **Reprodução humana:** Formação de gametas
+6. **Acrossomo:** Estrutura especializada do espermatozoide
+
+### Conhecimentos específicos necessários:
+- **Complexo de Golgi:** Estrutura, localização e funções
+- **Via secretora:** Retículo endoplasmático → Golgi → vesículas
+- **Modificações pós-traducionais:** Glicosilação, fosforilação
+- **Acrossomo:** Formação a partir do complexo de Golgi
+- **Espermatogênese:** Processo de formação de espermatozoides
+- **Alzheimer:** Aspectos celulares e moleculares da doença
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Contextualização médica:** Uso de doenças para ilustrar conceitos
+2. **Integração de sistemas:** Citologia + patologia + reprodução
+3. **Múltiplas funções:** Diferentes papéis de uma mesma organela
+4. **Aplicação prática:** Relevância clínica dos conhecimentos
+5. **Conexões interdisciplinares:** Biologia celular e medicina
+
+### Padrões de questões de citologia UERJ:
+- Organelas e suas múltiplas funções
+- Patologias que afetam estruturas celulares
+- Aplicações em diferentes sistemas corporais
+- Integração entre estrutura e função
+- Relevância médica de conhecimentos básicos
+
+### Temas relacionados para questões similares:
+- Outras organelas e suas disfunções
+- Doenças genéticas que afetam organelas
+- Processos de secreção em diferentes células
+- Formação de estruturas especializadas
+- Transporte intracelular e patologias
+- Organelas em diferentes tipos celulares
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Contextualização patológica:** Doença que afeta organela específica
+2. **Descrição da disfunção:** Como a patologia altera a organela
+3. **Identificação:** Nome da organela afetada
+4. **Função alternativa:** Papel da organela em outro sistema/processo
+5. **Relevância biológica:** Importância da organela para a célula
+
+### Elementos essenciais para replicação:
+- **Doenças reais:** Patologias que afetam organelas específicas
+- **Funções múltiplas:** Organelas com diversos papéis celulares
+- **Conexões sistêmicas:** Integração entre diferentes sistemas
+- **Relevância clínica:** Importância médica dos conhecimentos
+- **Especificidade:** Funções precisas e bem definidas
+
+### Critérios de avaliação implícitos:
+- Conhecimento de organelas citoplasmáticas
+- Compreensão de patologias celulares
+- Integração entre citologia e reprodução
+- Capacidade de relacionar estrutura e função
+- Aplicação de conhecimentos em contextos médicos
+
+### Variações possíveis do modelo:
+
+#### **Organelas e Patologias Associadas:**
+- **Mitocôndrias:** Doenças mitocondriais, envelhecimento
+- **Retículo endoplasmático:** Doenças de dobramento proteico
+- **Lisossomos:** Doenças de depósito lisossomal
+- **Peroxissomos:** Síndrome de Zellweger
+- **Centríolos:** Discinesia ciliar primária
+
+#### **Funções do Complexo de Golgi:**
+- **Modificação de proteínas:** Glicosilação, fosforilação
+- **Formação de lisossomos:** Produção de enzimas digestivas
+- **Secreção:** Empacotamento de hormônios e enzimas
+- **Formação do acrossomo:** Reprodução masculina
+- **Síntese de polissacarídeos:** Parede celular em plantas
+
+#### **Outras Aplicações Reprodutivas:**
+- **Retículo endoplasmático:** Síntese de hormônios esteroides
+- **Mitocôndrias:** Energia para motilidade espermática
+- **Ribossomos:** Síntese de proteínas reprodutivas
+- **Núcleo:** Material genético gamético
+
+### Padrões de pergunta:
+- "Nomeie a organela afetada em [doença/condição]..."
+- "Apresente uma função de [organela] relacionada a [sistema/processo]..."
+- "Identifique a organela responsável por [função] e sua relação com [área]..."
+- "Explique como [patologia] afeta [organela] e suas consequências..."
+
+### Estrutura das respostas esperadas:
+- **Identificação:** Nome correto da organela
+- **Função específica:** Papel preciso em processo particular
+- **Relevância:** Importância da função para o organismo
+
+### Complexo de Golgi: estrutura e funções:
+
+#### **Estrutura:**
+- **Localização:** Próximo ao núcleo e retículo endoplasmático
+- **Organização:** Pilhas de cisternas achatadas (dictiossomos)
+- **Polaridade:** Face cis (recepção) e face trans (expedição)
+- **Composição:** Membranas e enzimas específicas
+
+#### **Funções Principais:**
+- **Modificação pós-traducional:** Glicosilação, fosforilação, sulfatação
+- **Empacotamento:** Formação de vesículas secretoras
+- **Classificação:** Direcionamento de proteínas para destinos específicos
+- **Processamento:** Maturação de proteínas do RE
+
+#### **Via Secretora:**
+```
+Retículo Endoplasmático → Complexo de Golgi → Vesículas → Destino Final
+```
+
+### Formação do acrossomo:
+
+#### **Processo:**
+- **Origem:** Complexo de Golgi em espermátides
+- **Desenvolvimento:** Durante a espermiogênese
+- **Localização:** Região anterior da cabeça do espermatozoide
+- **Composição:** Enzimas hidrolíticas (hialuronidase, acrosina)
+
+#### **Função do Acrossomo:**
+- **Reação acrossômica:** Liberação de enzimas
+- **Penetração:** Digestão da zona pelúcida do óvulo
+- **Fertilização:** Facilitação da fusão gamética
+- **Especificidade:** Reconhecimento espécie-específico
+
+#### **Importância Reprodutiva:**
+- **Fertilização normal:** Essencial para penetração do óvulo
+- **Infertilidade:** Defeitos podem causar esterilidade
+- **Evolução:** Coevolução com proteínas do óvulo
+
+### Doença de Alzheimer e aspectos celulares:
+
+#### **Características Neuropatológicas:**
+- **Placas amiloides:** Acúmulo extracelular de β-amiloide
+- **Emaranhados neurofibrilares:** Proteína tau hiperfosforilada
+- **Perda neuronal:** Morte de neurônios específicos
+- **Inflamação:** Ativação da micróglia
+
+#### **Alterações no Complexo de Golgi:**
+- **Fragmentação:** Quebra da estrutura normal
+- **Disfunção:** Alteração no processamento de proteínas
+- **Transporte:** Problemas na via secretora
+- **Consequências:** Acúmulo de proteínas mal dobradas
+
+#### **Impactos Funcionais:**
+- **Comunicação sináptica:** Alteração na secreção de neurotransmissores
+- **Plasticidade:** Redução da capacidade adaptativa
+- **Sobrevivência:** Comprometimento da viabilidade neuronal
+
+### Outras organelas e suas patologias:
+
+#### **Mitocôndrias:**
+- **Doenças mitocondriais:** Deficiência energética
+- **Envelhecimento:** Acúmulo de danos mitocondriais
+- **Função reprodutiva:** Energia para motilidade espermática
+
+#### **Retículo Endoplasmático:**
+- **Estresse do RE:** Acúmulo de proteínas mal dobradas
+- **Doenças conformacionais:** Alzheimer, Parkinson
+- **Função reprodutiva:** Síntese de hormônios esteroides
+
+#### **Lisossomos:**
+- **Doenças de depósito:** Deficiência enzimática
+- **Envelhecimento celular:** Acúmulo de lipofuscina
+- **Função reprodutiva:** Digestão de organelas desnecessárias
+
+### Reprodução e organelas:
+
+#### **Espermatogênese:**
+- **Complexo de Golgi:** Formação do acrossomo
+- **Mitocôndrias:** Concentração na peça intermediária
+- **Centríolos:** Formação do flagelo
+- **Retículo endoplasmático:** Redução durante maturação
+
+#### **Ovogênese:**
+- **Complexo de Golgi:** Formação de grânulos corticais
+- **Mitocôndrias:** Herança materna
+- **Retículo endoplasmático:** Estoque de Ca²⁺
+- **Vesículas:** Armazenamento de fatores maternos
+
+### Aplicações clínicas:
+
+#### **Diagnóstico:**
+- **Biomarcadores:** Proteínas alteradas em doenças
+- **Microscopia:** Análise de organelas em biópsias
+- **Bioquímica:** Atividade enzimática específica
+
+#### **Terapêutica:**
+- **Terapia gênica:** Correção de defeitos organelares
+- **Modulação farmacológica:** Proteção de organelas
+- **Medicina regenerativa:** Restauração de funções
+
+### Metodologias de estudo:
+
+#### **Microscopia:**
+- **Eletrônica:** Ultraestrutura de organelas
+- **Fluorescência:** Localização e dinâmica
+- **Confocal:** Distribuição tridimensional
+
+#### **Bioquímica:**
+- **Fracionamento celular:** Isolamento de organelas
+- **Enzimologia:** Atividade de enzimas específicas
+- **Proteômica:** Análise de proteínas organelares
+
+### Terminologia adequada:
+- **Complexo de Golgi, dictiossomos, cisternas**
+- **Via secretora, modificação pós-traducional**
+- **Acrossomo, espermiogênese, reação acrossômica**
+- **Fragmentação, empacotamento, direcionamento**
+- **Patologia celular, disfunção organelar**
+
+### Contextos de aplicação:
+- **Medicina:** Compreensão de doenças neurodegenerativas
+- **Reprodução assistida:** Avaliação da qualidade espermática
+- **Pesquisa:** Desenvolvimento de terapias
+- **Biotecnologia:** Produção de proteínas recombinantes
+- **Farmacologia:** Alvos terapêuticos específicos
+
+---
+
+# Questão UERJ Biologia - Osmorregulação em Peixes de Ambientes Distintos
+
+## QUESTÃO ORIGINAL
+
+**QUESTÃO 04**
+
+A osmorregulação é um mecanismo de controle das taxas de água e de sais, visando à manutenção da homeostase. Em organismos unicelulares de água doce, a osmorregulação é realizada por uma organela específica; já em organismos vertebrados, essa função é desempenhada, principalmente, pelos rins. Nos peixes ósseos, por exemplo, esse órgão atua de forma diferente em ambientes marinhos e de água doce. Observe nos gráficos a concentração de sais, em mg/L, no sangue e na urina de dois grupos de peixes ósseos, A e B, que vivem em ambientes distintos:
+
+### DESCRIÇÃO DETALHADA DOS GRÁFICOS:
+
+#### **CARACTERÍSTICAS GERAIS:**
+- Dois gráficos lado a lado comparando grupos A e B
+- Eixo Y: "Concentração de sais" (em mg/L)
+- Eixo X: Duas categorias - "sangue" e "urina"
+- Crédito: "Adaptado de bioscience.org"
+
+#### **GRÁFICO A (Grupo A):**
+**Características visuais:**
+- Título: "Grupo A"
+- Duas barras verticais (sangue e urina)
+- Cores: roxo para sangue, amarelo para urina
+
+**Dados específicos:**
+- **Barra "sangue" (roxa):**
+  - Altura: aproximadamente 8-9 unidades na escala
+  - Representa concentração de sais no sangue
+  
+- **Barra "urina" (amarela):**
+  - Altura: aproximadamente 3-4 unidades na escala
+  - Significativamente menor que a concentração no sangue
+  
+**Padrão observado:**
+- Concentração no sangue > Concentração na urina
+- Diferença substancial entre os dois valores
+- Urina é hipotônica em relação ao sangue
+
+#### **GRÁFICO B (Grupo B):**
+**Características visuais:**
+- Título: "Grupo B" 
+- Duas barras verticais (sangue e urina)
+- Cores: roxo para sangue, amarelo para urina
+
+**Dados específicos:**
+- **Barra "sangue" (roxa):**
+  - Altura: aproximadamente 8-9 unidades na escala
+  - Similar à concentração do Grupo A
+  
+- **Barra "urina" (amarela):**
+  - Altura: aproximadamente 8-9 unidades na escala
+  - Praticamente igual à concentração no sangue
+  
+**Padrão observado:**
+- Concentração no sangue ≈ Concentração na urina
+- Valores muito próximos entre sangue e urina
+- Urina é isotônica em relação ao sangue
+
+#### **ANÁLISE COMPARATIVA:**
+- **Semelhanças:** Ambos os grupos têm concentração similar de sais no sangue
+- **Diferenças:** Concentração na urina varia drasticamente entre os grupos
+- **Grupo A:** Urina mais diluída (menor concentração de sais)
+- **Grupo B:** Urina concentrada (alta concentração de sais)
+
+### PERGUNTAS:
+
+Indique a organela específica responsável pela osmorregulação em organismos unicelulares de água doce.
+
+A partir dos gráficos, identifique o grupo de peixes que vive no ambiente marinho, justificando sua resposta com base na concentração de sais presente na urina desses animais.
+
+## RESPOSTA OFICIAL
+
+**Organela:** vacúolo pulsátil / contrátil.
+
+**O grupo B vive no ambiente marinho. Sua urina fica muito concentrada para eliminar o excesso de sais.**
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva com gráficos comparativos + conhecimento de fisiologia
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Fisiologia Comparada
+- **Habilidades avaliadas:** Interpretação de gráficos, osmorregulação, adaptações ambientais
+- **Estrutura:** Contextualização teórica + gráficos + identificação de organela + análise comparativa
+
+### Conceitos-chave avaliados:
+1. **Osmorregulação:** Controle de água e sais
+2. **Homeostase:** Manutenção do equilíbrio interno
+3. **Adaptações ambientais:** Diferenças entre água doce e marinha
+4. **Fisiologia renal:** Função dos rins em diferentes ambientes
+5. **Organelas especializadas:** Vacúolo contrátil em protozoários
+6. **Interpretação de dados:** Análise de concentrações relativas
+
+### Conhecimentos específicos necessários:
+- **Vacúolo contrátil:** Organela de osmorregulação em protozoários
+- **Peixes de água doce:** Urina diluída para conservar sais
+- **Peixes marinhos:** Urina concentrada para eliminar excesso de sais
+- **Pressão osmótica:** Gradientes entre organismo e ambiente
+- **Adaptações fisiológicas:** Estratégias para diferentes ambientes
+- **Função renal:** Filtração, reabsorção e secreção
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Gráficos comparativos:** Dados de grupos em condições diferentes
+2. **Fisiologia comparada:** Adaptações a ambientes distintos
+3. **Múltiplos níveis:** Organelas, órgãos, organismos
+4. **Análise de dados:** Interpretação quantitativa de resultados
+5. **Integração conceitual:** Organelas + fisiologia + ecologia
+
+### Padrões de questões de fisiologia UERJ:
+- Adaptações a diferentes ambientes
+- Comparação entre grupos de organismos
+- Interpretação de dados experimentais
+- Organelas especializadas e suas funções
+- Homeostase e regulação fisiológica
+
+### Temas relacionados para questões similares:
+- Regulação térmica em diferentes ambientes
+- Adaptações respiratórias (altitude, profundidade)
+- Digestão em herbívoros vs. carnívoros
+- Excreção em diferentes grupos de animais
+- Adaptações a estresse hídrico em plantas
+- Migração e mudanças fisiológicas
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Contextualização fisiológica:** Processo regulatório fundamental
+2. **Comparação entre níveis:** Organelas vs. órgãos vs. organismos
+3. **Dados experimentais:** Gráficos com grupos contrastantes
+4. **Identificação específica:** Organela, órgão ou processo
+5. **Análise adaptativa:** Relação entre ambiente e fisiologia
+
+### Elementos essenciais para replicação:
+- **Processos homeostáticos:** Regulação de variáveis fisiológicas
+- **Adaptações ambientais:** Diferentes estratégias para ambientes específicos
+- **Dados quantitativos:** Gráficos com medidas comparativas
+- **Níveis de organização:** Molecular, celular, orgânico, sistêmico
+- **Relevância ecológica:** Conexão entre fisiologia e ambiente
+
+### Critérios de avaliação implícitos:
+- Conhecimento de organelas especializadas
+- Compreensão de adaptações fisiológicas
+- Interpretação correta de dados gráficos
+- Relacionamento entre ambiente e estratégias fisiológicas
+- Integração de conhecimentos de diferentes níveis
+
+### Variações possíveis do modelo:
+
+#### **Outras Adaptações Osmóticas:**
+- **Plantas halófitas:** Adaptações a solos salinos
+- **Mamíferos do deserto:** Conservação de água
+- **Aves migratórias:** Mudanças durante voo
+- **Peixes anádromos:** Salmão em água doce e salgada
+
+#### **Outros Processos Homeostáticos:**
+- **Termorregulação:** Adaptações a diferentes temperaturas
+- **Regulação de pH:** Sistemas tampão em diferentes ambientes
+- **Regulação de gases:** Adaptações a diferentes pressões parciais
+- **Regulação energética:** Metabolismo em diferentes condições
+
+#### **Outras Organelas Especializadas:**
+- **Cloroplastos:** Adaptações fotossintéticas
+- **Mitocôndrias:** Variações metabólicas
+- **Peroxissomos:** Detoxificação específica
+- **Cromóforos:** Adaptações visuais
+
+### Padrões de pergunta:
+- "Indique a organela responsável por [processo] em [grupo de organismos]..."
+- "Identifique o grupo que vive em [ambiente], justificando com base em [dados]..."
+- "Compare as adaptações de [grupos] a [condições ambientais]..."
+- "Explique por que [parâmetro] difere entre [grupos] com base em [ambiente]..."
+
+### Estrutura das respostas esperadas:
+- **Identificação específica:** Nome da organela, órgão ou processo
+- **Análise de dados:** Interpretação correta dos gráficos
+- **Justificativa fisiológica:** Explicação baseada em adaptações
+
+### Osmorregulação: conceitos fundamentais:
+
+#### **Definição:**
+- **Processo:** Regulação do equilíbrio hídrico e de solutos
+- **Objetivo:** Manutenção da homeostase celular
+- **Importância:** Preservação da função celular
+- **Níveis:** Celular, orgânico, sistêmico
+
+#### **Desafios Osmóticos:**
+- **Água doce:** Tendência de ganho de água (ambiente hipotônico)
+- **Ambiente marinho:** Tendência de perda de água (ambiente hipertônico)
+- **Ambiente terrestre:** Risco de dessecação
+- **Soluções:** Adaptações específicas para cada ambiente
+
+### Adaptações em peixes:
+
+#### **Peixes de Água Doce:**
+- **Problema:** Entrada excessiva de água, perda de sais
+- **Estratégias:**
+  - Produção de urina diluída e abundante
+  - Reabsorção ativa de sais nas brânquias
+  - Ingestão ativa de sais pelos alimentos
+  - Reabsorção renal máxima de sais
+
+#### **Peixes Marinhos:**
+- **Problema:** Perda de água, excesso de sais
+- **Estratégias:**
+  - Produção de urina concentrada e escassa
+  - Excreção ativa de sais pelas brânquias
+  - Ingestão de água do mar
+  - Secreção renal concentrada de sais
+
+### Organelas de osmorregulação:
+
+#### **Vacúolo Contrátil:**
+- **Localização:** Protozoários de água doce
+- **Função:** Coleta e expulsão de excesso de água
+- **Mecanismo:** Contração rítmica para expelir água
+- **Importância:** Prevenção de lise celular por pressão osmótica
+
+#### **Outras Estruturas:**
+- **Rins:** Órgão principal em vertebrados
+- **Brânquias:** Regulação ativa de sais em peixes
+- **Glândulas de sal:** Aves e répteis marinhos
+- **Nefrídia:** Invertebrados (minhocas, moluscos)
+
+### Interpretação dos dados gráficos:
+
+#### **Grupo A (Água Doce):**
+- **Sangue:** Concentração normal de sais
+- **Urina:** Baixa concentração (diluída)
+- **Estratégia:** Conservar sais, eliminar excesso de água
+- **Vantagem:** Manutenção do equilíbrio em ambiente hipotônico
+
+#### **Grupo B (Marinho):**
+- **Sangue:** Concentração normal de sais
+- **Urina:** Alta concentração (concentrada)
+- **Estratégia:** Eliminar excesso de sais, conservar água
+- **Vantagem:** Manutenção do equilíbrio em ambiente hipertônico
+
+### Aspectos evolutivos:
+
+#### **Origem Aquática:**
+- **Peixes primitivos:** Origem em água doce
+- **Adaptação marinha:** Evolução de mecanismos para lidar com sal
+- **Reinvasão:** Alguns grupos retornaram à água doce
+- **Diversificação:** Múltiplas soluções para problemas osmóticos
+
+#### **Pressões Seletivas:**
+- **Eficiência energética:** Minimizar gastos com osmorregulação
+- **Flexibilidade:** Capacidade de migrar entre ambientes
+- **Especialização:** Adaptação extrema a nichos específicos
+
+### Aplicações e extensões:
+
+#### **Aquacultura:**
+- **Manejo:** Controle de salinidade em cultivos
+- **Transporte:** Minimizar estresse osmótico
+- **Reprodução:** Condições adequadas para desova
+- **Crescimento:** Otimização de condições fisiológicas
+
+#### **Conservação:**
+- **Mudanças ambientais:** Impacto de alterações de salinidade
+- **Poluição:** Efeitos sobre regulação osmótica
+- **Mudanças climáticas:** Alterações em padrões de salinidade
+- **Espécies invasoras:** Capacidade de adaptação osmótica
+
+### Métodos de estudo:
+
+#### **Experimentais:**
+- **Medição de osmolaridade:** Sangue, urina, fluidos corporais
+- **Marcadores:** Traçadores para estudar fluxos
+- **Microscopia:** Observação de organelas especializadas
+- **Fisiologia comparada:** Comparação entre espécies
+
+#### **Moleculares:**
+- **Proteínas transportadoras:** Canais e bombas
+- **Hormônios:** Regulação endócrina
+- **Expressão gênica:** Genes envolvidos na osmorregulação
+- **Evolução molecular:** Filogenia de mecanismos
+
+### Terminologia fisiológica adequada:
+- **Osmorregulação, homeostase, pressão osmótica**
+- **Hipotônico, hipertônico, isotônico**
+- **Vacúolo contrátil, filtração renal**
+- **Reabsorção, secreção, excreção**
+- **Adaptação, ambiente aquático, salinidade**
+
+### Contextos de aplicação:
+- **Fisiologia comparada:** Compreensão de adaptações
+- **Aquacultura:** Manejo de organismos aquáticos
+- **Medicina veterinária:** Distúrbios osmóticos
+- **Ecologia:** Distribuição de espécies
+- **Evolução:** História evolutiva de adaptações
+
+---
+
+# QUESTÃO 02 - BIOLOGIA UERJ
+## Engenharia Genética: Utilização de Vírus como Vetores de Terapia Gênica
+
+### CONTEXTO DA QUESTÃO
+Esta questão aborda biotecnologia e engenharia genética, especificamente o uso de vírus como vetores para alteração do DNA celular. É uma questão típica do vestibular UERJ que integra conhecimentos de biologia molecular, virologia, genética e biotecnologia, com foco em aplicações terapêuticas modernas.
+
+### ENUNCIADO
+
+Por meio de técnicas desenvolvidas pela engenharia genética, é possível alterar o DNA das células. Uma dessas técnicas se baseia na utilização de vírus, manipulados por meio de duas enzimas: uma responsável pelo corte do material genético viral em pontos específicos e outra pela inserção de genes de interesse no vírus.
+
+**QUESTÕES A RESPONDER:**
+1. Indique a característica dos vírus que justifica sua utilização na alteração do DNA das células.
+2. Em seguida, nomeie as duas enzimas referidas acima, indispensáveis para esse procedimento.
+
+---
+
+## RESOLUÇÃO DETALHADA
+
+### 1. CARACTERÍSTICA DOS VÍRUS QUE JUSTIFICA SEU USO EM TERAPIA GÊNICA
+
+**RESPOSTA:** A característica fundamental dos vírus que justifica sua utilização na alteração do DNA das células é sua **capacidade natural de infectar células e inserir seu material genético no genoma hospedeiro**.
+
+**JUSTIFICATIVA DETALHADA:**
+
+#### **1.1 Tropismo Celular e Especificidade:**
+
+**Capacidade de reconhecimento:**
+- Vírus possuem **proteínas de superfície** que reconhecem **receptores específicos** nas células-alvo
+- **Tropismo tecidual:** diferentes vírus infectam diferentes tipos celulares
+- **Especificidade** permite direcionamento para células ou tecidos específicos
+- **Eficiência de entrada** superior a métodos físicos ou químicos
+
+**Exemplos de tropismo:**
+- **Adenovírus:** amplo tropismo (múltiplos tecidos)
+- **Retrovírus:** tropismo para células em divisão
+- **Lentivírus:** infectam células quiescentes e em divisão
+- **Vírus adenoassociados (AAV):** tropismo tecido-específico
+
+#### **1.2 Mecanismos de Entrada Celular:**
+
+**Endocitose mediada por receptor:**
+- **Ligação específica** a receptores celulares
+- **Internalização** via endocitose
+- **Escape endossomal** para liberação no citoplasma
+- **Transporte nuclear** do material genético
+
+**Fusão de membranas:**
+- **Proteínas de fusão** viral interagem com membrana celular
+- **Fusão direta** libera conteúdo viral no citoplasma
+- **Bypass** de mecanismos de defesa celular
+
+#### **1.3 Integração Genômica:**
+
+**Retrovírus e Lentivírus:**
+- **Transcriptase reversa** converte RNA viral em DNA
+- **Integrase** insere DNA viral no genoma hospedeiro
+- **Integração estável** garante expressão duradoura
+- **Transmissão** para células filhas
+
+**Outros mecanismos:**
+- **Expressão epissomal:** DNA viral permanece no núcleo sem integração
+- **Expressão transitória:** genes expressos temporariamente
+- **Recombinação homóloga:** inserção em locais específicos
+
+#### **1.4 Vantagens dos Vírus como Vetores:**
+
+**A) Eficiência de transfecção:**
+- **Alta eficiência** de entrada celular (>90% em muitos casos)
+- **Capacidade de carga** adequada para genes terapêuticos
+- **Expressão robusta** de genes inseridos
+
+**B) Especificidade:**
+- **Tropismo natural** pode ser mantido ou modificado
+- **Direcionamento** para tecidos específicos
+- **Redução** de efeitos colaterais sistêmicos
+
+**C) Durabilidade:**
+- **Expressão prolongada** (especialmente com vírus integrativos)
+- **Estabilidade** do transgene
+- **Redução** da necessidade de reaplicações
+
+### 2. ENZIMAS INDISPENSÁVEIS PARA O PROCEDIMENTO
+
+#### **RESPOSTA:**
+As duas enzimas indispensáveis são:
+1. **ENZIMAS DE RESTRIÇÃO** (responsáveis pelo corte)
+2. **DNA LIGASE** (responsável pela inserção/ligação)
+
+#### **JUSTIFICATIVA DETALHADA:**
+
+### **2.1 ENZIMAS DE RESTRIÇÃO (Endonucleases de Restrição)**
+
+**Função:**
+- **Cortam** o DNA viral em **pontos específicos** (sítios de restrição)
+- **Reconhecem** sequências palindrômicas específicas (4-8 nucleotídeos)
+- **Criam** extremidades compatíveis para inserção de genes
+
+**Características importantes:**
+- **Especificidade:** cada enzima reconhece uma sequência única
+- **Tipos de corte:**
+  - **Extremidades cegas** (blunt ends): corte reto
+  - **Extremidades coesivas** (sticky ends): corte escalonado
+- **Origem:** isoladas de bactérias (sistema de defesa contra fagos)
+
+**Exemplos comuns:**
+- **EcoRI:** reconhece GAATTC
+- **BamHI:** reconhece GGATCC  
+- **HindIII:** reconhece AAGCTT
+- **NotI:** reconhece GCGGCCGC (corte raro)
+
+**Aplicação na construção de vetores:**
+- **Linearização** do DNA viral circular
+- **Remoção** de genes virais desnecessários ou patogênicos
+- **Criação** de sítios para inserção de genes terapêuticos
+- **Análise** e **mapeamento** de construções
+
+### **2.2 DNA LIGASE**
+
+**Função:**
+- **Une** fragmentos de DNA através da formação de **ligações fosfodiéster**
+- **Sela** quebras na dupla hélice do DNA
+- **Conecta** genes de interesse ao DNA viral
+
+**Mecanismo de ação:**
+1. **Reconhecimento** de extremidades de DNA compatíveis
+2. **Formação** de ligação fosfodiéster entre 3'-OH e 5'-fosfato
+3. **Consumo** de ATP (T4 ligase) ou NAD+ (ligase bacteriana)
+4. **Selagem** completa das quebras
+
+**Tipos principais:**
+- **T4 DNA Ligase:**
+  - Origem: fago T4
+  - **Cofator:** ATP
+  - **Liga** extremidades coesivas e cegas
+  - **Mais versátil** e amplamente usada
+  
+- **E. coli DNA Ligase:**
+  - Origem: *Escherichia coli*
+  - **Cofator:** NAD+
+  - **Liga** apenas extremidades coesivas
+  - **Uso específico** em certas aplicações
+
+**Condições ótimas:**
+- **Temperatura:** 16°C (overnight) ou 22°C (2h) para T4 ligase
+- **pH:** 7.5-8.0
+- **Concentração** de ATP e Mg²⁺ adequadas
+- **Proporção** molar adequada entre vetor e inserto
+
+#### **2.3 Processo Integrado: Clonagem em Vetores Virais**
+
+**Etapa 1 - Preparação do vetor:**
+- **Digestão** do DNA viral com enzima de restrição
+- **Linearização** e **remoção** de sequências indesejadas
+- **Purificação** do vetor linearizado
+
+**Etapa 2 - Preparação do inserto:**
+- **Amplificação** do gene de interesse (PCR)
+- **Digestão** com enzimas compatíveis ao vetor
+- **Purificação** do fragmento de interesse
+
+**Etapa 3 - Ligação:**
+- **Mistura** do vetor e inserto em proporções adequadas
+- **Adição** de DNA ligase e cofatores
+- **Incubação** em condições ótimas
+- **Transformação** em células competentes
+
+**Etapa 4 - Seleção e verificação:**
+- **Seleção** de clones recombinantes
+- **Análise** por digestão e eletroforese
+- **Sequenciamento** para confirmação
+
+---
+
+## CONCEITOS-CHAVE PARA CONTEXTO DE LLM
+
+### Temas Centrais:
+- Terapia gênica e vetores virais
+- Engenharia genética e clonagem molecular
+- Enzimas de restrição e ligação
+- Biologia molecular de vírus
+- Biotecnologia aplicada à medicina
+- Ferramentas de biologia molecular
+
+### Competências Avaliadas:
+- Compreensão de técnicas de engenharia genética
+- Conhecimento sobre biologia viral
+- Integração entre estrutura e função enzimática
+- Aplicação de conceitos em biotecnologia
+- Raciocínio sobre processos moleculares
+- Conhecimento de ferramentas laboratoriais
+
+### Conceitos Específicos Fundamentais:
+
+#### **Vetores Virais em Terapia Gênica:**
+- **Retrovírus:** integração estável, células em divisão
+- **Lentivírus:** infectam células quiescentes, neurônios
+- **Adenovírus:** alta eficiência, expressão transitória
+- **Vírus adenoassociados (AAV):** baixa imunogenicidade, integração sítio-específica
+- **Herpesvírus:** tropismo neural, grande capacidade de carga
+
+#### **Modificações de Vetores:**
+- **Deleção** de genes virulentos
+- **Inserção** de genes terapêuticos
+- **Modificação** de tropismo (pseudotipos)
+- **Sistemas** de regulação da expressão
+- **Elementos** de segurança (suicide genes)
+
+#### **Aplicações Clínicas:**
+- **Doenças monogênicas:** fibrose cística, hemofilia
+- **Câncer:** genes supressores tumorais, suicide genes
+- **Doenças oculares:** distrofias retinianas
+- **Imunodeficiências:** SCID, ADA deficiency
+- **Doenças neurológicas:** Parkinson, Alzheimer
+
+### Ferramentas Complementares:
+
+#### **Outras Enzimas Importantes:**
+- **Fosfatase alcalina:** remove fosfatos 5' (previne religação)
+- **Polinucleotídeo quinase:** adiciona fosfatos 5'
+- **Klenow:** preenche extremidades coesivas
+- **Exonuclease III:** cria deleções progressivas
+
+#### **Métodos de Análise:**
+- **Eletroforese:** separação por tamanho
+- **Southern blot:** detecção específica de sequências
+- **PCR:** amplificação e análise
+- **Sequenciamento:** confirmação de construções
+
+### Variações de Questões Possíveis:
+- CRISPR-Cas9 e edição gênica
+- Outros vetores (plasmídios, cosmídeos, YACs)
+- Terapia gênica somática vs. germinativa
+- Aspectos éticos da engenharia genética
+- Organismos geneticamente modificados
+- Vacinas de DNA e RNA
+- Medicina personalizada
+
+### Nível de Complexidade:
+- Questão de nível médio-alto
+- Requer conhecimento específico de biologia molecular
+- Integra conceitos teóricos com aplicações práticas
+- Adequada para vestibular de universidade pública concorrida
+
+### Aspectos Éticos e Regulatórios:
+- **Biossegurança:** contenção de vetores modificados
+- **Aprovação regulatória:** FDA, ANVISA, comitês de ética
+- **Consentimento informado:** riscos e benefícios
+- **Equidade:** acesso a terapias avançadas
+- **Dual use:** potencial uso militar/bioterrorismo
+
+### Avanços Recentes:
+- **Prime editing:** precisão aumentada na edição
+- **Base editing:** correções pontuais sem quebras
+- **Epigenome editing:** modificações reversíveis
+- **In vivo delivery:** vetores mais seguros e eficientes
+- **CAR-T therapy:** modificação ex vivo de células
+
+### Conexões Interdisciplinares:
+- **Química:** estrutura de ácidos nucleicos e enzimas
+- **Física:** eletroforese, espectrofotometria
+- **Matemática:** cálculos de concentração e eficiência
+- **Ética:** implicações da modificação genética
+- **Economia:** custos de desenvolvimento de terapias
+- **Direito:** propriedade intelectual, regulamentação
+
+### Terminologia Técnica Essencial:
+- Vetor viral, tropismo, transdução
+- Enzima de restrição, sítio de clivagem
+- DNA ligase, ligação fosfodiéster
+- Clonagem molecular, recombinação
+- Transgene, cassete de expressão
+- Promotor, enhancer, terminador
+- Pseudotipo, capsídeo modificado
+
+### Metodologias Laboratoriais:
+- **Cultura celular:** manutenção de linhagens alvo
+- **Transfecção:** métodos físicos e químicos
+- **Titulação viral:** quantificação de partículas
+- **Purificação:** gradientes de densidade, cromatografia
+- **Caracterização:** microscopia, citometria, Western blot
+
+---
+
+# QUESTÃO 10 - BIOLOGIA UERJ
+## Síndrome de Kartagener: Deficiência de Dineína e suas Consequências Clínicas
+
+### CONTEXTO DA QUESTÃO
+Esta questão aborda genética médica e biologia celular, especificamente a síndrome de Kartagener (discinesia ciliar primária) e suas manifestações clínicas. É uma questão típica do vestibular UERJ que integra conhecimentos de genética, biologia molecular, anatomia e fisiologia, demonstrando como alterações em proteínas motoras podem afetar múltiplos sistemas orgânicos.
+
+### ENUNCIADO
+
+A ausência da proteína dineína, importante para o bom funcionamento de flagelos e cílios, é uma consequência de um distúrbio hereditário em seres humanos.
+
+**QUESTÕES A RESPONDER:**
+1. Indique o motivo pelo qual essa alteração genética resulta em frequentes problemas respiratórios nos seus portadores.
+2. Em seguida, relacione esse distúrbio com a infertilidade em indivíduos do sexo masculino.
+
+---
+
+## RESOLUÇÃO DETALHADA
+
+### IDENTIFICAÇÃO DO DISTÚRBIO
+
+**Distúrbio:** **Síndrome de Kartagener** (ou Discinesia Ciliar Primária - DCP)
+
+**Características gerais:**
+- **Herança:** Autossômica recessiva
+- **Prevalência:** 1:15.000 a 1:30.000 nascimentos
+- **Proteína afetada:** Dineína (proteína motora dos cílios e flagelos)
+- **Manifestações:** Tríade clássica (sinusite crônica, bronquiectasias, situs inversus)
+
+### 1. PROBLEMAS RESPIRATÓRIOS
+
+**RESPOSTA:** A deficiência de dineína causa **disfunção dos cílios respiratórios**, resultando em **clearance mucociliar deficiente**.
+
+**JUSTIFICATIVA DETALHADA:**
+
+#### **1.1 Função normal dos cílios respiratórios:**
+
+**Anatomia do sistema respiratório:**
+- **Epitélio pseudoestratificado ciliado:** Reveste vias aéreas superiores e inferiores
+- **Cílios:** Estruturas móveis (~200 cílios por célula)
+- **Camada de muco:** Dupla camada (sol e gel) sobre os cílios
+- **Coordenação:** Movimento metacronal (onda coordenada)
+
+**Mecanismo do clearance mucociliar:**
+1. **Batimento ciliar:** Movimento coordenado dos cílios
+2. **Transporte de muco:** Direção das vias distais para proximais
+3. **Remoção de partículas:** Poeira, patógenos, debris celulares
+4. **Proteção:** Primeira linha de defesa respiratória
+
+#### **1.2 Papel da dineína no movimento ciliar:**
+
+**Estrutura ciliar:**
+- **Axonema:** Arranjo 9+2 de microtúbulos
+- **Braços de dineína:** Externa e interna, ligados aos microtúbulos
+- **Proteína central:** Complexos regulatórios
+- **Membrana ciliar:** Continuação da membrana plasmática
+
+**Mecanismo molecular:**
+- **Dineína:** Proteína motora dependente de ATP
+- **Hidrólise de ATP:** Fornece energia para movimento
+- **Deslizamento:** Microtúbulos deslizam uns sobre outros
+- **Curvatura:** Deslizamento gera flexão ciliar
+- **Coordenação:** Batimento rítmico e coordenado
+
+#### **1.3 Consequências da deficiência de dineína:**
+
+**Disfunção ciliar:**
+- **Cílios imóveis:** Ausência completa de movimento
+- **Cílios dismóveis:** Movimento desorganizado/reduzido
+- **Frequência alterada:** Batimento lento ou irregular
+- **Descoordenação:** Perda do padrão metacronal
+
+**Problemas respiratórios resultantes:**
+
+**A) Retenção de secreções:**
+- **Acúmulo de muco:** Clearance deficiente
+- **Espessamento:** Desidratação das secreções
+- **Obstrução:** Bloqueio de vias aéreas menores
+- **Atelectasias:** Colapso de alvéolos
+
+**B) Infecções recorrentes:**
+- **Colonização bacteriana:** *Pseudomonas*, *Staphylococcus*
+- **Biofilmes:** Formação de comunidades bacterianas
+- **Inflamação crônica:** Resposta imune persistente
+- **Sinusites:** Infecção dos seios paranasais
+
+**C) Lesões estruturais:**
+- **Bronquiectasias:** Dilatação anormal dos brônquios
+- **Fibrose:** Deposição de tecido conjuntivo
+- **Perda funcional:** Redução da capacidade respiratória
+- **Insuficiência respiratória:** Casos graves
+
+#### **1.4 Manifestações clínicas específicas:**
+
+**Sintomas respiratórios:**
+- **Tosse produtiva crônica:** Desde o nascimento
+- **Secreção purulenta:** Infecções secundárias
+- **Dispneia:** Dificuldade respiratória progressiva
+- **Sinusite crônica:** Obstrução nasal, rinorreia
+
+**Complicações:**
+- **Otite média:** Disfunção da tuba auditiva
+- **Polipose nasal:** Inflamação crônica
+- **Pneumonias recorrentes:** Infecções pulmonares
+- **Insuficiência respiratória:** Casos avançados
+
+### 2. INFERTILIDADE MASCULINA
+
+**RESPOSTA:** A deficiência de dineína causa **imobilidade dos espermatozoides**, resultando em **infertilidade masculina**.
+
+**JUSTIFICATIVA DETALHADA:**
+
+#### **2.1 Estrutura e função do flagelo espermático:**
+
+**Anatomia do espermatozoide:**
+- **Cabeça:** Núcleo e acrossomo
+- **Peça intermediária:** Mitocôndrias (energia)
+- **Flagelo:** Estrutura motora principal
+- **Axonema:** Mesmo padrão 9+2 dos cílios
+
+**Estrutura flagelar:**
+- **Microtúbulos:** Arranjo 9+2 clássico
+- **Braços de dineína:** Externa e interna
+- **Fibras densas externas:** Suporte estrutural
+- **Bainha fibrosa:** Proteção e rigidez
+
+#### **2.2 Papel da dineína na motilidade espermática:**
+
+**Mecanismo de movimento:**
+- **Contração coordenada:** Dineína gera força motriz
+- **Padrão ondulatório:** Propagação de ondas ao longo do flagelo
+- **Propulsão:** Movimento progressivo do espermatozoide
+- **Hiperativação:** Aumento da motilidade na capacitação
+
+**Tipos de movimento:**
+- **Movimento progressivo:** Deslocamento linear
+- **Movimento circular:** Rotação em torno do eixo
+- **Hiperativação:** Movimento vigoroso assimétrico
+- **Batimento flagelar:** Frequência de 10-40 Hz
+
+#### **2.3 Consequências da deficiência de dineína:**
+
+**Defeitos na motilidade:**
+- **Astenozoospermia:** Redução da motilidade espermática
+- **Espermatozoides imóveis:** Ausência completa de movimento
+- **Movimento anormal:** Padrões de natação alterados
+- **Redução da velocidade:** Progressão lenta ou ausente
+
+#### **2.4 Impacto na fertilidade:**
+
+**Mecanismos de infertilidade:**
+
+**A) Transporte deficiente:**
+- **Ascensão no trato genital:** Incapacidade de alcançar o óvulo
+- **Penetração no muco cervical:** Barreira intransponível
+- **Navegação nas tubas:** Não conseguem atingir local de fecundação
+- **Tempo limitado:** Vida útil reduzida dos gametas
+
+**B) Capacitação inadequada:**
+- **Hiperativação deficiente:** Movimento inadequado para fecundação
+- **Reação acrossomal:** Possível comprometimento
+- **Ligação zona pelúcida:** Dificuldade de penetração
+- **Fusão com óvulo:** Processo pode ser afetado
+
+**C) Consequências reprodutivas:**
+- **Infertilidade primária:** Incapacidade de concepção natural
+- **Oligoastenozoospermia:** Redução do número e motilidade
+- **Necessidade de reprodução assistida:** ICSI (injeção intracitoplasmática)
+- **Prognóstico reprodutivo:** Dependente de tecnologias assistidas
+
+#### **2.5 Diagnóstico da infertilidade:**
+
+**Exames complementares:**
+- **Espermograma:** Avaliação da motilidade
+- **Microscopia eletrônica:** Análise ultraestrutural
+- **Testes funcionais:** Capacitação e reação acrossomal
+- **Análise genética:** Mutações em genes da dineína
+
+**Critérios diagnósticos:**
+- **Motilidade <32%:** Astenozoospermia (OMS)
+- **Progressividade reduzida:** Categoria A+B <32%
+- **Morfologia flagelar:** Defeitos estruturais
+- **Imobilidade total:** Casos graves
+
+---
+
+## CONCEITOS-CHAVE PARA CONTEXTO DE LLM
+
+### Temas Centrais:
+- Síndrome de Kartagener (Discinesia Ciliar Primária)
+- Proteínas motoras (dineína)
+- Estrutura e função de cílios e flagelos
+- Clearance mucociliar
+- Infertilidade masculina
+- Genética médica e doenças hereditárias
+
+### Competências Avaliadas:
+- Compreensão de estruturas celulares especializadas
+- Relação entre genótipo e fenótipo
+- Integração entre biologia molecular e clínica
+- Análise de consequências sistêmicas de defeitos celulares
+- Compreensão de mecanismos fisiopatológicos
+- Aplicação de conhecimentos em medicina
+
+### Conceitos Específicos Fundamentais:
+
+#### **Proteínas Motoras:**
+- **Dineína:** Movimento em direção ao extremo (-) dos microtúbulos
+- **Cinesina:** Movimento em direção ao extremo (+)
+- **Miosina:** Movimento ao longo de filamentos de actina
+- **Dependência de ATP:** Energia para conformação molecular
+
+#### **Estrutura Ciliar (9+2):**
+- **9 dubletos periféricos:** Microtúbulos A e B
+- **2 microtúbulos centrais:** Eixo central
+- **Braços de dineína:** Externa (alta frequência), interna (alta força)
+- **Ligações radiais:** Conexão com aparato central
+- **Ligações de nexina:** União entre dubletos
+
+#### **Clearance Mucociliar:**
+- **Camada periciliar (sol):** Baixa viscosidade
+- **Camada mucosa (gel):** Alta viscosidade, captura partículas
+- **Frequência de batimento:** 1000-1500 vezes/minuto
+- **Velocidade de transporte:** 10-20 mm/minuto
+
+### Manifestações Clínicas da Síndrome de Kartagener:
+
+| Sistema | Manifestações | Mecanismo |
+|---------|---------------|-----------|
+| **Respiratório** | Sinusite crônica, bronquiectasias | Clearance deficiente |
+| **Auditivo** | Otite média recorrente | Disfunção da tuba auditiva |
+| **Reprodutivo** | Infertilidade masculina | Imobilidade espermática |
+| **Situs** | Situs inversus (50%) | Defeito no desenvolvimento embrionário |
+
+### Variações de Questões Possíveis:
+- Outras ciliopatias (síndrome de Bardet-Biedl, doença renal policística)
+- Estrutura e função de centríolos
+- Outros defeitos da motilidade espermática
+- Reprodução assistida e suas indicações
+- Desenvolvimento embrionário e estabelecimento da lateralidade
+- Outras proteínas do citoesqueleto
+- Doenças genéticas e padrões de herança
+- Diagnóstico molecular de doenças hereditárias
+
+### Nível de Complexidade:
+- Questão de nível médio-alto
+- Requer conhecimento integrado de múltiplas disciplinas
+- Aplicação clínica de conceitos básicos
+- Adequada para vestibular de universidade de medicina
+
+### Aspectos Genéticos:
+- **Herança:** Autossômica recessiva
+- **Genes envolvidos:** DNAI1, DNAH5, DNAH11, CCDC39, CCDC40
+- **Penetrância:** Completa para manifestações respiratórias
+- **Expressividade:** Variável entre indivíduos
+- **Aconselhamento genético:** Risco de 25% para filhos de portadores
+
+### Diagnóstico Laboratorial:
+- **Microscopia eletrônica:** Análise ultraestrutural cílios
+- **Teste da sacarina:** Clearance mucociliar
+- **Óxido nítrico nasal:** Reduzido na DCP
+- **Frequência de batimento:** Análise por vídeo de alta velocidade
+- **Imunofluorescência:** Proteínas ciliares específicas
+
+### Tratamento e Manejo:
+- **Fisioterapia respiratória:** Remoção de secreções
+- **Mucolíticos:** Fluidificação do muco
+- **Antibioticoterapia:** Tratamento de infecções
+- **Anti-inflamatórios:** Controle da inflamação
+- **Reprodução assistida:** ICSI para infertilidade
+- **Transplante pulmonar:** Casos graves
+
+### Conexões Interdisciplinares:
+- **Biofísica:** Mecânica do movimento ciliar
+- **Bioquímica:** Metabolismo energético, ATP
+- **Embriologia:** Desenvolvimento do eixo corporal
+- **Pneumologia:** Doenças respiratórias crônicas
+- **Andrologia:** Medicina reprodutiva masculina
+- **Genética médica:** Aconselhamento e diagnóstico
+
+### Terminologia Técnica Essencial:
+- Discinesia ciliar primária (DCP)
+- Síndrome de Kartagener
+- Dineína, axonema, clearance mucociliar
+- Bronquiectasias, situs inversus
+- Astenozoospermia, ICSI
+- Tríade de Kartagener
+- Movimento metacronal
+
+### Pesquisas Atuais:
+- **Terapia gênica:** Correção de defeitos genéticos
+- **Novos biomarcadores:** Diagnóstico mais precoce
+- **Moduladores ciliares:** Drogas que melhoram função
+- **Modelos animais:** Estudo de mecanismos
+- **Medicina personalizada:** Tratamento baseado no genótipo
+
+### Prognóstico e Qualidade de Vida:
+- **Expectativa de vida:** Reduzida se não tratada adequadamente
+- **Qualidade de vida:** Impactada por sintomas respiratórios
+- **Fertilidade:** Tratável com reprodução assistida
+- **Evolução:** Progressiva sem tratamento adequado
+- **Complicações:** Insuficiência respiratória, cor pulmonale
+
+---
+
+### CONVERSÃO PARA CONTEXTO DE LLM
+
+### QUESTÃO 02 - BIOLOGIA (UERJ)
+
+**Texto de apoio:**
+*Em 400 anos, 5 milhões de escravos desembarcaram no Brasil, 1,5 milhão só em Salvador. Agora, brasileiros cruzam o Atlântico e fizeram o caminho inverso de seus antepassados. A partir de um teste de DNA, eles viajaram em busca das suas origens.*
+
+**Fonte:** g1.globo.com, 14/02/16.
+
+**Enunciado:**
+Para rastrear a ancestralidade, existem diferentes tipos de testes de DNA; dentre eles, o que analisa o cromossomo Y e o que analisa o DNA mitocondrial. Os dois testes podem ser aplicados em indivíduos do sexo masculino, enquanto apenas um deles é aplicável ao sexo feminino.
+
+**Comando da questão:**
+Aponte duas justificativas para a realização dos exames citados apenas pelos indivíduos do sexo masculino.
+
+Sabe-se que, nesses dois testes, não é possível utilizar o gene responsável pelo daltonismo. Apresente duas razões que explicam essa impossibilidade, uma para cada teste.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Duas justificativas para realização apenas por homens:**
+1. Apenas indivíduos do sexo masculino possuem cromossomo Y
+2. O cromossomo Y permite rastreamento exclusivo da linhagem paterna
+
+**Razões para impossibilidade de usar o gene do daltonismo:**
+- **Teste do cromossomo Y:** O gene do daltonismo está localizado no cromossomo X, não no cromossomo Y
+- **Teste do DNA mitocondrial:** O gene do daltonismo está localizado no DNA nuclear, não no DNA mitocondrial
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Genética molecular e hereditariedade
+- Cromossomos sexuais (X e Y)
+- DNA mitocondrial vs. DNA nuclear
+- Herança ligada ao sexo
+- Testes de ancestralidade genética
+
+**Nível de complexidade:** Médio-Alto - requer conhecimento sobre genética molecular e hereditariedade
+
+**Formato da resposta:** Justificativas biológicas + explicações baseadas em localização gênica
+
+**Competências avaliadas:**
+- Compreensão da estrutura cromossômica
+- Conhecimento sobre herança de características
+- Entendimento da localização de genes específicos
+- Capacidade de relacionar estrutura genética com aplicações práticas
+
+**Análise detalhada dos testes genéticos:**
+
+**Teste do cromossomo Y:**
+
+**Características:**
+- **Exclusividade masculina:** Apenas homens possuem cromossomo Y
+- **Herança paterna:** Transmitido diretamente de pai para filho
+- **Ausência de recombinação:** Região não recombinante (NRY)
+- **Conservação:** Sequências mantidas por gerações
+
+**Aplicações:**
+- **Linhagem paterna:** Rastreamento da ancestralidade masculina
+- **Identificação forense:** Determinação de parentesco paterno
+- **Estudos populacionais:** Migrações históricas masculinas
+- **Genealogia:** Construção de árvores genealógicas
+
+**Teste do DNA mitocondrial:**
+
+**Características:**
+- **Herança materna:** Transmitido exclusivamente pela mãe
+- **Presença universal:** Todos os indivíduos possuem
+- **Alta cópia:** Múltiplas mitocôndrias por célula
+- **Conservação:** Baixa taxa de mutação
+
+**Aplicações:**
+- **Linhagem materna:** Rastreamento da ancestralidade feminina
+- **Amostras degradadas:** Maior estabilidade que DNA nuclear
+- **Identificação de restos:** Forense e arqueologia
+- **Estudos evolutivos:** Filogenia humana
+
+**Análise da herança ligada ao sexo:**
+
+**Gene do daltonismo:**
+- **Localização:** Cromossomo X (Xq28)
+- **Herança:** Ligada ao sexo, recessiva
+- **Manifestação:** Mais comum em homens (XY)
+- **Função:** Codifica opsinas para visão de cores
+
+**Padrão de herança:**
+- **Homens afetados:** Genótipo X^d Y
+- **Mulheres portadoras:** Genótipo X^D X^d
+- **Transmissão:** Mães portadoras para filhos homens
+
+**Limitações para testes de ancestralidade:**
+
+**Cromossomo Y:**
+- **Ausência do gene:** Daltonismo não está no cromossomo Y
+- **Incompatibilidade:** Gene localizado no cromossomo X
+- **Impossibilidade técnica:** Não há como analisar gene ausente
+
+**DNA mitocondrial:**
+- **Localização nuclear:** Gene do daltonismo no DNA nuclear
+- **Compartimentos celulares:** Separação física entre genomas
+- **Diferença estrutural:** DNA mitocondrial vs. DNA cromossômico
+
+**Contexto histórico e social:**
+
+**Diáspora africana:**
+- **Tráfico atlântico:** Movimento forçado de populações
+- **Miscigenação:** Complexidade genética brasileira
+- **Identidade:** Busca por origens ancestrais
+- **Reparação histórica:** Reconhecimento de raízes africanas
+
+**Tecnologia genética:**
+- **Democratização:** Testes comerciais acessíveis
+- **Precisão:** Melhoria dos métodos de análise
+- **Bancos de dados:** Expansão de referências populacionais
+- **Ética:** Questões sobre privacidade genética
+
+**Aplicações contemporâneas:**
+
+**Genealogia genética:**
+- **Turismo de raízes:** Viagens para locais ancestrais
+- **Reunião familiar:** Encontro de parentes distantes
+- **Identidade cultural:** Reconexão com tradições
+- **Pesquisa histórica:** Validação de registros genealógicos
+
+**Medicina forense:**
+- **Identificação:** Restos mortais e desaparecidos
+- **Paternidade:** Determinação de parentesco
+- **Crimes:** Evidências genéticas
+- **Desastres:** Identificação de vítimas
+
+**Limitações e considerações:**
+
+**Aspectos técnicos:**
+- **Resolução:** Limitações na precisão geográfica
+- **Miscigenação:** Complexidade em populações mistas
+- **Representatividade:** Viés em bancos de dados
+- **Interpretação:** Necessidade de conhecimento especializado
+
+**Aspectos éticos:**
+- **Privacidade:** Proteção de dados genéticos
+- **Discriminação:** Uso indevido de informações
+- **Consentimento:** Implicações para familiares
+- **Comercialização:** Aspectos econômicos dos testes
+
+**Observações metodológicas:**
+- Questão contextualizada historicamente
+- Integra genética molecular com questões sociais
+- Requer conhecimento sobre localização gênica
+- Demonstra aplicações práticas da genética
+
+**Relevância educacional:**
+- **Interdisciplinaridade:** Biologia, história e sociedade
+- **Tecnologia:** Aplicações da genética molecular
+- **Diversidade:** Compreensão da variabilidade humana
+- **Cidadania:** Consciência sobre identidade e origem
+
+---
+
+### QUESTÃO 04 - BIOLOGIA (UERJ)
+
+**Enunciado:**
+A entrada de água nas sementes é essencial para desencadear sua germinação. Essa hidratação, reativando tanto enzimas que hidrolisam moléculas de carboidratos como enzimas envolvidas no ciclo de Krebs e na cadeia de transporte de elétrons, ocasiona um nítido aumento do consumo de O₂ e da produção de ATP.
+
+**Comando da questão:**
+Aponte as duas principais funções dos carboidratos hidrolisados para o desenvolvimento do embrião.
+
+Indique, ainda, a organela reativada responsável pelo aumento do consumo de O₂ e da produção de ATP com o processo de hidratação.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Duas principais funções dos carboidratos:**
+1. Fonte de energia para a germinação.
+2. Matéria-prima para a formação das novas estruturas.
+
+**Organela responsável:** Mitocôndria
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Germinação de sementes
+- Metabolismo de carboidratos em plantas
+- Respiração celular e produção de ATP
+- Funções metabólicas das mitocôndrias
+- Mobilização de reservas nutritivas
+
+**Nível de complexidade:** Médio-Alto - integra fisiologia vegetal e bioquímica celular
+
+**Formato da resposta:** Duas funções dos carboidratos + identificação de organela
+
+**Competências avaliadas:**
+- Compreensão da fisiologia da germinação
+- Conhecimento sobre metabolismo energético
+- Entendimento das funções das organelas
+- Capacidade de relacionar estrutura e função celular
+
+**Análise da germinação de sementes:**
+
+**Processo de germinação:**
+- **Embebição:** Absorção de água pela semente
+- **Reativação metabólica:** Ativação de enzimas dormentes
+- **Mobilização de reservas:** Hidrólise de macromoléculas
+- **Crescimento:** Emergência da radícula e plúmula
+
+**Papel da água na germinação:**
+- **Hidratação de proteínas:** Restauração da conformação enzimática
+- **Solubilização:** Dissolução de substratos e produtos
+- **Transporte:** Movimentação de metabólitos
+- **Pressão de turgor:** Expansão celular e crescimento
+
+**Análise das reservas de carboidratos:**
+
+**Tipos de reservas:**
+- **Amido:** Principal polissacarídeo de reserva
+- **Sacarose:** Açúcar de transporte
+- **Outros:** Celulose (parede celular), hemicelulose
+
+**Localização nas sementes:**
+- **Endosperma:** Tecido nutritivo (gramíneas)
+- **Cotilédones:** Folhas embrionárias (leguminosas)
+- **Perisperma:** Tecido materno (algumas espécies)
+
+**Enzimas de hidrólise:**
+- **α-amilase:** Quebra ligações α(1→4) do amido
+- **β-amilase:** Produção de maltose
+- **Maltase:** Conversão maltose → glicose
+- **Invertase:** Sacarose → glicose + frutose
+
+**Funções dos carboidratos hidrolisados:**
+
+**1. Fonte de energia:**
+
+**Respiração celular:**
+- **Glicólise:** Glicose → piruvato + ATP
+- **Ciclo de Krebs:** Oxidação completa do piruvato
+- **Fosforilação oxidativa:** Produção de ATP via gradiente de prótons
+- **Rendimento:** ~30-32 ATP por glicose
+
+**Necessidades energéticas:**
+- **Síntese de macromoléculas:** Proteínas, ácidos nucleicos, lipídios
+- **Transporte ativo:** Absorção de nutrientes
+- **Crescimento celular:** Expansão e divisão
+- **Manutenção:** Processos vitais básicos
+
+**2. Matéria-prima estrutural:**
+
+**Biossíntese de componentes:**
+- **Parede celular:** Celulose, hemicelulose, pectina
+- **Esqueleto carbônico:** Para síntese de aminoácidos
+- **Ácidos nucleicos:** Ribose e desoxirribose
+- **Lipídios:** Glicerol (via glicólise)
+
+**Vias anabólicas:**
+- **Gliconeogênese:** Síntese de glicose
+- **Via das pentoses:** Produção de ribose e NADPH
+- **Ciclo de Calvin:** Fixação de CO₂ (quando fotossíntese inicia)
+
+**Análise das mitocôndrias:**
+
+**Estrutura mitocondrial:**
+- **Membranas:** Externa (permeável) e interna (seletiva)
+- **Espaços:** Intermembrânico e matriz
+- **Cristas:** Invaginações da membrana interna
+- **DNA:** Genoma mitocondrial próprio
+
+**Funções na germinação:**
+
+**Respiração celular:**
+- **Ciclo de Krebs:** Matriz mitocondrial
+- **Cadeia respiratória:** Membrana interna
+- **ATP sintase:** Fosforilação oxidativa
+- **Consumo de O₂:** Aceptor final de elétrons
+
+**Reativação durante hidratação:**
+- **Reidratação:** Restauração da estrutura
+- **Síntese proteica:** Enzimas respiratórias
+- **Biogênese:** Multiplicação mitocondrial
+- **Metabolismo ativo:** Aumento da produção de ATP
+
+**Integração metabólica:**
+
+**Mobilização coordenada:**
+- **Carboidratos:** Energia e esqueleto carbônico
+- **Lipídios:** β-oxidação para energia
+- **Proteínas:** Aminoácidos para síntese
+- **Regulação:** Controle hormonal (giberelinas, ABA)
+
+**Transição metabólica:**
+- **Fase heterotrófica:** Dependência de reservas
+- **Fase autotrófica:** Início da fotossíntese
+- **Estabelecimento:** Plântula independente
+
+**Aspectos hormonais:**
+
+**Regulação da germinação:**
+- **Giberelinas:** Promovem germinação e síntese de α-amilase
+- **Ácido abscísico (ABA):** Inibe germinação
+- **Citocininas:** Divisão celular
+- **Auxinas:** Alongamento celular
+
+**Sinalização molecular:**
+- **Transdução:** Percepção de sinais ambientais
+- **Expressão gênica:** Ativação de genes específicos
+- **Cascatas enzimáticas:** Amplificação de sinais
+
+**Fatores ambientais:**
+
+**Condições para germinação:**
+- **Água:** Embebição adequada
+- **Temperatura:** Faixa ótima específica
+- **Oxigênio:** Respiração aeróbica
+- **Luz:** Algumas espécies (fitocromo)
+
+**Dormência:**
+- **Tipos:** Física, fisiológica, morfológica
+- **Quebra:** Estratificação, escarificação
+- **Adaptação:** Sincronização com ambiente
+
+**Observações metodológicas:**
+- Questão integra múltiplos aspectos da biologia vegetal
+- Requer conhecimento sobre organelas e metabolismo
+- Conecta processos celulares com fenômenos macroscópicos
+- Demonstra importância da respiração celular
+
+**Relevância agronômica:**
+- **Agricultura:** Otimização da germinação
+- **Armazenamento:** Conservação de sementes
+- **Melhoramento:** Seleção de variedades
+- **Biotecnologia:** Sementes transgênicas
+
+**Aplicações práticas:**
+- **Produção de mudas:** Condições ideais de germinação
+- **Testes de viabilidade:** Avaliação de sementes
+- **Controle de qualidade:** Padronização de lotes
+- **Pesquisa:** Estudos de fisiologia vegetal
+
+**Aspectos evolutivos:**
+- **Estratégia reprodutiva:** Dispersão temporal e espacial
+- **Adaptação:** Sincronização com ciclos ambientais
+- **Sobrevivência:** Resistência a condições adversas
+- **Sucesso reprodutivo:** Estabelecimento de descendentes
+
+---
+
+### QUESTÃO 10 - BIOLOGIA (UERJ)
+
+**Enunciado:**
+Em células eucarióticas, o antibiótico actinomicina D atua bloqueando o mecanismo de transcrição da informação gênica, impedindo a síntese de RNA. Já o antibiótico puromicina é capaz de bloquear o processo de tradução da informação e, portanto, a síntese de proteínas.
+
+Considere um experimento em que a actinomicina D foi adicionada a uma cultura de células eucarióticas, medindo-se, em função do tempo de cultivo, a concentração de três diferentes proteínas, A, B e C, no citosol dessas células. Em experimento similar, esse antibiótico foi substituído pela puromicina, sendo medidas as concentrações das mesmas proteínas.
+
+A tabela abaixo mostra os resultados dos dois experimentos.
+
+**Tabela de resultados:**
+
+| Antibiótico | Tempo de cultivo (min) | Concentração das proteínas no citosol (μM) |  |  |
+|-------------|------------------------|------------|------------|------------|
+|             |                        | **A**      | **B**      | **C**      |
+| **Actinomicina D** | 0                      | 2 × 10⁻²   | 2 × 10⁻²   | 2 × 10⁻²   |
+|             | 30                     | 15 × 10⁻⁴  | 12 × 10⁻³  | 18 × 10⁻³  |
+|             | 60                     | 2 × 10⁻⁵   | 7 × 10⁻³   | 16 × 10⁻³  |
+|             | 90                     | 5 × 10⁻⁶   | 3 × 10⁻³   | 14 × 10⁻³  |
+| **Puromicina** | 0                      | 2 × 10⁻²   | 2 × 10⁻²   | 2 × 10⁻²   |
+|             | 10                     | 15 × 10⁻⁴  | 15 × 10⁻⁴  | 15 × 10⁻⁴  |
+|             | 30                     | 8 × 10⁻⁵   | 8 × 10⁻⁵   | 8 × 10⁻⁵   |
+|             | 60                     | 1 × 10⁻⁵   | 1 × 10⁻⁵   | 1 × 10⁻⁵   |
+
+**Informação adicional:**
+Considere que a meia-vida de uma molécula na célula é igual ao tempo necessário para que a concentração dessa molécula se reduza à metade.
+
+**Comando da questão:**
+Estabeleça a ordem decrescente dos tempos de meia-vida dos RNA mensageiros das proteínas A, B e C.
+
+Compare, também, o tempo de meia-vida dessas proteínas e estabeleça a relação entre esses tempos.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Ordem decrescente dos tempos de meia-vida dos mRNAs:** C – B – A
+
+**Relação entre os tempos de meia-vida das proteínas:** As meias-vidas são iguais.
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Transcrição e tradução em células eucarióticas
+- Mecanismo de ação de antibióticos
+- Meia-vida de moléculas biológicas
+- Estabilidade de mRNA e proteínas
+- Cinética de degradação molecular
+
+**Nível de complexidade:** Alto - requer análise quantitativa de dados experimentais
+
+**Formato da resposta:** Ordem de meia-vidas + relação entre tempos
+
+**Competências avaliadas:**
+- Interpretação de dados experimentais quantitativos
+- Compreensão de cinética molecular
+- Conhecimento sobre estabilidade de biomoléculas
+- Capacidade de análise comparativa
+
+**Análise dos mecanismos de ação dos antibióticos:**
+
+**Actinomicina D:**
+- **Alvo:** Transcrição (síntese de RNA)
+- **Mecanismo:** Intercalação no DNA, bloqueio da RNA polimerase
+- **Efeito:** Impede formação de novos mRNAs
+- **Consequência:** Permite medir degradação de mRNAs existentes
+
+**Puromicina:**
+- **Alvo:** Tradução (síntese de proteínas)
+- **Mecanismo:** Mimetiza aminoacil-tRNA, causa terminação prematura
+- **Efeito:** Impede formação de novas proteínas
+- **Consequência:** Permite medir degradação de proteínas existentes
+
+**Análise dos resultados com Actinomicina D:**
+
+**Interpretação do experimento:**
+- **Bloqueio da transcrição:** Sem novos mRNAs sendo produzidos
+- **Degradação diferencial:** mRNAs com estabilidades diferentes
+- **Reflexo nas proteínas:** Redução conforme degradação dos mRNAs correspondentes
+
+**Cálculo das meias-vidas dos mRNAs:**
+
+**Proteína A:**
+- **t0:** 2 × 10⁻² μM
+- **t30:** 15 × 10⁻⁴ μM = 1,5 × 10⁻³ μM
+- **Redução:** ~13x em 30 min
+- **Meia-vida:** Muito curta (~10-15 min)
+
+**Proteína B:**
+- **t0:** 2 × 10⁻² μM  
+- **t30:** 12 × 10⁻³ μM = 1,2 × 10⁻² μM
+- **Redução:** ~1,7x em 30 min
+- **Meia-vida:** Intermediária (~30-40 min)
+
+**Proteína C:**
+- **t0:** 2 × 10⁻² μM
+- **t30:** 18 × 10⁻³ μM = 1,8 × 10⁻² μM
+- **Redução:** ~1,1x em 30 min
+- **Meia-vida:** Longa (>60 min)
+
+**Ordem decrescente:** C > B > A
+
+**Análise dos resultados com Puromicina:**
+
+**Interpretação:**
+- **Bloqueio da tradução:** Sem novas proteínas sendo produzidas
+- **Degradação uniforme:** Todas as proteínas reduzem na mesma proporção
+- **Cinética idêntica:** Mesmo padrão de degradação
+
+**Cálculo das meias-vidas das proteínas:**
+
+**Todas as proteínas:**
+- **t0:** 2 × 10⁻² μM
+- **t10:** 15 × 10⁻⁴ μM = 1,5 × 10⁻³ μM
+- **Redução:** ~13x em 10 min
+- **Padrão:** Cinética de primeira ordem idêntica
+
+**Conclusão:** Meias-vidas das proteínas são iguais
+
+**Fundamentos teóricos:**
+
+**Estabilidade de mRNA:**
+- **Fatores:** Estruturas secundárias, sequências UTR, proteínas associadas
+- **Variação:** Grande diferença entre diferentes mRNAs
+- **Regulação:** Controle pós-transcricional da expressão gênica
+
+**Estabilidade de proteínas:**
+- **Fatores:** Estrutura tridimensional, modificações pós-traducionais
+- **Degradação:** Sistemas de proteólise (proteassoma, autofagia)
+- **Uniformidade:** Menor variação entre proteínas similares
+
+**Cinética de degradação:**
+
+**Lei de primeira ordem:**
+- **Equação:** [M] = [M₀] × e^(-kt)
+- **Meia-vida:** t₁/₂ = ln(2)/k
+- **Características:** Declínio exponencial
+
+**Implicações das diferenças:**
+
+**mRNAs com meia-vidas diferentes:**
+- **Regulação:** Controle temporal da expressão
+- **Responsividade:** Ajuste rápido a estímulos
+- **Especificidade:** Diferentes papéis celulares
+
+**Proteínas com meia-vidas similares:**
+- **Estabilidade:** Manutenção de função
+- **Economia:** Investimento energético preservado
+- **Homeostase:** Equilíbrio proteico celular
+
+**Significado biológico:**
+
+**Controle da expressão gênica:**
+- **Nível transcricional:** Síntese de mRNA
+- **Nível pós-transcricional:** Estabilidade do mRNA
+- **Nível traducional:** Síntese de proteínas
+- **Nível pós-traducional:** Estabilidade das proteínas
+
+**Vantagens do controle por mRNA:**
+- **Rapidez:** Resposta mais rápida que síntese proteica
+- **Economia:** Menor gasto energético
+- **Flexibilidade:** Ajuste fino da expressão
+
+**Aplicações experimentais:**
+
+**Técnicas de estudo:**
+- **Chase-pulse:** Marcação radioativa
+- **Northern blot:** Detecção de mRNA específico
+- **Western blot:** Detecção de proteínas específicas
+- **RT-PCR:** Quantificação de mRNA
+
+**Usos dos antibióticos:**
+- **Actinomicina D:** Estudos de estabilidade de RNA
+- **Puromicina:** Estudos de síntese e degradação proteica
+- **Cicloheximida:** Outro inibidor da tradução
+- **α-amanitina:** Inibidor específico da RNA polimerase II
+
+**Relevância médica:**
+
+**Alvos terapêuticos:**
+- **Câncer:** Inibição da síntese de RNA/proteínas
+- **Infecções:** Antibióticos específicos para patógenos
+- **Doenças genéticas:** Modulação da expressão gênica
+
+**Resistência:**
+- **Mecanismos:** Modificação de alvos, efluxo de drogas
+- **Evolução:** Pressão seletiva por antibióticos
+- **Estratégias:** Combinação de fármacos
+
+**Observações metodológicas:**
+- Tabela essencial para análise quantitativa
+- Requer cálculos de cinética de degradação
+- Integra biologia molecular com farmacologia
+- Demonstra aplicação de antibióticos em pesquisa
+
+**Conceitos relacionados:**
+- **Turnover molecular:** Renovação de biomoléculas
+- **Homeostase proteica:** Equilíbrio síntese/degradação
+- **Regulação gênica:** Múltiplos níveis de controle
+- **Farmacologia molecular:** Mecanismos de ação de drogas
+
+---
+

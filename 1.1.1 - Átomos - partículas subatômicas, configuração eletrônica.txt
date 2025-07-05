@@ -1,0 +1,1109 @@
+**Questão 05**
+
+Para obter o metal vanádio, é empregada a aluminotermia, método que consiste no aquecimento do pentóxido de divanádio com o alumínio, representado pela seguinte equação química:
+
+**3 V₂O₅ (s) + 10 Aℓ (s) → 6 V (s) + 5 Aℓ₂O₃ (s)**
+
+Indique o agente redutor dessa reação. Em seguida, apresente a distribuição eletrônica, em ordem crescente de energia, dos átomos neutros do vanádio, baseado no gás nobre precedente. Determine, ainda, a massa, em quilogramas, de vanádio formado a partir de 1400 kg de pentóxido de divanádio com 65% de pureza.
+
+---
+
+**Gabarito Oficial**
+
+**Agente redutor:** Aℓ ou alumínio
+
+**Distribuição eletrônica em ordem crescente:** [Ar] 4s² 3d³
+
+*Explicação da distribuição eletrônica:*
+- Vanádio (V): número atômico 23
+- Gás nobre precedente: Argônio [Ar] (18 elétrons)
+- Configuração completa: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d³
+- Forma condensada: [Ar] 4s² 3d³
+
+**Cálculos estequiométricos:**
+
+```
+Massa de pentóxido de divanádio puro: 1400 × 0,65 = 910 kg
+
+Proporção estequiométrica da equação balanceada:
+182 g V₂O₅ --- 102 g V
+910 kg V₂O₅ --- M kg V
+
+M = 510 kg
+```
+
+*Detalhamento dos cálculos:*
+- Massa molar V₂O₅: 2×51 + 5×16 = 182 g/mol
+- Massa molar V: 51 g/mol
+- Da equação: 3 mol V₂O₅ → 6 mol V (proporção 1:2)
+- Massa de V produzida: 3×182 g V₂O₅ → 6×51 g V
+- Simplificando: 182 g V₂O₅ → 102 g V
+
+---
+
+**Contexto para LLM:**
+Esta questão aborda conceitos de química inorgânica aplicados à metalurgia industrial. Os temas centrais incluem:
+
+- **Reações de oxirredução:** Identificação de agentes redutores e oxidantes
+- **Aluminotermia:** Processo industrial para obtenção de metais
+- **Distribuição eletrônica:** Configuração de elementos de transição
+- **Estequiometria:** Cálculos com reagentes impuros
+- **Química industrial:** Processos metalúrgicos
+
+**Conceitos-chave para o LLM:**
+- **Agente redutor:** Alumínio (perde elétrons, é oxidado)
+- **Vanádio:** Elemento de transição (grupo 5, período 4)
+- **Configuração eletrônica:** Preenchimento de orbitais d após 4s
+- **Pureza de reagentes:** Cálculo considerando porcentagem de pureza
+- **Proporção estequiométrica:** 3 V₂O₅ : 6 V (1:2 em mols)
+
+**Dados importantes:**
+- Equação balanceada: 3 V₂O₅ + 10 Aℓ → 6 V + 5 Aℓ₂O₃
+- Massa inicial: 1400 kg de V₂O₅ com 65% de pureza
+- Massas molares: V₂O₅ = 182 g/mol, V = 51 g/mol
+- Vanádio: Z = 23, configuração [Ar] 4s² 3d³
+
+**Processo de resolução:**
+1. Identificar oxidação/redução (V⁵⁺ → V⁰, Aℓ⁰ → Aℓ³⁺)
+2. Determinar configuração eletrônica do vanádio neutro
+3. Calcular massa pura de reagente (1400 × 0,65)
+4. Aplicar estequiometria (regra de três com massas molares)
+
+Nível de dificuldade: Médio-Alto
+Área: Química Inorgânica e Físico-Química
+Habilidades avaliadas: Análise de reações redox, configuração eletrônica de elementos de transição, cálculos estequiométricos com pureza, aplicação em processos industriais.
+
+---
+
+**Questão 07**
+
+O radônio é um gás nobre cujos radioisótopos ²¹⁰Rn e ²²⁴Rn sofrem decaimento por emissão das partículas alfa e beta, respectivamente. Observe no gráfico o decaimento de igual quantidade de matéria inicial desses radioisótopos:
+
+**Descrição detalhada do gráfico:**
+- **Eixo X:** Tempo (em horas), variando de 0 a 4,8 h
+- **Eixo Y:** Quantidade de matéria (em mol), variando de 0 a 0,04 mol
+- **Duas curvas de decaimento exponencial:**
+  - **Curva azul (²¹⁰Rn):** Inicia em 0,04 mol no tempo 0h
+    - Pontos marcados: (0; 0,04), (1,2; ~0,028), (2,4; 0,02), (3,6; ~0,014), (4,8; 0,01)
+    - Decaimento mais lento
+  - **Curva laranja (²²⁴Rn):** Inicia em 0,04 mol no tempo 0h  
+    - Pontos marcados: (0; 0,04), (1,2; ~0,026), (1,8; 0,02), (3,0; ~0,012), (3,6; 0,01), (4,8; ~0,009)
+    - Decaimento mais rápido
+- **Linha horizontal tracejada:** Em 0,02 mol (metade da quantidade inicial)
+- **Linhas verticais tracejadas:** Marcando os tempos de meia-vida
+
+Determine a razão entre os tempos de meia-vida do ²¹⁰Rn e do ²²⁴Rn. Em seguida, identifique o isótopo do elemento formado no decaimento do ²¹⁰Rn. Calcule, ainda, o número de partículas beta emitidas após 3,6 h de decaimento do ²²⁴Rn.
+
+---
+
+**Gabarito Oficial**
+
+**Tempo de meia-vida do ²¹⁰Rn:** 2,4 h
+**Tempo de meia-vida do ²²⁴Rn:** 1,8 h
+**Razão:** 2,4 / 1,8 = 4/3 = 1,33
+
+**Decaimento do ²¹⁰Rn:**
+²¹⁰Rn → ⁴α + ²⁰⁶Po
+₈₆     ₂   ₈₄
+
+**Isótopo formado:** ²⁰⁶Po
+
+**Decaimento do ²²⁴Rn:**
+²²⁴Rn → ⁰β + ²²⁴Fr
+₈₆     ₋₁   ₈₇
+
+**Número de partículas beta emitidas:**
+Quantidade inicial: 0,04 mol
+Quantidade após 3,6 h: 0,01 mol
+Quantidade que decaiu: 0,04 - 0,01 = 0,03 mol
+
+0,03 × 6,0 × 10²³ = 1,8 × 10²² partículas
+
+---
+
+**Contexto para LLM:**
+Esta questão aborda conceitos de química nuclear aplicados à radioatividade natural. Os temas centrais incluem:
+
+- **Radioatividade:** Decaimento alfa e beta de radioisótopos
+- **Cinética nuclear:** Tempo de meia-vida e curvas de decaimento exponencial
+- **Análise gráfica:** Interpretação de gráficos de decaimento radioativo
+- **Leis de conservação:** Número de massa e número atômico em reações nucleares
+- **Cálculos estequiométricos:** Número de Avogadro aplicado à radioatividade
+
+**Conceitos-chave para o LLM:**
+- **Tempo de meia-vida (t₁/₂):** Tempo necessário para a quantidade inicial reduzir à metade
+- **Decaimento alfa:** Emissão de núcleo de hélio (⁴₂α), reduz massa em 4 e número atômico em 2
+- **Decaimento beta:** Emissão de elétron (⁰₋₁β), mantém massa e aumenta número atômico em 1
+- **Radônio:** Elemento 86 (Rn), gás nobre radioativo
+- **Constante de Avogadro:** 6,0 × 10²³ partículas/mol
+
+**Dados importantes do gráfico:**
+- Quantidade inicial: 0,04 mol para ambos os isótopos
+- t₁/₂ do ²¹⁰Rn: 2,4 h (ponto onde curva azul cruza 0,02 mol)
+- t₁/₂ do ²²⁴Rn: 1,8 h (ponto onde curva laranja cruza 0,02 mol)
+- Após 3,6 h: ²²⁴Rn tem 0,01 mol restante
+
+**Processo de resolução:**
+1. **Leitura do gráfico:** Identificar tempos de meia-vida nas intersecções com 0,02 mol
+2. **Razão dos tempos:** t₁/₂(²¹⁰Rn) ÷ t₁/₂(²²⁴Rn)
+3. **Reação nuclear:** Aplicar leis de conservação para decaimento alfa
+4. **Cálculo de partículas:** (mol inicial - mol final) × Nₐ
+
+**Reações nucleares:**
+- **²¹⁰Rn (decaimento α):** ²¹⁰₈₆Rn → ⁴₂α + ²⁰⁶₈₄Po
+- **²²⁴Rn (decaimento β):** ²²⁴₈₆Rn → ⁰₋₁β + ²²⁴₈₇Fr
+
+Nível de dificuldade: Médio-Alto
+Área: Química Nuclear e Físico-Química
+Habilidades avaliadas: Interpretação de gráficos, cinética de decaimento radioativo, leis de conservação nuclear, cálculos com número de Avogadro, análise comparativa de processos radioativos.
+
+---
+
+
+**Questão 02**
+
+Além do agente patogênico e de antibióticos, as vacinas apresentam, em sua composição, um conservante e substâncias que contribuem com a proteção do organismo contra doenças. Dentre essas substâncias estão o metanal, o hidróxido de alumínio e o glutamato monossódico. Observe abaixo a fórmula estrutural do glutamato monossódico e de um conservante presente, frequentemente, em vacinas.
+
+**Descrição detalhada das estruturas:**
+
+**Glutamato monossódico:**
+```
+        O                    O
+        ||                   ||
+   HO—C—CH₂—CH₂—CH—C—O⁻ Na⁺
+                  |
+                  NH₂
+```
+
+*Explicação da estrutura:*
+- **Cadeia principal:** 5 carbonos em sequência
+- **Grupos funcionais:**
+  - Grupo carboxila livre (-COOH) no carbono 1
+  - Grupo carboxilato (-COO⁻) no carbono 5 (neutralizado por Na⁺)
+  - Grupo amino (-NH₂) no carbono 4
+- **Classificação:** Sal sódico do ácido glutâmico (aminoácido)
+
+**Conservante (tiomersal):**
+```
+        O⁻ Na⁺
+        |
+        C=O
+       /
+  [benzeno]—S—Hg—CH₂—CH₃
+```
+
+*Explicação da estrutura:*
+- **Anel benzênico:** Anel aromático de 6 carbonos
+- **Grupo carboxilato:** -COO⁻ Na⁺ ligado diretamente ao anel
+- **Ponte de enxofre:** Átomo de S conectando o anel ao mercúrio
+- **Grupo etil:** -CH₂CH₃ ligado ao mercúrio
+- **Fórmula:** Composto organomercúrico usado como antisséptico
+
+Escreva a fórmula estrutural do metanal e nomeie o tipo de isomeria espacial presente na molécula do glutamato monossódico.
+
+Em seguida, indique a fórmula molecular da base inorgânica presente na composição da vacina e o número de carbonos com hibridização sp² presente no conservante.
+
+---
+
+**Gabarito Oficial**
+
+**Fórmula estrutural:**
+```
+    O
+    ||
+H—C—H
+```
+
+**Isomeria:** óptica
+
+**Fórmula molecular:** Al(OH)₃
+
+**Número de carbonos:** 7
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica com aplicações farmacêuticas e de saúde pública. Os temas centrais incluem:
+
+- **Química de vacinas:** Composição e função de diferentes componentes
+- **Isomeria óptica:** Centros quirais em aminoácidos
+- **Hibridização:** Estados de hibridização do carbono
+- **Nomenclatura química:** Compostos orgânicos e inorgânicos
+- **Aplicações farmacêuticas:** Conservantes e adjuvantes em medicamentos
+
+**Conceitos-chave para o LLM:**
+- **Metanal (formaldeído):** Aldeído mais simples, usado como conservante
+- **Centro quiral:** Carbono ligado a 4 grupos diferentes (C4 do glutamato)
+- **Hidróxido de alumínio:** Base inorgânica, adjuvante imunológico
+- **Hibridização sp²:** Carbonos com geometria trigonal plana
+- **Tiomersal:** Conservante organomercúrico (controverso atualmente)
+
+**Análise estrutural detalhada:**
+
+**1. Metanal (H₂CO):**
+```
+    O
+    ||
+H—C—H
+```
+- **Grupo funcional:** Aldeído (-CHO)
+- **Hibridização do C:** sp² (trigonal plana)
+- **Uso:** Conservante, inativa vírus e bactérias
+- **Concentração em vacinas:** Traços residuais
+
+**2. Glutamato monossódico:**
+```
+        O                    O
+        ||                   ||
+   HO—C—CH₂—CH₂—CH—C—O⁻ Na⁺
+        1    2    3  |4   5
+                     NH₂
+```
+- **Centro quiral:** C4 (ligado a H, NH₂, COOH, CH₂CH₂COOH)
+- **Isomeria óptica:** Formas L e D (apenas L é biologicamente ativa)
+- **Função:** Realçador de sabor, estabilizante
+
+**3. Hidróxido de alumínio Al(OH)₃:**
+- **Classificação:** Base inorgânica (hidróxido metálico)
+- **Função:** Adjuvante, potencializa resposta imune
+- **Mecanismo:** Depot effect, liberação lenta do antígeno
+
+**4. Análise do conservante (tiomersal):**
+```
+Carbonos sp²: [benzeno] = 6 carbonos + 1 carbono do COO⁻ = 7 carbonos
+```
+- **Anel benzênico:** 6 carbonos sp² (aromáticos)
+- **Grupo carboxila:** 1 carbono sp² (C=O)
+- **Carbonos sp³:** Apenas o carbono do grupo etil
+
+**Hibridização e geometria:**
+- **sp³:** Tetraédrica (109,5°)
+- **sp²:** Trigonal plana (120°)
+- **sp:** Linear (180°)
+
+**Componentes de vacinas e suas funções:**
+
+**Conservantes:**
+- **Metanal:** Inativa microrganismos
+- **Tiomersal:** Antisséptico (em desuso por conter mercúrio)
+- **Fenol:** Bactericida
+
+**Adjuvantes:**
+- **Al(OH)₃:** Potencializa resposta imune
+- **Fosfato de alumínio:** Alternativa ao hidróxido
+- **Esqualeno:** Adjuvante lipídico
+
+**Estabilizantes:**
+- **Glutamato monossódico:** Mantém estabilidade proteica
+- **Sacarose:** Crioconservante
+- **Gelatina:** Estabilizante proteico
+
+**Aspectos de segurança:**
+- **Concentrações baixas:** Todos os componentes em níveis seguros
+- **Remoção do tiomersal:** Eliminado de vacinas infantis por precaução
+- **Testes rigorosos:** Aprovação por agências reguladoras
+- **Benefício vs risco:** Proteção supera riscos mínimos
+
+**Isomeria óptica do glutamato:**
+- **L-glutamato:** Forma natural, biologicamente ativa
+- **D-glutamato:** Forma sintética, menos ativa
+- **Atividade óptica:** Desvio da luz polarizada
+- **Importância biológica:** Apenas uma forma é metabolizada
+
+**Dados importantes:**
+- **Metanal:** HCHO, aldeído mais simples
+- **Centro quiral:** C4 do glutamato (carbono α)
+- **Base inorgânica:** Al(OH)₃ (hidróxido de alumínio)
+- **Carbonos sp²:** 7 no tiomersal (6 aromáticos + 1 carboxílico)
+
+**Processo de resolução:**
+1. **Estrutura do metanal:** Aldeído simples H₂CO
+2. **Identificar quiralidade:** C4 do glutamato com 4 substituintes diferentes
+3. **Base inorgânica:** Al(OH)₃ mencionado no texto
+4. **Contar carbonos sp²:** Aromáticos + carboxílicos
+
+Nível de dificuldade: Médio
+Área: Química Orgânica e Aplicações Farmacêuticas
+Habilidades avaliadas: Estruturas orgânicas, isomeria óptica, hibridização, nomenclatura química, aplicações em saúde, interpretação de estruturas complexas.
+
+---
+
+**Questão 03**
+
+Menino de 12 anos constrói reator de fusão nuclear no próprio quarto. Esse norte-americano é a pessoa mais jovem do planeta a ter montado tal equipamento de forma caseira.
+
+*Adaptado de revistagalileu.globo.com, 25/02/2019.*
+
+O reator mencionado na reportagem se baseia na seguinte reação nuclear:
+
+**²₁H + ²₁H → X + ¹₀n**
+
+Sabe-se que os isótopos do hidrogênio utilizados nessa reação foram obtidos a partir da eletrólise de moléculas de água.
+
+Nomeie o elemento químico representado por X na equação e indique seu número de nêutrons. Apresente, ainda, a semirreação catódica da eletrólise realizada.
+
+---
+
+**Gabarito Oficial**
+
+**Elemento:** hélio
+
+**Número de nêutrons:** 1
+
+**Semirreação:** 2H⁺ + 2e⁻ → H₂
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química nuclear, eletrólise e conservação em reações nucleares. Os temas centrais incluem:
+
+- **Fusão nuclear:** Combinação de núcleos leves formando núcleos mais pesados
+- **Isótopos do hidrogênio:** Deutério e suas aplicações em fusão
+- **Eletrólise da água:** Processo de obtenção de hidrogênio
+- **Leis de conservação nuclear:** Conservação de massa e carga
+- **Semirreações eletroquímicas:** Processos catódicos e anódicos
+
+**Conceitos-chave para o LLM:**
+- **Deutério (²₁H):** Isótopo pesado do hidrogênio com 1 nêutron
+- **Fusão D-D:** Reação fundamental em reatores de fusão experimentais
+- **Hélio-3 (³₂He):** Produto da fusão com 1 nêutron
+- **Eletrólise:** Decomposição da água por corrente elétrica
+- **Redução catódica:** Ganho de elétrons no cátodo
+
+**Análise da reação nuclear:**
+
+**Reação de fusão deutério-deutério:**
+```
+²₁H + ²₁H → ³₂He + ¹₀n
+```
+
+**Verificação das leis de conservação:**
+- **Conservação do número de massa:** 2 + 2 = 3 + 1 ✓
+- **Conservação do número atômico:** 1 + 1 = 2 + 0 ✓
+- **Conservação da carga:** +1 + 1 = +2 + 0 ✓
+
+**Identificação do produto X:**
+- **Número atômico:** 2 (elemento hélio)
+- **Número de massa:** 3
+- **Isótopo:** ³₂He (hélio-3)
+- **Número de nêutrons:** A - Z = 3 - 2 = 1
+
+**Análise da eletrólise:**
+
+**Reação global da eletrólise da água:**
+```
+2H₂O(ℓ) → 2H₂(g) + O₂(g)
+```
+
+**Semirreações:**
+- **Cátodo (redução):** 2H⁺ + 2e⁻ → H₂
+- **Ânodo (oxidação):** 2H₂O → O₂ + 4H⁺ + 4e⁻
+
+**Obtenção de deutério:**
+- **Água pesada (D₂O):** Fonte natural de deutério
+- **Concentração:** ~0,016% na água natural
+- **Processo:** Eletrólise de D₂O produz D₂ (gás deutério)
+
+**Características do deutério:**
+- **Símbolo:** D ou ²₁H
+- **Composição:** 1 próton + 1 nêutron
+- **Descoberta:** 1931 por Harold Urey
+- **Aplicações:** Combustível para fusão nuclear
+
+**Reatores de fusão experimentais:**
+
+**Tipos de reação D-D:**
+1. **²₁H + ²₁H → ³₂He + ¹₀n** (50% probabilidade)
+2. **²₁H + ²₁H → ³₁H + ¹₁H** (50% probabilidade)
+
+**Condições necessárias:**
+- **Temperatura:** ~100 milhões de °C
+- **Pressão:** Extremamente alta
+- **Confinamento:** Magnético ou inercial
+- **Ignição:** Energia de ativação elevada
+
+**Aspectos de segurança:**
+- **Radioatividade:** Nêutrons livres são perigosos
+- **Blindagem:** Necessária para proteção
+- **Ativação:** Materiais tornam-se radioativos
+- **Supervisão:** Requer conhecimento especializado
+
+**Energia da fusão:**
+- **Liberação energética:** ~3,27 MeV por reação
+- **Comparação:** Milhões de vezes maior que reações químicas
+- **Aplicação:** Potencial fonte de energia limpa
+- **Desafios:** Controle da reação sustentada
+
+**Eletrólise em meio ácido:**
+```
+Cátodo: 2H⁺(aq) + 2e⁻ → H₂(g)
+Ânodo: 2H₂O(ℓ) → O₂(g) + 4H⁺(aq) + 4e⁻
+```
+
+**Eletrólise em meio neutro/básico:**
+```
+Cátodo: 2H₂O(ℓ) + 2e⁻ → H₂(g) + 2OH⁻(aq)
+Ânodo: 4OH⁻(aq) → O₂(g) + 2H₂O(ℓ) + 4e⁻
+```
+
+**Dados importantes:**
+- **Hélio-3:** Isótopo raro, valioso para fusão
+- **Nêutron livre:** Partícula sem carga, penetrante
+- **Energia de ligação:** He-3 mais estável que reagentes
+- **Aplicações do He-3:** Detectores de nêutrons, criogenia
+
+**Contexto educacional:**
+- **Divulgação científica:** Desperta interesse em física nuclear
+- **Segurança:** Projetos caseiros podem ser perigosos
+- **Supervisão:** Necessária orientação especializada
+- **Inspiração:** Estímulo ao interesse científico
+
+**Processo de resolução:**
+1. **Aplicar conservação:** Determinar A e Z do produto X
+2. **Identificar elemento:** Z = 2 → hélio
+3. **Calcular nêutrons:** A - Z = 3 - 2 = 1
+4. **Semirreação catódica:** Redução de H⁺ a H₂
+
+Nível de dificuldade: Médio
+Área: Química Nuclear e Eletroquímica
+Habilidades avaliadas: Leis de conservação nuclear, identificação de elementos, isótopos, eletrólise, semirreações, aplicações da química nuclear.
+
+---
+
+**Questão 05**
+
+Na tabela periódica proposta pelo russo Dimitri Mendeleiev, os elementos químicos conhecidos à época foram agrupados de acordo com a ordem crescente de suas massas atômicas, deixando-se espaços livres para outros que ainda seriam descobertos.
+
+Considere o seguinte fragmento da tabela de Mendeleiev, no qual estão indicados os símbolos químicos de alguns elementos e suas respectivas massas atômicas.
+
+**Fragmento da Tabela de Mendeleiev:**
+
+| Rb | Sr | ? | Zr | Nb | Mo | ? |
+|----|----|----|----|----|----|----|
+| 85 | 87 | 88 | 90 | 94 | 96 | 100 |
+
+| Ag | Cd | In | Sn | Sb | Te | I |
+|----|----|----|----|----|----|----|
+| 108 | 112 | 113 | 118 | 122 | 125 | 127 |
+
+*Legenda: Símbolo em cima, Massa atômica embaixo*
+
+Atualmente, a tabela de classificação periódica apresenta outro modelo de agrupamento, no qual os elementos químicos são organizados por famílias.
+
+Dentre os elementos presentes no fragmento da tabela de Mendeleiev, indique o número de camadas eletrônicas daquele com maior massa atômica e escreva, ainda, a fórmula química da substância formada pelo metal alcalino terroso e pelo halogênio.
+
+Sabendo hoje que a massa atômica do telúrio é maior que a do iodo, explique por que esses dois elementos mantêm na classificação periódica atual a mesma posição que tinham na de Mendeleiev.
+
+---
+
+**Gabarito Oficial**
+
+**Número de camadas eletrônicas:** 5
+
+**Fórmula:** SrI₂
+
+**Explicação:** Na classificação periódica atual, os elementos químicos são agrupados em ordem crescente de seus números atômicos. Dessa maneira, como o iodo, dentre os dois elementos, tem número atômico maior, ele continua sendo agrupado depois do telúrio.
+
+---
+
+**Contexto para LLM:**
+Esta questão explora a evolução histórica da classificação periódica e suas bases organizacionais. Os temas centrais incluem:
+
+- **História da Química:** Contribuições de Mendeleiev para a organização dos elementos
+- **Evolução da Tabela Periódica:** Mudança do critério de massa atômica para número atômico
+- **Famílias químicas:** Metais alcalino-terrosos e halogênios
+- **Distribuição eletrônica:** Camadas eletrônicas e períodos
+- **Anomalias históricas:** Inversões de massa atômica (Te-I, Ar-K, Co-Ni)
+
+**Conceitos-chave para o LLM:**
+- **Critério de Mendeleiev:** Ordem crescente de massa atômica
+- **Critério atual (Moseley):** Ordem crescente de número atômico
+- **Metal alcalino-terroso:** Sr (estrôncio) - família 2A
+- **Halogênio:** I (iodo) - família 7A/17
+- **Maior massa atômica no fragmento:** I (127) - 5º período
+
+**Análise do fragmento da tabela:**
+
+**Identificação dos elementos:**
+- **1ª linha:** Rb(85), Sr(87), ?(88), Zr(90), Nb(94), Mo(96), ?(100)
+- **2ª linha:** Ag(108), Cd(112), In(113), Sn(118), Sb(122), Te(125), I(127)
+
+**Elementos com "?" (previsões de Mendeleiev):**
+- **Posição 88:** Rádio (Ra) - descoberto posteriormente
+- **Posição 100:** Ruthênio (Ru) - já conhecido, mas mal posicionado
+
+**Maior massa atômica:**
+- **Elemento:** Iodo (I = 127)
+- **Período:** 5º período
+- **Camadas eletrônicas:** 5 (correspondente ao período)
+
+**Classificação das famílias:**
+
+**Metal alcalino-terroso (família 2A):**
+- **No fragmento:** Sr (estrôncio)
+- **Características:** 2 elétrons na camada de valência, forma cátions +2
+
+**Halogênio (família 7A/17):**
+- **No fragmento:** I (iodo)
+- **Características:** 7 elétrons na camada de valência, forma ânions -1
+
+**Formação do composto SrI₂:**
+```
+Sr²⁺ + 2I⁻ → SrI₂
+```
+- **Tipo de ligação:** Iônica
+- **Proporção:** 1:2 (para neutralizar cargas)
+- **Nome:** Iodeto de estrôncio
+
+**Anomalia Te-I na classificação:**
+
+**Problema histórico:**
+- **Massa atômica Te:** 127,6 u
+- **Massa atômica I:** 126,9 u
+- **Paradoxo:** Te tem massa maior, mas vem antes do I
+
+**Solução moderna (Lei de Moseley, 1913):**
+- **Número atômico Te:** 52
+- **Número atômico I:** 53
+- **Critério atual:** Ordem crescente de número atômico (Z)
+
+**Outras anomalias similares:**
+- **Argônio (39,9) vs Potássio (39,1):** Z(Ar)=18 < Z(K)=19
+- **Cobalto (58,9) vs Níquel (58,7):** Z(Co)=27 < Z(Ni)=28
+
+**Distribuição eletrônica do iodo:**
+```
+I (Z=53): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁵
+Camadas: K(2) L(8) M(18) N(18) O(7) = 5 camadas
+```
+
+**Características dos períodos:**
+- **1º período:** 2 elementos (H, He)
+- **2º período:** 8 elementos (Li ao Ne)
+- **3º período:** 8 elementos (Na ao Ar)
+- **4º período:** 18 elementos (K ao Kr)
+- **5º período:** 18 elementos (Rb ao Xe) - onde está o iodo
+
+**Contribuições de Mendeleiev:**
+- **Previsão de elementos:** Ga, Sc, Ge (eka-alumínio, eka-boro, eka-silício)
+- **Periodicidade:** Propriedades se repetem periodicamente
+- **Lacunas:** Espaços para elementos não descobertos
+- **Base química:** Agrupamento por propriedades similares
+
+**Evolução para a tabela moderna:**
+- **Henry Moseley (1913):** Descoberta do número atômico
+- **Base física:** Carga nuclear (prótons) em vez de massa
+- **Resolução de anomalias:** Explicação das inversões de massa
+- **Lei Periódica atual:** Propriedades variam periodicamente com Z
+
+**Dados importantes:**
+- **Maior massa no fragmento:** I (127 u)
+- **5º período:** 5 camadas eletrônicas
+- **Sr:** Metal alcalino-terroso (+2)
+- **I:** Halogênio (-1)
+- **Fórmula:** SrI₂ (proporção 1:2)
+
+**Processo de resolução:**
+1. **Identificar maior massa:** Iodo (127) no fragmento
+2. **Determinar período:** I está no 5º período → 5 camadas
+3. **Classificar elementos:** Sr (alcalino-terroso) + I (halogênio)
+4. **Escrever fórmula:** Sr²⁺ + I⁻ → SrI₂
+5. **Explicar anomalia:** Critério mudou de massa para número atômico
+
+Nível de dificuldade: Médio
+Área: Tabela Periódica e História da Química
+Habilidades avaliadas: Evolução histórica da classificação periódica, famílias químicas, distribuição eletrônica, fórmulas de compostos iônicos, compreensão das bases organizacionais da tabela periódica.
+
+---
+
+**Questão 01**
+
+O meteorito do Bendegó foi um dos poucos itens do acervo do Museu Nacional que não sofreu danos após o incêndio ocorrido em 2018. A resistência do meteorito às altas temperaturas deve-se a seus principais componentes químicos, cujas temperaturas de fusão são apresentadas na tabela abaixo.
+
+**Tabela de temperaturas de fusão:**
+
+| Componente | Temperatura de fusão (°C) |
+|------------|---------------------------|
+| Fe | 1538 |
+| Co | 1495 |
+| Ni | 1455 |
+
+Nomeie a ligação interatômica presente entre esses componentes do meteorito e nomeie, também, aquele com maior temperatura de fusão.
+
+Em seguida, indique o símbolo do componente de maior massa atômica e o subnível de maior energia do átomo do níquel no estado fundamental.
+
+---
+
+**Gabarito Oficial**
+
+**Ligação:** interação metálica
+
+**Maior temperatura de fusão:** ferro
+
+**Símbolo:** Co
+
+**Subnível:** 3d
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de ligações químicas, propriedades físicas dos metais e estrutura atômica. Os temas centrais incluem:
+
+- **Ligação metálica:** Tipo de ligação química entre átomos metálicos
+- **Propriedades dos metais:** Relação entre ligação e temperatura de fusão
+- **Elementos de transição:** Fe, Co, Ni como metais do primeiro período de transição
+- **Estrutura eletrônica:** Distribuição eletrônica e subníveis energéticos
+- **Aplicações práticas:** Resistência térmica de materiais metálicos
+
+**Conceitos-chave para o LLM:**
+- **Ligação metálica:** "Mar de elétrons" deslocalizados entre cátions metálicos
+- **Temperatura de fusão:** Energia necessária para quebrar ligações metálicas
+- **Ferro (Fe):** Z=26, maior temperatura de fusão (1538°C)
+- **Cobalto (Co):** Z=27, maior massa atômica entre os três
+- **Níquel (Ni):** Z=28, subnível 3d como último preenchido
+
+**Análise dos componentes:**
+
+**Ferro (Fe):**
+- **Número atômico:** 26
+- **Massa atômica:** 55,85 u
+- **Temperatura de fusão:** 1538°C (maior)
+- **Configuração eletrônica:** [Ar] 3d⁶ 4s²
+
+**Cobalto (Co):**
+- **Número atômico:** 27
+- **Massa atômica:** 58,93 u (maior entre os três)
+- **Temperatura de fusão:** 1495°C
+- **Configuração eletrônica:** [Ar] 3d⁷ 4s²
+
+**Níquel (Ni):**
+- **Número atômico:** 28
+- **Massa atômica:** 58,69 u
+- **Temperatura de fusão:** 1455°C (menor)
+- **Configuração eletrônica:** [Ar] 3d⁸ 4s²
+
+**Ligação metálica:**
+
+**Características da ligação metálica:**
+- **Modelo do "mar de elétrons":** Elétrons de valência deslocalizados
+- **Cátions metálicos:** Átomos que perderam elétrons de valência
+- **Forças de atração:** Entre cátions e elétrons deslocalizados
+- **Propriedades resultantes:** Condutividade, maleabilidade, ductilidade
+
+**Fatores que afetam a força da ligação:**
+- **Carga dos cátions:** Maior carga = ligação mais forte
+- **Tamanho dos átomos:** Menor tamanho = ligação mais forte
+- **Número de elétrons de valência:** Mais elétrons = ligação mais forte
+
+**Temperatura de fusão e ligação metálica:**
+- **Fe (1538°C):** Configuração eletrônica favorece ligações mais fortes
+- **Co (1495°C):** Ligação ligeiramente mais fraca que o ferro
+- **Ni (1455°C):** Ligação mais fraca entre os três
+
+**Estrutura eletrônica do níquel:**
+
+**Configuração completa do Ni (Z=28):**
+```
+1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁸ 4s²
+```
+
+**Configuração condensada:**
+```
+[Ar] 3d⁸ 4s²
+```
+
+**Subníveis em ordem energética crescente:**
+1. 1s
+2. 2s
+3. 2p
+4. 3s
+5. 3p
+6. 4s
+7. 3d ← **Subnível de maior energia**
+
+**Justificativa:** O subnível 3d é o último a ser preenchido no Ni, sendo portanto o de maior energia.
+
+**Meteoritos e composição:**
+
+**Meteoritos metálicos:**
+- **Composição típica:** Liga Fe-Ni com traços de Co
+- **Origem:** Núcleo de asteroides diferenciados
+- **Estrutura:** Cristais de kamacita (Fe-Ni) e taenita
+- **Resistência:** Alta devido às ligações metálicas fortes
+
+**Meteorito do Bendegó:**
+- **Localização:** Museu Nacional (Rio de Janeiro)
+- **Massa:** ~5,36 toneladas
+- **Descoberta:** 1784, interior da Bahia
+- **Classificação:** Meteorito de ferro (octaedrito)
+
+**Propriedades dos metais de transição:**
+
+**Características gerais (Fe, Co, Ni):**
+- **Densidade:** Alta (7-9 g/cm³)
+- **Dureza:** Elevada
+- **Magnetismo:** Fe e Ni são ferromagnéticos, Co é ferromagnético
+- **Resistência à corrosão:** Variável (Ni > Co > Fe)
+
+**Aplicações industriais:**
+- **Ferro:** Produção de aço, construção civil
+- **Cobalto:** Baterias, catalisadores, superligas
+- **Níquel:** Aços inoxidáveis, galvanização, baterias
+
+**Dados importantes:**
+- **Ordem de T.F.:** Fe > Co > Ni
+- **Ordem de massa atômica:** Co > Ni > Fe
+- **Grupo na tabela periódica:** 8 (Fe), 9 (Co), 10 (Ni)
+- **Período:** Todos no 4º período
+
+**Contexto histórico:**
+- **Incêndio do Museu Nacional:** Setembro de 2018
+- **Resistência do meteorito:** Temperaturas do incêndio (~1000°C) < T.F. dos metais
+- **Preservação:** Demonstra a importância das propriedades dos materiais
+- **Valor científico:** Informações sobre formação do sistema solar
+
+**Análise das massas atômicas:**
+- **Fe:** 55,85 u
+- **Co:** 58,93 u ← **Maior**
+- **Ni:** 58,69 u
+
+**Nota:** Embora Ni tenha Z maior que Co, sua massa atômica é ligeiramente menor devido às diferenças na composição isotópica natural.
+
+**Processo de resolução:**
+1. **Identificar ligação:** Metais → ligação metálica
+2. **Comparar T.F.:** Fe (1538°C) é a maior
+3. **Comparar massas:** Co (58,93 u) é a maior
+4. **Configuração do Ni:** Último subnível preenchido é 3d
+
+Nível de dificuldade: Básico-Médio
+Área: Ligações Químicas e Estrutura Atômica
+Habilidades avaliadas: Tipos de ligação química, propriedades físicas dos metais, distribuição eletrônica, interpretação de dados tabulares, aplicações práticas da química.
+
+---
+
+## QUESTÃO 001 - QUÍMICA GERAL - PROPRIEDADES PERIÓDICAS E LIGAÇÕES QUÍMICAS
+**Tipo:** Questão mista (análise de propriedades + regra do octeto + ligações + fórmulas)
+**Tópico:** Estabilidade eletrônica, regra do octeto, camadas eletrônicas, ligação iônica
+**Nível:** Ensino Médio/Vestibular
+
+**INTRODUÇÃO:**
+Apesar de apresentarem propriedades químicas distintas, os elementos flúor, neônio e sódio possuem números atômicos próximos, conforme destacado a seguir.
+
+**ELEMENTOS ANALISADOS:**
+- ₉F (flúor, Z = 9)
+- ₁₀Ne (neônio, Z = 10) 
+- ₁₁Na (sódio, Z = 11)
+
+**QUESTÕES:**
+Dentre esses elementos, nomeie o que apresenta maior estabilidade em relação à regra do octeto e indique o símbolo daquele cujos átomos têm o maior número de camadas eletrônicas.
+
+Em seguida, nomeie a ligação interatômica formada entre Na e F e apresente a fórmula química do composto resultante dessa ligação.
+
+**Conceitos envolvidos:**
+- Regra do octeto e estabilidade eletrônica
+- Gases nobres como elementos estáveis
+- Distribuição eletrônica em camadas (K, L, M)
+- Comparação de números de camadas eletrônicas
+- Ligação iônica entre metal e ametal
+- Formação de cátions e ânions
+- Fórmulas de compostos iônicos
+
+**Dados implícitos necessários:**
+- Distribuições eletrônicas:
+ - F (Z=9): 1s² 2s² 2p⁵ → 2 camadas (K=2, L=7)
+ - Ne (Z=10): 1s² 2s² 2p⁶ → 2 camadas (K=2, L=8) - configuração estável
+ - Na (Z=11): 1s² 2s² 2p⁶ 3s¹ → 3 camadas (K=2, L=8, M=1)
+- Maior estabilidade: Ne (gás nobre, octeto completo)
+- Maior número de camadas: Na (3 camadas)
+- Ligação Na-F: ligação iônica (Na⁺ + F⁻)
+- Fórmula do composto: NaF (fluoreto de sódio)
+
+**Aplicação contextual:**
+- Importância dos gases nobres como referência de estabilidade
+- Formação de compostos iônicos por transferência eletrônica
+- Relação entre posição na tabela periódica e propriedades
+- Regra do octeto como critério de estabilidade química
+
+**Palavras-chave:** regra do octeto, estabilidade eletrônica, gases nobres, camadas eletrônicas, ligação iônica, flúor, neônio, sódio, fluoreto de sódio, distribuição eletrônica
+
+---
+
+## QUESTÃO 009 - QUÍMICA NUCLEAR - DECAIMENTO RADIOATIVO E TRANSMUTAÇÃO NUCLEAR
+**Tipo:** Questão mista (análise gráfica + transmutação nuclear + cálculo de meia-vida + nomenclatura química)
+**Tópico:** Elementos artificiais, decaimento radioativo, transmutação nuclear, cinética nuclear, compostos químicos
+**Nível:** Ensino Médio/Vestibular
+
+**INTRODUÇÃO:**
+O berquélio (Bk) é um elemento químico artificial que sofre decaimento radioativo. No gráfico, indica-se o comportamento de uma amostra do radioisótopo ²⁴⁹Bk ao longo do tempo.
+
+**DADOS GRÁFICOS:**
+Comportamento do ²⁴⁹Bk ao longo do tempo:
+
+**DESCRIÇÃO DO GRÁFICO:**
+- Eixo X: tempo (dias) de 0 a 1200 dias
+- Eixo Y: massa (mg) de 0 a 20 mg
+- Curva de decaimento exponencial:
+ - t = 0 dias: 20 mg
+ - t = 150 dias: ~15 mg
+ - t = 300 dias: ~10 mg (meia-vida)
+ - t = 450 dias: ~7 mg
+ - t = 600 dias: ~5 mg (segunda meia-vida)
+ - t = 750 dias: ~3 mg
+ - t = 900 dias: ~2,5 mg (terceira meia-vida)
+ - t = 1050 dias: ~2 mg
+ - t = 1200 dias: ~1,25 mg
+
+**INFORMAÇÃO COMPLEMENTAR:**
+Sabe-se que a reação de transmutação nuclear entre o ²⁴⁹Bk e o ⁴⁸Ca produz um novo radioisótopo e três nêutrons.
+
+**QUESTÕES:**
+Apresente a equação nuclear dessa reação. Determine, ainda, o tempo de meia-vida, em dias, do ²⁴⁹Bk e escreva a fórmula química do hidróxido de berquélio II.
+
+**Conceitos envolvidos:**
+- Elementos transurânicos artificiais
+- Cinética de decaimento radioativo
+- Conceito de meia-vida (t₁/₂)
+- Transmutação nuclear artificial
+- Balanceamento de equações nucleares
+- Conservação de número de massa e número atômico
+- Estados de oxidação de actinídeos
+- Nomenclatura de hidróxidos
+
+**Dados implícitos necessários:**
+- Berquélio: Bk, Z = 97 (actinídeo transurânico)
+- Cálcio-48: ⁴⁸Ca, Z = 20
+- Leitura gráfica da meia-vida:
+ - Massa inicial: 20 mg
+ - Metade da massa (10 mg) atingida em t = 300 dias
+ - t₁/₂ = 300 dias
+- Equação de transmutação:
+ - ²⁴⁹₉₇Bk + ⁴⁸₂₀Ca → X + 3¹₀n
+ - Conservação de massa: 249 + 48 = A + 3(1) → A = 294
+ - Conservação de carga: 97 + 20 = Z + 3(0) → Z = 117
+ - Produto: ²⁹⁴₁₁₇Ts (tenessínio)
+- Equação completa: ²⁴⁹Bk + ⁴⁸Ca → ²⁹⁴Ts + 3n
+- Berquélio II: Bk²⁺ (estado de oxidação +2)
+- Hidróxido de berquélio II: Bk(OH)₂
+
+**Aplicação contextual:**
+- Síntese de elementos superpesados
+- Aceleradores de partículas para transmutação
+- Elementos da "ilha de estabilidade"
+- Pesquisa em química nuclear de fronteira
+- Datação radioativa
+
+**Informações complementares:**
+- Berquélio: descoberto em 1949, nomeado em homenagem a Berkeley
+- Tenessínio: elemento 117, descoberto em 2010
+- Estados de oxidação comuns dos actinídeos: +3, +4
+- Vida útil de elementos superpesados: segundos a milissegundos
+
+**Palavras-chave:** berquélio, decaimento radioativo, meia-vida, transmutação nuclear, elementos transurânicos, tenessínio, hidróxido, análise gráfica, conservação nuclear, actinídeos
+
+---
+
+**Questão 02:**
+
+A tabela abaixo apresenta o nome de alguns minerais e a fórmula química da substância que constitui cada um deles.
+
+| Mineral | Fórmula química da substância |
+|---------|-------------------------------|
+| Calcita | CaCO₃ |
+| Cerussita | PbCO₃ |
+| Estroncianita | SrCO₃ |
+| Magnesita | MgCO₃ |
+| Rodocrosita | MnCO₃ |
+| Siderita | FeCO₃ |
+| Witherita | BaCO₃ |
+
+Considerando a tabela, apresente o nome do mineral cujo metal no estado fundamental possui quatro elétrons na sua camada de valência. Apresente, também, a fórmula química da substância que contém o metal de maior raio atômico.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Metal com 4 elétrons na camada de valência:** Cerussita
+
+**Substância com metal de maior raio atômico:** BaCO₃
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de tabela periódica, configuração eletrônica e propriedades atômicas:
+
+1. **Dados da tabela - Minerais carbonatados**:
+   - **Calcita**: CaCO₃ (cálcio)
+   - **Cerussita**: PbCO₃ (chumbo)
+   - **Estroncianita**: SrCO₃ (estrôncio)
+   - **Magnesita**: MgCO₃ (magnésio)
+   - **Rodocrosita**: MnCO₃ (manganês)
+   - **Siderita**: FeCO₃ (ferro)
+   - **Witherita**: BaCO₃ (bário)
+
+2. **Análise da configuração eletrônica**:
+   - **4 elétrons na camada de valência**: Elemento do Grupo 14 (família do carbono)
+   - **Identificação**: Chumbo (Pb) - [Xe] 6s² 6p²
+   - **Camada de valência**: 6s² 6p² = 4 elétrons
+   - **Mineral correspondente**: Cerussita (PbCO₃)
+
+3. **Configurações eletrônicas dos metais**:
+   - **Ca**: [Ar] 4s² (2 elétrons de valência)
+   - **Pb**: [Xe] 6s² 6p² (4 elétrons de valência) ✓
+   - **Sr**: [Kr] 5s² (2 elétrons de valência)
+   - **Mg**: [Ne] 3s² (2 elétrons de valência)
+   - **Mn**: [Ar] 4s² 3d⁵ (7 elétrons de valência)
+   - **Fe**: [Ar] 4s² 3d⁶ (8 elétrons de valência)
+   - **Ba**: [Xe] 6s² (2 elétrons de valência)
+
+4. **Análise do raio atômico**:
+   - **Tendência periódica**: Raio aumenta de cima para baixo no grupo e da direita para esquerda no período
+   - **Comparação entre os metais**: Mg < Ca < Sr < Ba (Grupo 2A)
+   - **Pb**: Está no 6º período, mas é menor que Ba
+   - **Maior raio**: Bário (Ba) - último período entre os alcalino-terrosos
+   - **Substância correspondente**: BaCO₃
+
+5. **Posições na tabela periódica**:
+   - **Grupo 2A (alcalino-terrosos)**: Mg, Ca, Sr, Ba
+   - **Grupo 14**: Pb
+   - **Metais de transição**: Mn, Fe
+
+6. **Conceitos avaliados**:
+   - **Configuração eletrônica**: Identificação de elétrons de valência
+   - **Propriedades periódicas**: Variação do raio atômico
+   - **Classificação periódica**: Grupos e períodos
+   - **Nomenclatura**: Relação mineral-composição química
+
+7. **Raciocínio necessário**:
+   - **1ª parte**: Buscar elemento com 4 elétrons de valência → Pb (Grupo 14)
+   - **2ª parte**: Comparar raios atômicos → Ba (maior período no Grupo 2A)
+
+8. **Conhecimentos complementares**:
+   - **Carbonatos**: Todos os minerais contêm o íon CO₃²⁻
+   - **Estados de oxidação**: Metais formam cátions (+2, exceto Pb que pode ser +2 ou +4)
+   - **Ocorrência natural**: Minerais como fontes de metais
+
+9. **Nível de complexidade**: Questão de nível intermediário que exige domínio de configuração eletrônica e propriedades periódicas.
+
+10. **Padrão UERJ**: Questão que integra conhecimentos de tabela periódica com aplicação prática (mineralogia), exigindo análise comparativa de propriedades atômicas.
+
+---
+
+**Questão 02:**
+
+A reação nuclear entre o ²⁴²Pu e um isótopo do elemento químico com maior energia de ionização localizado no segundo período da tabela de classificação periódica produz o isótopo ²⁶⁰Rf e quatro partículas subatômicas idênticas.
+
+Apresente a equação dessa reação nuclear e indique o número de elétrons do ruterfórdio (Rf) no estado fundamental.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Equação da reação nuclear:**
+
+²⁴²Pu + ²²Ne → ²⁶⁰Rf + 4 ¹n
+₉₄     ₁₀    ₁₀₄    ₀
+
+**Número de elétrons do Rf no estado fundamental:** 104
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de química nuclear, tabela periódica e estrutura atômica:
+
+1. **Identificação do segundo reagente**:
+   - **Critério**: Elemento com maior energia de ionização no 2º período
+   - **Análise do 2º período**: Li, Be, B, C, N, O, F, Ne
+   - **Tendência**: Energia de ionização aumenta da esquerda para direita
+   - **Conclusão**: Neônio (Ne) tem a maior energia de ionização
+   - **Justificativa**: Gás nobre, configuração eletrônica estável
+
+2. **Determinação do isótopo de neônio**:
+   - **Balanceamento nuclear**: Conservação de massa e número atômico
+   - **Equação inicial**: ²⁴²Pu + ᴬNe → ²⁶⁰Rf + partículas
+   - **Conservação de massa**: 242 + A = 260 + massa das partículas
+   - **Análise**: Para produzir 4 nêutrons (4 × 1 = 4), A = 22
+   - **Isótopo**: ²²Ne (neônio-22)
+
+3. **Equação nuclear balanceada**:
+   ```
+   ²⁴²Pu + ²²Ne → ²⁶⁰Rf + 4 ¹n
+   ₉₄     ₁₀    ₁₀₄    ₀
+   ```
+
+4. **Verificação do balanceamento**:
+   
+   **Conservação do número de massa (A)**:
+   - Reagentes: 242 + 22 = 264
+   - Produtos: 260 + 4(1) = 264 ✓
+   
+   **Conservação do número atômico (Z)**:
+   - Reagentes: 94 + 10 = 104
+   - Produtos: 104 + 4(0) = 104 ✓
+
+5. **Identificação das partículas subatômicas**:
+   - **Descrição**: "Quatro partículas subatômicas idênticas"
+   - **Análise**: Baseado no balanceamento, são nêutrons (¹n)
+   - **Características**: Massa = 1, carga = 0
+   - **Símbolo**: ¹₀n ou simplesmente n
+
+6. **Ruterfórdio (Rf)**:
+   - **Símbolo**: Rf
+   - **Número atômico**: 104
+   - **Classificação**: Elemento superpesado, transactinídeo
+   - **Descoberta**: Elemento sintético
+   - **Grupo**: 4 da tabela periódica (mesmo grupo do Ti, Zr, Hf)
+
+7. **Configuração eletrônica do Rf**:
+   - **Número atômico**: Z = 104
+   - **Estado fundamental**: Átomo neutro
+   - **Número de elétrons**: Igual ao número de prótons = 104
+   - **Configuração**: [Rn] 5f¹⁴ 6d² 7s² (prevista)
+
+8. **Conceitos de energia de ionização**:
+   - **Definição**: Energia necessária para remover um elétron
+   - **Tendência periódica**: Aumenta da esquerda para direita no período
+   - **Máximo no período**: Gases nobres (configuração estável)
+   - **Neônio**: 1s² 2s² 2p⁶ (configuração de gás nobre)
+
+9. **Tipos de reação nuclear**:
+   - **Classificação**: Reação de fusão nuclear
+   - **Características**: Núcleos leves bombardeiam núcleos pesados
+   - **Aplicação**: Síntese de elementos superpesados
+   - **Condições**: Altas energias, aceleradores de partículas
+
+10. **Elementos do 2º período e energias de ionização**:
+    - Li: 520 kJ/mol
+    - Be: 900 kJ/mol
+    - B: 801 kJ/mol
+    - C: 1086 kJ/mol
+    - N: 1402 kJ/mol
+    - O: 1314 kJ/mol
+    - F: 1681 kJ/mol
+    - **Ne: 2081 kJ/mol** ← Maior
+
+11. **Isótopos do neônio**:
+    - **Ne-20**: Mais abundante (90,48%)
+    - **Ne-21**: Menos abundante (0,27%)
+    - **Ne-22**: Abundante (9,25%)
+    - **Uso na questão**: ²²Ne para balanceamento nuclear
+
+12. **Aplicações dos elementos superpesados**:
+    - **Pesquisa fundamental**: Expansão da tabela periódica
+    - **Estudo de propriedades**: Relatividade em átomos pesados
+    - **Vida útil**: Geralmente muito curta (milissegundos a minutos)
+    - **Detecção**: Métodos sofisticados de análise
+
+13. **Conceitos avaliados**:
+    - **Tabela periódica**: Localização e propriedades periódicas
+    - **Reações nucleares**: Balanceamento e tipos de partículas
+    - **Estrutura atômica**: Relação entre prótons e elétrons
+    - **Nomenclatura**: Notação nuclear e símbolos
+
+14. **Nível de complexidade**: Questão de nível intermediário que exige conhecimento de propriedades periódicas, química nuclear e estrutura atômica.
+
+15. **Padrão UERJ**: Questão que integra múltiplos conceitos químicos, desde propriedades periódicas até reações nucleares, exigindo raciocínio lógico e conhecimento abrangente.
+
+---
+

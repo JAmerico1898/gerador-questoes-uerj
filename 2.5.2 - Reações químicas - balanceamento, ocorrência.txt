@@ -1,0 +1,1087 @@
+**Questão 04**
+
+Recentemente, em uma clínica de estética em São Paulo, uma pessoa foi vítima de uso incorreto de fenol. Por ser uma substância ácida tóxica, pode acarretar graves consequências, como queimaduras, intoxicação e até mesmo a morte, quando utilizada por pessoas não capacitadas.
+
+*Adaptado de bbc.com, junho/2024.*
+
+Considere que o fenol pode ser encontrado em solução aquosa na concentração de 1,0 mol/L e que a dose letal para adultos seja de 70,5 mg por quilograma de massa corporal.
+
+Apresente a equação química completa e balanceada da reação de ionização do fenol em água, para formar o íon hidrônio, utilizando as fórmulas em linha de ligação para os compostos orgânicos envolvidos. Em seguida, determine o volume mínimo, em mililitros, da solução aquosa necessária para alcançar a dose letal para um adulto de massa igual a 80 kg.
+
+---
+
+**Gabarito Oficial**
+
+**Equação química:**
+
+```
+        OH                           O⁻
+        |                           |
+    ⟨benzeno⟩ + H₂O ⇌ ⟨benzeno⟩ + H₃O⁺
+```
+
+*Descrição detalhada da equação:*
+- **Reagente (fenol):** Anel benzênico com grupo hidroxila (-OH) ligado diretamente ao carbono do anel
+- **Produto orgânico:** Anel benzênico com íon fenóxido (O⁻) - oxigênio com carga negativa
+- **Outros componentes:** H₂O (água) como reagente e H₃O⁺ (íon hidrônio) como produto
+- **Reação de equilíbrio:** Ionização ácida do fenol em meio aquoso
+
+**Cálculos:**
+
+```
+70,5 mg --- 1 kg
+M --- 80 kg
+M = 5640 mg = 5,64 g
+
+Massa molar do fenol: 12 × 6 + 1 × 6 + 16 = 94 g/mol
+
+94 g --- 1000 mL
+5,64 g --- V
+V = 60 mL
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra química orgânica com cálculos estequiométricos em um contexto de saúde pública atual. Os temas centrais incluem:
+
+- **Química orgânica:** Estrutura do fenol (C₆H₅OH) e representação em linha de ligação
+- **Equilíbrios ácido-base:** Ionização de compostos orgânicos em água
+- **Cálculos de concentração:** Molaridade e conversões de unidades
+- **Aplicação prática:** Toxicologia e dose letal
+- **Contextualização social:** Procedimentos estéticos e segurança
+
+**Conceitos-chave para o LLM:**
+- Fenol: composto aromático com caráter ácido fraco
+- Íon fenóxido: base conjugada do fenol
+- Representação estrutural: anel benzênico + grupo funcional
+- Cálculos: dose por massa corporal → massa total → volume de solução
+- Conversões: mg/kg → mg total → g → mL (via molaridade)
+
+**Dados importantes:**
+- Concentração da solução: 1,0 mol/L
+- Dose letal: 70,5 mg/kg
+- Massa molar do fenol: 94 g/mol
+- Massa corporal considerada: 80 kg
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica e Físico-Química
+Habilidades avaliadas: Representação estrutural, equilíbrios químicos, cálculos estequiométricos, aplicação em contextos de saúde, interpretação de dados toxicológicos.
+
+---
+
+**Questão 03**
+
+Para contribuir com a captação de CO₂ atmosférico, uma unidade industrial chilena anunciou a produção de gasolina sintética. Como o principal componente da gasolina é o isooctano (C₈H₁₈), o processo industrial empregado se baseou na reação química representada pela seguinte equação não balanceada:
+
+**CO₂ (g) + H₂ (g) ——→ C₈H₁₈ (ℓ) + H₂O (ℓ)**
+
+Observe na tabela as entalpias-padrão de formação das substâncias que participam dessa reação:
+
+**Tabela de entalpias-padrão de formação:**
+
+| SUBSTÂNCIA | ENTALPIA-PADRÃO DE FORMAÇÃO (kJ/mol) |
+|------------|--------------------------------------|
+| CO₂ (g) | -394 |
+| H₂ (g) | 0 |
+| C₈H₁₈ (ℓ) | -209 |
+| H₂O (ℓ) | -286 |
+
+Após balancear a equação, determine a razão entre o número de mols de CO₂ e H₂. Calcule, ainda, a variação de entalpia da reação, em quilojoules.
+
+---
+
+**Gabarito Oficial**
+
+**Equação balanceada:** 8 CO₂ + 25 H₂ → C₈H₁₈ + 16 H₂O
+
+**Razão:** CO₂/H₂ = 8/25
+
+**Cálculo da variação de entalpia:**
+```
+ΔH° = (ΔH°f C₈H₁₈) + (16 × ΔH°f H₂O) - (8 × ΔH°f CO₂) - (25 × ΔH°f H₂)
+ΔH° = -209 - (16 × 286) + (8 × 394) = -209 - 4576 + 3152 = -1633 kJ
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de termoquímica com aplicações industriais sustentáveis. Os temas centrais incluem:
+
+- **Balanceamento químico:** Equações complexas com múltiplos produtos
+- **Termoquímica:** Cálculo de variação de entalpia usando entalpias de formação
+- **Sustentabilidade:** Captura e conversão de CO₂ atmosférico
+- **Química industrial:** Produção de combustíveis sintéticos
+- **Estequiometria:** Proporções molares em reações químicas
+
+**Conceitos-chave para o LLM:**
+- **Entalpia de formação (ΔH°f):** Energia para formar 1 mol de substância a partir dos elementos
+- **Lei de Hess:** ΔH°reação = Σ ΔH°f(produtos) - Σ ΔH°f(reagentes)
+- **Balanceamento:** Conservação de átomos de cada elemento
+- **Isooctano:** C₈H₁₈, componente principal da gasolina
+- **Reação exotérmica:** ΔH° negativo indica liberação de energia
+
+**Dados importantes da tabela:**
+- **CO₂ (g):** ΔH°f = -394 kJ/mol
+- **H₂ (g):** ΔH°f = 0 kJ/mol (elemento no estado padrão)
+- **C₈H₁₈ (ℓ):** ΔH°f = -209 kJ/mol
+- **H₂O (ℓ):** ΔH°f = -286 kJ/mol
+
+**Processo de balanceamento:**
+1. **Carbono:** 8 CO₂ → C₈H₁₈ (8 carbonos)
+2. **Hidrogênio:** 18 H no produto + 32 H na água = 50 H total → 25 H₂
+3. **Oxigênio:** 16 O₂ do CO₂ = 16 O na água
+4. **Equação balanceada:** 8 CO₂ + 25 H₂ → C₈H₁₈ + 16 H₂O
+
+**Cálculo termoquímico detalhado:**
+```
+ΔH°reação = [ΔH°f(C₈H₁₈) + 16 × ΔH°f(H₂O)] - [8 × ΔH°f(CO₂) + 25 × ΔH°f(H₂)]
+
+Produtos:
+- C₈H₁₈: 1 × (-209) = -209 kJ
+- H₂O: 16 × (-286) = -4576 kJ
+- Total produtos: -4785 kJ
+
+Reagentes:
+- CO₂: 8 × (-394) = -3152 kJ
+- H₂: 25 × (0) = 0 kJ
+- Total reagentes: -3152 kJ
+
+ΔH°reação = -4785 - (-3152) = -1633 kJ
+```
+
+**Aspectos ambientais e industriais:**
+- **Captura de CO₂:** Conversão de gás do efeito estufa em combustível
+- **Economia circular:** Reutilização de resíduos atmosféricos
+- **Energia renovável:** H₂ pode ser produzido por eletrólise sustentável
+- **Combustíveis sintéticos:** Alternativa aos combustíveis fósseis
+
+**Significado do resultado:**
+- **Razão 8:25:** Para cada 8 mols de CO₂, são necessários 25 mols de H₂
+- **ΔH° = -1633 kJ:** Reação altamente exotérmica (libera muita energia)
+- **Viabilidade:** Reação termodinamicamente favorável
+
+**Processo de resolução:**
+1. **Balancear a equação:** Começar pelo elemento mais complexo (C)
+2. **Calcular a razão:** Usar coeficientes da equação balanceada
+3. **Aplicar Lei de Hess:** Somar entalpias de produtos e subtrair reagentes
+4. **Verificar sinais:** Negativo indica processo exotérmico
+
+Nível de dificuldade: Médio-Alto
+Área: Termoquímica e Estequiometria
+Habilidades avaliadas: Balanceamento de equações complexas, cálculos termoquímicos, aplicação da Lei de Hess, interpretação de dados tabulares, contextualização com sustentabilidade ambiental.
+
+---
+
+**Questão 02**
+
+**Imagem apresentada:**
+
+A questão apresenta um meme com a seguinte estrutura:
+- **Título:** "PARA QUE SERVE O ÁCIDO CLORÍDRICO EM UM ARSENAL MILITAR?"
+- **Imagem:** Um gato branco usando óculos e gravata borboleta vermelha, em um ambiente que simula um laboratório químico, com vidrarias, fórmulas químicas escritas em um quadro ao fundo e equipamentos de laboratório
+- **Resposta do meme:** "PARA NEUTRALIZAR AS BASES DO INIMIGO."
+- **Fonte:** FB.com/QualitativaqlnorgUfrj
+
+Considere que, no texto acima, as "bases do inimigo" correspondam, na verdade, ao hidróxido de bário.
+
+Escreva a equação química completa e balanceada da reação de neutralização total do ácido clorídrico por essa base. Aponte, ainda, o nome do produto iônico formado na reação.
+
+---
+
+**Gabarito Oficial**
+
+**Equação química:**
+```
+2 HCℓ + Ba(OH)₂ → BaCℓ₂ + 2 H₂O
+```
+
+**Nome do produto iônico:** Cloreto de bário
+
+---
+
+**Contexto para LLM:**
+Esta questão utiliza humor científico para abordar conceitos fundamentais de química ácido-base. Os temas centrais incluem:
+
+- **Reações de neutralização:** Interação entre ácidos e bases
+- **Balanceamento químico:** Conservação de átomos e cargas
+- **Nomenclatura de sais:** Identificação de compostos iônicos
+- **Divulgação científica:** Uso de memes para ensinar química
+- **Estequiometria:** Proporções entre reagentes e produtos
+
+**Conceitos-chave para o LLM:**
+- **Ácido clorídrico (HCℓ):** Ácido forte, monoprótico
+- **Hidróxido de bário [Ba(OH)₂]:** Base forte, diprótica
+- **Neutralização:** H⁺ + OH⁻ → H₂O
+- **Sal formado:** BaCℓ₂ (cloreto de bário)
+- **Estequiometria:** 2:1 (ácido:base) devido às diferentes proteicidades
+
+**Análise da reação de neutralização:**
+
+**Reagentes:**
+- **HCℓ:** Ácido monoprótico (doa 1 H⁺ por molécula)
+- **Ba(OH)₂:** Base diprótica (libera 2 OH⁻ por fórmula unitária)
+
+**Reação de neutralização:**
+```
+2 HCℓ + Ba(OH)₂ → BaCℓ₂ + 2 H₂O
+```
+
+**Verificação do balanceamento:**
+- **Hidrogênio:** 2 (HCℓ) + 2 (OH) = 4 → 4 (H₂O) ✓
+- **Cloro:** 2 (HCℓ) → 2 (BaCℓ₂) ✓
+- **Bário:** 1 [Ba(OH)₂] → 1 (BaCℓ₂) ✓
+- **Oxigênio:** 2 [Ba(OH)₂] → 2 (H₂O) ✓
+
+**Análise iônica da reação:**
+
+**Dissociação dos reagentes:**
+```
+HCℓ → H⁺ + Cℓ⁻
+Ba(OH)₂ → Ba²⁺ + 2 OH⁻
+```
+
+**Reação iônica completa:**
+```
+2 H⁺ + 2 Cℓ⁻ + Ba²⁺ + 2 OH⁻ → Ba²⁺ + 2 Cℓ⁻ + 2 H₂O
+```
+
+**Reação iônica líquida:**
+```
+2 H⁺ + 2 OH⁻ → 2 H₂O
+ou simplificando: H⁺ + OH⁻ → H₂O
+```
+
+**Formação do sal:**
+```
+Ba²⁺ + 2 Cℓ⁻ → BaCℓ₂
+```
+
+**Produto iônico - Cloreto de bário:**
+
+**Nomenclatura:**
+- **Nome:** Cloreto de bário
+- **Fórmula:** BaCℓ₂
+- **Classificação:** Sal neutro
+
+**Propriedades do BaCℓ₂:**
+- **Aparência:** Sólido cristalino branco
+- **Solubilidade:** Muito solúvel em água
+- **Toxicidade:** Tóxico (compostos de bário solúveis)
+- **Aplicações:** Pirotecnia (chama verde), laboratório
+
+**Características da neutralização:**
+
+**Neutralização total:**
+- **Definição:** Todos os H⁺ reagem com todos os OH⁻
+- **pH resultante:** ≈ 7 (neutro)
+- **Indicador:** Mudança de cor em indicadores ácido-base
+
+**Estequiometria da reação:**
+- **Proporção molar:** 2 HCℓ : 1 Ba(OH)₂
+- **Razão:** 2:1 devido à diferença de proteicidade
+- **Produto:** 1 mol de sal + 2 mols de água
+
+**Aspectos educacionais do meme:**
+
+**Humor científico:**
+- **Trocadilho:** "Bases do inimigo" vs bases químicas
+- **Contextualização:** Arsenal militar vs laboratório
+- **Memorização:** Associação lúdica facilita aprendizado
+
+**Divulgação científica:**
+- **Acessibilidade:** Linguagem informal
+- **Engajamento:** Formato de meme atrai atenção
+- **Educação:** Conceitos químicos em contexto divertido
+
+**Aplicações práticas da neutralização:**
+
+**Laboratório:**
+- **Titulação:** Determinação de concentrações
+- **Preparo de soluções:** Ajuste de pH
+- **Síntese:** Obtenção de sais específicos
+
+**Indústria:**
+- **Tratamento de efluentes:** Neutralização de resíduos ácidos
+- **Produção de sais:** Síntese industrial
+- **Controle de qualidade:** Análise de produtos
+
+**Cotidiano:**
+- **Antiácidos:** Neutralização da acidez estomacal
+- **Agricultura:** Correção do pH do solo
+- **Piscinas:** Ajuste do pH da água
+
+**Segurança química:**
+
+**HCℓ:**
+- **Corrosivo:** Pode causar queimaduras
+- **Vapores:** Irritantes das vias respiratórias
+- **Manuseio:** Usar EPI adequado
+
+**Ba(OH)₂:**
+- **Cáustico:** Base forte, corrosiva
+- **Toxicidade:** Compostos de bário são tóxicos
+- **Precauções:** Evitar inalação e contato
+
+**BaCℓ₂:**
+- **Toxicidade:** Veneno para mamíferos
+- **Descarte:** Tratamento especial de resíduos
+- **Antídoto:** Sulfato de sódio (precipita Ba²⁺)
+
+**Dados importantes:**
+- **Estequiometria:** 2 HCℓ : 1 Ba(OH)₂ : 1 BaCℓ₂ : 2 H₂O
+- **Sal formado:** Cloreto de bário (BaCℓ₂)
+- **Tipo de reação:** Neutralização ácido-base
+- **pH final:** Neutro (≈ 7)
+
+**Processo de resolução:**
+1. **Identificar reagentes:** HCℓ (ácido) + Ba(OH)₂ (base)
+2. **Determinar produtos:** Sal (BaCℓ₂) + água (H₂O)
+3. **Balancear equação:** Considerar proteicidades diferentes
+4. **Nomear sal:** Ânion + cátion → cloreto de bário
+
+Nível de dificuldade: Básico
+Área: Química Ácido-Base
+Habilidades avaliadas: Reações de neutralização, balanceamento químico, nomenclatura de sais, estequiometria básica, interpretação de contextos humorísticos aplicados à química.
+
+---
+
+**Questão 07**
+
+Considere a equação química global entre os compostos HBr e NO₂:
+
+**2 HBr + NO₂ ——→ H₂O + NO + Br₂**
+
+Para desenvolver um estudo cinético, foram propostos os mecanismos de reação I e II, descritos na tabela, ambos contendo duas etapas.
+
+**Tabela de mecanismos propostos:**
+
+| Etapa | Mecanismo I | Mecanismo II |
+|-------|-------------|--------------|
+| **lenta** | HBr + NO₂ ——→ HBrO + NO | 2 HBr ——→ H₂ + Br₂ |
+| **rápida** | HBr + HBrO ——→ H₂O + Br₂ | H₂ + NO₂ ——→ H₂O + NO |
+
+Realizou-se, então, um experimento no qual foi medida a velocidade da reação em função da concentração inicial dos reagentes, mantendo-se constante a temperatura. Observe os resultados obtidos:
+
+**Dados experimentais:**
+
+| Concentração inicial (mol.L⁻¹) | Velocidade |
+|-------------------------------|------------|
+| **HBr** | **NO₂** | **(mol.L⁻¹.min⁻¹)** |
+| 0,01 | 0,01 | 0,05 |
+| 0,02 | 0,01 | 0,10 |
+| 0,01 | 0,02 | 0,10 |
+
+Determine a ordem global da reação. Em seguida, indique qual dos dois mecanismos propostos representa essa reação global, justificando sua resposta.
+
+---
+
+**Gabarito Oficial**
+
+**Expressão da velocidade:** v = k [HBr] [NO₂]; logo, a ordem global é igual a 2.
+
+**Mecanismo:** I
+
+**Justificativa:** Na etapa lenta, as ordens de reação do HBr e do NO₂ são iguais às obtidas experimentalmente.
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de cinética química, determinação de ordem de reação e análise de mecanismos reacionais. Os temas centrais incluem:
+
+- **Cinética química:** Estudo da velocidade de reações
+- **Ordem de reação:** Determinação experimental da dependência da velocidade
+- **Mecanismos reacionais:** Etapas elementares que compõem a reação global
+- **Etapa determinante:** Etapa lenta que controla a velocidade global
+- **Lei de velocidade:** Expressão matemática da velocidade em função das concentrações
+
+**Conceitos-chave para o LLM:**
+- **Ordem global:** Soma dos expoentes na lei de velocidade
+- **Etapa lenta:** Determina a lei de velocidade da reação global
+- **Análise de dados:** Comparação de velocidades com concentrações
+- **Mecanismo válido:** Deve reproduzir a lei de velocidade experimental
+- **Proporcionalidade:** v ∝ [A]ᵅ[B]ᵝ
+
+**Determinação da ordem de reação:**
+
+**Análise dos dados experimentais:**
+
+**Experimento 1:** [HBr] = 0,01 M, [NO₂] = 0,01 M, v = 0,05 mol.L⁻¹.min⁻¹
+
+**Experimento 2:** [HBr] = 0,02 M, [NO₂] = 0,01 M, v = 0,10 mol.L⁻¹.min⁻¹
+
+**Experimento 3:** [HBr] = 0,01 M, [NO₂] = 0,02 M, v = 0,10 mol.L⁻¹.min⁻¹
+
+**Determinação da ordem em relação ao HBr:**
+```
+Comparando experimentos 1 e 2 (NO₂ constante):
+v₂/v₁ = ([HBr]₂/[HBr]₁)ⁿ
+0,10/0,05 = (0,02/0,01)ⁿ
+2 = 2ⁿ
+n = 1
+```
+**Ordem em HBr = 1**
+
+**Determinação da ordem em relação ao NO₂:**
+```
+Comparando experimentos 1 e 3 (HBr constante):
+v₃/v₁ = ([NO₂]₃/[NO₂]₁)ᵐ
+0,10/0,05 = (0,02/0,01)ᵐ
+2 = 2ᵐ
+m = 1
+```
+**Ordem em NO₂ = 1**
+
+**Lei de velocidade experimental:**
+```
+v = k [HBr]¹ [NO₂]¹
+```
+
+**Ordem global:**
+```
+Ordem global = 1 + 1 = 2
+```
+
+**Análise dos mecanismos:**
+
+**Mecanismo I:**
+- **Etapa lenta:** HBr + NO₂ → HBrO + NO
+- **Etapa rápida:** HBr + HBrO → H₂O + Br₂
+
+**Lei de velocidade do Mecanismo I:**
+```
+v = k₁ [HBr] [NO₂]
+```
+**Ordem em HBr = 1, Ordem em NO₂ = 1**
+
+**Mecanismo II:**
+- **Etapa lenta:** 2 HBr → H₂ + Br₂
+- **Etapa rápida:** H₂ + NO₂ → H₂O + NO
+
+**Lei de velocidade do Mecanismo II:**
+```
+v = k₂ [HBr]²
+```
+**Ordem em HBr = 2, Ordem em NO₂ = 0**
+
+**Comparação com dados experimentais:**
+
+**Mecanismo I:**
+- **Previsto:** v ∝ [HBr]¹ [NO₂]¹
+- **Experimental:** v ∝ [HBr]¹ [NO₂]¹
+- **Conclusão:** ✓ Compatível
+
+**Mecanismo II:**
+- **Previsto:** v ∝ [HBr]² [NO₂]⁰
+- **Experimental:** v ∝ [HBr]¹ [NO₂]¹
+- **Conclusão:** ✗ Incompatível
+
+**Verificação da escolha:**
+
+**Por que o Mecanismo I é correto?**
+- **Etapa determinante:** A etapa lenta controla a velocidade global
+- **Lei de velocidade:** Depende apenas dos reagentes da etapa lenta
+- **Concordância:** Ordens de reação coincidem com os dados experimentais
+
+**Por que o Mecanismo II é incorreto?**
+- **Dependência incorreta:** Não prevê dependência de NO₂
+- **Ordem do HBr:** Prevê ordem 2, mas experimental é 1
+- **Incompatibilidade:** Lei de velocidade não corresponde aos dados
+
+**Princípios da cinética química:**
+
+**Etapa determinante de velocidade:**
+- **Definição:** Etapa mais lenta de um mecanismo
+- **Controle:** Determina a velocidade global da reação
+- **Lei de velocidade:** Baseia-se nos reagentes da etapa lenta
+
+**Aproximação do estado quasi-estacionário:**
+- **Intermediários:** Concentração aproximadamente constante
+- **Aplicação:** Quando etapas posteriores são muito rápidas
+- **Simplificação:** Permite deduzir leis de velocidade complexas
+
+**Aspectos experimentais:**
+
+**Método de velocidades iniciais:**
+- **Princípio:** Medir v₀ variando concentrações iniciais
+- **Vantagem:** Evita complicações de produtos
+- **Análise:** Determina ordens de reação independentemente
+
+**Condições controladas:**
+- **Temperatura constante:** k permanece constante
+- **Concentrações iniciais:** Variam sistematicamente
+- **Produtos desprezíveis:** t → 0, [produtos] ≈ 0
+
+**Dados importantes:**
+- **Ordem global:** 2 (soma das ordens individuais)
+- **Lei de velocidade:** v = k[HBr][NO₂]
+- **Mecanismo correto:** I (etapa lenta compatível)
+- **Justificativa:** Ordens experimentais = ordens da etapa lenta
+
+**Processo de resolução:**
+1. **Analisar dados:** Comparar experimentos para determinar ordens
+2. **Calcular ordem global:** Somar ordens individuais
+3. **Examinar mecanismos:** Lei de velocidade de cada etapa lenta
+4. **Comparar:** Verificar qual mecanismo reproduz dados experimentais
+5. **Justificar:** Explicar com base na etapa determinante
+
+Nível de dificuldade: Alto
+Área: Cinética Química
+Habilidades avaliadas: Determinação de ordem de reação, análise de dados experimentais, mecanismos reacionais, lei de velocidade, etapa determinante de velocidade.
+
+---
+
+**Questão 01:**
+
+O trióxido de diarsênio é um sólido venenoso obtido pela reação do arsênio (As) com o gás oxigênio. Sua entalpia padrão de formação é igual a -660 kJ.mol⁻¹.
+
+Escreva a equação química completa e balanceada da obtenção do trióxido de diarsênio. Em seguida, calcule a quantidade de energia, em quilojoules, liberada dessa formação de sólido a partir da oxidação de 1,5 kg de arsênio.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Equação química balanceada:**
+
+**4 As₍s₎ + 3 O₂₍g₎ → 2 As₂O₃₍s₎**
+
+**Cálculo da energia liberada:**
+
+4 × 75g As → 2 × 660 kJ
+
+1.500g As → X        X = 6.600 kJ
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos fundamentais de termoquímica e estequiometria:
+
+1. **Informações fornecidas**:
+   - **Composto**: Trióxido de diarsênio (As₂O₃)
+   - **Natureza**: Sólido venenoso
+   - **Formação**: Reação entre arsênio metálico e oxigênio gasoso
+   - **Entalpia de formação**: ΔHf° = -660 kJ/mol
+
+2. **Conhecimentos prévios necessários**:
+   - **Massa molar do arsênio**: 75 g/mol
+   - **Fórmula do trióxido de diarsênio**: As₂O₃
+   - **Estados físicos**: As (sólido), O₂ (gasoso), As₂O₃ (sólido)
+
+3. **Balanceamento da equação**:
+   - **Elementos envolvidos**: As e O
+   - **Produtos**: As₂O₃ (2 átomos de As, 3 átomos de O)
+   - **Balanceamento**: 4 As + 3 O₂ → 2 As₂O₃
+   - **Verificação**: 4 As à esquerda = 4 As à direita; 6 O à esquerda = 6 O à direita
+
+4. **Conceitos de termoquímica**:
+   - **Entalpia de formação**: Energia envolvida na formação de 1 mol de composto
+   - **Sinal negativo**: Reação exotérmica (libera energia)
+   - **Interpretação**: -660 kJ/mol significa que cada mol de As₂O₃ formado libera 660 kJ
+
+5. **Cálculo estequiométrico**:
+   - **Relação molar**: 4 mol As → 2 mol As₂O₃
+   - **Conversão**: 1,5 kg = 1.500 g de arsênio
+   - **Massa molar**: 4 × 75g = 300g de As produzem 2 mol de As₂O₃
+   - **Energia**: 2 mol As₂O₃ × 660 kJ/mol = 1.320 kJ para 300g As
+   - **Proporção**: 1.500g As × (1.320 kJ / 300g As) = 6.600 kJ
+
+6. **Raciocínio alternativo**:
+   - **1.500g ÷ 75g/mol = 20 mol de As**
+   - **20 mol As × (2 mol As₂O₃ / 4 mol As) = 10 mol As₂O₃**
+   - **10 mol As₂O₃ × 660 kJ/mol = 6.600 kJ**
+
+7. **Conceitos avaliados**:
+   - **Balanceamento de equações**: Conservação de massa
+   - **Estequiometria**: Relações quantitativas em reações químicas
+   - **Termoquímica**: Aplicação de entalpias de formação
+   - **Conversão de unidades**: kg para g, mol para energia
+
+8. **Contextualização**:
+   - **Toxicidade**: Menção ao caráter venenoso do As₂O₃
+   - **Aplicação prática**: Cálculo de energia em processo industrial
+   - **Relevância ambiental**: Formação de óxidos de arsênio
+
+9. **Nível de complexidade**: Questão de nível básico-intermediário que integra balanceamento, estequiometria e termoquímica.
+
+10. **Padrão UERJ**: Questão que combina conhecimentos teóricos com cálculos práticos, exigindo domínio de conceitos fundamentais e habilidades matemáticas.
+
+---
+
+**Questão 06:**
+
+A equação química abaixo representa a reação da produção industrial de gás hidrogênio.
+
+**H₂O (g) + C (s) → CO (g) + H₂ (g)**
+
+Na determinação da variação de entalpia dessa reação química, são consideradas as seguintes equações termoquímicas, a 25 °C e 1 atm:
+
+```
+H₂ (g) + ½ O₂ (g) → H₂O (g)     ΔH° = - 242,0 kJ
+
+C (s) + O₂ (g) → CO₂ (g)        ΔH° = - 393,5 kJ
+
+O₂ (g) + 2 CO (g) → 2 CO₂ (g)   ΔH° = - 477,0 kJ
+```
+
+Calcule a energia, em quilojoules, necessária para a produção de 1 kg de gás hidrogênio e nomeie o agente redutor desse processo industrial.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Aplicação da Lei de Hess:**
+
+**Equação 1 (invertida):** H₂O (g) → H₂ (g) + ½ O₂ (g)     ΔH° = + 242,0 kJ
+
+**Equação 2:** C (s) + O₂ (g) → CO₂ (g)                    ΔH° = - 393,5 kJ
+
+**Equação 3 (invertida e dividida por 2):** CO₂ (g) → ½ O₂ (g) + CO (g)     ΔH° = + 238,5 kJ
+
+**Soma das equações:**
+_______________________________________________________________
+**H₂O (g) + C (s) → CO (g) + H₂ (g)     ΔH° = + 87 kJ**
+
+**Cálculo da energia para 1 kg de H₂:**
+
+87 kJ → 2 g
+
+X → 1.000 g        X = 4,35 × 10⁴ kJ
+
+**Agente redutor:** Carbono
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de termoquímica, Lei de Hess e processos industriais:
+
+1. **Reação industrial estudada**:
+   - **Processo**: Produção de gás hidrogênio
+   - **Reação**: H₂O (g) + C (s) → CO (g) + H₂ (g)
+   - **Nome**: Reação do gás d'água ou gaseificação do carbono
+   - **Importância**: Fonte industrial de H₂
+
+2. **Dados termoquímicos fornecidos**:
+   - **Reação 1**: H₂ + ½ O₂ → H₂O (g), ΔH° = -242,0 kJ
+   - **Reação 2**: C + O₂ → CO₂ (g), ΔH° = -393,5 kJ  
+   - **Reação 3**: O₂ + 2 CO → 2 CO₂ (g), ΔH° = -477,0 kJ
+   - **Condições**: 25°C, 1 atm (condições padrão)
+
+3. **Aplicação da Lei de Hess**:
+   - **Princípio**: ΔH independe do caminho da reação
+   - **Método**: Manipulação algébrica de equações
+   - **Objetivo**: Obter a equação desejada
+
+4. **Manipulação das equações**:
+   
+   **Equação 1 (invertida)**:
+   - Original: H₂ + ½ O₂ → H₂O, ΔH° = -242,0 kJ
+   - Invertida: H₂O → H₂ + ½ O₂, ΔH° = +242,0 kJ
+   
+   **Equação 2 (inalterada)**:
+   - C + O₂ → CO₂, ΔH° = -393,5 kJ
+   
+   **Equação 3 (invertida e dividida por 2)**:
+   - Original: O₂ + 2 CO → 2 CO₂, ΔH° = -477,0 kJ
+   - Invertida: 2 CO₂ → O₂ + 2 CO, ΔH° = +477,0 kJ
+   - Dividida por 2: CO₂ → ½ O₂ + CO, ΔH° = +238,5 kJ
+
+5. **Soma das equações manipuladas**:
+   ```
+   H₂O (g) → H₂ (g) + ½ O₂ (g)           ΔH° = +242,0 kJ
+   C (s) + O₂ (g) → CO₂ (g)               ΔH° = -393,5 kJ  
+   CO₂ (g) → ½ O₂ (g) + CO (g)           ΔH° = +238,5 kJ
+   ________________________________________________
+   H₂O (g) + C (s) → CO (g) + H₂ (g)     ΔH° = +87,0 kJ
+   ```
+
+6. **Verificação do cancelamento**:
+   - **O₂**: ½ O₂ + O₂ - ½ O₂ = O₂ (cancela)
+   - **CO₂**: +CO₂ - CO₂ = 0 (cancela)
+   - **Resultado**: Apenas reagentes e produtos desejados
+
+7. **Cálculo da energia para 1 kg de H₂**:
+   
+   **Interpretação do ΔH°**:
+   - ΔH° = +87 kJ para 1 mol de H₂ produzido
+   - Massa molar do H₂ = 2 g/mol
+   - Portanto: 87 kJ necessários para produzir 2 g de H₂
+   
+   **Proporção**:
+   - 87 kJ → 2 g de H₂
+   - X → 1.000 g de H₂
+   - X = (87 × 1.000) / 2 = 43.500 kJ = 4,35 × 10⁴ kJ
+
+8. **Identificação do agente redutor**:
+   - **Análise da reação**: H₂O + C → CO + H₂
+   - **Estados de oxidação**:
+     - C: 0 → +2 (perde elétrons, oxidação)
+     - H: +1 → 0 (ganha elétrons, redução)
+   - **Agente redutor**: Carbono (provoca redução do H⁺)
+
+9. **Estados de oxidação detalhados**:
+   ```
+   H₂O + C → CO + H₂
+   +1-2   0   +2-2  0
+   ```
+   - **Carbono**: 0 → +2 (oxidação)
+   - **Hidrogênio**: +1 → 0 (redução)
+
+10. **Aspectos energéticos**:
+    - **ΔH° > 0**: Reação endotérmica
+    - **Necessidade**: Fornecimento de energia (aquecimento)
+    - **Condições industriais**: Altas temperaturas (800-1000°C)
+
+11. **Processo industrial - Gás d'água**:
+    - **Matérias-primas**: Vapor d'água + carvão/coque
+    - **Produtos**: H₂ + CO (gás de síntese)
+    - **Aplicações**: Produção de amônia, metanol, combustíveis
+
+12. **Reação complementar (shift)**:
+    ```
+    CO + H₂O → CO₂ + H₂ (reação de deslocamento)
+    ```
+    - **Objetivo**: Aumentar produção de H₂
+    - **Resultado**: Conversão de CO em mais H₂
+
+13. **Conceitos avaliados**:
+    - **Lei de Hess**: Manipulação de equações termoquímicas
+    - **Termoquímica**: Cálculos de variação de entalpia
+    - **Estequiometria**: Relações mol-massa
+    - **Oxidação-redução**: Identificação de agentes
+
+14. **Verificação dimensional**:
+    ```
+    kJ/mol × mol = kJ
+    (87 kJ/2g) × 1000g = 43.500 kJ = 4,35 × 10⁴ kJ
+    ```
+
+15. **Importância industrial**:
+    - **Produção de H₂**: Matéria-prima para diversos processos
+    - **Processo Haber-Bosch**: Síntese de amônia
+    - **Refinarias**: Hidrocraqueamento, dessulfurização
+
+16. **Nível de complexidade**: Questão de nível intermediário-avançado que exige domínio da Lei de Hess e cálculos estequiométricos.
+
+17. **Padrão UERJ**: Questão que combina conceitos teóricos de termoquímica com aplicação industrial prática, exigindo manipulação matemática e compreensão de processos redox.
+
+---
+
+**Questão 08:**
+
+O cobre metálico é obtido a partir do sulfeto de cobre I em duas etapas subsequentes, representadas pelas seguintes equações químicas:
+
+**Etapa 1:** 2 Cu₂S (s) + 3 O₂ (g) → 2 Cu₂O (s) + 2 SO₂ (g)
+
+**Etapa 2:** Cu₂O (s) + C (s) → 2 Cu (s) + CO (g)
+
+Em uma unidade industrial, 477 kg de Cu₂S reagiram com 100% de rendimento em cada uma das etapas.
+
+Nomeie os dois gases formados nesse processo. Em seguida, calcule o volume, em litros, de cada um desses gases, admitindo comportamento ideal e condições normais de temperatura e pressão.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Gases formados:**
+- Dióxido de enxofre
+- Monóxido de carbono
+
+**Cálculo dos volumes:**
+
+**Relação estequiométrica:**
+2 Cu₂S → 2 SO₂ → 2 CO
+
+318 g → 44,8 L → 44,8 L
+
+477.000 g → X → X        X = 67.200 L
+
+**Volumes nas CNTP:**
+- SO₂ = 6,72 × 10⁴ L
+- CO = 6,72 × 10⁴ L
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de estequiometria, gases ideais e processos metalúrgicos:
+
+1. **Processo metalúrgico do cobre**:
+   - **Matéria-prima**: Sulfeto de cobre I (Cu₂S)
+   - **Produto final**: Cobre metálico (Cu)
+   - **Etapas**: Processo de duas etapas sequenciais
+   - **Rendimento**: 100% em cada etapa (condição ideal)
+
+2. **Análise da Etapa 1**:
+   ```
+   2 Cu₂S (s) + 3 O₂ (g) → 2 Cu₂O (s) + 2 SO₂ (g)
+   ```
+   - **Tipo**: Reação de ustulação (oxidação)
+   - **Reagentes**: Sulfeto de cobre I + oxigênio
+   - **Produtos**: Óxido de cobre I + dióxido de enxofre
+   - **Objetivo**: Remover enxofre e formar óxido
+
+3. **Análise da Etapa 2**:
+   ```
+   Cu₂O (s) + C (s) → 2 Cu (s) + CO (g)
+   ```
+   - **Tipo**: Reação de redução
+   - **Agente redutor**: Carbono
+   - **Produto desejado**: Cobre metálico
+   - **Subproduto**: Monóxido de carbono
+
+4. **Identificação dos gases**:
+   
+   **Dióxido de enxofre (SO₂)**:
+   - **Formação**: Etapa 1
+   - **Características**: Gás tóxico, irritante
+   - **Nomenclatura**: Dióxido de enxofre
+   
+   **Monóxido de carbono (CO)**:
+   - **Formação**: Etapa 2
+   - **Características**: Gás tóxico, incolor, inodoro
+   - **Nomenclatura**: Monóxido de carbono
+
+5. **Dados para cálculos**:
+   - **Massa de Cu₂S**: 477 kg = 477.000 g
+   - **Condições**: CNTP (0°C, 1 atm)
+   - **Volume molar**: 22,4 L/mol nas CNTP
+   - **Rendimento**: 100% em ambas as etapas
+
+6. **Cálculo das massas molares**:
+   - **Cu₂S**: 2(63,5) + 32 = 159 g/mol
+   - **SO₂**: 32 + 2(16) = 64 g/mol
+   - **CO**: 12 + 16 = 28 g/mol
+
+7. **Relação estequiométrica global**:
+   - **Etapa 1**: 2 Cu₂S → 2 SO₂
+   - **Etapa 2**: 2 Cu₂S → 1 Cu₂O → 2 CO
+   - **Relação global**: 2 Cu₂S → 2 SO₂ → 2 CO
+   - **Simplificação**: 1 Cu₂S → 1 SO₂ → 1 CO
+
+8. **Cálculo do número de mols**:
+   - **Mols de Cu₂S**: 477.000 g ÷ 159 g/mol = 3.000 mol
+   - **Mols de SO₂**: 3.000 mol (relação 1:1)
+   - **Mols de CO**: 3.000 mol (relação 1:1)
+
+9. **Cálculo dos volumes nas CNTP**:
+   
+   **Volume de SO₂**:
+   - V = n × Vm = 3.000 mol × 22,4 L/mol = 67.200 L
+   - Notação científica: 6,72 × 10⁴ L
+   
+   **Volume de CO**:
+   - V = n × Vm = 3.000 mol × 22,4 L/mol = 67.200 L
+   - Notação científica: 6,72 × 10⁴ L
+
+10. **Verificação através da resposta oficial**:
+    - **Método alternativo**: Usando massa molar do Cu₂S
+    - 2 mol Cu₂S = 2 × 159 g = 318 g
+    - 2 mol de gás = 2 × 22,4 L = 44,8 L
+    - Proporção: 477.000 g × (44,8 L / 318 g) = 67.200 L
+
+11. **Aspectos ambientais**:
+    
+    **SO₂**:
+    - **Poluente**: Contribui para chuva ácida
+    - **Tratamento**: Necessário antes da liberação
+    - **Aproveitamento**: Pode ser convertido em ácido sulfúrico
+    
+    **CO**:
+    - **Toxicidade**: Extremamente tóxico
+    - **Uso**: Pode ser usado como combustível ou redutor
+
+12. **Processo industrial real**:
+    - **Controle ambiental**: Captura e tratamento de gases
+    - **Eficiência**: Rendimentos próximos a 100% são ideais
+    - **Economia**: Aproveitamento de subprodutos
+
+13. **Conceitos de gases ideais**:
+    - **Lei dos gases ideais**: PV = nRT
+    - **CNTP**: Condições padronizadas (0°C, 1 atm)
+    - **Volume molar**: 22,4 L/mol nas CNTP
+
+14. **Verificação dimensional**:
+    ```
+    [g] × [L/g] = [L]
+    [mol] × [L/mol] = [L]
+    477.000 g × (22,4 L/mol ÷ 159 g/mol) = 67.200 L
+    ```
+
+15. **Conceitos avaliados**:
+    - **Estequiometria**: Relações quantitativas em reações
+    - **Gases ideais**: Cálculos de volume
+    - **Processos metalúrgicos**: Sequência de reações
+    - **Nomenclatura inorgânica**: Óxidos e gases
+
+16. **Aplicações práticas**:
+    - **Metalurgia**: Extração de metais
+    - **Controle ambiental**: Tratamento de gases tóxicos
+    - **Economia circular**: Aproveitamento de subprodutos
+
+17. **Nível de complexidade**: Questão de nível intermediário que integra estequiometria, gases ideais e processos industriais.
+
+18. **Padrão UERJ**: Questão que combina conhecimentos teóricos com aplicação industrial, exigindo domínio de cálculos estequiométricos e compreensão de processos metalúrgicos.
+
+---
+
+**Questão 09:**
+
+Para prevenção do bócio, doença causada pela falta de iodo no organismo, recomenda-se a adição de 0,005%, em massa, de iodato de potássio ao sal de cozinha. O iodato de potássio é produzido pela reação entre o iodo molecular e o hidróxido de potássio, que forma também água e iodeto de potássio.
+
+Escreva a equação química completa e balanceada para a obtenção do iodato de potássio e determine a massa, em gramas, do íon iodato presente em 1 kg de sal de cozinha.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Equação química balanceada:**
+
+**6 KOH + 3 I₂ → 5 KI + KIO₃ + 3 H₂O**
+
+**Cálculo da massa do íon iodato:**
+
+0,005 g de KIO₃ → 100 g da mistura
+
+X g → 1.000 g da mistura
+
+X = 0,05 g de KIO₃ em 1 kg de mistura
+
+**Relação estequiométrica:**
+
+214 g KIO₃ → 175 g IO₃⁻
+
+0,05 g → Y ⇒ 0,04 g IO₃⁻
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de balanceamento químico, estequiometria e saúde pública:
+
+1. **Contexto da saúde pública**:
+   - **Bócio**: Doença causada por deficiência de iodo
+   - **Prevenção**: Adição de compostos iodados ao sal
+   - **Concentração**: 0,005% em massa de KIO₃
+   - **Importância**: Política de saúde pública preventiva
+
+2. **Identificação dos reagentes e produtos**:
+   - **Reagentes**: Iodo molecular (I₂) + hidróxido de potássio (KOH)
+   - **Produtos**: Iodato de potássio (KIO₃) + iodeto de potássio (KI) + água (H₂O)
+   - **Tipo de reação**: Dismutação (desproporcionamento)
+
+3. **Balanceamento da equação**:
+   
+   **Análise dos estados de oxidação**:
+   - **I₂**: Estado de oxidação 0
+   - **KI**: I com estado de oxidação -1 (redução)
+   - **KIO₃**: I com estado de oxidação +5 (oxidação)
+   
+   **Equação balanceada**:
+   ```
+   6 KOH + 3 I₂ → 5 KI + KIO₃ + 3 H₂O
+   ```
+
+4. **Verificação do balanceamento**:
+   
+   **Elementos**:
+   - **K**: 6 (esquerda) = 5 + 1 = 6 (direita) ✓
+   - **O**: 6 (esquerda) = 3 + 3 = 6 (direita) ✓
+   - **H**: 6 (esquerda) = 6 (direita) ✓
+   - **I**: 6 (esquerda) = 5 + 1 = 6 (direita) ✓
+   
+   **Cargas**: Reação em meio básico, balanceada ✓
+
+5. **Cálculo da massa de KIO₃ em 1 kg de sal**:
+   
+   **Concentração dada**: 0,005% em massa
+   - **Interpretação**: 0,005 g de KIO₃ em 100 g de mistura
+   - **Regra de três**: 
+     ```
+     0,005 g KIO₃ ---- 100 g mistura
+     X g KIO₃ ---- 1.000 g mistura
+     X = 0,05 g de KIO₃
+     ```
+
+6. **Cálculo da massa do íon iodato (IO₃⁻)**:
+   
+   **Massas molares**:
+   - **KIO₃**: 39 + 127 + 3(16) = 214 g/mol
+   - **IO₃⁻**: 127 + 3(16) = 175 g/mol
+   
+   **Relação de massas**:
+   ```
+   214 g KIO₃ ---- 175 g IO₃⁻
+   0,05 g KIO₃ ---- Y g IO₃⁻
+   Y = (0,05 × 175) / 214 = 0,04 g IO₃⁻
+   ```
+
+7. **Análise da reação de dismutação**:
+   - **Dismutação**: Um elemento em estado intermediário forma produtos com estados de oxidação maior e menor
+   - **I₂ (0)**: Forma I⁻ (-1) e I⁵⁺ (+5)
+   - **Proporção**: 5 átomos reduzidos : 1 átomo oxidado
+
+8. **Estados de oxidação do iodo**:
+   ```
+   I₂ → KI + KIO₃
+   0  → -1   +5
+   ```
+   - **Redução**: I₂ → I⁻ (ganha elétrons)
+   - **Oxidação**: I₂ → IO₃⁻ (perde elétrons)
+
+9. **Importância nutricional**:
+   - **Função do iodo**: Síntese de hormônios da tireoide
+   - **Deficiência**: Causa bócio, cretinismo
+   - **Fortificação**: Estratégia de saúde pública
+   - **Concentração**: Dosagem adequada para prevenção
+
+10. **Verificação dimensional**:
+    ```
+    [%] × [kg] = [g]
+    0,005% × 1.000 g = 0,05 g KIO₃
+    
+    [g KIO₃] × [g IO₃⁻/g KIO₃] = [g IO₃⁻]
+    0,05 g × (175/214) = 0,04 g IO₃⁻
+    ```
+
+11. **Outros compostos iodados usados**:
+    - **KI**: Iodeto de potássio (mais comum historicamente)
+    - **KIO₃**: Iodato de potássio (mais estável)
+    - **KIO₄**: Periodato de potássio (menos comum)
+
+12. **Aspectos da reação industrial**:
+    - **Condições**: Meio básico (KOH)
+    - **Rendimento**: Alto para reações de dismutação
+    - **Purificação**: Separação de KI e KIO₃
+
+13. **Conceitos avaliados**:
+    - **Balanceamento químico**: Reações redox complexas
+    - **Estequiometria**: Cálculos de massa
+    - **Concentração percentual**: Aplicação prática
+    - **Estados de oxidação**: Reações de dismutação
+
+14. **Cálculo alternativo**:
+    ```
+    0,005% = 0,005/100 = 5 × 10⁻⁵
+    Massa KIO₃ = 1.000 g × 5 × 10⁻⁵ = 0,05 g
+    Fração mássica IO₃⁻ = 175/214 = 0,8178
+    Massa IO₃⁻ = 0,05 g × 0,8178 ≈ 0,04 g
+    ```
+
+15. **Comparação com outras fortificações**:
+    - **Ácido fólico**: Farinhas (prevenção de malformações)
+    - **Ferro**: Farinhas (prevenção de anemia)
+    - **Vitamina D**: Leite (prevenção de raquitismo)
+
+16. **Aspectos regulatórios**:
+    - **ANVISA**: Regulamenta fortificação
+    - **Concentração**: Definida por estudos epidemiológicos
+    - **Controle de qualidade**: Monitoramento contínuo
+
+17. **Nível de complexidade**: Questão de nível intermediário que integra balanceamento químico, estequiometria e aplicação em saúde pública.
+
+18. **Padrão UERJ**: Questão que combina conceitos químicos fundamentais com aplicação prática relevante para a sociedade, exigindo domínio de balanceamento e cálculos estequiométricos.
+
+---
+

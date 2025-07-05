@@ -1,0 +1,1326 @@
+# Questão UERJ Biologia - Vírus e Especificidade Celular
+
+## QUESTÃO ORIGINAL
+
+**Questão 01**
+
+Vírus são parasitas que conseguem invadir e se reproduzir em diferentes tipos celulares, apresentando uma especificidade em relação às células em que conseguem se hospedar. Sabe-se que, em hemácias de mamíferos, esses parasitas não conseguem se reproduzir.
+
+Explique por que esses parasitas são específicos em relação aos tipos celulares que conseguem invadir. Explique, também, por que os vírus não conseguem se multiplicar em hemácias de mamíferos.
+
+## RESPOSTA OFICIAL
+
+**Explicação 1:** As proteínas dos vírus se encaixam nos receptores de membrana presentes em alguns tipos de células / diferentes células apresentam diferentes tipos de receptores de membrana.
+
+**Explicação 2:** Hemácias de mamíferos não apresentam núcleo / material genético / DNA cromossomial.
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão dissertativa explicativa
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia
+- **Tópicos abordados:** Virologia, biologia celular, especificidade viral
+- **Estrutura:** Duas partes explicativas interconectadas
+
+### Conceitos-chave avaliados:
+1. **Especificidade viral:** Interação proteína-receptor
+2. **Tropismo celular:** Seletividade de hospedeiros
+3. **Estrutura de hemácias:** Ausência de núcleo em mamíferos
+4. **Replicação viral:** Dependência de material genético celular
+
+### Padrão de resposta esperado:
+- Explicação baseada em mecanismos moleculares
+- Conexão entre estrutura e função
+- Conhecimento específico sobre hemácias de mamíferos
+- Raciocínio biológico integrado
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Formato:** Questões que exigem explicações científicas fundamentadas
+2. **Abordagem:** Integração de conhecimentos de diferentes áreas da biologia
+3. **Linguagem:** Científica, mas acessível ao nível do ensino médio
+4. **Estrutura:** Apresentação de informação seguida de questionamento explicativo
+5. **Avaliação:** Compreensão conceitual e capacidade de aplicação
+
+### Temas relacionados para questões similares:
+- Especificidade enzima-substrato
+- Interações antígeno-anticorpo
+- Tropismo de patógenos
+- Estruturas celulares especializadas
+- Mecanismos de infecção viral
+- Diferenças entre células procarióticas e eucarióticas
+
+### Padrões de formulação:
+- Apresentação de fenômeno biológico
+- Solicitação de explicação baseada em fundamentos científicos
+- Conexão entre estrutura molecular e função biológica
+- Uso de exemplos específicos (hemácias de mamíferos)
+
+## MODELO PARA QUESTÕES SIMILARES
+
+**Estrutura sugerida:**
+1. Apresentação de um fenômeno biológico
+2. Contextualização com exemplo específico
+3. Solicitação de explicação em duas partes
+4. Foco em mecanismos moleculares/celulares
+5. Integração de conhecimentos de diferentes áreas
+
+**Elementos essenciais:**
+- Linguagem científica apropriada
+- Conceitos fundamentais da biologia
+- Exemplos concretos
+- Raciocínio causa-efeito
+- Aplicação prática do conhecimento teórico
+
+---
+
+
+## Questão de Biologia - UERJ (Questão 06)
+
+### Enunciado da Questão
+
+Os bacteriófagos são vírus que compõem a microbiota intestinal e possuem potencial para regular comunidades bacterianas. No intestino saudável, a dinâmica fago-hospedeiro provoca grandes mudanças nas comunidades de bactérias e de fagos ao longo da vida humana. Na infância, há maior abundância e diversidade de fagos; na fase adulta, a comunidade de fagos é menor e mais estável, provocando o aumento da expansão e da diversidade bacteriana, como ilustra a imagem.
+
+### Descrição Detalhada da Figura
+
+A figura apresenta uma comparação entre dois cenários da microbiota intestinal:
+
+**INFÂNCIA (lado esquerdo):**
+- Representa o epitélio intestinal (base vermelha com células em formato oval)
+- Mostra alta densidade de bacteriófagos (representados por estruturas em formato de "T" ou "Y" invertido em cores variadas: rosa/magenta, azul, amarelo, cinza, verde)
+- Apresenta menor quantidade de bactérias (formas alongadas/cilíndricas em tons mais claros)
+- Os fagos são predominantes numericamente
+- Maior diversidade visual de tipos de fagos
+
+**FASE ADULTA (lado direito):**
+- Mesmo epitélio intestinal na base
+- Menor densidade de bacteriófagos
+- Maior abundância de bactérias (formas alongadas/cilíndricas em cores mais variadas e vibrantes: verde, roxo, azul, amarelo, rosa)
+- As bactérias são mais numerosas e diversificadas
+- Alguns fagos ainda presentes, mas em menor quantidade
+- Equilíbrio invertido em relação à infância
+
+### Pergunta da Questão
+
+Sabendo que os bacteriófagos podem realizar dois tipos de ciclos reprodutivos na presença de bactérias, identifique o tipo de ciclo predominante na infância e aquele predominante na fase adulta. Justifique suas respostas.
+
+### Resposta Oficial
+
+**Tipo de ciclo na infância:** lítico.
+**Justificativa:** há destruição de bactérias / grande produção de fagos.
+
+**Tipo de ciclo na fase adulta:** lisogênico.
+**Justificativa:** aumento da diversidade / abundância de bactérias / menor produção de fagos.
+
+### Conceitos-Chave Avaliados
+
+- Ciclos reprodutivos de bacteriófagos (lítico e lisogênico)
+- Dinâmica populacional entre fagos e bactérias
+- Microbiota intestinal ao longo da vida
+- Relação hospedeiro-parasita
+- Interpretação de dados visuais/gráficos biológicos
+
+### Nível de Complexidade
+
+Questão de nível médio que exige conhecimento sobre virologia, especificamente sobre bacteriófagos, e capacidade de correlacionar processos biológicos com representações gráficas quantitativas.
+
+---
+
+# Questão UERJ Biologia - Doença de Chagas e Medidas Profiláticas
+
+## QUESTÃO ORIGINAL
+
+**QUESTÃO 02**
+
+Vários protozoários parasitas penetram no corpo humano por meio da saliva de insetos que se alimentam de sangue. Um protozoário parasita específico, porém, que causa determinada doença, não se aloja nas glândulas salivares do inseto transmissor, e sim em sua cavidade intestinal.
+
+Identifique a doença transmitida por este inseto e aponte duas medidas profiláticas que podem ser utilizadas para evitar sua transmissão.
+
+## RESPOSTA OFICIAL
+
+**Doença de Chagas / tripanossomíase.**
+
+**Duas das medidas:**
+• utilização de telas / mosquiteiros
+• construção de casas de alvenaria / eliminação de habitações feitas de pau-a-pique
+• utilização de inseticidas / eliminação do vetor / do inseto
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva textual (sem imagens ou gráficos)
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Parasitologia e Saúde Pública
+- **Habilidades avaliadas:** Conhecimento de doenças parasitárias, vetores, profilaxia
+- **Estrutura:** Contextualização diferencial + identificação + medidas preventivas
+
+### Conceitos-chave avaliados:
+1. **Protozoários parasitas:** Diferentes espécies e localizações no vetor
+2. **Mecanismos de transmissão:** Saliva vs. fezes do vetor
+3. **Doença de Chagas:** Tripanossomíase americana
+4. **Vetor:** Triatomíneo (barbeiro, chupança, fincão)
+5. **Profilaxia:** Medidas de prevenção e controle
+6. **Saúde pública:** Estratégias de controle de endemias
+
+### Conhecimentos específicos necessários:
+- **Trypanosoma cruzi:** Agente etiológico da doença de Chagas
+- **Transmissão por contaminação:** Fezes do triatomíneo contaminam ferida
+- **Diferenciação:** Outros protozoários transmitidos por saliva (malária, leishmaniose)
+- **Habitat do vetor:** Frestas de casas de pau-a-pique, ninhos de animais
+- **Medidas de controle:** Habitacionais, químicas, educativas
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Contextualização diferencial:** Contraste entre diferentes mecanismos
+2. **Especificidade parasitológica:** Detalhes sobre localização do parasita no vetor
+3. **Aplicação em saúde pública:** Foco em medidas preventivas
+4. **Identificação + medidas:** Padrão de resposta dupla
+5. **Relevância social:** Doenças de importância epidemiológica
+
+### Padrões de questões de parasitologia UERJ:
+- Comparação entre diferentes parasitas e vetores
+- Mecanismos específicos de transmissão
+- Medidas de controle e prevenção
+- Aspectos socioeconomicos das endemias
+- Integração de conhecimentos biológicos e de saúde pública
+
+### Temas relacionados para questões similares:
+- Malária e transmissão por Anopheles
+- Leishmaniose e flebotomíneos
+- Dengue, Zika, Chikungunya e Aedes aegypti
+- Febre amarela e vetores urbanos/silvestres
+- Filariose e mosquitos Culex
+- Esquistossomose e caramujos hospedeiros
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Contextualização específica:** Características distintivas do parasita/vetor
+2. **Contraste diferencial:** Comparação com outros sistemas
+3. **Identificação:** Doença ou agente específico
+4. **Aplicação prática:** Medidas de controle/prevenção
+5. **Relevância epidemiológica:** Importância para saúde pública
+
+### Elementos essenciais para replicação:
+- **Parasitas específicos:** Protozoários, helmintos, vírus
+- **Vetores distintos:** Diferentes insetos e seus habitats
+- **Mecanismos de transmissão:** Variações nos ciclos de vida
+- **Medidas de controle:** Estratégias múltiplas de prevenção
+- **Contexto epidemiológico:** Doenças endêmicas brasileiras
+
+### Critérios de avaliação implícitos:
+- Conhecimento específico de parasitas e vetores
+- Compreensão de mecanismos de transmissão
+- Diferenciação entre doenças similares
+- Conhecimento de medidas de saúde pública
+- Aplicação prática de conhecimentos parasitológicos
+
+### Variações possíveis do modelo:
+
+#### **Doenças Transmitidas por Saliva:**
+- **Malária:** *Plasmodium* spp. - Anopheles (glândulas salivares)
+- **Leishmaniose:** *Leishmania* spp. - Flebotomíneos (probóscida)
+- **Dengue/Zika/Chikungunya:** Vírus - Aedes aegypti (glândulas salivares)
+- **Febre amarela:** Vírus - Aedes/Haemagogus (glândulas salivares)
+
+#### **Doenças Transmitidas por Fezes/Contaminação:**
+- **Doença de Chagas:** *T. cruzi* - Triatomíneos (intestino → fezes)
+- **Tifo murino:** *Rickettsia* - Pulgas (fezes/regurgitação)
+
+#### **Doenças Transmitidas por Picada Direta:**
+- **Peste bubônica:** *Yersinia pestis* - Pulgas (regurgitação)
+- **Filariose:** *Wuchereria bancrofti* - Culex (probóscida)
+
+### Padrões de pergunta:
+- "Identifique a doença transmitida por..."
+- "Aponte duas medidas profiláticas..."
+- "Explique por que este mecanismo é diferente de..."
+- "Indique o agente etiológico e seu vetor..."
+
+### Estrutura das respostas esperadas:
+- **Identificação precisa:** Nome da doença (popular e científico)
+- **Medidas múltiplas:** Lista de estratégias de controle
+- **Especificidade:** Adequação às características da doença
+
+### Medidas profiláticas por categoria:
+
+#### **Controle do Vetor:**
+- Uso de inseticidas residuais
+- Eliminação de criadouros
+- Controle biológico
+- Armadilhas específicas
+
+#### **Proteção Individual:**
+- Mosquiteiros e telas
+- Repelentes
+- Roupas adequadas
+- Evitar exposição em horários de atividade do vetor
+
+#### **Medidas Habitacionais:**
+- Melhoria da habitação (alvenaria)
+- Eliminação de frestas e esconderijos
+- Limpeza peridomiciliar
+- Controle de animais domésticos
+
+#### **Medidas Educativas:**
+- Orientação sobre sinais e sintomas
+- Campanhas de conscientização
+- Treinamento de agentes de saúde
+- Participação comunitária
+
+### Conceitos parasitológicos adequados:
+- **Agente etiológico:** Parasita causador da doença
+- **Vetor:** Organismo que transmite o parasita
+- **Hospedeiro intermediário/definitivo:** Diferentes fases do ciclo
+- **Reservatório:** Fonte de infecção na natureza
+- **Período de incubação:** Tempo entre infecção e sintomas
+
+### Ciclos de transmissão:
+- **Ciclo urbano:** Transmissão em ambiente urbano
+- **Ciclo silvestre:** Transmissão em ambiente natural
+- **Ciclo peridoméstico:** Transmissão em áreas rurais/periurbanas
+- **Antropozoonose:** Transmissão entre animais e humanos
+
+### Aspectos epidemiológicos:
+- **Endemias:** Doenças características de regiões específicas
+- **Epidemias:** Surtos com aumento súbito de casos
+- **Fatores de risco:** Condições que favorecem transmissão
+- **Vigilância epidemiológica:** Monitoramento e controle
+
+### Doenças endêmicas brasileiras:
+- **Região Amazônica:** Malária, leishmaniose, febre amarela silvestre
+- **Região Nordeste:** Esquistossomose, leishmaniose visceral
+- **Região Centro-Oeste:** Doença de Chagas
+- **Áreas urbanas:** Dengue, Zika, Chikungunya
+- **Áreas rurais:** Hantavirose, febre maculosa
+
+### Estratégias de saúde pública:
+- **Prevenção primária:** Evitar exposição ao agente
+- **Prevenção secundária:** Diagnóstico precoce
+- **Prevenção terciária:** Tratamento e reabilitação
+- **Vigilância em saúde:** Monitoramento contínuo
+- **Educação em saúde:** Promoção de comportamentos saudáveis
+
+### Terminologia científica adequada:
+- **Protozoários, helmintos, artrópodes**
+- **Hematófago, antropófilo, endófilo**
+- **Profilaxia, controle vetorial, vigilância**
+- **Endemismo, epidemiologia, transmissão**
+- **Hospedeiro, reservatório, vetor biológico**
+
+---
+
+# Questão UERJ Biologia - Cabotegravir e Prevenção do HIV
+
+## QUESTÃO ORIGINAL
+
+**QUESTÃO 09**
+
+O cabotegravir é um medicamento aprovado pela Anvisa como parte de uma estratégia de profilaxia pré-exposição (PrEP) contra o vírus HIV. A PrEP consiste no uso de antirretrovirais por pessoas não infectadas, mas com alta vulnerabilidade ao vírus. O medicamento pertence à classe de inibidores da enzima integrase e deve ser utilizado somente por indivíduos confirmados como HIV negativos.
+
+Explique de que modo o cabotegravir atua na prevenção do vírus HIV e por que, em termos evolutivos, só deve ser utilizado por indivíduos HIV negativos.
+
+## RESPOSTA OFICIAL
+
+**Explicação:** o medicamento impede a inserção do DNA / material genético viral no DNA humano.
+
+**Explicação:** ao ser utilizado em indivíduos HIV negativos, reduz-se o risco de seleção de vírus resistentes ao medicamento.
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva textual (sem imagens ou gráficos)
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Virologia e Evolução
+- **Habilidades avaliadas:** Mecanismo de ação de antivirais, evolução de resistência, ciclo viral
+- **Estrutura:** Contextualização médica + mecanismo de ação + justificativa evolutiva
+
+### Conceitos-chave avaliados:
+1. **Ciclo de replicação do HIV:** Etapas da infecção viral
+2. **Enzima integrase:** Função na integração do DNA viral
+3. **Inibidores de integrase:** Mecanismo de ação farmacológica
+4. **Resistência viral:** Evolução de variantes resistentes
+5. **Pressão seletiva:** Seleção de mutantes em presença de drogas
+6. **PrEP:** Estratégia de prevenção pré-exposição
+
+### Conhecimentos específicos necessários:
+- **Ciclo do HIV:** Entrada, transcrição reversa, integração, tradução, montagem
+- **Integrase:** Enzima que insere DNA viral no genoma do hospedeiro
+- **Retrovírus:** Características e ciclo de vida
+- **Resistência a drogas:** Mecanismos evolutivos de escape
+- **Mutação viral:** Taxa elevada em vírus RNA
+- **Seleção natural:** Pressão sobre populações virais
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Contextualização médica atual:** Uso de medicamentos e estratégias reais
+2. **Mecanismo molecular:** Explicação de como drogas atuam
+3. **Perspectiva evolutiva:** Aplicação de conceitos de seleção natural
+4. **Saúde pública:** Estratégias de prevenção e controle
+5. **Integração disciplinar:** Virologia, farmacologia e evolução
+
+### Padrões de questões de virologia UERJ:
+- Mecanismos de ação de antivirais
+- Ciclos de replicação viral
+- Evolução de resistência
+- Estratégias de prevenção e tratamento
+- Aplicação de conceitos evolutivos em medicina
+
+### Temas relacionados para questões similares:
+- Resistência a antibióticos em bactérias
+- Vacinas e escape imunológico
+- Antifúngicos e resistência em fungos
+- Quimioterapia e resistência em câncer
+- Pesticidas e resistência em insetos
+- Evolução de vírus influenza
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Contextualização médica:** Medicamento/estratégia terapêutica atual
+2. **Descrição do mecanismo:** Como o agente atua no patógeno
+3. **Pergunta dupla:** Mecanismo de ação + justificativa evolutiva
+4. **Aplicação de conceitos:** Seleção natural, resistência, pressão seletiva
+5. **Relevância clínica:** Implicações para uso médico
+
+### Elementos essenciais para replicação:
+- **Medicamentos reais:** Drogas aprovadas e em uso clínico
+- **Mecanismos específicos:** Alvos moleculares bem definidos
+- **Patógenos relevantes:** Vírus, bactérias, fungos de importância médica
+- **Contexto evolutivo:** Aplicação de seleção natural
+- **Justificativas práticas:** Razões para protocolos médicos
+
+### Critérios de avaliação implícitos:
+- Compreensão de ciclos de replicação
+- Conhecimento de mecanismos farmacológicos
+- Entendimento de evolução de resistência
+- Aplicação de seleção natural em medicina
+- Integração de conhecimentos multidisciplinares
+
+### Variações possíveis do modelo:
+
+#### **Antivirais e seus Alvos:**
+- **Inibidores de transcriptase reversa:** AZT, efavirenz
+- **Inibidores de protease:** Indinavir, atazanavir
+- **Inibidores de entrada:** Maraviroc, enfuvirtide
+- **Inibidores de neuraminidase:** Tamiflu (influenza)
+
+#### **Antibióticos e Resistência:**
+- **Beta-lactâmicos:** Penicilinas, cefalosporinas
+- **Fluoroquinolonas:** Ciprofloxacino, levofloxacino
+- **Macrolídeos:** Eritromicina, azitromicina
+- **Aminoglicosídeos:** Gentamicina, amicacina
+
+#### **Antifúngicos e Mecanismos:**
+- **Azóis:** Fluconazol, itraconazol
+- **Equinocandinas:** Caspofungina, micafungina
+- **Polienos:** Anfotericina B, nistatina
+
+### Padrões de pergunta:
+- "Explique de que modo [medicamento] atua na prevenção/tratamento de..."
+- "Por que, em termos evolutivos, [estratégia] deve ser utilizada..."
+- "Justifique o uso de [medicamento] apenas em [condição específica]..."
+- "Relacione o mecanismo de [droga] com [processo biológico]..."
+
+### Estrutura das respostas esperadas:
+- **Mecanismo de ação:** Explicação molecular específica
+- **Justificativa evolutiva:** Aplicação de conceitos de seleção e resistência
+- **Relevância clínica:** Implicações para uso médico
+
+### Ciclo de replicação do HIV e alvos terapêuticos:
+
+#### **Etapa 1 - Entrada:**
+- **Ligação:** gp120 aos receptores CD4 e coreceptores
+- **Fusão:** gp41 facilita fusão com membrana celular
+- **Alvos:** Inibidores de entrada (maraviroc, enfuvirtide)
+
+#### **Etapa 2 - Transcrição Reversa:**
+- **Síntese de DNA:** A partir do RNA viral
+- **Enzima:** Transcriptase reversa
+- **Alvos:** NRTI, NNRTI (AZT, efavirenz)
+
+#### **Etapa 3 - Integração:**
+- **Inserção:** DNA viral no genoma do hospedeiro
+- **Enzima:** Integrase
+- **Alvos:** Inibidores de integrase (cabotegravir, raltegravir)
+
+#### **Etapa 4 - Transcrição e Tradução:**
+- **Síntese:** RNA e proteínas virais
+- **Maquinaria:** Celular do hospedeiro
+- **Alvos:** Limitados nesta etapa
+
+#### **Etapa 5 - Montagem e Brotamento:**
+- **Processamento:** Proteínas virais pela protease
+- **Formação:** Partículas virais maduras
+- **Alvos:** Inibidores de protease (indinavir, atazanavir)
+
+### Mecanismos de resistência viral:
+- **Mutações pontuais:** Alterações em sítios de ligação de drogas
+- **Deleções/inserções:** Mudanças estruturais em proteínas-alvo
+- **Amplificação:** Aumento da expressão de enzimas-alvo
+- **Metabolismo:** Inativação enzimática de drogas
+
+### Fatores que favorecem resistência:
+- **Alta taxa de mutação:** Especialmente em vírus RNA
+- **Replicação rápida:** Muitos ciclos de replicação
+- **Grande população:** Maior chance de mutações
+- **Pressão seletiva:** Presença de drogas antivirais
+- **Uso inadequado:** Subdoses ou descontinuação
+
+### Estratégias para prevenir resistência:
+- **Terapia combinada:** Múltiplas drogas simultaneamente
+- **Uso em negativos:** Reduz pressão seletiva
+- **Adesão rigorosa:** Manutenção de níveis terapêuticos
+- **Monitoramento:** Detecção precoce de resistência
+- **Rotação de esquemas:** Alternância de medicamentos
+
+### PrEP e estratégias preventivas:
+- **PrEP oral:** Truvada (tenofovir + emtricitabina)
+- **PrEP injetável:** Cabotegravir de longa duração
+- **PEP:** Profilaxia pós-exposição
+- **Testagem regular:** Confirmação de soronegatividade
+- **Aconselhamento:** Redução de comportamentos de risco
+
+### Aplicações em outras infecções:
+- **Tuberculose:** Prevenção de resistência múltipla
+- **Malária:** Rotação de antimaláricos
+- **Influenza:** Uso criterioso de antivirais
+- **Infecções bacterianas:** Stewardship de antibióticos
+
+### Conceitos evolutivos aplicados:
+- **Seleção natural:** Sobrevivência de variantes resistentes
+- **Pressão seletiva:** Força direcionando evolução
+- **Fitness:** Vantagem reprodutiva de mutantes
+- **Trade-offs:** Custos da resistência
+- **Deriva genética:** Flutuações aleatórias
+
+### Terminologia adequada:
+- **Antirretrovirais, inibidores, resistência**
+- **Integrase, transcriptase reversa, protease**
+- **PrEP, PEP, profilaxia**
+- **Seleção natural, pressão seletiva, mutação**
+- **Ciclo viral, replicação, integração**
+
+### Contextos de aplicação:
+- **Infectologia:** Prevenção e tratamento de HIV
+- **Farmacologia:** Desenvolvimento de antivirais
+- **Evolução:** Seleção em populações microbianas
+- **Saúde pública:** Estratégias preventivas
+- **Medicina personalizada:** Escolha de terapias
+
+---
+
+# Questão UERJ Biologia - Parasitose da Carne e Inspeção Sanitária
+
+## QUESTÃO ORIGINAL
+
+**QUESTÃO 03**
+
+O selo de inspeção do Ministério da Agricultura indica que a carne comercializada está livre de contaminações. Essa inspeção garante, por exemplo, que o consumidor não irá adquirir uma parasitose causada por helmintos, morbidade que hoje afeta aproximadamente 350.000 indivíduos em toda a América Latina. Sua forma mais grave pode chegar a atingir o sistema nervoso central, podendo provocar comprometimento cerebral.
+
+### DESCRIÇÃO DETALHADA DA IMAGEM:
+
+**Elemento principal:**
+- Fotografia de um pedaço de carne vermelha (aparentemente carne bovina crua)
+- Textura típica de carne fresca com marmorização natural
+- Coloração avermelhada característica da carne crua
+
+**Selo de inspeção:**
+- Etiqueta retangular branca aplicada sobre a carne
+- **Selo oficial em destaque (ampliado à direita):**
+  - **Formato:** Circular
+  - **Texto principal:** "MINISTÉRIO DA AGRICULTURA"
+  - **Texto central:** "BRASIL"
+  - **Subtexto:** "INSPECIONADO"
+  - **Número:** "1848"
+  - **Sigla na base:** "S.I.F." (Serviço de Inspeção Federal)
+  - **Bordas:** Círculo duplo delimitando o conteúdo
+  - **Cores:** Preto sobre fundo branco
+
+**Indicação visual:**
+- Seta conectando o selo na carne à versão ampliada
+- Demonstração clara da localização e detalhes do selo oficial
+
+**Crédito da imagem:**
+- "google.com" indicado no canto inferior direito
+
+**Relevância da imagem:**
+- Demonstração prática do sistema de inspeção sanitária brasileiro
+- Evidência visual da certificação oficial de qualidade da carne
+- Contexto real para discussão de parasitoses transmitidas por alimentos
+
+### PERGUNTAS:
+
+Nomeie essa parasitose e um de seus hospedeiros intermediários. Indique, também, em que situação a enfermidade costuma assumir sua forma mais grave.
+
+Em seguida, escreva, ainda, uma medida profilática que pode ser adotada na ausência do selo de inspeção.
+
+## RESPOSTA OFICIAL
+
+**Parasitose:** teníase ou solitária.
+
+**Hospedeiro intermediário:** porco ou boi.
+
+**Situação:** consumo de ovos do parasita.
+
+**Medida profilática:** não consumir a carne crua.
+
+## ANÁLISE ESTRUTURAL DA QUESTÃO
+
+### Características da Questão:
+- **Tipo:** Questão discursiva com imagem ilustrativa + contextualização sanitária
+- **Nível:** Vestibular UERJ
+- **Disciplina:** Biologia - Parasitologia e Saúde Pública
+- **Habilidades avaliadas:** Conhecimento de ciclos parasitários, medidas profiláticas, inspeção sanitária
+- **Estrutura:** Contextualização sanitária + imagem real + identificação + ciclo + profilaxia
+
+### Conceitos-chave avaliados:
+1. **Parasitoses alimentares:** Transmissão por consumo de carne
+2. **Ciclo de vida de helmintos:** Hospedeiros intermediários e definitivos
+3. **Teníase vs. Cisticercose:** Diferença entre as formas da doença
+4. **Inspeção sanitária:** Importância do controle de qualidade
+5. **Medidas profiláticas:** Prevenção na ausência de inspeção
+6. **Saúde pública:** Controle de doenças transmitidas por alimentos
+
+### Conhecimentos específicos necessários:
+- **Taenia solium e T. saginata:** Espécies causadoras de teníase
+- **Hospedeiros intermediários:** Suínos (T. solium) e bovinos (T. saginata)
+- **Cisticercose:** Forma grave causada por ingestão de ovos
+- **Cisticercose cerebral:** Comprometimento do sistema nervoso central
+- **Cozimento:** Inativação de larvas por tratamento térmico
+- **Sistema S.I.F.:** Serviço de Inspeção Federal
+
+## ELEMENTOS CONTEXTUAIS PARA GERAÇÃO DE QUESTÕES SIMILARES
+
+### Características do estilo UERJ:
+1. **Contextualização sanitária:** Uso de situações reais de saúde pública
+2. **Imagens documentais:** Fotografias de situações práticas
+3. **Ciclos parasitários:** Conhecimento de hospedeiros e transmissão
+4. **Medidas preventivas:** Aplicação prática de conhecimentos
+5. **Relevância social:** Problemas de saúde pública atuais
+
+### Padrões de questões de parasitologia UERJ:
+- Ciclos de vida de parasitas
+- Hospedeiros intermediários e definitivos
+- Medidas de controle e prevenção
+- Contextualização com problemas sanitários
+- Diferenciação entre formas clínicas
+
+### Temas relacionados para questões similares:
+- Outras parasitoses alimentares (toxoplasmose, triquinose)
+- Controle sanitário de água e alimentos
+- Zoonoses e inspeção veterinária
+- Doenças transmitidas por vetores
+- Medidas de saneamento básico
+- Vigilância epidemiológica
+
+## MODELO PARA QUESTÕES SIMILARES
+
+### Estrutura sugerida:
+1. **Contextualização sanitária:** Situação real de saúde pública
+2. **Imagem documental:** Fotografia de situação prática
+3. **Identificação do parasita:** Nome da doença/agente
+4. **Conhecimento do ciclo:** Hospedeiros e transmissão
+5. **Medidas preventivas:** Profilaxia prática
+
+### Elementos essenciais para replicação:
+- **Situações reais:** Contextos de saúde pública e inspeção
+- **Imagens práticas:** Fotografias de alimentos, selos, situações sanitárias
+- **Parasitas relevantes:** Agentes de importância médica
+- **Ciclos completos:** Conhecimento de hospedeiros e transmissão
+- **Medidas aplicáveis:** Prevenção prática e acessível
+
+### Critérios de avaliação implícitos:
+- Conhecimento de ciclos parasitários
+- Diferenciação entre formas clínicas
+- Compreensão de medidas preventivas
+- Aplicação prática de conhecimentos
+- Entendimento de saúde pública
+
+### Variações possíveis do modelo:
+
+#### **Parasitoses Alimentares:**
+- **Teníase:** Taenia solium (suínos), T. saginata (bovinos)
+- **Toxoplasmose:** Carne crua ou mal cozida
+- **Triquinose:** Carne de porco com Trichinella
+- **Fasciolose:** Vegetais contaminados com metacercárias
+
+#### **Hospedeiros e Ciclos:**
+- **Hospedeiro definitivo:** Onde ocorre reprodução sexuada
+- **Hospedeiro intermediário:** Desenvolvimento larval
+- **Vetor:** Transmissão ativa do parasita
+- **Reservatório:** Manutenção do parasita na natureza
+
+#### **Formas Clínicas:**
+- **Teníase:** Forma adulta no intestino (menos grave)
+- **Cisticercose:** Forma larval nos tecidos (mais grave)
+- **Neurocisticercose:** Acometimento do sistema nervoso central
+
+### Padrões de pergunta:
+- "Nomeie essa parasitose e um de seus hospedeiros..."
+- "Indique em que situação a enfermidade assume forma mais grave..."
+- "Escreva uma medida profilática que pode ser adotada..."
+- "Identifique o agente causador e seu ciclo de transmissão..."
+
+### Estrutura das respostas esperadas:
+- **Identificação:** Nome científico ou popular do parasita/doença
+- **Ciclo parasitário:** Hospedeiros específicos
+- **Forma grave:** Situação de maior risco
+- **Profilaxia:** Medida preventiva prática
+
+### Ciclo de vida das tênias:
+
+#### **Taenia solium:**
+- **Hospedeiro definitivo:** Ser humano
+- **Hospedeiro intermediário:** Suíno
+- **Transmissão:** Consumo de carne suína com cisticercos
+- **Cisticercose:** Ingestão de ovos (autoinfecção ou heteroinfecção)
+
+#### **Taenia saginata:**
+- **Hospedeiro definitivo:** Ser humano
+- **Hospedeiro intermediário:** Bovino
+- **Transmissão:** Consumo de carne bovina com cisticercos
+- **Diferença:** Raramente causa cisticercose humana
+
+### Formas clínicas:
+
+#### **Teníase:**
+- **Localização:** Intestino delgado (forma adulta)
+- **Sintomas:** Geralmente assintomática ou leves
+- **Diagnóstico:** Ovos ou proglótides nas fezes
+- **Tratamento:** Anti-helmínticos (praziquantel)
+
+#### **Cisticercose:**
+- **Localização:** Músculos, cérebro, olhos (forma larval)
+- **Sintomas:** Dependem da localização
+- **Neurocisticercose:** Convulsões, cefaleia, déficits neurológicos
+- **Diagnóstico:** Exames de imagem, sorologia
+
+### Medidas profiláticas:
+
+#### **Individuais:**
+- **Cozimento adequado:** Temperatura > 60°C por 5 minutos
+- **Congelamento:** -10°C por 10 dias
+- **Higiene pessoal:** Lavagem de mãos
+- **Saneamento:** Uso adequado de banheiros
+
+#### **Coletivas:**
+- **Inspeção sanitária:** Controle de qualidade da carne
+- **Saneamento básico:** Tratamento de esgoto
+- **Educação em saúde:** Orientação da população
+- **Controle veterinário:** Vacinação e tratamento de animais
+
+### Sistema de inspeção brasileiro:
+
+#### **S.I.F. (Serviço de Inspeção Federal):**
+- **Competência:** Produtos de origem animal para comércio interestadual/internacional
+- **Inspeção:** Ante mortem e post mortem
+- **Selo:** Garantia de qualidade sanitária
+
+#### **S.I.E. (Serviço de Inspeção Estadual):**
+- **Competência:** Comércio intraestadual
+- **Fiscalização:** Estados e municípios
+- **Padronização:** Normas federais adaptadas
+
+### Outras parasitoses alimentares:
+
+#### **Toxoplasmose:**
+- **Agente:** Toxoplasma gondii
+- **Transmissão:** Carne crua/mal cozida, contato com felinos
+- **Risco:** Gestantes (malformações fetais)
+
+#### **Triquinose:**
+- **Agente:** Trichinella spiralis
+- **Transmissão:** Carne de porco mal cozida
+- **Sintomas:** Dor muscular, febre, edema
+
+#### **Hidatidose:**
+- **Agente:** Echinococcus granulosus
+- **Transmissão:** Contato com cães infectados
+- **Manifestação:** Cistos hidáticos em órgãos
+
+### Terminologia parasitológica adequada:
+- **Helminto, platelminto, nematelminto**
+- **Hospedeiro definitivo, intermediário, paratênico**
+- **Cisticerco, metacercária, larva**
+- **Teníase, cisticercose, neurocisticercose**
+- **Profilaxia, prevenção, controle sanitário**
+
+### Contextos de aplicação:
+- **Vigilância sanitária:** Controle de alimentos
+- **Medicina veterinária:** Inspeção de carcaças
+- **Saúde pública:** Prevenção de parasitoses
+- **Educação em saúde:** Orientação populacional
+- **Políticas públicas:** Saneamento e controle de doenças
+
+---
+
+# QUESTÃO 01 - BIOLOGIA UERJ
+## Febre Amarela: Monitoramento de Macacos como Estratégia de Vigilância Epidemiológica
+
+### CONTEXTO DA QUESTÃO
+Esta questão aborda epidemiologia, ecologia de doenças e saúde pública, focando especificamente na febre amarela e no papel dos primatas não-humanos como indicadores sentinela. É uma questão típica do vestibular UERJ que integra conhecimentos de parasitologia, ecologia, evolução e políticas de saúde pública, com forte contextualização em problemas sanitários brasileiros contemporâneos.
+
+### ENUNCIADO
+
+Desde o começo de 2017, tem-se verificado no Brasil o maior surto de febre amarela das últimas décadas. Sabe-se que, para acompanhar a disseminação dessa enfermidade, é importante monitorar populações naturais de macacos.
+
+**QUESTÕES A RESPONDER:**
+1. Aponte uma razão para que esse monitoramento seja realizado.
+2. Explique, ainda, por que a febre amarela ocorre frequentemente em regiões tropicais.
+
+---
+
+## RESOLUÇÃO DETALHADA
+
+### 1. RAZÃO PARA O MONITORAMENTO DE MACACOS
+
+**RESPOSTA:** Os macacos funcionam como **sentinelas epidemiológicas** ou **indicadores biológicos** precoces da circulação do vírus da febre amarela no ambiente.
+
+**JUSTIFICATIVA DETALHADA:**
+
+#### **1.1 Conceito de Sentinela Epidemiológica:**
+
+**Definição:**
+- Espécies animais que, por suas características biológicas e ecológicas, servem como **sistema de alerta precoce** para a presença de patógenos no ambiente
+- Permitem detectar a circulação viral **antes** que ocorram casos humanos
+- Fornecem informações sobre **distribuição geográfica** e **intensidade** da transmissão
+
+#### **1.2 Por que os Macacos são Sentinelas Ideais:**
+
+**A) Susceptibilidade ao vírus:**
+- **Alta sensibilidade** ao vírus da febre amarela
+- **Manifestações clínicas evidentes** (sintomas visíveis)
+- **Alta mortalidade** quando infectados
+- **Rápida evolução** da doença (morte em poucos dias)
+
+**B) Similaridade filogenética com humanos:**
+- **Primatas compartilham receptores celulares** similares aos humanos
+- **Resposta imunológica comparável** à humana
+- **Susceptibilidade semelhante** às mesmas cepas virais
+- **Modelo biológico representativo** para risco humano
+
+**C) Características ecológicas favoráveis:**
+- **Habitat sobreposto** com áreas de risco para humanos
+- **Mobilidade limitada** comparada a aves (indicador geográfico mais preciso)
+- **Populações estáveis** e **observáveis** em campo
+- **Comportamento diurno** facilita monitoramento
+
+#### **1.3 Vantagens do Monitoramento:**
+
+**Sistema de alerta precoce:**
+- **Detecção antecipada** da circulação viral
+- **Mapeamento de áreas de risco** antes da chegada aos centros urbanos
+- **Planejamento de estratégias preventivas** (vacinação, controle de vetores)
+- **Direcionamento de recursos** para áreas prioritárias
+
+**Monitoramento da dinâmica viral:**
+- **Sazonalidade** da transmissão
+- **Rotas de dispersão** do vírus
+- **Intensidade** da circulação viral
+- **Eficácia** das medidas de controle
+
+### 2. OCORRÊNCIA EM REGIÕES TROPICAIS
+
+**RESPOSTA:** A febre amarela ocorre frequentemente em regiões tropicais devido às **condições ambientais favoráveis** para o desenvolvimento e reprodução dos **vetores** (mosquitos do gênero *Aedes* e *Haemagogus*).
+
+**EXPLICAÇÃO DETALHADA:**
+
+#### **2.1 Fatores Climáticos Favoráveis:**
+
+**A) Temperatura:**
+- **Temperaturas elevadas** (25-30°C) aceleram:
+  - **Desenvolvimento larval** dos mosquitos (ciclo mais rápido)
+  - **Metabolismo** e **atividade** dos mosquitos adultos
+  - **Replicação viral** nos mosquitos (período de incubação extrínseca reduzido)
+  - **Frequência alimentar** dos mosquitos (mais picadas)
+
+**B) Umidade:**
+- **Alta umidade relativa** (>60%) favorece:
+  - **Sobrevivência** dos mosquitos adultos
+  - **Oviposição** em criadouros naturais
+  - **Longevidade** dos vetores (maior chance de transmissão)
+  - **Atividade de voo** dos mosquitos
+
+**C) Pluviosidade:**
+- **Chuvas regulares** criam:
+  - **Criadouros naturais** abundantes (bromélias, ocos de árvores, bambus)
+  - **Microhabitats** adequados para desenvolvimento larval
+  - **Renovação** de criadouros (evita dessecação)
+
+#### **2.2 Características dos Vetores Tropicais:**
+
+**Vetores Silvestres (*Haemagogus* e *Sabethes*):**
+- **Adaptados** a ambientes de floresta tropical
+- **Reprodução** em criadouros naturais (fitotelmata)
+- **Atividade diurna** coincidente com primatas
+- **Distribuição** restrita a regiões tropicais e subtropicais
+
+**Vetor Urbano (*Aedes aegypti*):**
+- **Origem tropical** (África)
+- **Adaptação** a climas quentes e úmidos
+- **Reprodução** em recipientes artificiais com água limpa
+- **Desenvolvimento** mais rápido em temperaturas elevadas
+
+#### **2.3 Dinâmica Ecológica Tropical:**
+
+**A) Biodiversidade:**
+- **Rica fauna** de primatas (hospedeiros amplificadores)
+- **Diversidade** de vetores competentes
+- **Complexas redes tróficas** facilitam manutenção viral
+- **Múltiplos ciclos** de transmissão (silvestre, rural, urbano)
+
+**B) Interface homem-natureza:**
+- **Desmatamento** e **expansão agrícola** criam zonas de contato
+- **Atividades humanas** em áreas florestais (risco ocupacional)
+- **Proximidade** entre ciclos silvestre e urbano
+- **Movimentação** de populações não-imunizadas
+
+#### **2.4 Fatores Evolutivos:**
+
+**Co-evolução vírus-vetor-hospedeiro:**
+- **Adaptação** mútua em ambientes tropicais ao longo de milhões de anos
+- **Especificidade** dos vetores para condições climáticas tropicais
+- **Manutenção** de ciclos enzoóticos em primatas neotropicais
+- **Emergência periódica** em populações humanas susceptíveis
+
+---
+
+## CONCEITOS-CHAVE PARA CONTEXTO DE LLM
+
+### Temas Centrais:
+- Epidemiologia de doenças infecciosas
+- Vigilância epidemiológica e sentinelas biológicas
+- Ecologia de vetores e doenças
+- Ciclos de transmissão (silvestre, rural, urbano)
+- Fatores climáticos e distribuição de doenças
+- Saúde pública e controle de endemias
+
+### Competências Avaliadas:
+- Compreensão de conceitos epidemiológicos
+- Análise de fatores ecológicos em doenças infecciosas
+- Integração entre biologia e saúde pública
+- Aplicação de conhecimentos em problemas contemporâneos
+- Raciocínio científico sobre vigilância sanitária
+- Compreensão de relações entre clima e saúde
+
+### Conceitos Específicos Fundamentais:
+
+#### **Febre Amarela - Aspectos Básicos:**
+- **Agente etiológico:** Vírus da febre amarela (família Flaviviridae)
+- **Vetores:** *Aedes aegypti* (urbano), *Haemagogus* e *Sabethes* (silvestre)
+- **Hospedeiros:** Primatas (humanos e não-humanos)
+- **Transmissão:** Picada de mosquitos infectados (não há transmissão direta)
+
+#### **Ciclos de Transmissão:**
+- **Ciclo Silvestre:** Primatas não-humanos ↔ *Haemagogus*/*Sabethes*
+- **Ciclo Rural/Intermediário:** Interface floresta-área rural
+- **Ciclo Urbano:** Humanos ↔ *Aedes aegypti* (atualmente controlado no Brasil)
+
+#### **Vigilância Epidemiológica:**
+- **Vigilância passiva:** Notificação de casos suspeitos
+- **Vigilância ativa:** Busca ativa de casos e óbitos
+- **Vigilância de epizootias:** Monitoramento de primatas não-humanos
+- **Vigilância entomológica:** Monitoramento de vetores
+
+#### **Sentinelas Biológicas:**
+- **Indicadores precoces** de circulação viral
+- **Espécies sensíveis** a patógenos específicos
+- **Sistemas de alerta** para saúde pública
+- **Monitoramento** contínuo de populações-chave
+
+### Variações de Questões Possíveis:
+- Outras doenças com ciclos silvestres (leishmaniose, malária, dengue)
+- Diferentes tipos de vigilância epidemiológica
+- Fatores climáticos em outras endemias tropicais
+- Controle de vetores e estratégias de prevenção
+- Impacto das mudanças climáticas em doenças infecciosas
+- Vacinas e imunização em saúde pública
+- Zoonoses e interface homem-animal-ambiente
+
+### Nível de Complexidade:
+- Questão de nível médio
+- Requer conhecimento integrado de múltiplas disciplinas
+- Contextualizada em problemas atuais de saúde pública
+- Adequada para vestibular de universidade pública
+
+### Aspectos Históricos e Contextuais:
+
+#### **Surto de 2016-2018 no Brasil:**
+- **Maior surto** desde a década de 1940
+- **Casos confirmados:** >2.000 casos humanos
+- **Óbitos:** >700 mortes
+- **Estados afetados:** MG, ES, RJ, SP, BA, GO, DF
+- **Epizootias:** Milhares de macacos mortos
+
+#### **Impacto na Conservação:**
+- **Mortalidade** significativa de primatos ameaçados
+- **Conflitos** com comunidades (morte de macacos por medo)
+- **Necessidade** de educação ambiental
+- **Conservação** vs. saúde pública
+
+### Aplicações Práticas:
+- **Vigilância epidemiológica** em tempo real
+- **Planejamento** de campanhas de vacinação
+- **Controle** integrado de vetores
+- **Educação** em saúde e conservação
+- **Políticas públicas** de saúde ambiental
+
+### Conexões Interdisciplinares:
+- **Geografia:** Distribuição espacial de doenças
+- **Climatologia:** Influência do clima na transmissão
+- **Ecologia:** Interações vírus-vetor-hospedeiro
+- **Evolução:** Co-evolução de patógenos e hospedeiros
+- **Sociologia:** Impacto social de epidemias
+- **Economia:** Custos de controle e prevenção
+
+### Metodologias de Monitoramento:
+- **Vigilância passiva:** Notificação de óbitos de primatas
+- **Vigilância ativa:** Busca sistemática em áreas de risco
+- **Testes laboratoriais:** RT-PCR, isolamento viral, sorologia
+- **Vigilância molecular:** Sequenciamento genético
+- **Geoprocessamento:** Mapeamento de casos e fatores de risco
+
+### Terminologia Técnica Essencial:
+- Sentinela epidemiológica, epizootioa, enzoótico
+- Ciclo silvestre, rural, urbano
+- Período de incubação extrínseca/intrínseca
+- Competência vetorial, capacidade vetorial
+- Vigilância sindômica, notificação compulsória
+- Fitotelmata, criadouros, densidade vetorial
+
+---
+
+## Conversão da Questão e Resposta para Contexto de LLM
+
+### QUESTÃO 08 - BIOLOGIA (UERJ)
+
+**Texto de apoio:**
+*Quando Oswaldo Cruz assumiu a direção do Departamento Nacional de Saúde Pública, o Brasil era um país doente. Uma das regiões que mais sofria era o Rio de Janeiro. No final do século XIX, dizia-se que essa cidade poderia vir a ser o maior centro de comércio da América do Sul se não fosse uma fábrica de moléstias, duas em especial: a febre amarela e a varíola.*
+
+**Fonte:** Adaptado de aprendebrasil.com.br
+
+**Enunciado:**
+Atualmente, a varíola está erradicada no Brasil, mas a febre amarela apenas em algumas partes do país. No Rio de Janeiro, ainda existe a preocupação com o retorno desta doença.
+
+**Comando da questão:**
+Cite o agente etiológico da febre amarela e indique como ela é transmitida ao homem. Explique, também, por que, na cidade do Rio de Janeiro, há possibilidade de retorno da febre amarela.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Agente etiológico:** Vírus
+
+**Transmissão:** A febre amarela é transmitida pela picada do mosquito *Aedes aegypti*, portador do vírus.
+
+**Explicação:** O vetor da dengue é o mesmo da febre amarela; sua abundância na cidade poderia facilitar a disseminação do vírus causador desta doença.
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Doenças virais transmitidas por vetores
+- Controle de endemias urbanas
+- História da saúde pública no Brasil
+- Ecologia de vetores urbanos
+- Ciclos de transmissão de doenças
+
+**Nível de complexidade:** Médio - integra microbiologia, parasitologia e saúde pública
+
+**Formato da resposta:** Agente etiológico + forma de transmissão + explicação epidemiológica
+
+**Competências avaliadas:**
+- Conhecimento sobre doenças transmissíveis
+- Compreensão de ciclos de transmissão
+- Entendimento de questões de saúde pública
+- Capacidade de relacionar vetores com múltiplas doenças
+
+**Análise do agente etiológico:**
+
+**Vírus da febre amarela:**
+- **Classificação:** Flavivírus (família Flaviviridae)
+- **Estrutura:** RNA de fita simples, envelopado
+- **Características:** Vírus neurotrópico e hepatotrópico
+- **Estabilidade:** Sensível ao calor e desinfetantes
+
+**Patogenia:**
+- **Órgãos-alvo:** Fígado, rins, coração, sistema nervoso
+- **Sintomas:** Febre, icterícia, hemorragias, insuficiência hepática
+- **Mortalidade:** Pode ser alta em formas graves (febre amarela hemorrágica)
+
+**Análise da transmissão:**
+
+**Vetor principal urbano:**
+- **Espécie:** *Aedes aegypti*
+- **Características:** Mosquito doméstico, antropófilo
+- **Hábitos:** Atividade diurna, voo baixo
+- **Reprodução:** Criadouros artificiais com água parada
+
+**Ciclo de transmissão urbano:**
+1. **Mosquito infectado** pica pessoa com viremia
+2. **Replicação viral** no mosquito (8-12 dias)
+3. **Transmissão** para pessoa suscetível pela picada
+4. **Amplificação** através de novos mosquitos
+
+**Outros vetores (contexto adicional):**
+- **Ciclo silvestre:** *Haemagogus* e *Sabethes*
+- **Hospedeiros:** Primatas não-humanos
+- **Importância:** Reservatório natural da doença
+
+**Análise do risco no Rio de Janeiro:**
+
+**Fatores de risco:**
+
+**1. Presença do vetor:**
+- ***Aedes aegypti* estabelecido:** População abundante na cidade
+- **Competência vetorial:** Capacidade comprovada de transmitir o vírus
+- **Condições favoráveis:** Clima tropical, criadouros disponíveis
+
+**2. Sobreposição de vetores:**
+- **Mesmo mosquito:** *Aedes aegypti* transmite dengue e febre amarela
+- **Infraestrutura existente:** Rede de transmissão já estabelecida
+- **Densidade populacional:** Facilita disseminação rápida
+
+**Histórico epidemiológico:**
+
+**Erradicação e reintrodução:**
+- **Erradicação (1958):** Eliminação do *Aedes aegypti*
+- **Reintrodução (1976):** Retorno do vetor ao Brasil
+- **Epidemias de dengue:** Demonstram capacidade vetorial
+
+**Campanhas de Oswaldo Cruz:**
+- **Método:** Combate ao vetor (eliminação de criadouros)
+- **Sucesso:** Controle da febre amarela urbana
+- **Legado:** Base da vigilância sanitária moderna
+
+**Fatores de vulnerabilidade atual:**
+
+**Ambientais:**
+- **Urbanização desordenada:** Criação de criadouros
+- **Mudanças climáticas:** Expansão da área de distribuição do vetor
+- **Mobilidade populacional:** Facilitação da dispersão viral
+
+**Socioeconômicos:**
+- **Saneamento deficiente:** Acúmulo de água parada
+- **Densidade demográfica:** Facilita transmissão
+- **Desigualdade social:** Áreas com maior risco
+
+**Medidas de prevenção:**
+
+**Controle vetorial:**
+- **Eliminação de criadouros:** Remoção de água parada
+- **Controle químico:** Inseticidas quando necessário
+- **Controle biológico:** Predadores naturais, mosquitos modificados
+
+**Vigilância epidemiológica:**
+- **Monitoramento de casos:** Detecção precoce
+- **Vigilância de vetores:** Monitoramento da densidade
+- **Vigilância de primatas:** Sentinelas do ciclo silvestre
+
+**Vacinação:**
+- **Vacina 17D:** Altamente eficaz
+- **Indicações:** Áreas de risco, viajantes
+- **Contraindicações:** Imunossuprimidos, lactentes
+
+**Diferenças entre os ciclos:**
+
+**Ciclo urbano (erradicado no Brasil):**
+- **Vetor:** *Aedes aegypti*
+- **Hospedeiros:** Homem-mosquito-homem
+- **Características:** Potencial epidêmico alto
+
+**Ciclo silvestre (ainda presente):**
+- **Vetores:** *Haemagogus*, *Sabethes*
+- **Hospedeiros:** Primatas não-humanos
+- **Características:** Casos esporádicos em humanos
+
+**Observações metodológicas:**
+- Questão contextualizada historicamente
+- Integra aspectos microbiológicos e epidemiológicos
+- Requer conhecimento sobre saúde pública
+- Conecta passado e presente da saúde no Brasil
+
+**Relevância contemporânea:**
+- **Emergência em saúde:** Risco de reintrodução urbana
+- **Mudanças ambientais:** Impacto no controle de vetores
+- **Globalização:** Facilitação da dispersão de doenças
+- **Preparação:** Necessidade de vigilância constante
+
+**Aplicações práticas:**
+- **Política de saúde:** Estratégias de prevenção
+- **Educação sanitária:** Conscientização da população
+- **Pesquisa:** Desenvolvimento de novas tecnologias de controle
+- **Vigilância:** Sistemas de monitoramento epidemiológico
+
+**Outras doenças transmitidas pelo mesmo vetor:**
+- **Dengue:** Quatro sorotipos circulantes
+- **Chikungunya:** Reintroduzida recentemente
+- **Zika:** Emergência recente com complicações neurológicas
+
+---
+
+## Conversão da Questão e Resposta para Contexto de LLM
+
+### QUESTÃO 01 - BIOLOGIA (UERJ)
+
+**Texto de apoio:**
+*Segundo Ricardo Gazzinelli, pesquisador da FIOCRUZ, para o tipo de malária causada pelo Plasmodium falciparum, predominante no continente africano, já existe uma vacina sendo testada em humanos. No caso da malária causada pelo P. vivax, mais frequente no Brasil, a previsão é que se possa dispor de uma vacina comercial dentro de 3 a 5 anos.*
+
+**Fonte:** Adaptado de redeglobo.globo.com, 05/05/2012.
+
+**Comando da questão:**
+Aponte uma forma de transmissão da malária.
+
+Em seguida, indique outra medida profilática, além da utilização da vacina, que resultaria na diminuição ou na erradicação da malária de uma região geográfica.
+
+---
+
+### RESPOSTA OFICIAL
+
+**Uma das formas de transmissão:**
+- picada de mosquito infectado pelo protozoário *Plasmodium*
+- transfusão de sangue contaminado pelo protozoário *Plasmodium*
+
+**Uma das medidas profiláticas:**
+- eliminação do vetor para impedir sua proliferação
+- uso de medidas de proteção para evitar a picada do mosquito
+
+---
+
+### ELEMENTOS PEDAGÓGICOS PARA CONTEXTO
+
+**Conceitos-chave abordados:**
+- Doenças parasitárias transmitidas por vetores
+- Ciclo de transmissão da malária
+- Medidas de controle epidemiológico
+- Profilaxia de doenças infecciosas
+- Saúde pública e controle de endemias
+
+**Nível de complexidade:** Médio - requer conhecimento sobre parasitologia e saúde pública
+
+**Formato da resposta:** Forma de transmissão + medida profilática
+
+**Competências avaliadas:**
+- Conhecimento sobre doenças parasitárias
+- Compreensão de ciclos de transmissão
+- Entendimento de medidas de controle epidemiológico
+- Capacidade de relacionar agente, vetor e hospedeiro
+
+**Análise da transmissão da malária:**
+
+**Agente etiológico:**
+- **Protozoário:** *Plasmodium* spp.
+- **Espécies principais:** *P. falciparum*, *P. vivax*, *P. ovale*, *P. malariae*
+- **Características:** Parasita intracelular obrigatório
+- **Ciclo de vida:** Complexo, envolvendo hospedeiro vertebrado e invertebrado
+
+**Formas de transmissão:**
+
+**1. Transmissão vetorial (principal):**
+- **Vetor:** Mosquito fêmea do gênero *Anopheles*
+- **Mecanismo:** Picada de mosquito infectado
+- **Processo:** Inoculação de esporozoítos na corrente sanguínea
+- **Importância:** Forma mais comum de transmissão
+
+**2. Transmissão sanguínea:**
+- **Via:** Transfusão de sangue contaminado
+- **Risco:** Doadores assintomáticos ou em período de incubação
+- **Prevenção:** Triagem rigorosa de doadores
+- **Frequência:** Rara, mas possível
+
+**Outras vias (menos comuns):**
+- **Transmissão congênita:** Mãe para feto
+- **Transmissão acidental:** Acidentes com material contaminado
+- **Transplante de órgãos:** Receptor de doador infectado
+
+**Análise das medidas profiláticas:**
+
+**Controle vetorial:**
+
+**1. Eliminação do vetor:**
+- **Objetivo:** Reduzir população de *Anopheles*
+- **Métodos:** Eliminação de criadouros (águas paradas)
+- **Estratégias:** Drenagem, aterramento, limpeza urbana
+- **Resultado:** Interrupção do ciclo de transmissão
+
+**2. Controle químico:**
+- **Inseticidas:** Borrifação residual em domicílios
+- **Larvicidas:** Aplicação em criadouros
+- **Limitações:** Resistência dos vetores, impacto ambiental
+
+**Proteção individual:**
+
+**1. Medidas de proteção:**
+- **Mosquiteiros:** Impregnados com inseticida
+- **Repelentes:** Aplicação na pele exposta
+- **Roupas:** Mangas longas, calças compridas
+- **Horário:** Evitar exposição no período de atividade do vetor
+
+**2. Quimioprofilaxia:**
+- **Medicamentos:** Antimaláricos preventivos
+- **Indicação:** Viajantes para áreas endêmicas
+- **Limitações:** Resistência parasitária, efeitos colaterais
+
+**Controle do reservatório:**
+
+**Diagnóstico e tratamento:**
+- **Detecção precoce:** Busca ativa de casos
+- **Tratamento adequado:** Elimina gametócitos circulantes
+- **Importância:** Reduz fonte de infecção para vetores
+
+**Contexto epidemiológico brasileiro:**
+
+***Plasmodium vivax* no Brasil:**
+- **Distribuição:** Região Amazônica principalmente
+- **Características:** Recidivas frequentes, menor mortalidade
+- **Desafios:** Hipnozoítos dormentes no fígado
+
+***Plasmodium falciparum*:**
+- **Distribuição:** África subsaariana principalmente
+- **Características:** Maior virulência, resistência medicamentosa
+- **Complicações:** Malária cerebral, falência orgânica
+
+**Estratégias de eliminação:**
+
+**Programas de controle:**
+- **Vigilância epidemiológica:** Monitoramento de casos
+- **Controle integrado:** Múltiplas estratégias simultâneas
+- **Participação comunitária:** Educação e mobilização social
+
+**Desafios atuais:**
+- **Resistência:** Parasitas e vetores resistentes
+- **Mudanças ambientais:** Alterações climáticas e ecológicas
+- **Mobilidade populacional:** Migração e turismo
+
+**Observações metodológicas:**
+- Questão baseada em contexto científico atual
+- Integra conhecimentos de parasitologia e saúde pública
+- Requer compreensão de medidas preventivas
+- Conecta aspectos teóricos com aplicações práticas
+
+**Relevância em saúde pública:**
+- **Impacto global:** 229 milhões de casos anuais (OMS)
+- **Mortalidade:** ~409.000 mortes anuais
+- **Grupos vulneráveis:** Crianças, gestantes, imunossuprimidos
+- **Impacto socioeconômico:** Perdas de produtividade, custos de tratamento
+
+**Avanços recentes:**
+- **Vacinas:** RTS,S/AS01 (Mosquirix) aprovada pela OMS
+- **Novas ferramentas:** Mosquitos geneticamente modificados
+- **Estratégias integradas:** Abordagem multissetorial
+- **Metas globais:** Eliminação da malária até 2030 (WHO)
+
+**Aplicações práticas:**
+- **Medicina preventiva:** Orientação para viajantes
+- **Controle de vetores:** Programas municipais
+- **Vigilância epidemiológica:** Notificação compulsória
+- **Educação em saúde:** Conscientização comunitária
+
+---
+

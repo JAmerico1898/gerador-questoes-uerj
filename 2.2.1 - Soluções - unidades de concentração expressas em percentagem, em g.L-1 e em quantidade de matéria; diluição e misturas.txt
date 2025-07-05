@@ -1,0 +1,1294 @@
+**Questão 04**
+
+O gluconato de zinco, que está presente em alguns suplementos alimentares, possui a seguinte fórmula estrutural:
+
+**Descrição detalhada da estrutura molecular:**
+
+```
+       OH    OH
+       |     |
+HO----C-----C-----C==O
+      |     |     |
+      OH    OH    O⁻   ]₂  Zn²⁺
+```
+
+*Explicação da estrutura:*
+- **Cadeia principal:** 6 carbonos em sequência linear
+- **Grupos funcionais:** 
+  - 5 grupos hidroxila (-OH) ligados aos primeiros 5 carbonos
+  - 1 grupo carboxilato (COO⁻) no último carbono
+- **Complexo iônico:** Dois ânions gluconato coordenados a um cátion Zn²⁺
+- **Fórmula:** [C₆H₁₁O₇⁻]₂Zn²⁺
+- **Origem:** Derivado da oxidação da glicose (ácido glucônico)
+
+Considere 0,5 mL de solução aquosa dessa substância, contendo 2 mg de Zn²⁺.
+
+Nomeie a função orgânica à qual pertence o gluconato de zinco. Em seguida, calcule o número de isômeros ópticos ativos do íon gluconato e determine a concentração de Zn²⁺, em mol/L, na solução.
+
+---
+
+**Gabarito Oficial**
+
+**Função:** sal orgânico ou sal de ácido carboxílico
+
+**Número de isômeros ópticos ativos:** 2⁴ = 16 isômeros
+
+**Cálculos de concentração:**
+```
+Quantidade de matéria de Zn²⁺ = 0,002 g / 65,5 g/mol = 3 × 10⁻⁵ mol
+
+[Zn²⁺] = (3 × 10⁻⁵ mol) / (5 × 10⁻⁴ L) = 0,06 mol/L
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica, estereoquímica e cálculos de concentração em contexto nutricional. Os temas centrais incluem:
+
+- **Funções orgânicas:** Identificação de sais de ácidos carboxílicos
+- **Estereoquímica:** Isomeria óptica e centros quirais
+- **Cálculos de concentração:** Conversões de unidades e molaridade
+- **Química de coordenação:** Complexos metálicos com ligantes orgânicos
+- **Aplicações nutricionais:** Suplementos alimentares com micronutrientes
+
+**Conceitos-chave para o LLM:**
+- **Gluconato:** Sal do ácido glucônico (ácido carboxílico)
+- **Centro quiral:** Carbono ligado a 4 grupos diferentes
+- **Isômeros ópticos:** 2ⁿ onde n = número de centros quirais
+- **Complexo iônico:** Metal central + ligantes orgânicos
+- **Conversões:** mg → g, mL → L, massa → mols
+
+**Análise estrutural detalhada:**
+- **Carbono 1:** CHO (grupo aldeído oxidado a carboxilato)
+- **Carbonos 2-5:** CHOH (centros quirais - 4 carbonos assimétricos)
+- **Carbono 6:** CH₂OH (carbono primário, não quiral)
+- **Total de centros quirais:** 4 carbonos (C2, C3, C4, C5)
+
+**Cálculo de isômeros ópticos:**
+- **Fórmula:** 2ⁿ onde n = número de centros quirais
+- **Aplicação:** 2⁴ = 16 isômeros ópticos ativos
+- **Nota:** Todos são opticamente ativos (não há plano de simetria)
+
+**Dados para cálculos:**
+- **Massa de Zn²⁺:** 2 mg = 0,002 g
+- **Massa molar do Zn:** 65,5 g/mol
+- **Volume da solução:** 0,5 mL = 5 × 10⁻⁴ L
+
+**Processo de resolução detalhado:**
+1. **Identificar função orgânica:**
+   - Presença do grupo COO⁻ (carboxilato)
+   - Ligado a cátion metálico → sal orgânico
+
+2. **Contar centros quirais:**
+   - Analisar cada carbono da cadeia
+   - Identificar carbonos ligados a 4 grupos diferentes
+   - C2, C3, C4, C5 são quirais
+
+3. **Calcular isômeros:**
+   - Aplicar fórmula 2ⁿ = 2⁴ = 16
+
+4. **Determinar concentração:**
+   - Converter mg para g: 2 mg = 0,002 g
+   - Calcular mols: 0,002 g ÷ 65,5 g/mol = 3 × 10⁻⁵ mol
+   - Converter mL para L: 0,5 mL = 5 × 10⁻⁴ L
+   - Concentração: (3 × 10⁻⁵) ÷ (5 × 10⁻⁴) = 0,06 mol/L
+
+**Aplicações práticas:**
+- **Suplementação:** Fonte biodisponível de zinco
+- **Estabilidade:** Sal orgânico mais estável que Zn²⁺ livre
+- **Absorção:** Melhor absorção intestinal que sais inorgânicos
+- **Segurança:** Menor irritação gástrica
+
+**Aspectos bioquímicos:**
+- **Zinco:** Micronutriente essencial, cofator enzimático
+- **Metabolismo:** Participa de mais de 300 reações enzimáticas
+- **Deficiência:** Problemas de crescimento e imunidade
+- **Quelação:** Ligação com aminoácidos e ácidos orgânicos
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica e Analítica
+Habilidades avaliadas: Identificação de funções orgânicas, estereoquímica, cálculos de concentração, interpretação de fórmulas estruturais, aplicações em nutrição.
+
+---
+
+**Questão 10**
+
+O CO₂ é um óxido ácido que, ao se dissolver na água, reage formando o H₂CO₃. O H₂CO₃ se ioniza em função do pH da água de acordo com as seguintes equações químicas:
+
+**Equações de ionização:**
+```
+H₂CO₃ + OH⁻ ⇌ HCO₃⁻ + H₂O
+HCO₃⁻ + OH⁻ ⇌ CO₃²⁻ + H₂O
+```
+
+O gráfico a seguir relaciona a fração em mol de cada um dos três compostos de carbono acima, em função do pH.
+
+**Descrição detalhada do gráfico:**
+
+**Eixos:**
+- **Eixo X:** pH (variando de 4 a 12)
+- **Eixo Y:** Fração em mol (variando de 0,0 a 1,0)
+
+**Curvas representadas:**
+- **Linha pontilhada azul (H₂CO₃):** 
+  - Inicia em 1,0 (pH 4)
+  - Decresce acentuadamente até ~pH 6-7
+  - Aproxima-se de 0,0 em pH > 8
+  - Representa a fração de ácido carbônico não ionizado
+
+- **Linha sólida rosa (HCO₃⁻):**
+  - Inicia próximo de 0,0 (pH 4)
+  - Cresce rapidamente de pH 5-6
+  - Atinge máximo (~0,95) em pH ~8,3
+  - Decresce após pH 9
+  - Aproxima-se de 0,0 em pH 12
+  - Representa a fração de íon bicarbonato
+
+- **Linha tracejada roxa (CO₃²⁻):**
+  - Permanece próximo de 0,0 até pH ~9
+  - Cresce rapidamente após pH 9,5
+  - Aproxima-se de 1,0 em pH 12
+  - Representa a fração de íon carbonato
+
+**Pontos de intersecção importantes:**
+- **pH ~6,3:** Intersecção H₂CO₃/HCO₃⁻ (primeiro pKa)
+- **pH ~10,3:** Intersecção HCO₃⁻/CO₃²⁻ (segundo pKa)
+
+A análise de uma amostra de 100 mL de água indicou a presença de 0,04 mol de CO₃²⁻ e valor de pH igual a 10.
+
+Determine a concentração, em mol/L, de íons HCO₃⁻ nessa amostra. Nomeie, também, as espécies químicas H₂CO₃ e HCO₃⁻ presentes na solução aquosa.
+
+---
+
+**Gabarito Oficial**
+
+**Cálculo da concentração de HCO₃⁻:**
+```
+Em pH 10:
+0,8 mol CO₃²⁻ → 0,2 mol de HCO₃⁻
+0,04 mol CO₃²⁻ → X mol de HCO₃⁻
+
+X = 0,01 mol de HCO₃⁻
+
+[HCO₃⁻] = 0,01 mol / 0,1 L = 0,1 mol/L
+```
+
+**Nomenclatura:**
+- **H₂CO₃:** ácido carbônico
+- **HCO₃⁻:** hidrogenocarbonato ou bicarbonato
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de equilíbrios ácido-base, sistemas tampão e interpretação de gráficos. Os temas centrais incluem:
+
+- **Sistema carbônico:** Equilíbrios de ionização do H₂CO₃
+- **Diagramas de especiação:** Distribuição de espécies em função do pH
+- **Análise gráfica:** Leitura de frações molares em diferentes pH
+- **Cálculos de concentração:** Aplicação de proporções estequiométricas
+- **Nomenclatura química:** Compostos inorgânicos oxigenados
+
+**Conceitos-chave para o LLM:**
+- **Sistema diprótico:** H₂CO₃ tem dois prótons ionizáveis
+- **Pontos de equivalência:** pH onde duas espécies têm mesma concentração
+- **Fração molar (α):** Proporção de cada espécie no total
+- **pKa valores:** ~6,3 (primeira ionização) e ~10,3 (segunda ionização)
+- **pH 10:** Região onde HCO₃⁻ e CO₃²⁻ coexistem
+
+**Análise do gráfico:**
+
+**Interpretação das curvas:**
+
+**H₂CO₃ (linha pontilhada azul):**
+- **Predominância:** pH < 6
+- **Características:** Espécie dominante em meio ácido
+- **Intersecção:** Com HCO₃⁻ em pH ~6,3 (primeiro pKa)
+
+**HCO₃⁻ (linha sólida rosa):**
+- **Predominância:** pH 6-10 (região tampão principal)
+- **Máximo:** ~95% em pH ~8,3
+- **Intersecções:** Com H₂CO₃ em pH ~6,3 e com CO₃²⁻ em pH ~10,3
+
+**CO₃²⁻ (linha tracejada roxa):**
+- **Predominância:** pH > 10
+- **Crescimento:** Rápido após pH 9,5
+- **Intersecção:** Com HCO₃⁻ em pH ~10,3 (segundo pKa)
+
+**Leitura do gráfico em pH 10:**
+- **H₂CO₃:** ≈ 0% (desprezível)
+- **HCO₃⁻:** ≈ 20% (α₁ ≈ 0,2)
+- **CO₃²⁻:** ≈ 80% (α₂ ≈ 0,8)
+
+**Cálculo detalhado:**
+
+**Dados fornecidos:**
+- **Volume:** 100 mL = 0,1 L
+- **CO₃²⁻:** 0,04 mol
+- **pH:** 10,0
+
+**Interpretação do gráfico em pH 10:**
+```
+α(CO₃²⁻) = 0,8    α(HCO₃⁻) = 0,2
+```
+
+**Proporção entre espécies:**
+```
+CO₃²⁻ : HCO₃⁻ = 0,8 : 0,2 = 4 : 1
+```
+
+**Cálculo usando proporção:**
+```
+Se 0,04 mol CO₃²⁻ corresponde a α = 0,8
+Então HCO₃⁻ com α = 0,2 será:
+n(HCO₃⁻) = 0,04 × (0,2/0,8) = 0,01 mol
+```
+
+**Concentração final:**
+```
+[HCO₃⁻] = 0,01 mol / 0,1 L = 0,1 mol/L
+```
+
+**Verificação pela conservação de massa:**
+```
+Carbono total = H₂CO₃ + HCO₃⁻ + CO₃²⁻
+C_total = 0 + 0,01 + 0,04 = 0,05 mol
+```
+
+**Nomenclatura das espécies:**
+
+**H₂CO₃ - Ácido carbônico:**
+- **Tipo:** Ácido diprótico fraco
+- **Formação:** CO₂ + H₂O ⇌ H₂CO₃
+- **Estabilidade:** Instável, decompõe-se facilmente
+
+**HCO₃⁻ - Íon bicarbonato/hidrogenocarbonato:**
+- **Nomenclatura clássica:** Bicarbonato
+- **Nomenclatura IUPAC:** Hidrogenocarbonato
+- **Função:** Espécie anfótera (ácido e base)
+
+**Aplicações práticas:**
+
+**Sistema tampão sanguíneo:**
+- **Concentração normal:** [HCO₃⁻] ≈ 24 mM no sangue
+- **pH fisiológico:** 7,4 (HCO₃⁻ predominante)
+- **Regulação:** Pulmões (CO₂) e rins (HCO₃⁻)
+
+**Química ambiental:**
+- **Oceanos:** Sistema tampão natural
+- **Acidificação:** Aumento de CO₂ altera equilíbrios
+- **Corais:** Redução de CO₃²⁻ afeta calcificação
+
+**Análise de águas:**
+- **Alcalinidade:** Medida da capacidade tampão
+- **Dureza:** Relacionada a carbonatos
+- **Tratamento:** Ajuste de pH e remoção de CO₂
+
+**Equações de equilíbrio:**
+
+**Primeira ionização:**
+```
+H₂CO₃ + H₂O ⇌ HCO₃⁻ + H₃O⁺    Ka1 = 4,3 × 10⁻⁷
+```
+
+**Segunda ionização:**
+```
+HCO₃⁻ + H₂O ⇌ CO₃²⁻ + H₃O⁺     Ka2 = 5,6 × 10⁻¹¹
+```
+
+**Relação com gráfico:**
+- **pKa1 = 6,3:** Intersecção H₂CO₃/HCO₃⁻
+- **pKa2 = 10,3:** Intersecção HCO₃⁻/CO₃²⁻
+
+**Dados importantes:**
+- **pH 10:** Região de transição HCO₃⁻/CO₃²⁻
+- **Proporção 4:1:** CO₃²⁻ : HCO₃⁻ em pH 10
+- **Volume:** 0,1 L (conversão de mL para L)
+- **Concentração:** 0,1 mol/L de HCO₃⁻
+
+**Processo de resolução:**
+1. **Ler gráfico:** Identificar frações em pH 10
+2. **Estabelecer proporção:** α(CO₃²⁻) : α(HCO₃⁻) = 0,8 : 0,2
+3. **Calcular mols:** Usar proporção com dados fornecidos
+4. **Determinar concentração:** n(HCO₃⁻) / Volume
+5. **Nomenclatura:** Aplicar regras de nomenclatura inorgânica
+
+Nível de dificuldade: Médio-Alto
+Área: Equilíbrio Químico e Ácido-Base
+Habilidades avaliadas: Interpretação de gráficos, sistemas polipróticos, cálculos de concentração, nomenclatura química, aplicações de equilíbrios em sistemas naturais.
+
+---
+
+## QUESTÃO 009 - FÍSICO-QUÍMICA - EQUILÍBRIO IÔNICO DA AMÔNIA E TEORIAS ÁCIDO-BASE
+**Tipo:** Questão mista (cálculo de pH + teorias ácido-base + análise de equilíbrio + efeito íon comum)
+**Tópico:** Base fraca, ionização, pH, teoria de Brønsted-Lowry, efeito do íon comum
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO EXPERIMENTAL:**
+Para realizar um estudo, uma solução aquosa de amônia foi preparada e transferida para um tubo de ensaio a 25°C. O equilíbrio químico da reação de ionização da amônia é representado pela seguinte equação:
+
+**EQUAÇÃO DE EQUILÍBRIO:**
+NH₃ (g) + H₂O (l) ⇌ NH₄⁺ (aq) + OH⁻ (aq)
+
+**DADOS FORNECIDOS:**
+Concentração hidroxiliônica da solução: [OH⁻] = 10⁻² mol/L
+
+**QUESTÕES:**
+Calcule o pH da solução preparada, sabendo que sua concentração hidroxiliônica é igual a 10⁻² mol/L. Classifique, ainda, o comportamento da água na reação apresentada, segundo a teoria de Brønsted-Lowry.
+
+Em seguida, indique o que ocorrerá com a concentração da amônia ao ser acrescentado HCl ao tubo de ensaio. Justifique sua resposta.
+
+**Conceitos envolvidos:**
+- Equilíbrio iônico de bases fracas
+- Cálculo de pH e pOH
+- Teoria ácido-base de Brønsted-Lowry
+- Efeito do íon comum
+- Deslocamento de equilíbrio (Le Chatelier)
+- Constante de ionização de base (Kb)
+
+**Dados implícitos necessários:**
+- Cálculo do pH:
+ - [OH⁻] = 10⁻² mol/L
+ - pOH = -log[OH⁻] = -log(10⁻²) = 2
+ - pH + pOH = 14 (a 25°C)
+ - pH = 14 - 2 = 12
+- Classificação da água segundo Brønsted-Lowry:
+ - Na reação: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻
+ - H₂O doa próton (H⁺) para NH₃
+ - Água atua como ácido de Brønsted-Lowry
+- Efeito da adição de HCl:
+ - HCl → H⁺ + Cl⁻ (ácido forte, ionização completa)
+ - H⁺ reage com OH⁻: H⁺ + OH⁻ → H₂O
+ - Diminuição de [OH⁻] desloca equilíbrio para a direita
+ - NH₃ + H₂O → NH₄⁺ + OH⁻ (Le Chatelier)
+ - Concentração de NH₃ diminui
+- Justificativa: princípio de Le Chatelier - remoção de OH⁻ favorece formação de produtos
+
+**Aplicação contextual:**
+- Soluções tampão e controle de pH
+- Processos biológicos e enzimáticos
+- Tratamento de águas residuais
+- Síntese de fertilizantes nitrogenados
+- Laboratórios de análise química
+
+**Informações complementares:**
+- Amônia: base fraca, Kb ≈ 1,8 × 10⁻⁵
+- Importância da NH₃ na agricultura
+- Toxicidade da amônia em sistemas aquáticos
+- Equilíbrios múltiplos em soluções
+
+**Palavras-chave:** amônia, base fraca, pH, pOH, teoria de Brønsted-Lowry, ácido de Brønsted, efeito íon comum, Le Chatelier, equilíbrio iônico, ionização
+
+---
+
+## QUESTÃO 010 - FÍSICO-QUÍMICA - MEDICAMENTOS LAXANTES E PROPRIEDADES COLIGATIVAS
+**Tipo:** Questão mista (aplicação farmacêutica + cálculos de concentração + propriedades coligativas + dissociação iônica)
+**Tópico:** Soluções salinas, dissociação iônica, concentração molar, propriedades coligativas, osmose
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO FARMACÊUTICO:**
+Um medicamento utilizado como laxante apresenta em sua composição química os sais Na₂HPO₄ e NaH₂PO₄, nas concentrações de 142 g/L e 60 g/L, respectivamente. A eficácia do medicamento está relacionada à alta concentração salina, que provoca perda de água das células presentes no intestino.
+
+**DADOS FORNECIDOS:**
+- Concentração de Na₂HPO₄: 142 g/L
+- Concentração de NaH₂PO₄: 60 g/L
+- Dissociação: 100% para ambos os sais
+
+**QUESTÕES:**
+Admitindo que cada um dos sais encontra-se 100% dissociado, calcule a concentração de íons Na⁺, em mol/L, no medicamento.
+
+Em seguida, também em relação ao medicamento, nomeie o sal com menor concentração e a propriedade coligativa correspondente à sua ação laxante.
+
+**Conceitos envolvidos:**
+- Dissociação iônica de sais
+- Cálculos de concentração molar
+- Propriedades coligativas (pressão osmótica)
+- Aplicações farmacêuticas
+- Osmose e transporte de água
+- Mecanismo de ação de laxantes
+
+**Dados implícitos necessários:**
+- Dissociação dos sais:
+ - Na₂HPO₄ → 2 Na⁺ + HPO₄²⁻
+ - NaH₂PO₄ → Na⁺ + H₂PO₄⁻
+- Massas molares:
+ - Na₂HPO₄: 2(23) + 1 + 31 + 4(16) = 142 g/mol
+ - NaH₂PO₄: 23 + 2(1) + 31 + 4(16) = 120 g/mol
+- Cálculo das concentrações molares:
+ - [Na₂HPO₄] = 142 g/L ÷ 142 g/mol = 1,0 mol/L
+ - [NaH₂PO₄] = 60 g/L ÷ 120 g/mol = 0,5 mol/L
+- Cálculo da concentração de Na⁺:
+ - De Na₂HPO₄: 1,0 mol/L × 2 = 2,0 mol/L de Na⁺
+ - De NaH₂PO₄: 0,5 mol/L × 1 = 0,5 mol/L de Na⁺
+ - Concentração total de Na⁺: 2,0 + 0,5 = 2,5 mol/L
+- Sal com menor concentração:
+ - NaH₂PO₄ (60 g/L < 142 g/L)
+- Propriedade coligativa:
+ - Pressão osmótica (ou osmose)
+ - Justificativa: perda de água das células por diferença de concentração
+
+**Aplicação contextual:**
+- Mecanismo de ação de laxantes salinos
+- Regulação hídrica no intestino
+- Formulação de medicamentos
+- Terapia de reidratação oral
+- Equilíbrio osmótico celular
+
+**Informações complementares:**
+- Fosfatos: tamponamento do pH intestinal
+- Segurança e dosagem de laxantes
+- Contraindicações em disfunção renal
+- Diferença entre laxantes osmóticos e estimulantes
+
+**Palavras-chave:** laxante, fosfato de sódio, dissociação iônica, concentração molar, pressão osmótica, osmose, propriedades coligativas, perda de água celular, medicamento salino
+
+---
+
+## QUESTÃO 006 - FÍSICO-QUÍMICA - EXTRAÇÃO DE PETRÓLEO E PRODUTO DE SOLUBILIDADE
+**Tipo:** Questão mista (aplicação industrial + balanceamento químico + produto de solubilidade + cálculos de equilíbrio)
+**Tópico:** Extração de petróleo, precipitação, produto de solubilidade (Kps), equilíbrio iônico
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO INDUSTRIAL:**
+Um inconveniente no processo de extração de petróleo é a precipitação de sulfato de bário (BaSO₄) nas tubulações. Essa precipitação se deve à baixa solubilidade desse sal, cuja constante do produto de solubilidade é 10⁻¹⁰ mol².L⁻², a 25°C.
+
+**EXPERIMENTO PROPOSTO:**
+Admita um experimento no qual foi obtido sulfato de bário a partir da reação entre cloreto de bário e ácido sulfúrico.
+
+**QUESTÕES:**
+Apresente a equação química completa e balanceada da obtenção do sulfato de bário no experimento e calcule a solubilidade desse sal, em mol.L⁻¹, em uma solução saturada, a 25°C.
+
+**Conceitos envolvidos:**
+- Problemas na extração de petróleo
+- Reações de precipitação
+- Balanceamento de equações químicas
+- Produto de solubilidade (Kps)
+- Solubilidade de sais pouco solúveis
+- Equilíbrio iônico em soluções saturadas
+
+**Dados implícitos necessários:**
+- Identificação dos reagentes:
+ - Cloreto de bário: BaCl₂
+ - Ácido sulfúrico: H₂SO₄
+- Equação química balanceada:
+ - BaCl₂ + H₂SO₄ → BaSO₄ + 2 HCl
+ - Verificação: Ba(1), Cl(2), H(2), S(1), O(4) - balanceada
+- Cálculo da solubilidade do BaSO₄:
+ - Equilíbrio de dissolução: BaSO₄(s) ⇌ Ba²⁺(aq) + SO₄²⁻(aq)
+ - Kps = [Ba²⁺][SO₄²⁻] = 10⁻¹⁰ mol².L⁻²
+ - Em solução saturada: [Ba²⁺] = [SO₄²⁻] = s (solubilidade)
+ - Kps = s × s = s²
+ - s² = 10⁻¹⁰
+ - s = √(10⁻¹⁰) = 10⁻⁵ mol.L⁻¹
+
+**Aplicação contextual:**
+- Problemas operacionais na indústria petrolífera
+- Incrustações em tubulações e equipamentos
+- Tratamento químico de águas de produção
+- Prevenção de precipitações indesejadas
+- Manutenção de poços petrolíferos
+
+**Informações complementares:**
+- Barita (BaSO₄): mineral comum em formações petrolíferas
+- Águas de formação: ricas em íons Ba²⁺ e SO₄²⁻
+- Métodos de prevenção: inibidores químicos
+- Impacto econômico das incrustações
+- Remoção de depósitos: acidificação controlada
+
+**Palavras-chave:** extração de petróleo, sulfato de bário, precipitação, produto de solubilidade, Kps, solubilidade, cloreto de bário, ácido sulfúrico, tubulações, incrustação
+
+---
+
+## QUESTÃO 008 - QUÍMICA INORGÂNICA - TRATAMENTO DE PISCINAS E REAÇÕES REDOX
+**Tipo:** Questão mista (aplicação prática + cálculos estequiométricos + concentrações + análise de excessos)
+**Tópico:** Tratamento de água, reações de oxirredução, cálculos de concentração, estequiometria
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO PRÁTICO:**
+O fenômeno da "água verde" em piscinas pode ser ocasionado pela adição de peróxido de hidrogênio em água contendo íons hipoclorito. Esse composto converte em cloreto os íons hipoclorito, eliminando a ação oxidante e provocando o crescimento exagerado de microrganismos. A equação química abaixo representa essa conversão:
+
+**EQUAÇÃO QUÍMICA DA REAÇÃO:**
+H₂O₂ (aq) + NaClO (aq) → NaCl (aq) + O₂ (g) + H₂O (l)
+
+**DADOS DA PISCINA:**
+Para o funcionamento ideal de uma piscina com volume de água igual a 4 × 10⁷ L, deve-se manter uma concentração de hipoclorito de sódio de 3 × 10⁻⁵ mol.L⁻¹.
+
+**SITUAÇÃO PROBLEMA:**
+Admita que foi adicionado, indevidamente, nessa piscina, uma solução de peróxido de hidrogênio na concentração de 10 mol.L⁻¹.
+
+**QUESTÕES:**
+Calcule a massa de hipoclorito de sódio, em quilogramas, que deve ser adicionada à água dessa piscina para se alcançar a condição de funcionamento ideal.
+
+Calcule, nesse caso, o volume da solução de peróxido de hidrogênio responsável pelo consumo completo do hipoclorito de sódio.
+
+**Conceitos envolvidos:**
+- Tratamento químico de piscinas
+- Reações de oxirredução
+- Cálculos estequiométricos
+- Concentrações molares
+- Conversões de unidades (mol → kg)
+- Análise de reagente limitante
+
+**Dados implícitos necessários:**
+- Cálculo da massa de NaClO necessária:
+ - Volume da piscina: 4 × 10⁷ L
+ - Concentração ideal: 3 × 10⁻⁵ mol/L
+ - Mols de NaClO: (4 × 10⁷ L) × (3 × 10⁻⁵ mol/L) = 1.200 mol
+ - Massa molar NaClO: 23 + 35,5 + 16 = 74,5 g/mol
+ - Massa de NaClO: 1.200 mol × 74,5 g/mol = 89.400 g = 89,4 kg
+- Cálculo do volume de H₂O₂ para consumo completo:
+ - Equação balanceada: H₂O₂ + NaClO → NaCl + O₂ + H₂O
+ - Estequiometria: 1 mol H₂O₂ : 1 mol NaClO
+ - Mols de H₂O₂ necessários: 1.200 mol
+ - Concentração de H₂O₂: 10 mol/L
+ - Volume de solução: 1.200 mol ÷ 10 mol/L = 120 L
+
+**Aplicação contextual:**
+- Manutenção de piscinas e qualidade da água
+- Controle microbiológico em sistemas aquáticos
+- Importância do cloro residual livre
+- Problemas causados por produtos incompatíveis
+- Química do tratamento de águas
+
+**Informações complementares:**
+- Hipoclorito: agente desinfetante e oxidante
+- Peróxido de hidrogênio: agente redutor neste contexto
+- "Água verde": proliferação de algas e microrganismos
+- pH e sua influência na eficácia do cloro
+- Alternativas de tratamento: ozônio, UV, eletrólise salina
+
+**Palavras-chave:** água verde, hipoclorito de sódio, peróxido de hidrogênio, piscina, desinfecção, reação redox, estequiometria, concentração molar, tratamento de água, cloro residual
+
+---
+
+**Questão 09**
+
+Soluções-tampão são sistemas nos quais ocorrem variações desprezíveis de pH, quando recebem a adição de pequenas quantidades de ácidos ou de bases.
+
+Considere estes compostos para o preparo de uma solução-tampão:
+• HCℓ
+• NaCℓ
+• NH₄Cℓ
+• NaOH
+• NH₄OH
+
+Indique, dentre os compostos disponíveis, os dois escolhidos para o preparo da solução-tampão.
+
+Considere, agora, a adição de uma solução aquosa de Ca(OH)₂, completamente dissociado, na concentração de 0,005 mol.L⁻¹, a 25°C, à solução-tampão preparada. Calcule o pH inicial da solução de Ca(OH)₂ e apresente a equação química que demonstra não haver aumento do pH da solução-tampão com a adição da solução de Ca(OH)₂.
+
+---
+
+**Gabarito Oficial**
+
+**Compostos escolhidos:** NH₄OH e NH₄Cℓ
+
+**Cálculo do pH da solução de Ca(OH)₂:**
+```
+Ca(OH)₂ (aq) ——→ Ca²⁺ (aq) + 2 OH⁻(aq)
+1 mol ——————→ 2 mols
+0,005 mol.L⁻¹ ——→ x
+x = 0,01 = 10⁻² mol.L⁻¹
+
+pOH = -log 10⁻² = 2
+pH = 14 - pOH = 12
+```
+
+**Equação química:**
+```
+NH₄⁺ + OH⁻ ⇌ NH₄OH
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de soluções-tampão, equilíbrios ácido-base e cálculos de pH. Os temas centrais incluem:
+
+- **Sistemas tampão:** Soluções que resistem a mudanças de pH
+- **Pares conjugados:** Ácido fraco + base conjugada ou base fraca + ácido conjugado
+- **Cálculos de pH:** Determinação de pH de bases fortes
+- **Equilíbrios químicos:** Reações de neutralização em sistemas tampão
+- **Dissociação iônica:** Comportamento de eletrólitos em solução
+
+**Conceitos-chave para o LLM:**
+- **Tampão básico:** NH₄OH (base fraca) + NH₄Cℓ (sal do ácido conjugado)
+- **Ca(OH)₂:** Base forte, dissocia completamente
+- **Sistema NH₄⁺/NH₃:** Par ácido-base conjugado
+- **Resistência a pH:** Neutralização de OH⁻ adicionado pelo NH₄⁺
+- **Estequiometria:** 1 mol Ca(OH)₂ → 2 mol OH⁻
+
+**Análise dos compostos disponíveis:**
+
+**Classificação dos compostos:**
+- **HCℓ:** Ácido forte
+- **NaCℓ:** Sal neutro (ácido forte + base forte)
+- **NH₄Cℓ:** Sal ácido (ácido fraco + base forte)
+- **NaOH:** Base forte
+- **NH₄OH:** Base fraca
+
+**Formação de sistemas tampão:**
+
+**Opções possíveis:**
+1. **Ácido fraco + sal da base conjugada:** Não disponível
+2. **Base fraca + sal do ácido conjugado:** NH₄OH + NH₄Cℓ ✓
+
+**Sistema escolhido: NH₄OH + NH₄Cℓ**
+
+**Justificativa da escolha:**
+- **NH₄OH:** Base fraca (doador de OH⁻)
+- **NH₄Cℓ:** Fonte de NH₄⁺ (ácido conjugado)
+- **Par conjugado:** NH₄⁺/NH₃ (ou NH₄⁺/NH₄OH)
+- **Função tampão:** Resiste a mudanças de pH
+
+**Equilíbrios do sistema tampão:**
+
+**Equilíbrio principal:**
+```
+NH₄OH ⇌ NH₄⁺ + OH⁻
+```
+
+**Função tampão:**
+- **Adição de ácido:** OH⁻ neutraliza H⁺
+- **Adição de base:** NH₄⁺ neutraliza OH⁻
+
+**Cálculo do pH da solução de Ca(OH)₂:**
+
+**Dissociação do Ca(OH)₂:**
+```
+Ca(OH)₂ (s) → Ca²⁺ (aq) + 2 OH⁻ (aq)
+```
+
+**Características:**
+- **Base forte:** Dissociação completa
+- **Estequiometria:** 1:2 (Ca(OH)₂ : OH⁻)
+
+**Cálculo da [OH⁻]:**
+```
+[Ca(OH)₂] = 0,005 mol/L
+[OH⁻] = 2 × [Ca(OH)₂] = 2 × 0,005 = 0,01 mol/L = 10⁻² mol/L
+```
+
+**Cálculo do pOH:**
+```
+pOH = -log[OH⁻] = -log(10⁻²) = 2
+```
+
+**Cálculo do pH:**
+```
+pH + pOH = 14 (a 25°C)
+pH = 14 - pOH = 14 - 2 = 12
+```
+
+**Mecanismo de ação do tampão:**
+
+**Adição de Ca(OH)₂ ao tampão:**
+```
+Ca(OH)₂ → Ca²⁺ + 2 OH⁻
+```
+
+**Reação de neutralização:**
+```
+NH₄⁺ + OH⁻ ⇌ NH₄OH
+```
+
+**Explicação do mecanismo:**
+- **OH⁻ adicionado:** Proveniente da dissociação do Ca(OH)₂
+- **NH₄⁺ disponível:** Componente ácido do tampão
+- **Neutralização:** Formação de NH₄OH (base fraca)
+- **Resultado:** pH permanece aproximadamente constante
+
+**Eficácia do sistema tampão:**
+
+**Equação de Henderson-Hasselbalch:**
+```
+pOH = pKb + log([NH₄⁺]/[NH₄OH])
+```
+
+**Fatores que afetam a capacidade tampão:**
+- **Concentração total:** Maior concentração = maior capacidade
+- **Razão [base]/[ácido]:** Próxima de 1 é ideal
+- **pKb da base:** Determina faixa de pH efetiva
+
+**Limitações do tampão:**
+- **Capacidade finita:** Quantidade limitada de NH₄⁺ disponível
+- **Faixa de pH:** Efetivo próximo ao pKb do NH₄OH
+- **Diluição:** Reduz eficácia com adição de volume
+
+**Aplicações práticas:**
+
+**Sistemas biológicos:**
+- **Sangue:** Tampão bicarbonato/ácido carbônico
+- **Células:** Tampões fosfato e proteínas
+- **Enzimas:** Atividade dependente do pH
+
+**Laboratório:**
+- **Análises:** Manutenção de pH constante
+- **Síntese:** Controle de condições reacionais
+- **Calibração:** Soluções padrão de pH
+
+**Considerações experimentais:**
+
+**Preparo do tampão:**
+- **Proporções:** Definir razão [NH₄OH]/[NH₄Cℓ]
+- **pH desejado:** Calcular usando Henderson-Hasselbalch
+- **Concentração:** Determinar capacidade necessária
+
+**Validação:**
+- **Teste com ácido:** Verificar resistência a H⁺
+- **Teste com base:** Verificar resistência a OH⁻
+- **Medição contínua:** Monitorar pH durante adições
+
+**Dados importantes:**
+- **Sistema tampão:** NH₄OH + NH₄Cℓ
+- **pH da solução Ca(OH)₂:** 12
+- **Reação neutralizante:** NH₄⁺ + OH⁻ → NH₄OH
+- **Estequiometria:** 1 Ca(OH)₂ → 2 OH⁻
+
+**Processo de resolução:**
+1. **Identificar par conjugado:** NH₄OH (base fraca) + NH₄Cℓ (sal)
+2. **Calcular [OH⁻]:** 2 × [Ca(OH)₂] devido estequiometria
+3. **Determinar pH:** pOH = 2, logo pH = 12
+4. **Escrever reação:** NH₄⁺ neutraliza OH⁻ adicionado
+
+Nível de dificuldade: Médio-Alto
+Área: Equilíbrio Ácido-Base
+Habilidades avaliadas: Sistemas tampão, cálculos de pH, equilíbrios químicos, pares ácido-base conjugados, estequiometria de dissociação, mecanismos de neutralização.
+
+---
+
+**Questão 06:**
+
+Um processo industrial é realizado com o emprego de uma solução aquosa. Quanto maior a temperatura de ebulição da solução empregada, maior a eficiência do processo.
+
+Admita que uma empresa disponha de duas soluções aquosas, uma de fluoreto de potássio e outra de metanal, ambas na concentração de 0,1 mol × L⁻¹.
+
+Identifique a solução disponível mais eficiente, a ser utilizada, justificando sua resposta. Em seguida, apresente a fórmula estrutural plana do metanal e nomeie sua geometria molecular.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Solução mais eficiente:** Solução de fluoreto de potássio
+
+**Justificativa:** Apresenta maior número de partículas dissolvidas.
+
+**Fórmula estrutural do metanal:**
+```
+    O
+    ‖
+H—C—H
+```
+
+**Geometria molecular:** trigonal plana
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de físico-química e química orgânica, especificamente:
+
+1. **Propriedades coligativas**:
+   - **Ebulioscopia**: Elevação do ponto de ebulição em soluções
+   - **Fator de van't Hoff (i)**: Número de partículas formadas por fórmula unitária
+   - **Relação**: ΔTe = Ke × molalidade × i
+
+2. **Análise das soluções** (ambas 0,1 mol/L):
+   - **KF (fluoreto de potássio)**: 
+     - Composto iônico: KF → K⁺ + F⁻
+     - Fator i = 2 (duas partículas por fórmula unitária)
+   - **Metanal (HCHO)**:
+     - Composto molecular: não se dissocia
+     - Fator i = 1 (uma partícula por molécula)
+
+3. **Raciocínio da eficiência**:
+   - Maior temperatura de ebulição = maior eficiência
+   - KF produz mais partículas em solução (i = 2)
+   - Maior número de partículas = maior elevação do ponto de ebulição
+   - Logo, solução de KF é mais eficiente
+
+4. **Estrutura e geometria do metanal**:
+   - **Fórmula molecular**: HCHO (aldeído mais simples)
+   - **Estrutura**: Carbono central ligado a dois hidrogênios e um oxigênio por dupla ligação
+   - **Hibridação do carbono**: sp² (três ligações σ + uma ligação π)
+   - **Geometria**: Trigonal plana (ângulos de aproximadamente 120°)
+
+5. **Conceitos avaliados**:
+   - **Propriedades coligativas**: Efeito do número de partículas
+   - **Dissociação iônica vs. molecular**: Diferença entre compostos iônicos e moleculares
+   - **Geometria molecular**: Determinação através da hibridação
+   - **Química orgânica**: Estrutura de aldeídos
+
+6. **Aplicação industrial**: Contexto prático onde temperatura de ebulição afeta eficiência de processos.
+
+7. **Nível de complexidade**: Questão de nível intermediário que integra múltiplos conceitos teóricos com aplicação prática.
+
+8. **Padrão UERJ**: Questão contextualizada que combina propriedades físico-químicas com estrutura molecular, exigindo justificativa científica para a escolha.
+
+---
+
+**Questão 03:**
+
+O enxofre é um elemento químico que pode formar dois óxidos moleculares: SO₂ e SO₃.
+
+Nomeie a geometria dessas moléculas. Explique, ainda, por que apenas o SO₂ é solúvel em água.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**SO₂ → geometria angular**
+
+**SO₃ → geometria trigonal plana**
+
+**Explicação da solubilidade:** Como a água é um solvente polar, somente solutos polares, como o SO₂, serão dissolvidos por ela.
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos fundamentais de geometria molecular e polaridade:
+
+1. **Compostos analisados**:
+   - **SO₂**: Dióxido de enxofre
+   - **SO₃**: Trióxido de enxofre
+   - **Ambos**: Óxidos moleculares do enxofre
+
+2. **Análise da geometria molecular**:
+   
+   **Para SO₂**:
+   - **Átomo central**: S (6 elétrons de valência)
+   - **Ligações**: 2 ligações duplas S=O
+   - **Pares isolados**: 1 par no enxofre
+   - **Geometria**: Angular (curvada)
+   - **Ângulo**: Aproximadamente 119°
+
+   **Para SO₃**:
+   - **Átomo central**: S (6 elétrons de valência)
+   - **Ligações**: 3 ligações duplas S=O
+   - **Pares isolados**: 0 pares no enxofre
+   - **Geometria**: Trigonal plana
+   - **Ângulo**: 120°
+
+3. **Determinação da geometria (VSEPR)**:
+   - **SO₂**: 3 domínios eletrônicos (2 ligações + 1 par isolado) → angular
+   - **SO₃**: 3 domínios eletrônicos (3 ligações + 0 par isolado) → trigonal plana
+
+4. **Análise da polaridade**:
+   
+   **SO₂ (polar)**:
+   - **Geometria angular**: Momentos dipolares não se cancelam
+   - **Resultado**: Molécula polar
+   - **Consequência**: Solúvel em água (solvente polar)
+
+   **SO₃ (apolar)**:
+   - **Geometria trigonal plana**: Momentos dipolares se cancelam
+   - **Resultado**: Molécula apolar
+   - **Consequência**: Insolúvel em água
+
+5. **Princípio da solubilidade**:
+   - **"Semelhante dissolve semelhante"**
+   - **Água**: Solvente polar (H₂O tem geometria angular)
+   - **SO₂**: Soluto polar → solúvel em água
+   - **SO₃**: Soluto apolar → insolúvel em água
+
+6. **Estruturas de Lewis**:
+   
+   **SO₂**:
+   ```
+   O=S=O (com par isolado no S)
+   ```
+   
+   **SO₃**:
+   ```
+   O=S=O
+     ||
+     O
+   ```
+
+7. **Conceitos avaliados**:
+   - **Teoria VSEPR**: Determinação de geometria molecular
+   - **Polaridade molecular**: Relação entre geometria e polaridade
+   - **Solubilidade**: Aplicação do princípio polar-polar
+   - **Estruturas de Lewis**: Representação de ligações químicas
+
+8. **Hibridação**:
+   - **SO₂**: Hibridação sp² (geometria angular devido ao par isolado)
+   - **SO₃**: Hibridação sp² (geometria trigonal plana)
+
+9. **Aplicações práticas**:
+   - **SO₂**: Usado como conservante, forma chuva ácida
+   - **SO₃**: Usado na produção de ácido sulfúrico
+   - **Solubilidade**: Importante para processos industriais e ambientais
+
+10. **Nível de complexidade**: Questão de nível intermediário que integra geometria molecular com propriedades físicas.
+
+11. **Padrão UERJ**: Questão que combina conhecimentos estruturais com aplicação prática, exigindo compreensão da relação entre estrutura molecular e propriedades físico-químicas.
+
+---
+
+## Questão de Química - UERJ (Questão 09)
+
+### Enunciado da Questão
+
+Em condições ambientes, o cloreto de hidrogênio é uma substância molecular gasosa de fórmula HCℓ. Quando dissolvido em água, ioniza-se e passa a apresentar caráter ácido.
+
+Admita uma solução aquosa saturada de HCℓ com concentração percentual mássica de 36,5% e densidade igual a 1,2 kg.L⁻¹.
+
+Calcule a concentração dessa solução, em mol.L⁻¹, e nomeie a força intermolecular existente entre o HCℓ e a água.
+
+### Dados Fornecidos
+
+- Concentração percentual mássica: 36,5%
+- Densidade da solução: 1,2 kg.L⁻¹
+- Fórmula molecular: HCℓ
+
+### Resposta Oficial
+
+**Cálculo da concentração molar:**
+
+Massa molar do HCℓ = 36,5 g/mol
+
+Utilizando regra de três:
+- 1 mol HCℓ = 36,5 g
+- 1 mol → 100 g de solução
+- X → 1200 g de solução (1,2 kg = 1200 g)
+
+X = 12 mol.L⁻¹
+
+**Força intermolecular:** dipolo-dipolo ou dipolo-permanente
+
+### Resolução Detalhada
+
+**Passo 1 - Determinação da massa de solução por litro:**
+- Densidade = 1,2 kg.L⁻¹ = 1200 g.L⁻¹
+- Portanto, 1 litro de solução possui 1200 g
+
+**Passo 2 - Cálculo da massa de HCℓ por litro:**
+- Concentração percentual = 36,5%
+- Massa de HCℓ em 1200 g de solução = 36,5% × 1200 g = 438 g
+
+**Passo 3 - Conversão para mols:**
+- Massa molar do HCℓ = 1 + 35,5 = 36,5 g/mol
+- Número de mols = 438 g ÷ 36,5 g/mol = 12 mol
+
+**Passo 4 - Concentração molar:**
+- Concentração = 12 mol/L = 12 mol.L⁻¹
+
+### Conceitos-Chave Avaliados
+
+- **Soluções:** Concentração percentual mássica, concentração molar, densidade
+- **Cálculos estequiométricos:** Conversão entre diferentes unidades de concentração
+- **Forças intermoleculares:** Interação dipolo-dipolo entre moléculas polares
+- **Propriedades do HCℓ:** Caráter molecular no estado gasoso e iônico em solução aquosa
+
+### Conhecimentos Específicos Exigidos
+
+- **Matemática química:** Regra de três, conversão de unidades
+- **Teoria atômica:** Massa molar, cálculo de número de mols
+- **Polaridade molecular:** Identificação de moléculas polares e apolares
+- **Interações intermoleculares:** Classificação e nomenclatura das forças intermoleculares
+
+### Estrutura da Questão
+
+Esta é uma questão mista que combina:
+1. **Cálculo quantitativo:** Determinação da concentração molar
+2. **Conceito teórico:** Identificação da força intermolecular
+
+### Nível de Complexidade
+
+Questão de nível médio que exige:
+- Domínio de cálculos de concentração
+- Conhecimento sobre forças intermoleculares
+- Capacidade de integrar conceitos teóricos com aplicações práticas
+
+### Aplicação Prática
+
+A questão aborda um sistema químico real (ácido clorídrico comercial) e suas propriedades, conectando conceitos teóricos com situações práticas do cotidiano laboratorial e industrial.
+
+---
+
+**Questão 03:**
+
+Em um experimento, foram misturadas duas soluções aquosas a 25 °C cada uma com volume igual a 500 mL. Uma delas tem como soluto o brometo de potássio na concentração de 0,04 mol.L⁻¹; a outra tem como soluto o nitrato de chumbo II.
+
+A mistura reagiu completamente, produzindo uma solução saturada de brometo de chumbo II, cuja constante do produto de solubilidade, também a 25 °C, é igual a 4 × 10⁻⁶ mol³.L⁻³.
+
+Calcule a concentração, em mol.L⁻¹, da solução inicial de nitrato de chumbo II e indique sua fórmula química.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Cálculos:**
+
+**Número de mols de Br⁻:** nBr⁻ = 0,04 mol.L⁻¹ × 0,5 L = 0,02 mol
+
+**Concentração de Br⁻ na mistura:** [Br⁻] = 0,02 mol / 1L = 0,02 mol.L⁻¹
+
+**Aplicação do Kps:**
+
+Kps = [Pb²⁺] × [Br⁻]²
+
+[Pb²⁺] = 4 × 10⁻⁶ / (0,02)² = 0,01 mol.L⁻¹ = nPb²⁺ = 0,01 mol
+
+**Concentração inicial do nitrato de chumbo II:**
+
+[Pb(NO₃)₂] = 0,01 mol / 0,5 L = 0,02 mol.L⁻¹
+
+**Fórmula química:** Pb(NO₃)₂
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de equilíbrio de solubilidade, produto de solubilidade e estequiometria:
+
+1. **Dados fornecidos**:
+   - **Volume de cada solução**: 500 mL = 0,5 L
+   - **Volume total da mistura**: 1,0 L
+   - **Concentração de KBr**: 0,04 mol/L
+   - **Temperatura**: 25°C (constante)
+   - **Kps do PbBr₂**: 4 × 10⁻⁶ mol³.L⁻³
+   - **Condição**: Solução saturada após reação completa
+
+2. **Reação química envolvida**:
+   ```
+   Pb(NO₃)₂(aq) + 2 KBr(aq) → PbBr₂(s) + 2 KNO₃(aq)
+   ```
+   - **Tipo**: Reação de precipitação
+   - **Produto insolúvel**: PbBr₂ (brometo de chumbo II)
+   - **Estequiometria**: 1:2 (Pb²⁺:Br⁻)
+
+3. **Cálculo do número de mols de Br⁻**:
+   - **Fórmula**: n = C × V
+   - **Cálculo**: n = 0,04 mol/L × 0,5 L = 0,02 mol de KBr
+   - **Relação**: 1 mol KBr → 1 mol Br⁻
+   - **Resultado**: 0,02 mol de Br⁻
+
+4. **Concentração de Br⁻ na mistura**:
+   - **Volume total**: 1,0 L (500 mL + 500 mL)
+   - **Concentração**: [Br⁻] = 0,02 mol / 1,0 L = 0,02 mol/L
+
+5. **Equilíbrio de solubilidade do PbBr₂**:
+   ```
+   PbBr₂(s) ⇌ Pb²⁺(aq) + 2 Br⁻(aq)
+   ```
+   - **Expressão do Kps**: Kps = [Pb²⁺][Br⁻]²
+   - **Valor dado**: Kps = 4 × 10⁻⁶ mol³.L⁻³
+
+6. **Cálculo da concentração de Pb²⁺ no equilíbrio**:
+   - **Rearranjo**: [Pb²⁺] = Kps / [Br⁻]²
+   - **Substituição**: [Pb²⁺] = (4 × 10⁻⁶) / (0,02)²
+   - **Cálculo**: [Pb²⁺] = (4 × 10⁻⁶) / (4 × 10⁻⁴) = 0,01 mol/L
+
+7. **Número de mols de Pb²⁺ no equilíbrio**:
+   - **Cálculo**: n = C × V = 0,01 mol/L × 1,0 L = 0,01 mol
+
+8. **Concentração inicial de Pb(NO₃)₂**:
+   - **Volume original**: 0,5 L
+   - **Mols de Pb(NO₃)₂**: 0,01 mol (mesma quantidade de Pb²⁺)
+   - **Concentração**: C = n/V = 0,01 mol / 0,5 L = 0,02 mol/L
+
+9. **Verificação estequiométrica**:
+   - **Pb²⁺ disponível**: 0,01 mol
+   - **Br⁻ disponível**: 0,02 mol
+   - **Relação estequiométrica**: 1 Pb²⁺ : 2 Br⁻
+   - **Análise**: 0,01 mol Pb²⁺ × 2 = 0,02 mol Br⁻ (relação perfeita)
+
+10. **Fórmula química do nitrato de chumbo II**:
+    - **Cátion**: Pb²⁺ (chumbo II)
+    - **Ânion**: NO₃⁻ (nitrato)
+    - **Balanceamento**: Pb²⁺ + 2 NO₃⁻
+    - **Fórmula**: Pb(NO₃)₂
+
+11. **Conceitos de produto de solubilidade**:
+    - **Definição**: Produto das concentrações iônicas em solução saturada
+    - **Unidades**: mol³.L⁻³ para PbBr₂ (1 íon Pb²⁺ + 2 íons Br⁻)
+    - **Aplicação**: Cálculo de solubilidades
+
+12. **Condições do experimento**:
+    - **Temperatura constante**: 25°C (Kps é dependente da temperatura)
+    - **Reação completa**: Todo reagente limitante é consumido
+    - **Solução saturada**: Equilíbrio entre sólido e íons em solução
+
+13. **Análise da precipitação**:
+    - **Formação do precipitado**: PbBr₂ é pouco solúvel
+    - **Condição de saturação**: [Pb²⁺][Br⁻]² = Kps
+    - **Excesso de íons**: Mantidos em solução conforme Kps
+
+14. **Verificação dimensional**:
+    ```
+    Kps = [mol/L] × [mol/L]² = mol³/L³
+    4 × 10⁻⁶ mol³.L⁻³ ✓
+    ```
+
+15. **Conceitos avaliados**:
+    - **Produto de solubilidade**: Aplicação do Kps
+    - **Estequiometria**: Relações molares em reações
+    - **Concentrações**: Cálculos antes e após mistura
+    - **Equilíbrio químico**: Condições de saturação
+    - **Nomenclatura inorgânica**: Fórmulas de sais
+
+16. **Nível de complexidade**: Questão de nível intermediário-avançado que integra múltiplos conceitos de equilíbrio químico e estequiometria.
+
+17. **Padrão UERJ**: Questão que combina cálculos quantitativos com conceitos teóricos de equilíbrio, exigindo raciocínio lógico sequencial e domínio de fórmulas químicas.
+
+---
+
+**Questão 05:**
+
+Corantes e pigmentos são aditivos utilizados para dar cor a objetos. Os corantes são solúveis no meio, enquanto os pigmentos são insolúveis.
+
+Observe a fórmula estrutural da fluoresceína, insolúvel em água.
+
+**[ESTRUTURA DA FLUORESCEÍNA]:**
+
+```
+         HO     O     O
+          \    / \   ||
+           ⬡--⬡   ⬡--C--OH
+          / \    \ /
+         ⬡   ⬡    ⬡
+              \  /
+               ⬡
+```
+
+**Descrição detalhada da estrutura:**
+- **Esqueleto principal**: Sistema policíclico baseado em xanteno
+- **Grupos funcionais identificados**:
+  - **Grupo carboxila (-COOH)**: Ligado ao anel benzênico inferior
+  - **Grupo hidroxila (-OH)**: Ligado ao anel benzênico superior esquerdo
+  - **Ponte de oxigênio**: Conectando os anéis centrais
+  - **Sistema conjugado**: Múltiplos anéis aromáticos conectados
+
+**Fórmula molecular**: C₂₀H₁₂O₅
+
+O sal orgânico monossódico formado a partir da reação química da fluoresceína com o hidróxido de sódio é usado, no entanto, como corante têxtil.
+
+Nomeie o grupo funcional da fluoresceína cuja reação formou esse sal. Em seguida, explique por que o sal orgânico monossódico apresenta maior solubilidade em água do que a fluoresceína.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Grupo funcional:** Carboxila
+
+**Explicação:** O sal orgânico monossódico, por ser uma substância iônica, apresenta polaridade maior do que a molécula de fluoresceína.
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de química orgânica, solubilidade e propriedades iônicas:
+
+1. **Análise da estrutura da fluoresceína**:
+   - **Esqueleto**: Derivado do xanteno (tricíclico)
+   - **Grupos funcionais presentes**:
+     - **Carboxila (-COOH)**: Grupo ácido
+     - **Hidroxila fenólica (-OH)**: Grupo fracamente ácido
+     - **Éter cíclico**: Ponte de oxigênio
+   - **Classificação**: Composto aromático polifuncional
+
+2. **Reação com hidróxido de sódio**:
+   ```
+   R-COOH + NaOH → R-COONa + H₂O
+   ```
+   - **Tipo**: Reação ácido-base (neutralização)
+   - **Produto**: Sal orgânico (carboxilato de sódio)
+   - **Grupo reativo**: Carboxila (mais ácida que fenol)
+
+3. **Formação do sal monossódico**:
+   - **Grupo que reage**: Carboxila (-COOH)
+   - **Produto formado**: -COONa (carboxilato de sódio)
+   - **Razão para "monossódico"**: Apenas um grupo carboxila presente
+   - **Hidroxila fenólica**: Não reage em condições brandas
+
+4. **Comparação de acidez**:
+   - **Grupo carboxila**: pKa ≈ 4-5 (mais ácido)
+   - **Hidroxila fenólica**: pKa ≈ 10 (menos ácido)
+   - **Condições**: NaOH reage preferencialmente com carboxila
+
+5. **Diferenças de solubilidade**:
+   
+   **Fluoresceína (molecular)**:
+   - **Tipo**: Composto molecular neutro
+   - **Polaridade**: Moderada (grupos polares + anel aromático grande)
+   - **Solubilidade**: Baixa em água (hidrofóbica predomina)
+   
+   **Sal de sódio (iônico)**:
+   - **Tipo**: Composto iônico
+   - **Polaridade**: Alta (presença de íons)
+   - **Solubilidade**: Alta em água (interação íon-dipolo)
+
+6. **Princípios de solubilidade**:
+   - **"Semelhante dissolve semelhante"**
+   - **Água**: Solvente polar
+   - **Compostos iônicos**: Geralmente solúveis em solventes polares
+   - **Interações**: Íon-dipolo > dipolo-dipolo
+
+7. **Estrutura do sal monossódico**:
+   ```
+   Fluoresceína-COONa
+   ```
+   - **Cátion**: Na⁺ (solvatado pela água)
+   - **Ânion**: Carboxilato orgânico (estabilizado por ressonância)
+   - **Hidratação**: Íons rodeados por moléculas de água
+
+8. **Aplicações práticas**:
+   
+   **Fluoresceína**:
+   - **Uso**: Pigmento (insolúvel)
+   - **Propriedade**: Fluorescência
+   - **Limitação**: Baixa solubilidade
+   
+   **Sal de fluoresceína**:
+   - **Uso**: Corante têxtil (solúvel)
+   - **Vantagem**: Penetra nas fibras
+   - **Aplicação**: Tingimento uniforme
+
+9. **Diferenciação corante vs. pigmento**:
+   - **Corante**: Solúvel no meio, penetra no material
+   - **Pigmento**: Insolúvel, fica na superfície
+   - **Escolha**: Depende da aplicação desejada
+
+10. **Aspectos estruturais da fluoresceína**:
+    - **Sistema conjugado**: Responsável pela cor/fluorescência
+    - **Rigidez molecular**: Múltiplos anéis fundidos
+    - **Grupos funcionais**: Determinam reatividade e solubilidade
+
+11. **Mecanismo de solubilização**:
+    
+    **Processo de dissolução do sal**:
+    ```
+    R-COONa(s) → R-COO⁻(aq) + Na⁺(aq)
+    ```
+    - **Dissociação**: Formação de íons livres
+    - **Hidratação**: Íons cercados por moléculas de água
+    - **Estabilização**: Interações eletrostáticas
+
+12. **Comparação de polaridade**:
+    - **Fluoresceína**: Polar, mas com grande parte apolar
+    - **Sal**: Altamente polar devido aos íons
+    - **Resultado**: Maior afinidade do sal pela água
+
+13. **Conceitos avaliados**:
+    - **Grupos funcionais**: Identificação e reatividade
+    - **Reações ácido-base**: Formação de sais
+    - **Solubilidade**: Fatores que influenciam
+    - **Polaridade**: Relação com solubilidade
+    - **Aplicações**: Corantes vs. pigmentos
+
+14. **Propriedades do carboxilato**:
+    - **Ressonância**: Estabilização da carga negativa
+    - **Hidrofilia**: Interação forte com água
+    - **Dissociação**: Facilita a solubilização
+
+15. **Aspectos industriais**:
+    - **Processamento têxtil**: Necessidade de corantes solúveis
+    - **Modificação química**: Alteração de propriedades por reação
+    - **Versatilidade**: Mesmo composto, diferentes aplicações
+
+16. **Nível de complexidade**: Questão de nível intermediário que integra estrutura molecular, reatividade e propriedades físico-químicas.
+
+17. **Padrão UERJ**: Questão que combina análise estrutural com aplicações práticas, exigindo compreensão de relações estrutura-propriedade e conceitos de solubilidade.
+
+---
+

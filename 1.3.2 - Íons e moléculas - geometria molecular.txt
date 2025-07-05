@@ -1,0 +1,1196 @@
+**Questão 01**
+
+O nitrogênio pode ser absorvido por alguns vegetais da família das leguminosas por meio do íon amônio NH₄⁺. Para que essa absorção ocorra, inicialmente, um grupo de bactérias presente nas raízes desses vegetais converte o nitrogênio molecular N₂ do ar em amônia NH₃. A amônia em meio aquoso é convertida no íon amônio, utilizado por esses vegetais.
+
+Indique a fórmula química da substância simples citada acima e o caráter polar ou apolar da ligação entre N e H. Em seguida, nomeie a ligação química interatômica presente no N₂. Nomeie, também, a geometria molecular do NH₃.
+
+---
+
+**Gabarito Oficial**
+
+- **Substância simples:** N₂
+- **Caráter da ligação:** polar
+- **Ligação química interatômica:** covalente
+- **Geometria molecular:** piramidal
+
+---
+
+**Contexto para LLM:**
+Esta questão aborda conceitos fundamentais de química inorgânica no contexto de processos biológicos (fixação de nitrogênio por leguminosas). Os temas centrais incluem:
+- Identificação de substâncias simples
+- Polaridade de ligações químicas
+- Tipos de ligações interatômicas
+- Geometria molecular
+- Aplicação em processos biológicos (ciclo do nitrogênio)
+
+Nível de dificuldade: Médio
+Área: Química Geral e Inorgânica
+Habilidades avaliadas: Interpretação de texto científico, conhecimento de estruturas moleculares, aplicação de conceitos químicos em contextos biológicos.
+
+---
+
+**Questão 01**
+
+Estudos recentes apontam que 2018 foi o ano em que se registrou a maior emissão de gases de efeito estufa na atmosfera. A tabela a seguir apresenta a fórmula molecular e a fonte de quatro dos principais gases que contribuem para esse fenômeno.
+
+**Tabela de gases de efeito estufa:**
+
+| FÓRMULA MOLECULAR | FONTE |
+|-------------------|-------|
+| CO₂ | combustíveis fósseis |
+| CH₄ | agropecuária |
+| N₂O | fertilizantes |
+| O₃ | queima de biomassa |
+
+Com base na tabela, nomeie o gás correspondente a um composto orgânico e sua respectiva geometria molecular.
+
+Indique, ainda, a fonte do gás que corresponde a um óxido neutro e a fórmula molecular daquele que é uma substância simples.
+
+---
+
+**Gabarito Oficial**
+
+**Gás:** metano
+
+**Geometria:** tetraédrica
+
+**Fonte:** fertilizantes
+
+**Fórmula molecular:** O₃
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química ambiental, geometria molecular e classificação de compostos. Os temas centrais incluem:
+
+- **Gases de efeito estufa:** Principais contribuintes para o aquecimento global
+- **Geometria molecular:** Teoria VSEPR aplicada a moléculas simples
+- **Química ambiental:** Fontes antropogênicas de poluentes atmosféricos
+- **Classificação de compostos:** Orgânicos, óxidos e substâncias simples
+- **Impactos ambientais:** Relação entre atividades humanas e mudanças climáticas
+
+**Conceitos-chave para o LLM:**
+- **Composto orgânico:** CH₄ (metano) - contém carbono ligado a hidrogênio
+- **Geometria tetraédrica:** CH₄ com hibridização sp³ do carbono
+- **Óxido neutro:** N₂O (óxido nitroso) - não forma ácido nem base em água
+- **Substância simples:** O₃ (ozônio) - formada por átomos de um único elemento
+- **Fontes antrópicas:** Atividades humanas que geram esses gases
+
+**Análise detalhada dos gases:**
+
+**1. CO₂ (Dióxido de carbono):**
+- **Classificação:** Óxido ácido
+- **Fonte:** Combustíveis fósseis (petróleo, carvão, gás natural)
+- **Geometria:** Linear
+- **Impacto:** Principal gás de efeito estufa
+
+**2. CH₄ (Metano):**
+- **Classificação:** Composto orgânico (hidrocarboneto)
+- **Fonte:** Agropecuária (digestão de ruminantes, decomposição anaeróbica)
+- **Geometria:** Tetraédrica (sp³)
+- **Impacto:** 25× mais potente que CO₂ como gás estufa
+
+**3. N₂O (Óxido nitroso):**
+- **Classificação:** Óxido neutro
+- **Fonte:** Fertilizantes (decomposição de compostos nitrogenados)
+- **Geometria:** Linear
+- **Impacto:** 300× mais potente que CO₂
+
+**4. O₃ (Ozônio):**
+- **Classificação:** Substância simples (alótropo do oxigênio)
+- **Fonte:** Queima de biomassa (reações fotoquímicas)
+- **Geometria:** Angular
+- **Impacto:** Poluente troposférico, protetor estratosférico
+
+**Geometria molecular do metano (CH₄):**
+```
+    H
+    |
+H—C—H
+    |
+    H
+```
+- **Hibridização:** sp³
+- **Ângulos:** 109,5°
+- **Forma:** Tetraédrica
+- **Polaridade:** Apolar (geometria simétrica)
+
+**Classificação dos óxidos:**
+- **Óxidos ácidos:** CO₂ (forma H₂CO₃ com água)
+- **Óxidos básicos:** Não presentes na tabela
+- **Óxidos neutros:** N₂O (não reage com água)
+- **Óxidos anfóteros:** Não presentes na tabela
+
+**Fontes e atividades humanas:**
+- **Combustíveis fósseis → CO₂:** Queima de carvão, petróleo, gás natural
+- **Agropecuária → CH₄:** Criação de gado, cultivo de arroz
+- **Fertilizantes → N₂O:** Uso excessivo de fertilizantes nitrogenados
+- **Queima de biomassa → O₃:** Desmatamento, incêndios florestais
+
+**Potencial de aquecimento global (GWP):**
+- **CO₂:** 1 (referência)
+- **CH₄:** ~25 (em 100 anos)
+- **N₂O:** ~300 (em 100 anos)
+- **O₃:** Variável (vida curta na atmosfera)
+
+**Estratégias de mitigação:**
+- **CO₂:** Energias renováveis, eficiência energética
+- **CH₄:** Manejo de rebanhos, tratamento de resíduos
+- **N₂O:** Agricultura de precisão, rotação de culturas
+- **O₃:** Controle de precursores (NOₓ, COVs)
+
+**Dados importantes:**
+- **2018:** Ano de maior emissão registrada
+- **Efeito estufa:** Absorção de radiação infravermelha
+- **Concentrações atmosféricas:** Em constante aumento
+- **Impactos:** Aquecimento global, mudanças climáticas
+
+**Processo de resolução:**
+1. **Identificar composto orgânico:** CH₄ (carbono + hidrogênio)
+2. **Determinar geometria:** Aplicar VSEPR para CH₄
+3. **Identificar óxido neutro:** N₂O (não forma ácido/base)
+4. **Encontrar substância simples:** O₃ (um único elemento)
+
+Nível de dificuldade: Básico-Médio
+Área: Química Ambiental e Geometria Molecular
+Habilidades avaliadas: Classificação de compostos, geometria molecular, conhecimentos ambientais, interpretação de tabelas, correlação entre atividades humanas e impactos ambientais.
+
+---
+
+**Questão 06**
+
+Uma amostra impura de 200 g de óxido de arsênio III foi submetida a determinado processo que envolve a seguinte sequência de reações:
+
+**Sequência de reações:**
+
+**Reação 1:** As₂O₃ + 6 Zn + 12 H⁺ → 2 AsH₃ + 6 Zn²⁺ + 3 H₂O
+
+**Reação 2:** 2 AsH₃ → 2 As + 3 H₂
+
+Após as reações químicas, observou-se a formação de 50 g de arsênio.
+
+Indique o agente redutor da reação 1 e a polaridade da molécula AsH₃. Em seguida, calcule o grau de pureza do óxido de arsênio III.
+
+---
+
+**Gabarito Oficial**
+
+**Agente redutor:** Zn
+
+**Polaridade:** polar
+
+**Cálculo do grau de pureza:**
+```
+Estequiometria: As₂O₃ → 2 As
+198 g → 150 g
+X → 50 g        X = 66 g
+
+Pureza: P = (66 × 100)/200 = 33%
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de reações de oxirredução, geometria molecular e cálculos de pureza. Os temas centrais incluem:
+
+- **Reações redox:** Identificação de agentes redutores e oxidantes
+- **Análise quantitativa:** Determinação da pureza de amostras
+- **Geometria molecular:** Polaridade de moléculas covalentes
+- **Estequiometria:** Cálculos com reagentes impuros
+- **Química analítica:** Processos de purificação e determinação de composição
+
+**Conceitos-chave para o LLM:**
+- **Agente redutor:** Espécie que perde elétrons (é oxidada)
+- **Óxido de arsênio III:** As₂O₃ (trióxido de diarsênio)
+- **Arsina (AsH₃):** Composto intermediário tóxico
+- **Geometria piramidal:** AsH₃ com momento dipolar resultante
+- **Grau de pureza:** Porcentagem da substância pura na amostra
+
+**Análise das reações:**
+
+**Reação 1 - Redução do As₂O₃:**
+```
+As₂O₃ + 6 Zn + 12 H⁺ → 2 AsH₃ + 6 Zn²⁺ + 3 H₂O
+```
+
+**Análise de oxidação/redução:**
+- **Arsênio:** As³⁺ (em As₂O₃) → As³⁻ (em AsH₃)
+  - Variação: +3 → -3 (ganho de 6 elétrons por As)
+  - **Função:** Agente oxidante (é reduzido)
+
+- **Zinco:** Zn⁰ → Zn²⁺
+  - Variação: 0 → +2 (perda de 2 elétrons por Zn)
+  - **Função:** Agente redutor (é oxidado)
+
+**Reação 2 - Decomposição da arsina:**
+```
+2 AsH₃ → 2 As + 3 H₂
+```
+- **Tipo:** Decomposição térmica
+- **Produto:** Arsênio metálico puro
+- **Aplicação:** Purificação do arsênio
+
+**Análise da geometria molecular de AsH₃:**
+
+**Estrutura eletrônica do arsênio:**
+- **Configuração:** [Ar] 3d¹⁰ 4s² 4p³
+- **Elétrons de valência:** 5
+- **Ligações:** 3 ligações As-H
+- **Par isolado:** 1 par não ligante
+
+**Geometria molecular:**
+```
+    H
+    |
+H—As—H  (com um par isolado em cima)
+```
+- **Geometria eletrônica:** Tetraédrica
+- **Geometria molecular:** Piramidal trigonal
+- **Ângulo H-As-H:** ~92° (menor que tetraédrico devido ao par isolado)
+
+**Análise da polaridade:**
+- **Ligações As-H:** Polares (ΔEN ≈ 0,3)
+- **Geometria:** Assimétrica (piramidal)
+- **Momento dipolar:** Diferente de zero
+- **Resultado:** Molécula polar
+
+**Cálculo do grau de pureza:**
+
+**Dados fornecidos:**
+- **Amostra impura:** 200 g de As₂O₃
+- **Arsênio obtido:** 50 g
+- **Processo:** Conversão completa As₂O₃ → As
+
+**Massas molares:**
+- **As₂O₃:** 2(75) + 3(16) = 198 g/mol
+- **As:** 75 g/mol
+
+**Estequiometria global:**
+```
+As₂O₃ → 2 As (através das duas reações)
+198 g As₂O₃ ——— 150 g As
+X g As₂O₃ ——— 50 g As
+
+X = (198 × 50)/150 = 66 g As₂O₃ puro
+```
+
+**Grau de pureza:**
+```
+Pureza = (massa pura/massa total) × 100%
+Pureza = (66 g/200 g) × 100% = 33%
+```
+
+**Aplicações práticas:**
+
+**Método de Marsh (detecção de arsênio):**
+- **Princípio:** Redução de compostos de As a AsH₃
+- **Decomposição:** AsH₃ → As metálico (espelho de arsênio)
+- **Uso forense:** Detecção de envenenamento por arsênio
+- **Sensibilidade:** Detecta traços muito pequenos
+
+**Toxicidade do arsênio:**
+- **AsH₃:** Extremamente tóxico (gás)
+- **As₂O₃:** Veneno histórico ("pó de sucessão")
+- **Metabolismo:** Interferência em enzimas
+- **Detoxificação:** Quelação com dimercaprol
+
+**Purificação de semicondutores:**
+- **Arsênio ultra-puro:** Para fabricação de chips
+- **Processo:** Sublimação em vácuo
+- **Aplicação:** GaAs (arseneto de gálio)
+
+**Dados importantes:**
+- **As₂O₃:** Sólido branco, muito tóxico
+- **AsH₃:** Gás incolor, odor alho, letal
+- **Zn:** Metal redutor comum em análise
+- **Temperatura:** Reação 2 requer aquecimento
+
+**Aspectos de segurança:**
+- **Arsina:** Gás mortal, requer capela
+- **Arsênio:** Cancerígeno conhecido
+- **Zinco:** Relativamente seguro
+- **Equipamentos:** Necessários para gases tóxicos
+
+**Processo de resolução:**
+1. **Identificar redox:** Zn⁰ → Zn²⁺ (oxidação) = agente redutor
+2. **Analisar geometria:** AsH₃ piramidal = polar
+3. **Estequiometria:** As₂O₃ : As = 198:150
+4. **Calcular pureza:** (massa pura/massa total) × 100%
+
+Nível de dificuldade: Médio-Alto
+Área: Química Analítica e Redox
+Habilidades avaliadas: Reações de oxirredução, geometria molecular, cálculos de pureza, estequiometria, análise quantitativa, aplicações em química forense.
+
+---
+
+**Questão 02**
+
+Recentemente, cientistas desenvolveram um processo eletrocatalítico que possibilita a síntese de etanol a partir dos reagentes dióxido de carbono e água. Nesse processo, é empregado um catalisador constituído pelas seguintes substâncias: Cu, ZnO e Al₂O₃.
+
+Nomeie os óxidos presentes na composição do catalisador e escreva a fórmula estrutural do etanol, empregando a notação em linha de ligação.
+
+Indique, ainda, a fórmula molecular do reagente apolar usado nessa síntese.
+
+---
+
+**Gabarito Oficial**
+
+**Óxidos:** óxido de zinco e óxido de alumínio
+
+**Etanol:**
+```
+   C—C—OH
+```
+
+*Descrição detalhada da estrutura do etanol:*
+- **Cadeia principal:** 2 carbonos ligados entre si
+- **Grupo funcional:** Hidroxila (-OH) ligada ao carbono terminal
+- **Fórmula molecular:** C₂H₅OH ou C₂H₆O
+- **Classificação:** Álcool primário
+- **Representação completa:** CH₃-CH₂-OH
+
+**Reagente apolar:** CO₂
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de nomenclatura química, estruturas orgânicas e polaridade molecular aplicados à tecnologia verde. Os temas centrais incluem:
+
+- **Eletrocatálise:** Processo que combina eletroquímica e catálise
+- **Conversão de CO₂:** Tecnologia para reduzir gases do efeito estufa
+- **Catalisadores heterogêneos:** Sistemas com múltiplos componentes
+- **Nomenclatura de óxidos:** Compostos inorgânicos binários
+- **Polaridade molecular:** Distribuição de cargas em moléculas
+
+**Conceitos-chave para o LLM:**
+- **Síntese eletrocatalítica:** Produção de etanol usando eletricidade e catalisador
+- **CO₂ como matéria-prima:** Conversão de resíduo em combustível
+- **Catalisador Cu/ZnO/Al₂O₃:** Sistema sinérgico comum em síntese de álcoois
+- **Etanol:** Álcool de dois carbonos, combustível renovável
+- **Molécula apolar:** CO₂ com geometria linear e momentos dipolares cancelados
+
+**Análise dos componentes do catalisador:**
+
+**Óxidos identificados:**
+
+**ZnO - Óxido de zinco:**
+- **Classificação:** Óxido anfótero
+- **Função:** Co-catalisador, promove dispersão do Cu
+- **Propriedades:** Semicondutor, estabiliza partículas metálicas
+
+**Al₂O₃ - Óxido de alumínio (alumina):**
+- **Classificação:** Óxido anfótero
+- **Função:** Suporte catalítico
+- **Propriedades:** Alta área superficial, estabilidade térmica
+
+**Cu - Cobre metálico:**
+- **Função:** Sítio ativo principal
+- **Mecanismo:** Ativação de CO₂ e H₂O
+- **Propriedades:** Condutividade elétrica, atividade redutora
+
+**Estrutura do etanol:**
+
+**Representação em linha de ligação:**
+```
+C—C—OH
+```
+
+**Representação expandida:**
+```
+H₃C—CH₂—OH
+```
+
+**Características estruturais:**
+- **Cadeia carbônica:** 2 carbonos (etano + OH)
+- **Grupo funcional:** Hidroxila (-OH)
+- **Hibridização:** Carbonos sp³
+- **Geometria:** Tetraédrica nos carbonos
+
+**Aplicações do etanol:**
+- **Combustível:** Biocombustível renovável
+- **Solvente:** Indústria farmacêutica e cosmética
+- **Antisséptico:** Desinfetante (70% em água)
+- **Síntese química:** Precursor de outros compostos
+
+**Análise da polaridade:**
+
+**CO₂ - Dióxido de carbono:**
+- **Geometria molecular:** Linear (O=C=O)
+- **Ângulo de ligação:** 180°
+- **Ligações:** Duas ligações duplas C=O (polares)
+- **Momento dipolar resultante:** Zero (vetores se cancelam)
+- **Classificação:** Molécula apolar
+
+**H₂O - Água:**
+- **Geometria molecular:** Angular
+- **Ângulo de ligação:** ~104,5°
+- **Ligações:** Duas ligações O-H (polares)
+- **Momento dipolar resultante:** Diferente de zero
+- **Classificação:** Molécula polar
+
+**Processo eletrocatalítico:**
+
+**Reação global simplificada:**
+```
+CO₂ + 3H₂O + 6e⁻ → C₂H₅OH + 3OH⁻
+```
+
+**Vantagens da tecnologia:**
+- **Sustentabilidade:** Usa CO₂ como matéria-prima
+- **Energia renovável:** Pode usar eletricidade solar/eólica
+- **Produto valioso:** Etanol tem alta demanda comercial
+- **Redução de emissões:** Captura e converte CO₂
+
+**Mecanismo catalítico:**
+
+**Papel do cobre:**
+- **Ativação do CO₂:** Adsorção e redução
+- **Formação de intermediários:** CO, CHO, CH₂O
+- **Acoplamento C-C:** Formação da ligação entre carbonos
+
+**Papel do ZnO:**
+- **Promotor eletrônico:** Modifica propriedades do Cu
+- **Estabilização:** Previne sinterização do catalisador
+- **Interface ativa:** Sítios Cu-Zn para reações específicas
+
+**Papel do Al₂O₃:**
+- **Suporte estrutural:** Fornece alta área superficial
+- **Estabilidade térmica:** Resiste a altas temperaturas
+- **Dispersão:** Mantém partículas pequenas e ativas
+
+**Condições de operação:**
+- **Temperatura:** Geralmente 200-300°C
+- **Pressão:** Moderada (10-50 atm)
+- **Eletrólito:** Solução aquosa alcalina
+- **Potencial:** Redutivo (-1 a -2 V vs SHE)
+
+**Desafios tecnológicos:**
+- **Seletividade:** Evitar produtos secundários (CH₄, CO)
+- **Eficiência energética:** Minimizar consumo elétrico
+- **Estabilidade:** Catalisador deve ser durável
+- **Separação:** Purificação do etanol produzido
+
+**Nomenclatura dos óxidos:**
+
+**Regra geral:**
+- **Óxido + de + nome do metal**
+- **ZnO:** Óxido de zinco
+- **Al₂O₃:** Óxido de alumínio
+
+**Dados importantes:**
+- **Fórmula do etanol:** C₂H₅OH
+- **Geometria do CO₂:** Linear (apolar)
+- **Catalisador:** Cu/ZnO/Al₂O₃ (sistema ternário)
+- **Aplicação:** Conversão de CO₂ em combustível
+
+**Processo de resolução:**
+1. **Identificar óxidos:** ZnO e Al₂O₃ na composição
+2. **Nomenclatura:** Óxido de zinco e óxido de alumínio
+3. **Estrutura do etanol:** C-C-OH (linha de ligação)
+4. **Analisar polaridade:** CO₂ linear → apolar
+
+Nível de dificuldade: Básico-Médio
+Área: Química Inorgânica e Orgânica
+Habilidades avaliadas: Nomenclatura de óxidos, estruturas orgânicas em linha de ligação, polaridade molecular, aplicações de catálise, tecnologias sustentáveis.
+
+---
+
+**Questão 04**
+
+Na Copa do Mundo de 2018, os jogadores russos, durante as partidas, inalavam amônia, substância cujo uso não é proibido pela Agência Mundial Antidoping. Segundo o técnico da seleção, essa prática melhorava o fluxo sanguíneo e respiratório dos atletas.
+
+Industrialmente, a amônia é obtida a partir dos gases nitrogênio e hidrogênio, conforme o equilíbrio químico representado pela seguinte equação:
+
+**N₂ (g) + 3 H₂ (g) ⇌ 2 NH₃ (g)     ΔH = -22 kcal/mol**
+
+Nomeie a geometria da molécula de amônia e aponte, de acordo com a teoria de Lewis, a característica responsável pelo caráter básico dessa substância.
+
+Indique, também, as alterações na pressão e na temperatura do sistema necessárias para aumentar a produção de amônia.
+
+---
+
+**Gabarito Oficial**
+
+**Geometria:** piramidal
+
+**Característica:** par de elétrons não ligante disponível
+
+**Alterações:** aumentar a pressão e diminuir a temperatura
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de geometria molecular, teoria ácido-base de Lewis e equilíbrio químico aplicados ao processo industrial Haber-Bosch. Os temas centrais incluem:
+
+- **Geometria molecular:** Teoria VSEPR aplicada à amônia
+- **Teoria de Lewis:** Bases como doadoras de pares eletrônicos
+- **Equilíbrio químico:** Princípio de Le Chatelier
+- **Processo Haber-Bosch:** Síntese industrial de amônia
+- **Aplicações práticas:** Uso de amônia no esporte
+
+**Conceitos-chave para o LLM:**
+- **NH₃:** Molécula piramidal com par isolado
+- **Base de Lewis:** Doadora de par eletrônico não ligante
+- **Reação exotérmica:** ΔH negativo, favorecida por baixa temperatura
+- **Redução de volume:** 4 mols → 2 mols, favorecida por alta pressão
+- **Princípio de Le Chatelier:** Sistema responde para minimizar perturbação
+
+**Análise da geometria molecular:**
+
+**Estrutura eletrônica do nitrogênio:**
+- **Configuração:** 1s² 2s² 2p³
+- **Elétrons de valência:** 5
+- **Ligações:** 3 ligações N-H
+- **Par isolado:** 1 par não ligante
+
+**Geometria da amônia (NH₃):**
+```
+    N
+   /|\
+  H H H
+  (com um par isolado no topo)
+```
+
+**Análise VSEPR:**
+- **Pares eletrônicos totais:** 4 (3 ligantes + 1 não ligante)
+- **Geometria eletrônica:** Tetraédrica
+- **Geometria molecular:** Piramidal trigonal
+- **Ângulo H-N-H:** ~107° (menor que tetraédrico devido ao par isolado)
+
+**Teoria de Lewis aplicada à basicidade:**
+
+**Definição de base de Lewis:**
+- **Base:** Espécie que doa par de elétrons
+- **Ácido:** Espécie que aceita par de elétrons
+
+**Basicidade da amônia:**
+- **Par disponível:** Par isolado no nitrogênio
+- **Disponibilidade:** Elétrons podem ser doados
+- **Exemplo de reação:** NH₃ + H⁺ → NH₄⁺
+
+**Estrutura de Lewis da amônia:**
+```
+  H-N-H
+    |
+    H
+  (com dois pontos representando o par isolado)
+```
+
+**Análise do equilíbrio químico:**
+
+**Reação de síntese da amônia:**
+```
+N₂ (g) + 3 H₂ (g) ⇌ 2 NH₃ (g)     ΔH = -22 kcal/mol
+```
+
+**Características da reação:**
+- **Tipo:** Exotérmica (ΔH < 0)
+- **Variação de volume:** Diminuição (4 mols → 2 mols)
+- **Estado:** Todos os componentes gasosos
+
+**Aplicação do Princípio de Le Chatelier:**
+
+**Efeito da temperatura:**
+- **Reação exotérmica:** Calor é produto
+- **Aumento de T:** Favorece reação endotérmica (sentido inverso)
+- **Diminuição de T:** Favorece reação exotérmica (formação de NH₃)
+- **Conclusão:** **Diminuir temperatura** aumenta produção
+
+**Efeito da pressão:**
+- **Reagentes:** 4 mols de gás (1 N₂ + 3 H₂)
+- **Produtos:** 2 mols de gás (2 NH₃)
+- **Aumento de P:** Favorece lado com menor volume
+- **Conclusão:** **Aumentar pressão** aumenta produção
+
+**Processo Haber-Bosch industrial:**
+
+**Condições operacionais:**
+- **Temperatura:** 400-500°C (compromisso cinética/termodinâmica)
+- **Pressão:** 150-300 atm
+- **Catalisador:** Ferro com promotores (K₂O, Al₂O₃)
+- **Recirculação:** Gases não convertidos retornam
+
+**Compromissos industriais:**
+- **Temperatura:** Alta o suficiente para velocidade aceitável
+- **Pressão:** Alta para favorecer produto, mas limitada por custos
+- **Catalisador:** Acelera reação sem afetar equilíbrio
+- **Separação:** Remoção contínua de NH₃ desloca equilíbrio
+
+**Aplicações da amônia:**
+
+**Uso industrial:**
+- **Fertilizantes:** 80% da produção (ureia, sulfato de amônio)
+- **Explosivos:** Nitrato de amônio
+- **Plásticos:** Síntese de nylon
+- **Refrigeração:** Fluido refrigerante
+
+**Uso esportivo (mencionado na questão):**
+- **Mecanismo:** Estimulação respiratória
+- **Efeito:** Aumento da frequência respiratória
+- **Aplicação:** Sais de amônia (smelling salts)
+- **Regulamentação:** Permitido pela WADA
+
+**Propriedades da amônia:**
+
+**Físicas:**
+- **Estado:** Gás à temperatura ambiente
+- **Odor:** Característico, penetrante
+- **Solubilidade:** Muito solúvel em água
+- **Ponto de ebulição:** -33°C
+
+**Químicas:**
+- **Basicidade:** pKb ≈ 4,75
+- **Nucleofilicidade:** Par isolado disponível
+- **Ligações de hidrogênio:** Forma com água
+- **Complexação:** Liga-se a íons metálicos
+
+**Aspectos de segurança:**
+- **Toxicidade:** Irritante das mucosas
+- **Concentração:** Perigosa em altas concentrações
+- **Detecção:** Odor perceptível em baixas concentrações
+- **Primeiros socorros:** Ventilação, lavagem com água
+
+**Dados importantes:**
+- **Fórmula:** NH₃
+- **Geometria:** Piramidal (devido ao par isolado)
+- **Basicidade:** Par eletrônico disponível
+- **ΔH:** -22 kcal/mol (exotérmica)
+- **Estequiometria:** 4 mols → 2 mols (redução de volume)
+
+**Processo de resolução:**
+1. **Geometria:** Aplicar VSEPR → piramidal (3 ligações + 1 par isolado)
+2. **Basicidade:** Identificar par isolado como doador eletrônico
+3. **Temperatura:** Reação exotérmica → diminuir T favorece produtos
+4. **Pressão:** Menor volume de produtos → aumentar P favorece produtos
+
+Nível de dificuldade: Médio
+Área: Geometria Molecular e Equilíbrio Químico
+Habilidades avaliadas: Teoria VSEPR, teoria de Lewis, Princípio de Le Chatelier, aplicações industriais, processos químicos, interpretação de dados termodinâmicos.
+
+---
+
+## QUESTÃO 002 - QUÍMICA GERAL - SÍMBOLOS QUÍMICOS E PROPRIEDADES PERIÓDICAS
+**Tipo:** Questão mista (interpretação criativa + classificação periódica + propriedades + ligações + geometria)
+**Tópico:** Elementos químicos, propriedades periódicas, energia de ionização, eletronegatividade, ligações químicas, geometria molecular
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO EMPRESARIAL:**
+Com os símbolos dos vários elementos químicos conhecidos, é possível formar palavras. Considere que uma empresa, utilizando uma sequência de cinco símbolos de elementos químicos, criou um logotipo para divulgar a marca de seu produto.
+
+**LOGOTIPO DA EMPRESA:**
+Sequência de símbolos apresentada:
+
+| C | Ho | Co | La | Te |
+|---|----|----|----|----|
+
+**QUESTÕES:**
+A partir do logotipo e com base na tabela periódica, identifique o símbolo do metal de transição interna que apresenta menor número atômico. Em seguida, nomeie o elemento de maior energia de ionização do grupo do telúrio.
+
+Ainda considerando o logotipo, classifique, quanto à polaridade, o tipo de ligação formada entre o elemento de maior eletronegatividade e o hidrogênio. Classifique, também, o tipo de geometria do composto de menor massa molar formado por esses dois elementos.
+
+**Conceitos envolvidos:**
+- Identificação de elementos químicos por símbolos
+- Classificação de elementos: metais de transição interna (lantanídeos/actinídeos)
+- Propriedades periódicas: energia de ionização, eletronegatividade
+- Tendências nos grupos da tabela periódica
+- Polaridade de ligações químicas
+- Geometria molecular (VSEPR)
+- Cálculo de massa molar
+
+**Dados implícitos necessários:**
+- Elementos do logotipo:
+ - C: carbono (Z=6, não metal)
+ - Ho: hólmio (Z=67, lantanídeo - metal de transição interna)
+ - Co: cobalto (Z=27, metal de transição)
+ - La: lantânio (Z=57, lantanídeo - metal de transição interna)
+ - Te: telúrio (Z=52, semimetal, grupo 16)
+- Metal de transição interna com menor Z: La (lantânio, Z=57)
+- Grupo do telúrio (grupo 16): O, S, Se, Te, Po
+- Maior energia de ionização no grupo 16: O (oxigênio)
+ - Justificativa: energia de ionização diminui de cima para baixo no grupo
+- Maior eletronegatividade do logotipo: C (carbono, χ ≈ 2,5)
+- Ligação C-H: ligação covalente apolar
+ - Justificativa: diferença de eletronegatividade pequena (C=2,5; H=2,1)
+- Composto C-H de menor massa molar: CH₄ (metano, MM = 16 g/mol)
+- Geometria do CH₄: tetraédrica
+ - Justificativa: 4 pares de elétrons ligantes ao redor do carbono
+
+**Aplicação contextual:**
+- Criatividade na comunicação científica
+- Uso de símbolos químicos em marketing
+- Importância das propriedades periódicas na caracterização
+- Metano como hidrocarboneto mais simples
+
+**Informações complementares:**
+- Lantanídeos: elementos de Z=57 a Z=71
+- Actinídeos: elementos de Z=89 a Z=103
+- Teoria VSEPR para previsão de geometria molecular
+- Escala de eletronegatividade de Pauling
+
+**Palavras-chave:** símbolos químicos, logotipo, lantânio, hólmio, energia de ionização, eletronegatividade, ligação covalente apolar, geometria tetraédrica, metano, metais de transição interna, grupo do oxigênio
+
+---
+
+## QUESTÃO 008 - FÍSICO-QUÍMICA - PODER OXIDANTE E POTENCIAIS ELETROQUÍMICOS
+**Tipo:** Questão mista (aplicação sanitária + estrutura molecular + estados de oxidação + eletroquímica)
+**Tópico:** Poder oxidante, potenciais de redução, higienização, fórmulas estruturais, números de oxidação
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO SANITÁRIO:**
+Em função de seu poder oxidante, a solução de hipoclorito de sódio, usualmente conhecida como água sanitária, e o ozônio são utilizados na higienização de frutas e hortaliças. Quanto maior o poder oxidante, maior a capacidade de higienização.
+
+**DADOS ELETROQUÍMICOS:**
+Considere as reações abaixo, que indicam os valores dos potenciais-padrão E° de redução do ozônio e do íon hipoclorito:
+
+**SEMIRREAÇÕES DE REDUÇÃO:**
+- O₃₍ₘ₎ + H₂O₍ₗ₎ + 2 e⁻ → O₂₍ₘ₎ + 2 OH⁻₍ₐᵩ₎     E° = +1,24 V
+- ClO⁻₍ₐᵩ₎ + H₂O₍ₗ₎ + 2 e⁻ → Cl⁻₍ₐᵩ₎ + 2 OH⁻₍ₐᵩ₎     E° = +0,89 V
+
+**QUESTÕES:**
+Indique a fórmula estrutural plana do ozônio e determine o número de oxidação do cloro no íon hipoclorito.
+
+Com base nas informações apresentadas, indique, também, a substância que atuaria de maneira mais eficaz na higienização dos alimentos, justificando sua escolha.
+
+**Conceitos envolvidos:**
+- Poder oxidante e potenciais de redução
+- Relação entre potencial elétrico e capacidade oxidante
+- Fórmulas estruturais de moléculas
+- Estados de oxidação em íons
+- Aplicações sanitárias de agentes oxidantes
+- Eletroquímica aplicada à higienização
+
+**Dados implícitos necessários:**
+- Fórmula estrutural do ozônio (O₃):
+ - Estrutura plana: O=O-O (com ressonância)
+ - Forma mais adequada: O-O=O ↔ O=O-O
+ - Geometria angular em torno do átomo central
+- Número de oxidação do cloro no ClO⁻:
+ - Regra: soma dos números de oxidação = carga do íon
+ - Oxigênio: -2; Cloro: x
+ - x + (-2) = -1 → x = +1
+ - Número de oxidação do Cl: +1
+- Análise do poder oxidante:
+ - Maior E° = maior poder oxidante
+ - O₃: E° = +1,24 V
+ - ClO⁻: E° = +0,89 V
+- Substância mais eficaz: O₃ (ozônio)
+- Justificativa: maior potencial de redução indica maior poder oxidante
+
+**Aplicação contextual:**
+- Higienização de alimentos e segurança alimentar
+- Tratamento de água potável
+- Desinfecção hospitalar e doméstica
+- Processos de branqueamento
+- Controle microbiológico em indústrias alimentícias
+- Alternativas sustentáveis de desinfecção
+
+**Informações complementares:**
+- Ozônio: gás instável, decompõe-se rapidamente
+- Hipoclorito: mais estável, fácil armazenamento
+- Mecanismo: oxidação de componentes celulares dos microrganismos
+- Vantagens do ozônio: não deixa resíduos químicos
+- Cuidados: ambos são tóxicos em concentrações elevadas
+
+**Palavras-chave:** poder oxidante, hipoclorito de sódio, ozônio, potencial de redução, higienização, fórmula estrutural, número de oxidação, água sanitária, desinfecção, segurança alimentar
+
+---
+
+**Questão 01**
+
+Em algumas indústrias, a fumaça produzida pelo processo de queima de combustíveis fósseis contém a mistura dos seguintes gases residuais: CO₂, CO, SO₂, N₂ e O₂.
+
+Nomeie o CO₂, indique a geometria molecular do SO₂ e escreva a fórmula do óxido neutro.
+
+Em seguida, escreva o símbolo do elemento químico que compõe um dos gases residuais, sabendo que esse elemento pertence ao grupo 15 da tabela de classificação periódica.
+
+---
+
+**Gabarito Oficial**
+
+**Nome do CO₂ (uma das respostas):**
+- anidrido carbônico
+- dióxido de carbono  
+- óxido de carbono IV
+
+**Geometria molecular do SO₂:** angular
+
+**Fórmula do óxido neutro:** CO
+
+**Símbolo do elemento do grupo 15:** N
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de nomenclatura química, geometria molecular e classificação periódica aplicados à química ambiental. Os temas centrais incluem:
+
+- **Poluição atmosférica:** Gases resultantes da queima de combustíveis fósseis
+- **Nomenclatura de óxidos:** Diferentes sistemas de nomenclatura
+- **Geometria molecular:** Teoria VSEPR aplicada a compostos simples
+- **Classificação de óxidos:** Ácidos, básicos, neutros e anfóteros
+- **Tabela periódica:** Localização de elementos por grupos
+
+**Conceitos-chave para o LLM:**
+- **CO₂:** Óxido ácido, linear, principal gás do efeito estufa
+- **SO₂:** Óxido ácido, angular, principal causador da chuva ácida
+- **CO:** Óxido neutro, linear, tóxico
+- **Grupo 15:** Família do nitrogênio (N, P, As, Sb, Bi)
+- **Geometria angular:** Molécula com 2 ligações + pares isolados
+
+**Análise da nomenclatura do CO₂:**
+
+**Nomenclatura oficial (IUPAC):**
+- **Dióxido de carbono:** Dois átomos de oxigênio + carbono
+
+**Nomenclatura clássica:**
+- **Anidrido carbônico:** Óxido ácido derivado do ácido carbônico
+
+**Nomenclatura de Stock:**
+- **Óxido de carbono IV:** Carbono com número de oxidação +4
+
+**Todas as nomenclaturas são aceitas** conforme o gabarito oficial.
+
+**Análise da geometria do SO₂:**
+
+**Estrutura eletrônica do enxofre:**
+- **Configuração:** [Ne] 3s² 3p⁴
+- **Elétrons de valência:** 6
+- **Ligações:** 2 ligações S=O (duplas)
+- **Pares isolados:** 1 par não ligante
+
+**Aplicação da teoria VSEPR:**
+```
+Estrutura: O=S=O (com um par isolado no S)
+```
+- **Pares eletrônicos totais:** 3 (2 ligantes + 1 não ligante)
+- **Geometria eletrônica:** Trigonal plana
+- **Geometria molecular:** Angular
+- **Ângulo O-S-O:** ~119° (menor que 120° devido ao par isolado)
+
+**Classificação dos óxidos:**
+
+**CO₂ - Óxido ácido:**
+- **Reação com água:** CO₂ + H₂O → H₂CO₃
+- **pH resultante:** < 7 (ácido)
+
+**SO₂ - Óxido ácido:**
+- **Reação com água:** SO₂ + H₂O → H₂SO₃
+- **pH resultante:** < 7 (ácido)
+
+**CO - Óxido neutro:**
+- **Reação com água:** Não reage significativamente
+- **pH resultante:** ≈ 7 (neutro)
+- **Característica:** Não forma ácido nem base
+
+**N₂ - Substância simples:**
+- **Classificação:** Não é óxido (elemento puro)
+
+**O₂ - Substância simples:**
+- **Classificação:** Não é óxido (elemento puro)
+
+**Identificação do elemento do grupo 15:**
+
+**Grupo 15 (Família 5A):**
+- **Elementos:** N, P, As, Sb, Bi
+- **Configuração geral:** ns² np³
+- **Elétrons de valência:** 5
+
+**Gases presentes na mistura:**
+- **CO₂:** C (grupo 14) + O (grupo 16)
+- **CO:** C (grupo 14) + O (grupo 16)
+- **SO₂:** S (grupo 16) + O (grupo 16)
+- **N₂:** N (grupo 15) ✓
+- **O₂:** O (grupo 16)
+
+**Elemento identificado:** **Nitrogênio (N)** no gás N₂
+
+**Impactos ambientais dos gases:**
+
+**CO₂ (Dióxido de carbono):**
+- **Efeito estufa:** Principal gás causador do aquecimento global
+- **Concentração:** ~415 ppm na atmosfera (2023)
+- **Fontes:** Queima de combustíveis, respiração, decomposição
+
+**SO₂ (Dióxido de enxofre):**
+- **Chuva ácida:** H₂SO₃ e H₂SO₄ acidificam a chuva
+- **Problemas respiratórios:** Irritação das vias aéreas
+- **Fontes:** Queima de carvão e petróleo com enxofre
+
+**CO (Monóxido de carbono):**
+- **Toxicidade:** Liga-se irreversivelmente à hemoglobina
+- **Asfixia química:** Impede transporte de oxigênio
+- **Fontes:** Combustão incompleta
+
+**N₂ (Nitrogênio):**
+- **Gás inerte:** Não participa de reações em condições normais
+- **Abundância:** ~78% da atmosfera
+- **Função:** Diluente atmosférico
+
+**O₂ (Oxigênio):**
+- **Essential:** Necessário para respiração e combustão
+- **Concentração:** ~21% da atmosfera
+- **Ciclo:** Renovado pela fotossíntese
+
+**Controle de emissões:**
+
+**Tecnologias de redução:**
+- **Filtros:** Remoção de material particulado
+- **Lavadores:** Absorção de SO₂ em soluções alcalinas
+- **Catalisadores:** Conversão de CO em CO₂
+- **Energias alternativas:** Redução de combustíveis fósseis
+
+**Legislação ambiental:**
+- **Limites de emissão:** Padrões nacionais e internacionais
+- **Monitoramento:** Medição contínua de poluentes
+- **Multas:** Penalidades por excesso de emissões
+
+**Dados importantes:**
+- **CO₂:** Nomenclaturas múltiplas aceitas
+- **SO₂:** Geometria angular (VSEPR)
+- **CO:** Único óxido neutro na lista
+- **N:** Elemento do grupo 15 presente em N₂
+
+**Processo de resolução:**
+1. **Nomenclatura CO₂:** Aplicar diferentes sistemas
+2. **Geometria SO₂:** Usar teoria VSEPR (2 ligações + 1 par isolado)
+3. **Óxido neutro:** Identificar CO (não reage com água)
+4. **Grupo 15:** Localizar N em N₂
+
+Nível de dificuldade: Básico-Médio
+Área: Química Geral e Ambiental
+Habilidades avaliadas: Nomenclatura química, geometria molecular, classificação de óxidos, localização na tabela periódica, conhecimentos de química ambiental.
+
+---
+
+**Questão 04:**
+
+As amidas podem ser obtidas pela reação entre um ácido carboxílico e a amônia, conforme a seguinte equação geral:
+
+**R-COOH + NH₃ → R-CONH₂ + H₂O**
+
+Considere um laboratório no qual estão disponíveis quatro ácidos carboxílicos: etanoico, propanoico, butanoico e pentanoico.
+
+Escreva a equação química completa da reação da amônia com o composto de caráter ácido mais acentuado dentre os disponíveis no laboratório.
+
+Admitindo a substituição da amônia pelo metanol na equação geral, indique a função orgânica do produto formado e o tipo de hibridação do átomo de carbono do grupo funcional desse produto.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Equação química completa:**
+
+**CH₃COOH + NH₃ → CH₃CONH₂ + H₂O**
+
+**Função orgânica:** éster
+
+**Hibridação:** sp²
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos fundamentais de química orgânica, especificamente:
+
+1. **Reações de síntese de amidas**: Reação entre ácidos carboxílicos e amônia para formar amidas primárias, com eliminação de água.
+
+2. **Ácidos carboxílicos disponíveis**:
+   - Ácido etanoico (acético): CH₃COOH
+   - Ácido propanoico: CH₃CH₂COOH  
+   - Ácido butanoico: CH₃CH₂CH₂COOH
+   - Ácido pentanoico: CH₃CH₂CH₂CH₂COOH
+
+3. **Conceitos avaliados**:
+   - **Acidez relativa**: Ácidos carboxílicos de cadeia menor são mais ácidos (ácido etanoico é o mais ácido)
+   - **Nomenclatura**: Identificação correta dos ácidos carboxílicos
+   - **Mecanismo de reação**: Formação de amidas por condensação
+   - **Esterificação**: Reação entre ácido carboxílico e álcool (metanol)
+   - **Hibridação**: Determinação da hibridação do carbono carbonílico
+
+4. **Raciocínio necessário**:
+   - O ácido etanoico (menor cadeia) possui maior caráter ácido
+   - A substituição de NH₃ por CH₃OH (metanol) resulta em esterificação
+   - A reação seria: R-COOH + CH₃OH → R-COOCH₃ + H₂O
+   - O produto é um éster (função orgânica)
+   - O carbono do grupo funcional (C=O) possui hibridação sp²
+
+5. **Conhecimentos estruturais**:
+   - Grupo carboxila: geometria trigonal plana no carbono (sp²)
+   - Grupo éster: mantém a hibridação sp² no carbono carbonílico
+   - Diferenciação entre funções orgânicas (amida vs. éster)
+
+6. **Nível de complexidade**: Questão de nível intermediário que integra propriedades físico-químicas, nomenclatura, reações orgânicas e hibridação.
+
+7. **Padrão UERJ**: Questão que combina múltiplos conceitos em contexto prático de laboratório, exigindo análise comparativa e aplicação de conhecimentos teóricos.
+
+---
+
+**Questão 06:**
+
+Um processo industrial é realizado com o emprego de uma solução aquosa. Quanto maior a temperatura de ebulição da solução empregada, maior a eficiência do processo.
+
+Admita que uma empresa disponha de duas soluções aquosas, uma de fluoreto de potássio e outra de metanal, ambas na concentração de 0,1 mol × L⁻¹.
+
+Identifique a solução disponível mais eficiente, a ser utilizada, justificando sua resposta. Em seguida, apresente a fórmula estrutural plana do metanal e nomeie sua geometria molecular.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Solução mais eficiente:** Solução de fluoreto de potássio
+
+**Justificativa:** Apresenta maior número de partículas dissolvidas.
+
+**Fórmula estrutural do metanal:**
+```
+    O
+    ‖
+H—C—H
+```
+
+**Geometria molecular:** trigonal plana
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de físico-química e química orgânica, especificamente:
+
+1. **Propriedades coligativas**:
+   - **Ebulioscopia**: Elevação do ponto de ebulição em soluções
+   - **Fator de van't Hoff (i)**: Número de partículas formadas por fórmula unitária
+   - **Relação**: ΔTe = Ke × molalidade × i
+
+2. **Análise das soluções** (ambas 0,1 mol/L):
+   - **KF (fluoreto de potássio)**: 
+     - Composto iônico: KF → K⁺ + F⁻
+     - Fator i = 2 (duas partículas por fórmula unitária)
+   - **Metanal (HCHO)**:
+     - Composto molecular: não se dissocia
+     - Fator i = 1 (uma partícula por molécula)
+
+3. **Raciocínio da eficiência**:
+   - Maior temperatura de ebulição = maior eficiência
+   - KF produz mais partículas em solução (i = 2)
+   - Maior número de partículas = maior elevação do ponto de ebulição
+   - Logo, solução de KF é mais eficiente
+
+4. **Estrutura e geometria do metanal**:
+   - **Fórmula molecular**: HCHO (aldeído mais simples)
+   - **Estrutura**: Carbono central ligado a dois hidrogênios e um oxigênio por dupla ligação
+   - **Hibridação do carbono**: sp² (três ligações σ + uma ligação π)
+   - **Geometria**: Trigonal plana (ângulos de aproximadamente 120°)
+
+5. **Conceitos avaliados**:
+   - **Propriedades coligativas**: Efeito do número de partículas
+   - **Dissociação iônica vs. molecular**: Diferença entre compostos iônicos e moleculares
+   - **Geometria molecular**: Determinação através da hibridação
+   - **Química orgânica**: Estrutura de aldeídos
+
+6. **Aplicação industrial**: Contexto prático onde temperatura de ebulição afeta eficiência de processos.
+
+7. **Nível de complexidade**: Questão de nível intermediário que integra múltiplos conceitos teóricos com aplicação prática.
+
+8. **Padrão UERJ**: Questão contextualizada que combina propriedades físico-químicas com estrutura molecular, exigindo justificativa científica para a escolha.
+
+---
+
+**Questão 03:**
+
+O enxofre é um elemento químico que pode formar dois óxidos moleculares: SO₂ e SO₃.
+
+Nomeie a geometria dessas moléculas. Explique, ainda, por que apenas o SO₂ é solúvel em água.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**SO₂ → geometria angular**
+
+**SO₃ → geometria trigonal plana**
+
+**Explicação da solubilidade:** Como a água é um solvente polar, somente solutos polares, como o SO₂, serão dissolvidos por ela.
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos fundamentais de geometria molecular e polaridade:
+
+1. **Compostos analisados**:
+   - **SO₂**: Dióxido de enxofre
+   - **SO₃**: Trióxido de enxofre
+   - **Ambos**: Óxidos moleculares do enxofre
+
+2. **Análise da geometria molecular**:
+   
+   **Para SO₂**:
+   - **Átomo central**: S (6 elétrons de valência)
+   - **Ligações**: 2 ligações duplas S=O
+   - **Pares isolados**: 1 par no enxofre
+   - **Geometria**: Angular (curvada)
+   - **Ângulo**: Aproximadamente 119°
+
+   **Para SO₃**:
+   - **Átomo central**: S (6 elétrons de valência)
+   - **Ligações**: 3 ligações duplas S=O
+   - **Pares isolados**: 0 pares no enxofre
+   - **Geometria**: Trigonal plana
+   - **Ângulo**: 120°
+
+3. **Determinação da geometria (VSEPR)**:
+   - **SO₂**: 3 domínios eletrônicos (2 ligações + 1 par isolado) → angular
+   - **SO₃**: 3 domínios eletrônicos (3 ligações + 0 par isolado) → trigonal plana
+
+4. **Análise da polaridade**:
+   
+   **SO₂ (polar)**:
+   - **Geometria angular**: Momentos dipolares não se cancelam
+   - **Resultado**: Molécula polar
+   - **Consequência**: Solúvel em água (solvente polar)
+
+   **SO₃ (apolar)**:
+   - **Geometria trigonal plana**: Momentos dipolares se cancelam
+   - **Resultado**: Molécula apolar
+   - **Consequência**: Insolúvel em água
+
+5. **Princípio da solubilidade**:
+   - **"Semelhante dissolve semelhante"**
+   - **Água**: Solvente polar (H₂O tem geometria angular)
+   - **SO₂**: Soluto polar → solúvel em água
+   - **SO₃**: Soluto apolar → insolúvel em água
+
+6. **Estruturas de Lewis**:
+   
+   **SO₂**:
+   ```
+   O=S=O (com par isolado no S)
+   ```
+   
+   **SO₃**:
+   ```
+   O=S=O
+     ||
+     O
+   ```
+
+7. **Conceitos avaliados**:
+   - **Teoria VSEPR**: Determinação de geometria molecular
+   - **Polaridade molecular**: Relação entre geometria e polaridade
+   - **Solubilidade**: Aplicação do princípio polar-polar
+   - **Estruturas de Lewis**: Representação de ligações químicas
+
+8. **Hibridação**:
+   - **SO₂**: Hibridação sp² (geometria angular devido ao par isolado)
+   - **SO₃**: Hibridação sp² (geometria trigonal plana)
+
+9. **Aplicações práticas**:
+   - **SO₂**: Usado como conservante, forma chuva ácida
+   - **SO₃**: Usado na produção de ácido sulfúrico
+   - **Solubilidade**: Importante para processos industriais e ambientais
+
+10. **Nível de complexidade**: Questão de nível intermediário que integra geometria molecular com propriedades físicas.
+
+11. **Padrão UERJ**: Questão que combina conhecimentos estruturais com aplicação prática, exigindo compreensão da relação entre estrutura molecular e propriedades físico-químicas.
+
+---
+

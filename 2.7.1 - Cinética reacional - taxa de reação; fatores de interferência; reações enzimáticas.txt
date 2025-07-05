@@ -1,0 +1,594 @@
+**Questão 06**
+
+Uma indústria decidiu tratar seu descarte de 10000 L de solução aquosa de HNO₃ completamente ionizado, por meio da neutralização com CaCO₃. Para saber se esta substância deveria ser utilizada na forma de grãos ou em pó, foram realizados testes em igualdade de temperatura, pressão, concentração de HNO₃ e massa de CaCO₃. Observe a equação química a seguir, que representa a neutralização completa do HNO₃ com 5 kg de CaCO₃:
+
+**2 HNO₃ (aq) + CaCO₃ (s) → Ca(NO₃)₂ (aq) + H₂O (ℓ) + CO₂ (g)**
+
+Calcule o pH da solução do descarte antes da neutralização. Em seguida, indique a forma de CaCO₃ testada, grãos ou pó, que apresentou a maior velocidade de reação, justificando sua resposta.
+
+---
+
+**Gabarito Oficial**
+
+**Cálculo do pH da solução do descarte:**
+
+```
+Massa molar do CaCO₃: 40 + 12 + 16 × 3 = 100 g/mol
+
+Quantidade de matéria de CaCO₃ empregada: 5000 g / 100 g/mol = 50 mol
+
+Proporção estequiométrica:
+2 mol HNO₃ --- 1 mol CaCO₃
+n_HNO₃ --- 50 mol
+n_HNO₃ = 2 × 50 = 100 mol
+
+Concentração molar do HNO₃:
+[HNO₃] = [H⁺] = 100 mol / 10000 L = 10⁻² mol/L
+
+pH = −log[H⁺] = −log(10⁻²) = 2
+```
+
+**Forma do CaCO₃:** pó
+
+**Justificativa:** a superfície de contato do CaCO₃ em pó é maior.
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de físico-química aplicados ao tratamento industrial de resíduos. Os temas centrais incluem:
+
+- **Cálculo de pH:** Ácidos fortes completamente ionizados
+- **Estequiometria:** Neutralização ácido-base com carbonato
+- **Cinética química:** Fatores que afetam a velocidade de reação
+- **Química ambiental:** Tratamento de efluentes industriais
+- **Aplicação industrial:** Neutralização de resíduos ácidos
+
+**Conceitos-chave para o LLM:**
+- **HNO₃ completamente ionizado:** [H⁺] = [HNO₃] (ácido forte)
+- **Reação de neutralização:** Ácido + carbonato → sal + água + CO₂
+- **Superfície de contato:** Fator determinante da velocidade de reação
+- **Estequiometria 2:1:** 2 mols de HNO₃ para 1 mol de CaCO₃
+- **pH de ácidos fortes:** pH = −log[H⁺]
+
+**Dados importantes:**
+- Volume da solução: 10000 L
+- Massa de CaCO₃ utilizada: 5 kg = 5000 g
+- Massa molar CaCO₃: 100 g/mol
+- Equação balanceada: 2 HNO₃ + CaCO₃ → Ca(NO₃)₂ + H₂O + CO₂
+- HNO₃ completamente ionizado (ácido forte)
+
+**Processo de resolução:**
+1. Calcular mols de CaCO₃ (massa ÷ massa molar)
+2. Usar estequiometria para encontrar mols de HNO₃ (proporção 2:1)
+3. Calcular concentração molar de HNO₃ (mols ÷ volume)
+4. Como HNO₃ é forte: [H⁺] = [HNO₃]
+5. Calcular pH usando pH = −log[H⁺]
+6. Analisar fator cinético: superfície de contato (pó > grãos)
+
+**Aspectos de cinética química:**
+- Velocidade de reação depende da superfície de contato
+- CaCO₃ em pó tem maior área superficial que em grãos
+- Maior superfície = maior velocidade de reação
+- Condições iguais exceto forma física do reagente sólido
+
+Nível de dificuldade: Médio
+Área: Físico-Química e Química Analítica
+Habilidades avaliadas: Cálculos de pH, estequiometria de neutralização, cinética química, aplicação em processos industriais, tratamento de efluentes.
+
+---
+
+## QUESTÃO 007 - FÍSICO-QUÍMICA - HIDROGENAÇÃO CATALÍTICA E ENTALPIA
+
+**Tipo:** Questão mista (interpretação de gráfico + cálculos termoquímicos + nomenclatura orgânica)
+**Tópico:** Hidrogenação de alcenos, catálise, energia de ativação, entalpia de reação
+**Nível:** Ensino Médio/Vestibular
+
+## CONTEXTO EXPERIMENTAL
+Observe no gráfico os valores de entalpia ao longo do caminho de uma reação de hidrogenação do pent-2-eno, em duas condições: presença e ausência de catalisador.
+
+## GRÁFICO DE ENTALPIA vs CAMINHO DA REAÇÃO
+
+```
+Entalpia (kJ/mol)
+    ↑
+110 |........................ 
+    |                    ∩    (pico máximo da curva A)
+ 90 |................/\../....
+    |              /    \
+ 70 |............./      \.... (pico máximo da curva B)
+    |           /          \
+ 50 |.........../            \..
+    |        /                 \
+ 30 |......./                   \________________
+    |     /                                      \
+ 10 |____/                                        \____
+    |                                                   \
+  0 |_____________________________________________________→
+                            caminho da reação
+
+Legenda:
+—————— curva A (azul)
+—————— curva B (laranja)
+```
+
+**Descrição detalhada do gráfico:**
+- **Eixo Y:** Entalpia (kJ/mol), variando de 0 a 110
+- **Eixo X:** Caminho da reação (direção →)
+- **Curva A (azul):** 
+  - Início: ~10 kJ/mol
+  - Pico máximo: ~110 kJ/mol
+  - Final: ~30 kJ/mol
+- **Curva B (laranja):**
+  - Início: ~10 kJ/mol  
+  - Pico máximo: ~70 kJ/mol
+  - Final: ~30 kJ/mol
+- **Diferença principal:** Altura dos picos (energia de ativação)
+
+## QUESTÕES
+1. Indique a curva que representa a reação química na presença de catalisador e calcule, em kJ/mol, sua energia de ativação.
+2. Determine, ainda, a variação de entalpia dessa reação, em kJ/mol, e nomeie o produto formado.
+
+## CONCEITOS ENVOLVIDOS
+- Hidrogenação catalítica de alcenos
+- Energia de ativação (Ea)
+- Entalpia de reação (ΔH)
+- Efeito do catalisador na cinética química
+- Nomenclatura IUPAC de alcanos
+- Perfil energético de reações
+
+## DADOS NECESSÁRIOS PARA RESOLUÇÃO
+
+### Reação química:
+```
+CH₃-CH=CH-CH₂-CH₃ + H₂ → CH₃-CH₂-CH₂-CH₂-CH₃
+   (pent-2-eno)              (pentano)
+```
+
+### Análise do gráfico:
+- **Reagentes:** ~10 kJ/mol (estado inicial)
+- **Produtos:** ~30 kJ/mol (estado final)
+- **Curva A (sem catalisador):** Ea = 110 - 10 = 100 kJ/mol
+- **Curva B (com catalisador):** Ea = 70 - 10 = 60 kJ/mol
+- **ΔH da reação:** 30 - 10 = +20 kJ/mol
+
+## PRINCÍPIOS TEÓRICOS
+
+### Função do catalisador:
+- Diminui a energia de ativação
+- Não altera a entalpia de reação (ΔH)
+- Acelera a velocidade da reação
+- Oferece caminho alternativo
+
+### Características da hidrogenação:
+- Adição de H₂ a duplas ligações C=C
+- Geralmente catalizada por metais (Ni, Pt, Pd)
+- Processo industrial importante
+- Saturação de compostos insaturados
+
+## MECANISMO DA REAÇÃO
+1. Adsorção dos reagentes na superfície catalítica
+2. Quebra da ligação H-H
+3. Adição dos átomos de hidrogênio ao alceno
+4. Formação do alcano saturado
+5. Dessorção do produto
+
+## APLICAÇÕES PRÁTICAS
+- Hidrogenação de óleos vegetais (margarina)
+- Produção de combustíveis
+- Síntese de compostos saturados
+- Indústria petroquímica
+
+## INFORMAÇÕES COMPLEMENTARES
+- Reação endotérmica: ΔH > 0
+- Catalisador heterogêneo típico
+- Processo reversível
+- Temperatura e pressão influenciam o equilíbrio
+
+## RESPOSTAS ESPERADAS
+
+### Questão 1:
+- **Curva com catalisador:** Curva B (laranja)
+- **Justificativa:** Menor energia de ativação
+- **Energia de ativação:** Ea = 70 - 10 = **60 kJ/mol**
+
+### Questão 2:
+- **Variação de entalpia:** ΔH = 30 - 10 = **+20 kJ/mol**
+- **Produto formado:** **pentano** (ou n-pentano)
+- **Fórmula molecular:** C₅H₁₂
+
+## ANÁLISE ADICIONAL
+- Reação endotérmica (absorve energia)
+- Catalisador reduz Ea em 40 kJ/mol (100 - 60)
+- Ambas as curvas têm mesmo ΔH
+- Produtos mais energéticos que reagentes
+
+**Palavras-chave:** hidrogenação catalítica, pent-2-eno, pentano, energia de ativação, entalpia de reação, catalisador, perfil energético, alcenos, alcanos
+
+**Questão 07**
+
+Considere a equação química global entre os compostos HBr e NO₂:
+
+**2 HBr + NO₂ ——→ H₂O + NO + Br₂**
+
+Para desenvolver um estudo cinético, foram propostos os mecanismos de reação I e II, descritos na tabela, ambos contendo duas etapas.
+
+**Tabela de mecanismos propostos:**
+
+| Etapa | Mecanismo I | Mecanismo II |
+|-------|-------------|--------------|
+| **lenta** | HBr + NO₂ ——→ HBrO + NO | 2 HBr ——→ H₂ + Br₂ |
+| **rápida** | HBr + HBrO ——→ H₂O + Br₂ | H₂ + NO₂ ——→ H₂O + NO |
+
+Realizou-se, então, um experimento no qual foi medida a velocidade da reação em função da concentração inicial dos reagentes, mantendo-se constante a temperatura. Observe os resultados obtidos:
+
+**Dados experimentais:**
+
+| Concentração inicial (mol.L⁻¹) | Velocidade |
+|-------------------------------|------------|
+| **HBr** | **NO₂** | **(mol.L⁻¹.min⁻¹)** |
+| 0,01 | 0,01 | 0,05 |
+| 0,02 | 0,01 | 0,10 |
+| 0,01 | 0,02 | 0,10 |
+
+Determine a ordem global da reação. Em seguida, indique qual dos dois mecanismos propostos representa essa reação global, justificando sua resposta.
+
+---
+
+**Gabarito Oficial**
+
+**Expressão da velocidade:** v = k [HBr] [NO₂]; logo, a ordem global é igual a 2.
+
+**Mecanismo:** I
+
+**Justificativa:** Na etapa lenta, as ordens de reação do HBr e do NO₂ são iguais às obtidas experimentalmente.
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de cinética química, determinação de ordem de reação e análise de mecanismos reacionais. Os temas centrais incluem:
+
+- **Cinética química:** Estudo da velocidade de reações
+- **Ordem de reação:** Determinação experimental da dependência da velocidade
+- **Mecanismos reacionais:** Etapas elementares que compõem a reação global
+- **Etapa determinante:** Etapa lenta que controla a velocidade global
+- **Lei de velocidade:** Expressão matemática da velocidade em função das concentrações
+
+**Conceitos-chave para o LLM:**
+- **Ordem global:** Soma dos expoentes na lei de velocidade
+- **Etapa lenta:** Determina a lei de velocidade da reação global
+- **Análise de dados:** Comparação de velocidades com concentrações
+- **Mecanismo válido:** Deve reproduzir a lei de velocidade experimental
+- **Proporcionalidade:** v ∝ [A]ᵅ[B]ᵝ
+
+**Determinação da ordem de reação:**
+
+**Análise dos dados experimentais:**
+
+**Experimento 1:** [HBr] = 0,01 M, [NO₂] = 0,01 M, v = 0,05 mol.L⁻¹.min⁻¹
+
+**Experimento 2:** [HBr] = 0,02 M, [NO₂] = 0,01 M, v = 0,10 mol.L⁻¹.min⁻¹
+
+**Experimento 3:** [HBr] = 0,01 M, [NO₂] = 0,02 M, v = 0,10 mol.L⁻¹.min⁻¹
+
+**Determinação da ordem em relação ao HBr:**
+```
+Comparando experimentos 1 e 2 (NO₂ constante):
+v₂/v₁ = ([HBr]₂/[HBr]₁)ⁿ
+0,10/0,05 = (0,02/0,01)ⁿ
+2 = 2ⁿ
+n = 1
+```
+**Ordem em HBr = 1**
+
+**Determinação da ordem em relação ao NO₂:**
+```
+Comparando experimentos 1 e 3 (HBr constante):
+v₃/v₁ = ([NO₂]₃/[NO₂]₁)ᵐ
+0,10/0,05 = (0,02/0,01)ᵐ
+2 = 2ᵐ
+m = 1
+```
+**Ordem em NO₂ = 1**
+
+**Lei de velocidade experimental:**
+```
+v = k [HBr]¹ [NO₂]¹
+```
+
+**Ordem global:**
+```
+Ordem global = 1 + 1 = 2
+```
+
+**Análise dos mecanismos:**
+
+**Mecanismo I:**
+- **Etapa lenta:** HBr + NO₂ → HBrO + NO
+- **Etapa rápida:** HBr + HBrO → H₂O + Br₂
+
+**Lei de velocidade do Mecanismo I:**
+```
+v = k₁ [HBr] [NO₂]
+```
+**Ordem em HBr = 1, Ordem em NO₂ = 1**
+
+**Mecanismo II:**
+- **Etapa lenta:** 2 HBr → H₂ + Br₂
+- **Etapa rápida:** H₂ + NO₂ → H₂O + NO
+
+**Lei de velocidade do Mecanismo II:**
+```
+v = k₂ [HBr]²
+```
+**Ordem em HBr = 2, Ordem em NO₂ = 0**
+
+**Comparação com dados experimentais:**
+
+**Mecanismo I:**
+- **Previsto:** v ∝ [HBr]¹ [NO₂]¹
+- **Experimental:** v ∝ [HBr]¹ [NO₂]¹
+- **Conclusão:** ✓ Compatível
+
+**Mecanismo II:**
+- **Previsto:** v ∝ [HBr]² [NO₂]⁰
+- **Experimental:** v ∝ [HBr]¹ [NO₂]¹
+- **Conclusão:** ✗ Incompatível
+
+**Verificação da escolha:**
+
+**Por que o Mecanismo I é correto?**
+- **Etapa determinante:** A etapa lenta controla a velocidade global
+- **Lei de velocidade:** Depende apenas dos reagentes da etapa lenta
+- **Concordância:** Ordens de reação coincidem com os dados experimentais
+
+**Por que o Mecanismo II é incorreto?**
+- **Dependência incorreta:** Não prevê dependência de NO₂
+- **Ordem do HBr:** Prevê ordem 2, mas experimental é 1
+- **Incompatibilidade:** Lei de velocidade não corresponde aos dados
+
+**Princípios da cinética química:**
+
+**Etapa determinante de velocidade:**
+- **Definição:** Etapa mais lenta de um mecanismo
+- **Controle:** Determina a velocidade global da reação
+- **Lei de velocidade:** Baseia-se nos reagentes da etapa lenta
+
+**Aproximação do estado quasi-estacionário:**
+- **Intermediários:** Concentração aproximadamente constante
+- **Aplicação:** Quando etapas posteriores são muito rápidas
+- **Simplificação:** Permite deduzir leis de velocidade complexas
+
+**Aspectos experimentais:**
+
+**Método de velocidades iniciais:**
+- **Princípio:** Medir v₀ variando concentrações iniciais
+- **Vantagem:** Evita complicações de produtos
+- **Análise:** Determina ordens de reação independentemente
+
+**Condições controladas:**
+- **Temperatura constante:** k permanece constante
+- **Concentrações iniciais:** Variam sistematicamente
+- **Produtos desprezíveis:** t → 0, [produtos] ≈ 0
+
+**Dados importantes:**
+- **Ordem global:** 2 (soma das ordens individuais)
+- **Lei de velocidade:** v = k[HBr][NO₂]
+- **Mecanismo correto:** I (etapa lenta compatível)
+- **Justificativa:** Ordens experimentais = ordens da etapa lenta
+
+**Processo de resolução:**
+1. **Analisar dados:** Comparar experimentos para determinar ordens
+2. **Calcular ordem global:** Somar ordens individuais
+3. **Examinar mecanismos:** Lei de velocidade de cada etapa lenta
+4. **Comparar:** Verificar qual mecanismo reproduz dados experimentais
+5. **Justificar:** Explicar com base na etapa determinante
+
+Nível de dificuldade: Alto
+Área: Cinética Química
+Habilidades avaliadas: Determinação de ordem de reação, análise de dados experimentais, mecanismos reacionais, lei de velocidade, etapa determinante de velocidade.
+
+---
+
+**Questão 08:**
+
+Em um experimento, foi utilizada uma amostra de 200 mg contendo partes iguais dos radioisótopos bismuto-212 e bismuto-214. Suas respectivas reações nucleares de decaimento estão indicadas abaixo:
+
+²¹²Bi → ²¹²Po + β
+
+²¹⁴Bi → ²¹⁰Tℓ + α
+
+Observe o gráfico, cujas curvas representam as variações das massas desses radioisótopos ao longo das duas horas de duração do experimento.
+
+**[DESCRIÇÃO DETALHADA DO GRÁFICO]:**
+- **Eixo X**: Tempo (min) - escala de 0 a 120 minutos
+- **Eixo Y**: Massa (mg) - escala de 0 a 100 mg
+- **Curva contínua (azul)**: Representa o bismuto-212
+  - Inicia em 100 mg no tempo 0
+  - Decaimento exponencial mais lento
+  - Aos 60 min: aproximadamente 50 mg
+  - Aos 120 min: aproximadamente 25 mg
+- **Curva pontilhada (vermelha)**: Representa o bismuto-214
+  - Inicia em 100 mg no tempo 0
+  - Decaimento exponencial mais rápido
+  - Aos 20 min: aproximadamente 50 mg
+  - Aos 40 min: aproximadamente 25 mg
+  - Aos 80 min: aproximadamente 6,25 mg
+  - Aos 120 min: próximo de 0 mg
+- **Grade**: Linhas pontilhadas a cada 20 min no eixo X e a cada 25 mg no eixo Y
+
+Determine o tempo de meia-vida do radioisótopo ²¹⁴Bi. Calcule, também, a velocidade média de formação de partículas β, em partícula × h⁻¹, no tempo total do experimento.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Tempo de meia-vida do ²¹⁴Bi:** 20 min
+
+**Velocidade média de consumo do ²¹²Bi:**
+(100 - 25)/2 - 0 = 37,5 mg × h⁻¹
+
+**Cálculo da velocidade de formação de partículas β:**
+
+1 mol ²¹²Bi → 1 mol β
+
+212 g → 6 × 10²³ partículas
+
+0,0375 g → X
+
+**X = 1,06 × 10²⁰ partícula × h⁻¹**
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos avançados de química nuclear e cinética:
+
+1. **Decaimento radioativo**:
+   - **Meia-vida (t₁/₂)**: Tempo necessário para que metade da massa inicial se decomponha
+   - **Decaimento exponencial**: Característica dos processos radioativos
+   - **Análise gráfica**: Interpretação de curvas de decaimento
+
+2. **Dados do experimento**:
+   - **Amostra inicial**: 200 mg total (100 mg de cada isótopo)
+   - **Isótopos**: ²¹²Bi e ²¹⁴Bi
+   - **Tempo de observação**: 120 minutos (2 horas)
+
+3. **Análise das curvas**:
+   - **²¹⁴Bi (curva pontilhada)**: Decaimento mais rápido
+     - t₁/₂ = 20 min (100 mg → 50 mg em 20 min)
+   - **²¹²Bi (curva contínua)**: Decaimento mais lento
+     - t₁/₂ = 60 min (100 mg → 50 mg em 60 min)
+
+4. **Reações nucleares**:
+   - **²¹²Bi → ²¹²Po + β**: Emissão de partícula beta
+   - **²¹⁴Bi → ²¹⁰Tℓ + α**: Emissão de partícula alfa
+
+5. **Cálculos envolvidos**:
+   - **Velocidade de consumo**: (massa inicial - massa final) / tempo
+   - **Conversão de unidades**: mg/h → g/h
+   - **Relação estequiométrica**: 1 mol ²¹²Bi → 1 mol β
+   - **Número de Avogadro**: Conversão mol → partículas
+
+6. **Sequência de cálculo**:
+   - Velocidade = (100 - 25) mg / 2 h = 37,5 mg/h = 0,0375 g/h
+   - Proporção: 212 g/mol : 6×10²³ partículas/mol
+   - Resultado: 1,06×10²⁰ partículas/h
+
+7. **Conceitos avaliados**:
+   - **Interpretação gráfica**: Leitura de curvas exponenciais
+   - **Meia-vida radioativa**: Conceito fundamental da química nuclear
+   - **Estequiometria nuclear**: Relação entre átomos e partículas emitidas
+   - **Conversões**: Unidades de massa, tempo e quantidade de matéria
+
+8. **Nível de complexidade**: Questão avançada que integra química nuclear, cinética, estequiometria e análise gráfica.
+
+9. **Padrão UERJ**: Questão que combina interpretação de dados experimentais com cálculos quantitativos complexos, exigindo domínio de múltiplos conceitos.
+
+---
+
+**Questão 05:**
+
+A reação química entre o gás hidrogênio e o monóxido de nitrogênio, representada a seguir, foi analisada em duas séries de experimentos.
+
+**2 H₂ (g) + 2 NO (g) → N₂ (g) + 2 H₂O (g)**
+
+Na primeira série, a velocidade de reação foi medida em função da concentração de hidrogênio, mantendo-se a concentração de monóxido de nitrogênio constante em 1 mol.L⁻¹. Na segunda série, determinou-se a velocidade em função da concentração de monóxido de nitrogênio, mantendo-se a concentração de hidrogênio constante em 1 mol.L⁻¹. Os resultados dos experimentos estão apresentados nos gráficos.
+
+**[DESCRIÇÃO DETALHADA DOS GRÁFICOS]:**
+
+**Gráfico 1 - [NO] = 1 mol.L⁻¹:**
+- **Eixo X**: [H₂] (concentração de hidrogênio) - escala de 0 a 2,0 mol.L⁻¹
+- **Eixo Y**: velocidade (mol.L⁻¹.min⁻¹) - escala de 0 a 6
+- **Curva**: Linha reta que passa pela origem (0,0)
+- **Pontos notáveis**: 
+  - Em [H₂] = 1,0: velocidade ≈ 3,0
+  - Em [H₂] = 2,0: velocidade ≈ 6,0
+- **Característica**: Relação linear (ordem 1 em relação a H₂)
+
+**Gráfico 2 - [H₂] = 1 mol.L⁻¹:**
+- **Eixo X**: [NO] (concentração de monóxido de nitrogênio) - escala de 0 a 2,0 mol.L⁻¹
+- **Eixo Y**: velocidade (mol.L⁻¹.min⁻¹) - escala de 0 a 12
+- **Curva**: Curva parabólica que passa pela origem (0,0)
+- **Pontos notáveis**:
+  - Em [NO] = 1,0: velocidade ≈ 3,0
+  - Em [NO] = 1,5: velocidade ≈ 6,75
+  - Em [NO] = 2,0: velocidade ≈ 12,0
+- **Característica**: Relação quadrática (ordem 2 em relação a NO)
+
+Determine a ordem de reação de cada um dos reagentes e calcule o valor da constante cinética.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**H₂ = ordem 1**
+
+**NO = ordem 2**
+
+**k = 3 L².mol⁻².min⁻¹**
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos fundamentais de cinética química:
+
+1. **Reação estudada**:
+   - **Equação**: 2 H₂ (g) + 2 NO (g) → N₂ (g) + 2 H₂O (g)
+   - **Tipo**: Reação em fase gasosa
+   - **Reagentes**: Hidrogênio (H₂) e monóxido de nitrogênio (NO)
+
+2. **Metodologia experimental**:
+   - **Método das concentrações iniciais**: Variação de uma concentração mantendo a outra constante
+   - **Primeira série**: [NO] = 1 mol/L constante, variando [H₂]
+   - **Segunda série**: [H₂] = 1 mol/L constante, variando [NO]
+
+3. **Análise do Gráfico 1** ([NO] constante):
+   - **Relação linear**: velocidade ∝ [H₂]¹
+   - **Interpretação**: Ordem 1 em relação ao H₂
+   - **Cálculo**: Quando [H₂] duplica (1→2), velocidade duplica (3→6)
+   - **Coeficiente angular**: ≈ 3,0 L.mol⁻¹.min⁻¹
+
+4. **Análise do Gráfico 2** ([H₂] constante):
+   - **Relação quadrática**: velocidade ∝ [NO]²
+   - **Interpretação**: Ordem 2 em relação ao NO
+   - **Verificação**: Quando [NO] duplica (1→2), velocidade quadruplica (3→12)
+   - **Forma parabólica**: Característica de ordem 2
+
+5. **Lei de velocidade**:
+   - **Forma geral**: v = k[H₂]ᵃ[NO]ᵇ
+   - **Com as ordens determinadas**: v = k[H₂]¹[NO]²
+   - **Ordem global**: a + b = 1 + 2 = 3
+
+6. **Cálculo da constante cinética**:
+   - **Usando ponto do gráfico**: [H₂] = 1 mol/L, [NO] = 1 mol/L, v = 3 mol.L⁻¹.min⁻¹
+   - **Substituição**: 3 = k × 1¹ × 1²
+   - **Resultado**: k = 3 L².mol⁻².min⁻¹
+
+7. **Verificação dimensional**:
+   - **Unidade de v**: mol.L⁻¹.min⁻¹
+   - **Unidade de k**: L².mol⁻².min⁻¹
+   - **Verificação**: k[H₂][NO]² = (L².mol⁻².min⁻¹)(mol.L⁻¹)(mol.L⁻¹)² = mol.L⁻¹.min⁻¹ ✓
+
+8. **Conceitos avaliados**:
+   - **Ordem de reação**: Determinação experimental através de gráficos
+   - **Lei de velocidade**: Construção da expressão cinética
+   - **Constante cinética**: Cálculo e unidades
+   - **Interpretação gráfica**: Análise de curvas lineares e parabólicas
+
+9. **Relação estequiometria vs. cinética**:
+   - **Coeficientes estequiométricos**: 2 H₂ + 2 NO → produtos
+   - **Ordens de reação**: 1 para H₂, 2 para NO
+   - **Observação**: Ordens não coincidem com coeficientes (comum em cinética)
+
+10. **Aspectos experimentais**:
+    - **Controle de variáveis**: Método fundamental em cinética
+    - **Reprodutibilidade**: Dados consistentes entre experimentos
+    - **Condições**: Temperatura e pressão presumivelmente constantes
+
+11. **Nível de complexidade**: Questão de nível intermediário-avançado que exige interpretação gráfica, cálculos e compreensão de cinética química.
+
+12. **Padrão UERJ**: Questão que integra análise de dados experimentais com conceitos teóricos, exigindo habilidades de interpretação gráfica e cálculo quantitativo.
+
+---
+

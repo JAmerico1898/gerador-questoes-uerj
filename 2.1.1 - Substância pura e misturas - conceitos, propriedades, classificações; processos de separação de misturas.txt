@@ -1,0 +1,145 @@
+**Questão 07:**
+
+Observe os diagramas de mudança de fases das substâncias puras A e B, submetidas às mesmas condições experimentais.
+
+**[DESCRIÇÃO DETALHADA DOS GRÁFICOS]:**
+
+**Substância A:**
+- **Eixo X**: Tempo (min) - escala de 0 a 80 minutos
+- **Eixo Y**: Temperatura (°C) - escala de aproximadamente -116°C a +50°C
+- **Perfil da curva**:
+  - **0-20 min**: Aquecimento de -116°C até -116°C (curva ascendente)
+  - **20-35 min**: Patamar horizontal em -116°C (fusão)
+  - **35-55 min**: Aquecimento de -116°C até +50°C (curva ascendente)
+  - **55-80 min**: Patamar horizontal em +50°C (ebulição)
+- **Pontos críticos**:
+  - **Ponto de fusão**: -116°C (patamar de 20-35 min)
+  - **Ponto de ebulição**: +50°C (patamar de 55-80 min)
+
+**Substância B:**
+- **Eixo X**: Tempo (min) - escala de 0 a 90 minutos
+- **Eixo Y**: Temperatura (°C) - escala de aproximadamente -89°C a +118°C
+- **Perfil da curva**:
+  - **0-10 min**: Aquecimento de -89°C até -89°C (curva ascendente)
+  - **10-30 min**: Patamar horizontal em -89°C (fusão)
+  - **30-60 min**: Aquecimento de -89°C até +118°C (curva ascendente)
+  - **60-75 min**: Patamar horizontal em +118°C (ebulição)
+  - **75-90 min**: Continuação do patamar em +118°C
+- **Pontos críticos**:
+  - **Ponto de fusão**: -89°C (patamar de 10-30 min)
+  - **Ponto de ebulição**: +118°C (patamar de 60-75 min)
+
+Indique a substância que se funde mais rapidamente. Nomeie, também, o processo mais adequado para separar uma mistura homogênea contendo volumes iguais dessas substâncias, inicialmente à temperatura ambiente, justificando sua resposta.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Substância que se funde mais rapidamente:** Substância A
+
+**Processo de separação:** Destilação, pois seus pontos de ebulição são distintos.
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos de mudanças de estado e métodos de separação:
+
+1. **Análise dos diagramas de aquecimento**:
+   - **Tipo**: Curvas de aquecimento com patamares de mudança de fase
+   - **Condições**: Mesma taxa de aquecimento para ambas as substâncias
+   - **Interpretação**: Patamares horizontais = mudanças de fase
+
+2. **Características da Substância A**:
+   - **Ponto de fusão**: -116°C
+   - **Ponto de ebulição**: +50°C
+   - **Tempo de fusão**: 15 minutos (20-35 min)
+   - **Tempo de ebulição**: 25 minutos (55-80 min)
+   - **Faixa líquida**: -116°C a +50°C (166°C de amplitude)
+
+3. **Características da Substância B**:
+   - **Ponto de fusão**: -89°C
+   - **Ponto de ebulição**: +118°C
+   - **Tempo de fusão**: 20 minutos (10-30 min)
+   - **Tempo de ebulição**: 15 minutos (60-75 min)
+   - **Faixa líquida**: -89°C a +118°C (207°C de amplitude)
+
+4. **Comparação da velocidade de fusão**:
+   - **Substância A**: Fusão completa em 15 minutos
+   - **Substância B**: Fusão completa em 20 minutos
+   - **Conclusão**: Substância A se funde mais rapidamente
+   - **Fatores**: Calor latente de fusão e massa das amostras
+
+5. **Interpretação dos patamares**:
+   - **Patamar de fusão**: Energia fornecida quebra ligações intermoleculares
+   - **Patamar de ebulição**: Energia fornecida converte líquido em vapor
+   - **Duração**: Proporcional ao calor latente e quantidade de matéria
+
+6. **Análise da mistura homogênea**:
+   - **Temperatura ambiente**: ~25°C
+   - **Estado da Substância A**: Líquida (-116°C < 25°C < 50°C)
+   - **Estado da Substância B**: Líquida (-89°C < 25°C < 118°C)
+   - **Tipo de mistura**: Líquido-líquido homogênea
+
+7. **Método de separação - Destilação**:
+   - **Princípio**: Diferença nos pontos de ebulição
+   - **Substância A**: PE = 50°C (mais volátil)
+   - **Substância B**: PE = 118°C (menos volátil)
+   - **Diferença**: ΔPE = 118°C - 50°C = 68°C (significativa)
+
+8. **Processo de destilação**:
+   - **Etapa 1**: Aquecimento da mistura até 50°C
+   - **Etapa 2**: Vaporização da Substância A
+   - **Etapa 3**: Condensação do vapor da Substância A
+   - **Resultado**: Separação eficiente dos componentes
+
+9. **Justificativa para destilação**:
+   - **Pontos de ebulição distintos**: 50°C vs 118°C
+   - **Diferença significativa**: 68°C permite separação eficiente
+   - **Mistura homogênea**: Destilação é o método adequado
+   - **Alternativas inadequadas**: Filtração (não funciona), decantação (homogênea)
+
+10. **Outros métodos considerados**:
+    
+    **Filtração**: Inadequada
+    - **Motivo**: Mistura homogênea (não há sólidos)
+    
+    **Decantação**: Inadequada
+    - **Motivo**: Mistura homogênea (não há separação de fases)
+    
+    **Destilação fracionada**: Adequada
+    - **Aplicação**: Para diferenças menores de PE
+
+11. **Fatores que influenciam a velocidade de fusão**:
+    - **Calor latente de fusão**: Energia necessária por grama
+    - **Massa da amostra**: Mesmas condições experimentais
+    - **Taxa de aquecimento**: Constante para ambas
+    - **Estrutura molecular**: Afeta as forças intermoleculares
+
+12. **Interpretação física dos gráficos**:
+    - **Segmentos inclinados**: Aquecimento sensível (mudança de temperatura)
+    - **Segmentos horizontais**: Aquecimento latente (mudança de fase)
+    - **Duração dos patamares**: Relacionada ao calor latente
+
+13. **Aplicação à temperatura ambiente**:
+    - **25°C**: Ambas substâncias são líquidas
+    - **Volatilidade**: Substância A é mais volátil (PE menor)
+    - **Separação**: Destilação simples é suficiente
+
+14. **Conceitos avaliados**:
+    - **Interpretação de gráficos**: Curvas de aquecimento
+    - **Mudanças de estado**: Fusão e ebulição
+    - **Métodos de separação**: Escolha baseada em propriedades
+    - **Propriedades físicas**: Pontos de fusão e ebulição
+
+15. **Aspectos práticos da destilação**:
+    - **Equipamento**: Balão, coluna, condensador
+    - **Controle**: Temperatura e velocidade de aquecimento
+    - **Eficiência**: Dependente da diferença de PE
+
+16. **Nível de complexidade**: Questão de nível básico-intermediário que exige interpretação gráfica e conhecimento de métodos de separação.
+
+17. **Padrão UERJ**: Questão que combina análise de dados experimentais (gráficos) com aplicação prática de métodos de separação, exigindo raciocínio lógico e conhecimento de propriedades físicas.
+
+---
+

@@ -1,0 +1,2163 @@
+**Questão 03**
+
+Um laboratório realizou os testes I e II, em condições idênticas, para diferenciar dois compostos: o metoximetano, utilizado como propelente em aerossóis, e o etanol, utilizado como combustível de automóveis.
+
+O teste I determinou a porcentagem em massa de carbono dos compostos, enquanto o teste II determinou suas temperaturas de ebulição.
+
+Apresente as fórmulas estruturais, em linha de ligação, desses compostos. Indique, ainda, qual dos testes, I ou II, permite diferenciar os dois compostos, justificando sua resposta.
+
+---
+
+**Gabarito Oficial**
+
+**Fórmulas estruturais:**
+
+```
+Metoximetano: C-O-C
+            |   |
+            H   H
+           /|   |\
+          H H   H H
+
+Etanol: C-C-OH
+        | |
+        H H
+       /| |\
+      H H H H
+```
+
+*Descrição detalhada das estruturas:*
+- **Metoximetano:** Estrutura linear com um átomo de oxigênio central ligado a dois grupos metil (CH₃). Fórmula em linha: CH₃-O-CH₃
+- **Etanol:** Estrutura com dois carbonos em cadeia, sendo o segundo carbono ligado ao grupo hidroxila (OH). Fórmula em linha: CH₃-CH₂-OH
+
+**Teste:** II
+
+**Justificativa:** como os compostos são isômeros, apresentam a mesma porcentagem em massa de carbono. Entretanto, por formarem ligações intermoleculares diferentes, suas temperaturas de ebulição são diferentes.
+
+---
+
+**Contexto para LLM:**
+Esta questão aborda conceitos de química orgânica aplicados a situações práticas (propelentes e combustíveis). Os temas centrais incluem:
+- Isomeria (isômeros de função: éter e álcool)
+- Fórmulas estruturais e representação em linha de ligação
+- Análise elementar (porcentagem em massa)
+- Propriedades físicas (temperatura de ebulição)
+- Ligações intermoleculares (pontes de hidrogênio vs forças de van der Waals)
+- Diferenciação experimental entre compostos
+
+**Conceitos-chave para o LLM:**
+- Metoximetano (CH₃OCH₃): éter simétrico, sem ligações de hidrogênio
+- Etanol (CH₃CH₂OH): álcool primário, forma ligações de hidrogênio
+- Isômeros têm mesma fórmula molecular (C₂H₆O) mas propriedades diferentes
+- Temperatura de ebulição: etanol > metoximetano (devido às pontes de H)
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica
+Habilidades avaliadas: Representação estrutural, compreensão de isomeria, análise de propriedades físicas, correlação estrutura-propriedade, aplicação de conhecimentos em contextos tecnológicos.
+
+---
+
+**Questão 08**
+
+Em um experimento para aplicar os conceitos de isomeria e reações orgânicas de adição e de eliminação, foi proposta a seguinte sequência reacional, envolvendo os hidrocarbonetos isômeros A e B:
+
+**Descrição detalhada do esquema reacional:**
+
+```
+                    +HCℓ           +KOH
+              A  ————————→  C₄H₉Cℓ  ————————→  B
+                              ↓        meio alcoólico
+                            +H₂│Pd
+                              ↓
+                         2,3-dimetilbutano
+```
+
+**Explicação do esquema:**
+- **Composto A:** Hidrocarboneto inicial (estrutura a ser determinada)
+- **Primeira reação:** A + HCℓ → C₄H₉Cℓ (reação de adição de HCℓ)
+- **Segunda reação:** C₄H₉Cℓ + KOH (meio alcoólico) → B (reação de eliminação)
+- **Terceira reação:** A + H₂ (catalisador Pd) → 2,3-dimetilbutano (hidrogenação catalítica)
+- **Composto B:** Hidrocarboneto isômero de A (produto da eliminação)
+
+Apresente a fórmula estrutural em linha de ligação do hidrocarboneto A. Em seguida, nomeie o tipo de isomeria plana entre A e B. Nomeie, também, o reagente inorgânico de caráter básico utilizado na sequência reacional.
+
+---
+
+**Gabarito Oficial**
+
+**Fórmula estrutural em linha de ligação:**
+```
+      |
+    C=C
+   /    \
+  C      C
+```
+
+*Descrição detalhada da estrutura do composto A:*
+- **Nome:** 2-metil-2-buteno ou 2-metilbut-2-eno
+- **Fórmula molecular:** C₅H₁₀
+- **Estrutura:** Cadeia de 4 carbonos com dupla ligação entre C2-C3 e um grupo metil ligado ao C2
+- **Representação expandida:** CH₃-C(CH₃)=CH-CH₃
+
+**Isomeria plana:** posição
+
+**Reagente inorgânico:** hidróxido de potássio
+
+---
+
+**Contexto para LLM:**
+Esta questão integra múltiplos conceitos de química orgânica em uma sequência reacional complexa. Os temas centrais incluem:
+
+- **Reações de adição:** Adição de HCℓ a alcenos (regra de Markovnikov)
+- **Reações de eliminação:** Eliminação de HCℓ com base forte em meio alcoólico
+- **Hidrogenação catalítica:** Redução de alcenos com H₂/Pd
+- **Isomeria de posição:** Diferentes posições da dupla ligação
+- **Análise retrossintética:** Determinação de estruturas através de produtos
+
+**Conceitos-chave para o LLM:**
+- **Composto A:** 2-metil-2-buteno (dupla ligação na posição 2)
+- **Composto B:** 3-metil-1-buteno (dupla ligação na posição 1)
+- **Intermediário:** Haleto de alquila secundário (C₄H₉Cℓ)
+- **Produto de hidrogenação:** 2,3-dimetilbutano (alcano saturado)
+- **KOH em meio alcoólico:** Condições para reação de eliminação (E2)
+
+**Mecanismos envolvidos:**
+1. **A + HCℓ:** Adição eletrofílica (Markovnikov) → haleto secundário
+2. **Haleto + KOH:** Eliminação E2 → alceno com dupla em posição diferente
+3. **A + H₂/Pd:** Hidrogenação catalítica → alcano com esqueleto ramificado
+
+**Análise da isomeria:**
+- **A e B:** Mesma fórmula molecular (C₅H₁₀)
+- **Diferença:** Posição da dupla ligação
+- **Tipo:** Isomeria de posição (subcategoria da isomeria constitucional)
+
+**Dados importantes:**
+- Fórmula molecular dos isômeros: C₅H₁₀
+- Produto de hidrogenação: 2,3-dimetilbutano
+- Intermediário: C₄H₉Cℓ (haleto de alquila)
+- Base utilizada: KOH (hidróxido de potássio)
+- Meio reacional: alcoólico (favorece eliminação)
+
+**Processo de resolução:**
+1. **Análise do produto de hidrogenação:** 2,3-dimetilbutano revela o esqueleto carbônico
+2. **Determinação de A:** Alceno que gera esse alcano por hidrogenação
+3. **Identificação da sequência:** A → haleto → B (reações de adição/eliminação)
+4. **Classificação da isomeria:** Comparar posições das duplas ligações
+
+Nível de dificuldade: Alto
+Área: Química Orgânica
+Habilidades avaliadas: Análise de sequências reacionais, determinação estrutural, mecanismos de reação, isomeria, síntese orgânica, interpretação de transformações químicas.
+
+---
+
+**Questão 04**
+
+O gluconato de zinco, que está presente em alguns suplementos alimentares, possui a seguinte fórmula estrutural:
+
+**Descrição detalhada da estrutura molecular:**
+
+```
+       OH    OH
+       |     |
+HO----C-----C-----C==O
+      |     |     |
+      OH    OH    O⁻   ]₂  Zn²⁺
+```
+
+*Explicação da estrutura:*
+- **Cadeia principal:** 6 carbonos em sequência linear
+- **Grupos funcionais:** 
+  - 5 grupos hidroxila (-OH) ligados aos primeiros 5 carbonos
+  - 1 grupo carboxilato (COO⁻) no último carbono
+- **Complexo iônico:** Dois ânions gluconato coordenados a um cátion Zn²⁺
+- **Fórmula:** [C₆H₁₁O₇⁻]₂Zn²⁺
+- **Origem:** Derivado da oxidação da glicose (ácido glucônico)
+
+Considere 0,5 mL de solução aquosa dessa substância, contendo 2 mg de Zn²⁺.
+
+Nomeie a função orgânica à qual pertence o gluconato de zinco. Em seguida, calcule o número de isômeros ópticos ativos do íon gluconato e determine a concentração de Zn²⁺, em mol/L, na solução.
+
+---
+
+**Gabarito Oficial**
+
+**Função:** sal orgânico ou sal de ácido carboxílico
+
+**Número de isômeros ópticos ativos:** 2⁴ = 16 isômeros
+
+**Cálculos de concentração:**
+```
+Quantidade de matéria de Zn²⁺ = 0,002 g / 65,5 g/mol = 3 × 10⁻⁵ mol
+
+[Zn²⁺] = (3 × 10⁻⁵ mol) / (5 × 10⁻⁴ L) = 0,06 mol/L
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica, estereoquímica e cálculos de concentração em contexto nutricional. Os temas centrais incluem:
+
+- **Funções orgânicas:** Identificação de sais de ácidos carboxílicos
+- **Estereoquímica:** Isomeria óptica e centros quirais
+- **Cálculos de concentração:** Conversões de unidades e molaridade
+- **Química de coordenação:** Complexos metálicos com ligantes orgânicos
+- **Aplicações nutricionais:** Suplementos alimentares com micronutrientes
+
+**Conceitos-chave para o LLM:**
+- **Gluconato:** Sal do ácido glucônico (ácido carboxílico)
+- **Centro quiral:** Carbono ligado a 4 grupos diferentes
+- **Isômeros ópticos:** 2ⁿ onde n = número de centros quirais
+- **Complexo iônico:** Metal central + ligantes orgânicos
+- **Conversões:** mg → g, mL → L, massa → mols
+
+**Análise estrutural detalhada:**
+- **Carbono 1:** CHO (grupo aldeído oxidado a carboxilato)
+- **Carbonos 2-5:** CHOH (centros quirais - 4 carbonos assimétricos)
+- **Carbono 6:** CH₂OH (carbono primário, não quiral)
+- **Total de centros quirais:** 4 carbonos (C2, C3, C4, C5)
+
+**Cálculo de isômeros ópticos:**
+- **Fórmula:** 2ⁿ onde n = número de centros quirais
+- **Aplicação:** 2⁴ = 16 isômeros ópticos ativos
+- **Nota:** Todos são opticamente ativos (não há plano de simetria)
+
+**Dados para cálculos:**
+- **Massa de Zn²⁺:** 2 mg = 0,002 g
+- **Massa molar do Zn:** 65,5 g/mol
+- **Volume da solução:** 0,5 mL = 5 × 10⁻⁴ L
+
+**Processo de resolução detalhado:**
+1. **Identificar função orgânica:**
+   - Presença do grupo COO⁻ (carboxilato)
+   - Ligado a cátion metálico → sal orgânico
+
+2. **Contar centros quirais:**
+   - Analisar cada carbono da cadeia
+   - Identificar carbonos ligados a 4 grupos diferentes
+   - C2, C3, C4, C5 são quirais
+
+3. **Calcular isômeros:**
+   - Aplicar fórmula 2ⁿ = 2⁴ = 16
+
+4. **Determinar concentração:**
+   - Converter mg para g: 2 mg = 0,002 g
+   - Calcular mols: 0,002 g ÷ 65,5 g/mol = 3 × 10⁻⁵ mol
+   - Converter mL para L: 0,5 mL = 5 × 10⁻⁴ L
+   - Concentração: (3 × 10⁻⁵) ÷ (5 × 10⁻⁴) = 0,06 mol/L
+
+**Aplicações práticas:**
+- **Suplementação:** Fonte biodisponível de zinco
+- **Estabilidade:** Sal orgânico mais estável que Zn²⁺ livre
+- **Absorção:** Melhor absorção intestinal que sais inorgânicos
+- **Segurança:** Menor irritação gástrica
+
+**Aspectos bioquímicos:**
+- **Zinco:** Micronutriente essencial, cofator enzimático
+- **Metabolismo:** Participa de mais de 300 reações enzimáticas
+- **Deficiência:** Problemas de crescimento e imunidade
+- **Quelação:** Ligação com aminoácidos e ácidos orgânicos
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica e Analítica
+Habilidades avaliadas: Identificação de funções orgânicas, estereoquímica, cálculos de concentração, interpretação de fórmulas estruturais, aplicações em nutrição.
+
+---
+
+**Questão 05**
+
+As propriedades físicas dos compostos orgânicos estão relacionadas tanto com as estruturas de suas moléculas quanto com suas interações intermoleculares. Com base nesse princípio, considere as seguintes temperaturas de ebulição, sob pressão atmosférica, dos três isômeros planos de fórmula molecular C₅H₁₂:
+
+**Tabela de temperaturas de ebulição:**
+
+| ISÔMERO | TEMPERATURA DE EBULIÇÃO (°C) |
+|---------|------------------------------|
+| A | 9,5 |
+| B | 28,0 |
+| C | 36,0 |
+
+Escreva a nomenclatura oficial de cada isômero, em ordem crescente de temperatura de ebulição. Determine, ainda, a porcentagem em massa de carbono presente nesses isômeros.
+
+---
+
+**Gabarito Oficial**
+
+**Nome dos isômeros:** A - dimetilpropano; B - metilbutano; C - pentano
+
+**Cálculos:**
+```
+Massa molar do C₅H₁₂ = 5 × 12 + 12 × 1 = 72 g/mol
+
+Porcentagem em massa de carbono:
+72 g ——————— 100%
+60 g ——————— X        X = 83,33%
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de isomeria estrutural com propriedades físicas e cálculos de composição percentual. Os temas centrais incluem:
+
+- **Isomeria de cadeia:** Diferentes arranjos do esqueleto carbônico
+- **Forças intermoleculares:** Relação entre estrutura e ponto de ebulição
+- **Nomenclatura IUPAC:** Nomenclatura oficial de alcanos ramificados
+- **Composição percentual:** Cálculos de porcentagem em massa
+- **Propriedades físicas:** Influência da ramificação nas propriedades
+
+**Conceitos-chave para o LLM:**
+- **Fórmula molecular C₅H₁₂:** Três isômeros de cadeia possíveis
+- **Ramificação vs ponto de ebulição:** Maior ramificação → menor ponto de ebulição
+- **Forças de van der Waals:** Intensidade depende da área de contato molecular
+- **Nomenclatura IUPAC:** Cadeia principal + substituintes
+- **Composição fixa:** Isômeros têm mesma porcentagem de elementos
+
+**Análise estrutural dos isômeros:**
+
+**Isômero A (9,5°C) - 2,2-dimetilpropano:**
+```
+    CH₃
+    |
+CH₃-C-CH₃
+    |
+    CH₃
+```
+- **Estrutura:** Máxima ramificação (carbono quaternário)
+- **Forma:** Esférica compacta
+- **Nomenclatura:** 2,2-dimetilpropano (neopentano)
+
+**Isômero B (28,0°C) - 2-metilbutano:**
+```
+CH₃-CH-CH₂-CH₃
+    |
+    CH₃
+```
+- **Estrutura:** Ramificação intermediária
+- **Forma:** Moderadamente compacta
+- **Nomenclatura:** 2-metilbutano (isopentano)
+
+**Isômero C (36,0°C) - pentano:**
+```
+CH₃-CH₂-CH₂-CH₂-CH₃
+```
+- **Estrutura:** Cadeia linear
+- **Forma:** Alongada
+- **Nomenclatura:** pentano (n-pentano)
+
+**Relação estrutura-propriedade:**
+- **Cadeia linear:** Maior área de contato → forças intermoleculares mais intensas → maior PE
+- **Ramificação:** Menor área de contato → forças mais fracas → menor PE
+- **Ordem de PE:** Linear > ramificado > muito ramificado
+
+**Cálculo da porcentagem em massa:**
+```
+Fórmula molecular: C₅H₁₂
+Massa atômica: C = 12 g/mol, H = 1 g/mol
+
+Massa molar total: (5 × 12) + (12 × 1) = 60 + 12 = 72 g/mol
+Massa de carbono: 5 × 12 = 60 g/mol
+
+Porcentagem de carbono: (60/72) × 100% = 83,33%
+```
+
+**Forças intermoleculares:**
+- **Tipo:** Forças de dispersão de London (van der Waals)
+- **Intensidade:** Proporcional à área de contato molecular
+- **Efeito da ramificação:** Diminui área de contato efetiva
+- **Resultado:** PE diminui com aumento da ramificação
+
+**Aplicações práticas:**
+- **Combustíveis:** Diferentes isômeros têm propriedades distintas
+- **Octanagem:** Isômeros ramificados têm melhor desempenho
+- **Separação:** Destilação fracionada baseada em diferentes PE
+- **Síntese:** Controle da estrutura para propriedades específicas
+
+**Dados importantes:**
+- **Pressão:** Atmosférica (condição padrão)
+- **Estado físico:** Todos são gases em condições normais
+- **Diferença máxima de PE:** 26,5°C entre extremos
+- **Mesma composição:** Todos têm 83,33% de carbono
+
+**Processo de resolução:**
+1. **Identificar estruturas:** Desenhar os três isômeros possíveis
+2. **Relacionar com PE:** Maior ramificação → menor PE
+3. **Nomenclatura:** Aplicar regras IUPAC para cada estrutura
+4. **Cálculo percentual:** (massa C / massa total) × 100%
+
+Nível de dificuldade: Médio
+Área: Química Orgânica
+Habilidades avaliadas: Isomeria estrutural, nomenclatura IUPAC, relação estrutura-propriedade, forças intermoleculares, cálculos de composição percentual, interpretação de dados experimentais.
+
+---
+
+**Questão 02**
+
+Além do agente patogênico e de antibióticos, as vacinas apresentam, em sua composição, um conservante e substâncias que contribuem com a proteção do organismo contra doenças. Dentre essas substâncias estão o metanal, o hidróxido de alumínio e o glutamato monossódico. Observe abaixo a fórmula estrutural do glutamato monossódico e de um conservante presente, frequentemente, em vacinas.
+
+**Descrição detalhada das estruturas:**
+
+**Glutamato monossódico:**
+```
+        O                    O
+        ||                   ||
+   HO—C—CH₂—CH₂—CH—C—O⁻ Na⁺
+                  |
+                  NH₂
+```
+
+*Explicação da estrutura:*
+- **Cadeia principal:** 5 carbonos em sequência
+- **Grupos funcionais:**
+  - Grupo carboxila livre (-COOH) no carbono 1
+  - Grupo carboxilato (-COO⁻) no carbono 5 (neutralizado por Na⁺)
+  - Grupo amino (-NH₂) no carbono 4
+- **Classificação:** Sal sódico do ácido glutâmico (aminoácido)
+
+**Conservante (tiomersal):**
+```
+        O⁻ Na⁺
+        |
+        C=O
+       /
+  [benzeno]—S—Hg—CH₂—CH₃
+```
+
+*Explicação da estrutura:*
+- **Anel benzênico:** Anel aromático de 6 carbonos
+- **Grupo carboxilato:** -COO⁻ Na⁺ ligado diretamente ao anel
+- **Ponte de enxofre:** Átomo de S conectando o anel ao mercúrio
+- **Grupo etil:** -CH₂CH₃ ligado ao mercúrio
+- **Fórmula:** Composto organomercúrico usado como antisséptico
+
+Escreva a fórmula estrutural do metanal e nomeie o tipo de isomeria espacial presente na molécula do glutamato monossódico.
+
+Em seguida, indique a fórmula molecular da base inorgânica presente na composição da vacina e o número de carbonos com hibridização sp² presente no conservante.
+
+---
+
+**Gabarito Oficial**
+
+**Fórmula estrutural:**
+```
+    O
+    ||
+H—C—H
+```
+
+**Isomeria:** óptica
+
+**Fórmula molecular:** Al(OH)₃
+
+**Número de carbonos:** 7
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica com aplicações farmacêuticas e de saúde pública. Os temas centrais incluem:
+
+- **Química de vacinas:** Composição e função de diferentes componentes
+- **Isomeria óptica:** Centros quirais em aminoácidos
+- **Hibridização:** Estados de hibridização do carbono
+- **Nomenclatura química:** Compostos orgânicos e inorgânicos
+- **Aplicações farmacêuticas:** Conservantes e adjuvantes em medicamentos
+
+**Conceitos-chave para o LLM:**
+- **Metanal (formaldeído):** Aldeído mais simples, usado como conservante
+- **Centro quiral:** Carbono ligado a 4 grupos diferentes (C4 do glutamato)
+- **Hidróxido de alumínio:** Base inorgânica, adjuvante imunológico
+- **Hibridização sp²:** Carbonos com geometria trigonal plana
+- **Tiomersal:** Conservante organomercúrico (controverso atualmente)
+
+**Análise estrutural detalhada:**
+
+**1. Metanal (H₂CO):**
+```
+    O
+    ||
+H—C—H
+```
+- **Grupo funcional:** Aldeído (-CHO)
+- **Hibridização do C:** sp² (trigonal plana)
+- **Uso:** Conservante, inativa vírus e bactérias
+- **Concentração em vacinas:** Traços residuais
+
+**2. Glutamato monossódico:**
+```
+        O                    O
+        ||                   ||
+   HO—C—CH₂—CH₂—CH—C—O⁻ Na⁺
+        1    2    3  |4   5
+                     NH₂
+```
+- **Centro quiral:** C4 (ligado a H, NH₂, COOH, CH₂CH₂COOH)
+- **Isomeria óptica:** Formas L e D (apenas L é biologicamente ativa)
+- **Função:** Realçador de sabor, estabilizante
+
+**3. Hidróxido de alumínio Al(OH)₃:**
+- **Classificação:** Base inorgânica (hidróxido metálico)
+- **Função:** Adjuvante, potencializa resposta imune
+- **Mecanismo:** Depot effect, liberação lenta do antígeno
+
+**4. Análise do conservante (tiomersal):**
+```
+Carbonos sp²: [benzeno] = 6 carbonos + 1 carbono do COO⁻ = 7 carbonos
+```
+- **Anel benzênico:** 6 carbonos sp² (aromáticos)
+- **Grupo carboxila:** 1 carbono sp² (C=O)
+- **Carbonos sp³:** Apenas o carbono do grupo etil
+
+**Hibridização e geometria:**
+- **sp³:** Tetraédrica (109,5°)
+- **sp²:** Trigonal plana (120°)
+- **sp:** Linear (180°)
+
+**Componentes de vacinas e suas funções:**
+
+**Conservantes:**
+- **Metanal:** Inativa microrganismos
+- **Tiomersal:** Antisséptico (em desuso por conter mercúrio)
+- **Fenol:** Bactericida
+
+**Adjuvantes:**
+- **Al(OH)₃:** Potencializa resposta imune
+- **Fosfato de alumínio:** Alternativa ao hidróxido
+- **Esqualeno:** Adjuvante lipídico
+
+**Estabilizantes:**
+- **Glutamato monossódico:** Mantém estabilidade proteica
+- **Sacarose:** Crioconservante
+- **Gelatina:** Estabilizante proteico
+
+**Aspectos de segurança:**
+- **Concentrações baixas:** Todos os componentes em níveis seguros
+- **Remoção do tiomersal:** Eliminado de vacinas infantis por precaução
+- **Testes rigorosos:** Aprovação por agências reguladoras
+- **Benefício vs risco:** Proteção supera riscos mínimos
+
+**Isomeria óptica do glutamato:**
+- **L-glutamato:** Forma natural, biologicamente ativa
+- **D-glutamato:** Forma sintética, menos ativa
+- **Atividade óptica:** Desvio da luz polarizada
+- **Importância biológica:** Apenas uma forma é metabolizada
+
+**Dados importantes:**
+- **Metanal:** HCHO, aldeído mais simples
+- **Centro quiral:** C4 do glutamato (carbono α)
+- **Base inorgânica:** Al(OH)₃ (hidróxido de alumínio)
+- **Carbonos sp²:** 7 no tiomersal (6 aromáticos + 1 carboxílico)
+
+**Processo de resolução:**
+1. **Estrutura do metanal:** Aldeído simples H₂CO
+2. **Identificar quiralidade:** C4 do glutamato com 4 substituintes diferentes
+3. **Base inorgânica:** Al(OH)₃ mencionado no texto
+4. **Contar carbonos sp²:** Aromáticos + carboxílicos
+
+Nível de dificuldade: Médio
+Área: Química Orgânica e Aplicações Farmacêuticas
+Habilidades avaliadas: Estruturas orgânicas, isomeria óptica, hibridização, nomenclatura química, aplicações em saúde, interpretação de estruturas complexas.
+
+---
+
+**Questão 05**
+
+Os ovos de galinha possuem em sua composição aminoácidos importantes para a síntese de proteínas. Observe as fórmulas estruturais de três desses aminoácidos:
+
+**Estruturas dos aminoácidos:**
+
+**Leucina:**
+```
+    O
+    ||
+    C—OH
+    |
+H₂N—CH
+    |
+    CH₂
+    |
+    CH
+   / \
+  CH₃ CH₃
+```
+
+**Isoleucina:**
+```
+    O
+    ||
+    C—OH
+    |
+H₂N—CH
+    |
+    CH
+   / \
+  CH₃ CH₂—CH₃
+```
+
+**Fenilalanina:**
+```
+    O
+    ||
+    C—OH
+    |
+H₂N—CH
+    |
+    CH₂
+    |
+   [Ar]
+```
+
+*Descrição detalhada das estruturas:*
+
+- **Leucina:** Aminoácido com cadeia lateral ramificada contendo 4 carbonos, terminando em dois grupos metil
+- **Isoleucina:** Aminoácido com cadeia lateral ramificada contendo 4 carbonos, com ramificação no segundo carbono
+- **Fenilalanina:** Aminoácido com cadeia lateral aromática (grupo benzil), onde Ar representa o anel benzênico
+
+**Características comuns:**
+- Todos possuem grupo amino (-NH₂) 
+- Todos possuem grupo carboxila (-COOH)
+- Todos têm um carbono quiral (carbono α)
+
+Indique o tipo de isomeria plana que ocorre entre a leucina e a isoleucina e identifique o aminoácido que possui quatro isômeros opticamente ativos.
+
+Em seguida, determine o número de oxidação do carbono insaturado presente nos três aminoácidos e represente a fórmula estrutural da fenilalanina, empregando a notação em linha de ligação, sabendo que Ar é o radical benzil.
+
+---
+
+**Gabarito Oficial**
+
+**Tipo de isomeria:** posição
+
+**Aminoácido:** isoleucina
+
+**Número de oxidação:** +3
+
+**Fenilalanina:**
+```
+    O
+    ||
+   [benzeno]—CH₂—CH—C—OH
+                 |
+                NH₂
+```
+
+*Descrição da estrutura da fenilalanina em linha de ligação:*
+- **Anel benzênico:** Hexágono representando o anel aromático
+- **Cadeia lateral:** -CH₂- conectando o anel ao carbono α
+- **Carbono α:** Ligado a NH₂, COOH e à cadeia lateral benzílica
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de química orgânica aplicados à bioquímica, abordando aminoácidos essenciais. Os temas centrais incluem:
+
+- **Isomeria de aminoácidos:** Diferentes tipos de isomeria estrutural
+- **Atividade óptica:** Centros quirais e estereoisômeros
+- **Números de oxidação:** Estados de oxidação em compostos orgânicos
+- **Representação estrutural:** Notação em linha de ligação
+- **Aplicações biológicas:** Aminoácidos na síntese proteica
+
+**Conceitos-chave para o LLM:**
+- **Aminoácidos:** Unidades básicas das proteínas
+- **Carbono α:** Carbono central dos aminoácidos, sempre quiral (exceto glicina)
+- **Isomeria de posição:** Diferente posição de ramificações na cadeia
+- **Isômeros ópticos:** 2ⁿ onde n = número de centros quirais
+- **Radical benzil:** C₆H₅-CH₂- (fenilalanina)
+
+**Análise da isomeria entre leucina e isoleucina:**
+
+**Leucina:**
+- **Cadeia lateral:** (CH₃)₂CH-CH₂-
+- **Ramificação:** No terceiro carbono da cadeia lateral
+- **Estrutura:** Isobutilglicina
+
+**Isoleucina:**
+- **Cadeia lateral:** CH₃-CH₂-CH(CH₃)-
+- **Ramificação:** No segundo carbono da cadeia lateral
+- **Estrutura:** sec-butilglicina
+
+**Tipo de isomeria:**
+- **Classificação:** Isomeria de posição
+- **Definição:** Mesma fórmula molecular, diferentes posições de ramificação
+- **Fórmula molecular comum:** C₆H₁₃NO₂
+
+**Análise dos centros quirais:**
+
+**Leucina:**
+- **Centros quirais:** 1 (apenas o carbono α)
+- **Isômeros ópticos:** 2¹ = 2 (L e D)
+
+**Isoleucina:**
+- **Centros quirais:** 2 (carbono α + carbono da ramificação)
+- **Isômeros ópticos:** 2² = 4
+- **Configurações possíveis:** L-isoleucina, D-isoleucina, L-aloisoleucina, D-aloisoleucina
+
+**Fenilalanina:**
+- **Centros quirais:** 1 (apenas o carbono α)
+- **Isômeros ópticos:** 2¹ = 2 (L e D)
+
+**Identificação:** **Isoleucina** possui 4 isômeros opticamente ativos.
+
+**Cálculo do número de oxidação:**
+
+**Carbono carbonílico (C=O) do grupo carboxila:**
+```
+Ligações do carbono:
+- C=O (dupla ligação com oxigênio): contribuição -2×2 = -4
+- C-OH (ligação com grupo hidroxila): contribuição -1
+- C-C (ligação com carbono α): contribuição 0
+
+NOx = +4 - 1 + 0 = +3
+```
+
+**Verificação:** O carbono carbonílico em ácidos carboxílicos sempre tem NOx = +3.
+
+**Estrutura da fenilalanina em linha de ligação:**
+
+**Representação completa:**
+```
+        O
+        ||
+[🔀]—CH₂—CH—C—OH
+           |
+          NH₂
+```
+
+**Componentes estruturais:**
+- **Anel benzênico:** Representado como hexágono
+- **Grupo benzil:** C₆H₅-CH₂-
+- **Esqueleto do aminoácido:** NH₂-CH(R)-COOH
+- **Cadeia lateral (R):** -CH₂-C₆H₅
+
+**Características dos aminoácidos estudados:**
+
+**Classificação por polaridade:**
+- **Leucina:** Hidrofóbico, apolar
+- **Isoleucina:** Hidrofóbico, apolar
+- **Fenilalanina:** Hidrofóbico, aromático
+
+**Essencialidade:**
+- **Leucina:** Aminoácido essencial
+- **Isoleucina:** Aminoácido essencial
+- **Fenilalanina:** Aminoácido essencial
+
+**Funções biológicas:**
+- **Síntese proteica:** Incorporação em proteínas
+- **Metabolismo:** Fonte de energia
+- **Neurotransmissores:** Fenilalanina → tirosina → dopamina
+
+**Aplicações nutricionais:**
+
+**Ovos como fonte proteica:**
+- **Proteína completa:** Contém todos os aminoácidos essenciais
+- **Alto valor biológico:** Boa absorção e utilização
+- **Referência:** Padrão para avaliação de outras proteínas
+
+**Importância dos aminoácidos de cadeia ramificada (BCAA):**
+- **Leucina e isoleucina:** Estimulam síntese proteica
+- **Metabolismo muscular:** Importantes para atletas
+- **Recuperação:** Reduzem catabolismo proteico
+
+**Dados importantes:**
+- **Isomeria:** Leucina e isoleucina são isômeros de posição
+- **Centros quirais:** Isoleucina tem 2, outros têm 1
+- **NOx do C carbonílico:** +3 em todos os aminoácidos
+- **Fenilalanina:** Contém anel aromático (grupo benzil)
+
+**Processo de resolução:**
+1. **Comparar estruturas:** Leucina vs isoleucina → isomeria de posição
+2. **Contar centros quirais:** Isoleucina tem 2 → 2² = 4 isômeros
+3. **Calcular NOx:** Carbono carbonílico → +3
+4. **Desenhar fenilalanina:** Anel benzênico + cadeia aminoacídica
+
+Nível de dificuldade: Médio
+Área: Química Orgânica e Bioquímica
+Habilidades avaliadas: Isomeria estrutural, estereoquímica, números de oxidação, representação estrutural, conhecimentos de bioquímica básica.
+
+---
+
+## QUESTÃO 004 - QUÍMICA ORGÂNICA - NEUROTRANSMISSORES E FUNÇÕES BIOLÓGICAS
+**Tipo:** Questão mista (bioquímica + funções orgânicas + massas moleculares + isomeria óptica)
+**Tópico:** Neurotransmissores, funções orgânicas, massas moleculares, isomeria óptica, fórmulas moleculares
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO NEUROBIOLÓGICO:**
+A dopamina e a adrenalina são neurotransmissores que, apesar da semelhança em sua composição química, geram sensações diferentes nos seres humanos. Observe as informações da tabela:
+
+**TABELA DE NEUROTRANSMISSORES:**
+| NEUROTRANSMISSOR | FÓRMULA ESTRUTURAL | SENSAÇÃO PRODUZIDA |
+|------------------|--------------------|--------------------|
+| dopamina | HO-C₆H₃(OH)-CH₂-CH₂-NH₂ | felicidade |
+| adrenalina | HO-C₆H₃(OH)-CH(OH)-CH₂-NH(CH₃) | medo |
+
+**DESCRIÇÃO ESTRUTURAL DETALHADA:**
+- **Dopamina:** anel benzênico com duas hidroxilas + cadeia etil-amino
+ - Estrutura: catecol + etilamina
+ - Funções: álcool (fenol) + amina primária
+- **Adrenalina:** anel benzênico com duas hidroxilas + cadeia com OH e metilamina
+ - Estrutura: catecol + β-hidroxi-N-metiletanamina
+ - Funções: álcool (fenol) + álcool secundário + amina secundária
+
+**QUESTÕES:**
+Indique a função química que difere a dopamina da adrenalina e nomeie a sensação gerada pelo neurotransmissor que apresenta menor massa molecular.
+
+Identifique, ainda, o neurotransmissor com isomeria óptica e escreva sua fórmula molecular.
+
+**Conceitos envolvidos:**
+- Neurotransmissores e neurobiologia
+- Funções orgânicas: álcool, fenol, amina
+- Cálculo de massas moleculares
+- Isomeria óptica e carbonos assimétricos
+- Fórmulas moleculares
+- Relação estrutura-atividade biológica
+
+**Dados implícitos necessários:**
+- Análise das funções químicas:
+ - Dopamina: fenol + amina primária
+ - Adrenalina: fenol + álcool secundário + amina secundária
+ - Função que difere: álcool secundário (presente apenas na adrenalina)
+- Cálculo das massas moleculares:
+ - Dopamina (C₈H₁₁NO₂): 8(12) + 11(1) + 14 + 2(16) = 153 g/mol
+ - Adrenalina (C₉H₁₃NO₃): 9(12) + 13(1) + 14 + 3(16) = 183 g/mol
+ - Menor massa molecular: dopamina (153 g/mol)
+ - Sensação correspondente: felicidade
+- Análise de isomeria óptica:
+ - Dopamina: sem carbonos assimétricos
+ - Adrenalina: possui 1 carbono assimétrico (C-OH da cadeia lateral)
+ - Neurotransmissor com isomeria óptica: adrenalina
+- Fórmula molecular da adrenalina: C₉H₁₃NO₃
+
+**Aplicação contextual:**
+- Neurobiologia e comportamento humano
+- Sistema nervoso e regulação emocional
+- Doenças neurodegenerativas (Parkinson, depressão)
+- Farmacologia e desenvolvimento de medicamentos
+- Resposta de luta ou fuga (adrenalina)
+- Sistema de recompensa cerebral (dopamina)
+
+**Informações complementares:**
+- Dopamina: precursor da adrenalina
+- Via de síntese: tirosina → DOPA → dopamina → noradrenalina → adrenalina
+- Importância clínica dos neurotransmissores
+- Efeitos de drogas no sistema nervoso
+
+**Palavras-chave:** neurotransmissores, dopamina, adrenalina, funções orgânicas, álcool secundário, massa molecular, isomeria óptica, carbono assimétrico, felicidade, medo, neurobiologia
+
+---
+
+## QUESTÃO 005 - QUÍMICA ORGÂNICA - COMPOSTOS AROMÁTICOS VOLÁTEIS E ISOMERIA
+
+**Tipo:** Questão mista (nomenclatura + isomeria + fórmulas estruturais + reações orgânicas)
+**Tópico:** Compostos aromáticos, álcoois, aldeídos, ácidos carboxílicos, isomeria plana funcional
+**Nível:** Ensino Médio/Vestibular
+
+## CONTEXTO COTIDIANO
+Ao abrir uma embalagem de chocolate, pode-se perceber seu aroma. Esse fato é explicado pela presença de mais de duzentos tipos de compostos voláteis em sua composição. As fórmulas A, B e C, apresentadas a seguir, são exemplos desses compostos.
+
+## ESTRUTURAS QUÍMICAS DOS COMPOSTOS
+
+### Composto A:
+```
+    OH
+    |
+-CH₂-CH₂-[benzeno]
+```
+*Estrutura: anel benzênico ligado a uma cadeia -CH₂-CH₂-OH*
+
+### Composto B:
+```
+    O
+    ‖
+-CH₂-C-H
+    |
+  [benzeno]
+```
+*Estrutura: anel benzênico ligado a uma cadeia -CH₂-CHO*
+
+### Composto C:
+```
+  O
+  ‖
+-C-OH
+  |
+[grupo metil]
+```
+*Estrutura: CH₃-COOH (ácido acético)*
+
+## QUESTÕES
+1. Escreva o nome do composto A e a fórmula estrutural do isômero plano funcional do composto B.
+2. Utilizando fórmulas estruturais, escreva, também, a equação química completa da reação do etanol com o composto C. Em seguida, nomeie o composto orgânico formado nessa reação.
+
+## CONCEITOS ENVOLVIDOS
+- Nomenclatura IUPAC de álcoois aromáticos
+- Isomeria plana funcional (aldeído ↔ cetona)
+- Reações de esterificação
+- Compostos aromáticos voláteis
+- Funções orgânicas oxigenadas
+
+## DADOS NECESSÁRIOS PARA RESOLUÇÃO
+- **Composto A:** 2-feniletanol (álcool feniletílico)
+- **Composto B:** 2-fenilacetaldeído (fenilacetaldeído)
+- **Isômero funcional de B:** acetofenona (cetona aromática)
+- **Composto C:** ácido acético (ácido etanoico)
+
+## FÓRMULAS ESTRUTURAIS DETALHADAS
+- **Composto A:** C₆H₅-CH₂-CH₂-OH
+- **Composto B:** C₆H₅-CH₂-CHO
+- **Isômero de B:** C₆H₅-CO-CH₃ (acetofenona)
+- **Composto C:** CH₃-COOH
+
+## REAÇÃO ESPERADA
+```
+CH₃-CH₂-OH + CH₃-COOH → CH₃-COO-CH₂-CH₃ + H₂O
+   (etanol)  (ác. acético)  (acetato de etila)   (água)
+```
+
+## MECANISMO DA REAÇÃO
+- Esterificação de Fischer
+- Catálise ácida
+- Formação de éster + água
+- Reação de condensação
+
+## APLICAÇÕES PRÁTICAS
+- Aromas e sabores alimentares
+- Indústria de chocolates
+- Compostos voláteis naturais
+- Síntese de ésteres aromáticos
+
+## INFORMAÇÕES COMPLEMENTARES
+- Volatilidade relacionada à massa molecular
+- Compostos aromáticos e percepção olfativa
+- Chocolate contém centenas de compostos voláteis
+- Importância dos ésteres em aromas
+
+## RESPOSTAS ESPERADAS
+
+### Questão 1:
+- **Nome do composto A:** 2-feniletanol (ou álcool feniletílico)
+- **Isômero funcional do composto B:** 
+  ```
+  C₆H₅-CO-CH₃ (acetofenona)
+  ```
+
+### Questão 2:
+- **Equação da reação:**
+  ```
+  CH₃-CH₂-OH + CH₃-COOH → CH₃-COO-CH₂-CH₃ + H₂O
+  ```
+- **Nome do composto orgânico formado:** acetato de etila (etanoato de etila)
+
+**Palavras-chave:** compostos voláteis, chocolate, aroma, 2-feniletanol, fenilacetaldeído, acetofenona, isômero funcional, esterificação, acetato de etila, compostos aromáticos
+
+---
+
+## QUESTÃO 006 - QUÍMICA ORGÂNICA - OXIDAÇÃO DE ÁLCOOIS E ISOMERIA
+**Tipo:** Questão mista (química experimental + isomeria + cálculos estequiométricos + fórmulas estruturais)
+**Tópico:** Oxidação de álcoois, isomeria plana, fração molar, ácidos carboxílicos, nomenclatura IUPAC
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO EXPERIMENTAL:**
+Em um laboratório, foi realizado um experimento de oxidação de uma mistura de álcoois na presença de K₂Cr₂O₇ e H₂SO₄. A tabela abaixo apresenta os álcoois presentes na mistura.
+
+**COMPOSIÇÃO DA MISTURA DE ÁLCOOIS:**
+| Álcoois | Quantidade (mol) |
+|---------|------------------|
+| propan-1-ol | 3 |
+| propan-2-ol | 2 |
+| metilpropan-1-ol | 1 |
+| metilpropan-2-ol | 4 |
+
+**QUESTÕES:**
+Em relação à mistura, nomeie a isomeria plana que ocorre entre os álcoois de cadeia carbônica normal.
+
+Considerando apenas os componentes orgânicos, calcule a fração molar de álcoois presentes após a oxidação total. Escreva, ainda, as fórmulas estruturais dos ácidos carboxílicos formados.
+
+**Conceitos envolvidos:**
+- Reações de oxidação de álcoois
+- Isomeria plana (posição e cadeia)
+- Classificação de álcoois (primário, secundário, terciário)
+- Produtos de oxidação: aldeídos, cetonas, ácidos carboxílicos
+- Fração molar e cálculos estequiométricos
+- Nomenclatura IUPAC de álcoois e ácidos
+
+**Dados implícitos necessários:**
+- Identificação da isomeria entre álcoois de cadeia normal:
+ - Propan-1-ol: CH₃-CH₂-CH₂-OH
+ - Propan-2-ol: CH₃-CH(OH)-CH₃
+ - Mesma fórmula molecular (C₃H₈O), diferentes posições do grupo -OH
+ - Isomeria plana de posição
+- Análise da oxidação total:
+ - Propan-1-ol (álcool 1°): → propanoato → ácido propanoico
+ - Propan-2-ol (álcool 2°): → propanona (cetona) - não oxida mais
+ - Metilpropan-1-ol (álcool 1°): → ácido 2-metilpropanoico
+ - Metilpropan-2-ol (álcool 3°): → não oxida
+- Componentes após oxidação total:
+ - Ácido propanoico: 3 mol
+ - Propanona: 2 mol
+ - Ácido 2-metilpropanoico: 1 mol
+ - Metilpropan-2-ol: 4 mol (não reagiu)
+ - Total: 10 mol
+- Fração molar de álcoois:
+ - Álcool restante: 4 mol de metilpropan-2-ol
+ - Fração molar: 4/10 = 0,4
+- Fórmulas estruturais dos ácidos carboxílicos:
+ - Ácido propanoico: CH₃-CH₂-COOH
+ - Ácido 2-metilpropanoico: (CH₃)₂-CH-COOH
+
+**Aplicação contextual:**
+- Síntese de ácidos carboxílicos em laboratório
+- Processos industriais de oxidação
+- Produção de compostos farmacêuticos
+- Análise de misturas orgânicas
+- Controle de reações seletivas
+
+**Informações complementares:**
+- Agentes oxidantes: K₂Cr₂O₇, KMnO₄, CrO₃
+- Álcoois terciários: resistentes à oxidação
+- Diferentes produtos conforme tipo de álcool
+- Importância sintética dos ácidos carboxílicos
+
+**Palavras-chave:** oxidação de álcoois, isomeria de posição, propanol, fração molar, ácidos carboxílicos, álcool terciário, álcool primário, álcool secundário, K₂Cr₂O₇, nomenclatura IUPAC
+
+---
+
+## QUESTÃO 003 - QUÍMICA ORGÂNICA - ANABOLIZANTES E FUNÇÕES ORGÂNICAS
+**Tipo:** Questão mista (contexto antidoping + funções orgânicas + análise estrutural + isomeria óptica)
+**Tópico:** Funções orgânicas, carbonos terciários, isomeria óptica, análise de fórmulas estruturais
+**Nível:** Ensino Médio/Vestibular
+
+**CONTEXTO ANTIDOPING:**
+Dois anabolizantes comumente encontrados em casos de doping em atletas são o salbutamol e a terbutalina. Ao comparar suas fórmulas estruturais, identificam-se funções orgânicas comuns a ambas as moléculas.
+
+**FÓRMULAS ESTRUTURAIS:**
+
+**SALBUTAMOL:**
+Estrutura: HO-CH₂-C₆H₄(OH)-CH(OH)-CH₂-NH-C(CH₃)₃
+- Anel benzênico com duas hidroxilas (posições meta)
+- Cadeia lateral: -CH(OH)-CH₂-NH-C(CH₃)₃
+- Grupo hidroximetil ligado ao anel: -CH₂OH
+
+**TERBUTALINA:**
+Estrutura: HO-C₆H₃(OH)₂-CH(OH)-CH₂-NH-C(CH₃)₃
+- Anel benzênico com três hidroxilas
+- Cadeia lateral: -CH(OH)-CH₂-NH-C(CH₃)₃ (idêntica ao salbutamol)
+
+**QUESTÕES:**
+Considere os grupamentos funcionais que estabelecem ligação direta com os carbonos alifáticos em cada molécula. Nomeie suas funções correspondentes.
+
+Em seguida, indique o número de átomos de carbonos terciários presentes no salbutamol e calcule o número de isômeros ópticos ativos da terbutalina.
+
+**Conceitos envolvidos:**
+- Funções orgânicas: álcool, amina
+- Identificação de grupamentos funcionais
+- Classificação de carbonos (primário, secundário, terciário)
+- Isomeria óptica e carbonos assimétricos
+- Atividade óptica e centros quirais
+- Análise de estruturas de fármacos
+
+**Dados implícitos necessários:**
+- Grupamentos funcionais ligados a carbonos alifáticos:
+ - Grupo -OH: função álcool (hidroxila)
+ - Grupo -NH-: função amina (amina secundária)
+- Funções comuns: álcool e amina
+- Análise de carbonos terciários no salbutamol:
+ - Carbono terciário: ligado a 3 outros carbonos
+ - Identificação: C(CH₃)₃ (um carbono terciário)
+ - Número de carbonos terciários: 1
+- Cálculo de isômeros ópticos da terbutalina:
+ - Identificação de carbonos assimétricos (quirais)
+ - Carbono quiral: ligado a 4 grupos diferentes
+ - Na terbutalina: 1 carbono assimétrico (C-OH da cadeia lateral)
+ - Fórmula: 2ⁿ isômeros ópticos (n = número de carbonos assimétricos)
+ - Número de isômeros ópticos: 2¹ = 2
+
+**Aplicação contextual:**
+- Controle antidoping no esporte
+- Broncodilatadores e tratamento de asma
+- Uso terapêutico vs. uso como anabolizante
+- Análise de substâncias proibidas
+- Química medicinal e farmacologia
+
+**Informações complementares:**
+- Salbutamol e terbutalina: agonistas β₂-adrenérgicos
+- Mecanismo: broncodilatação e efeitos anabólicos
+- Detecção em exames antidoping
+- Limites permitidos para uso terapêutico
+- Estrutura-atividade em fármacos
+
+**Palavras-chave:** anabolizantes, salbutamol, terbutalina, funções orgânicas, álcool, amina, carbonos terciários, isômeros ópticos, carbonos assimétricos, doping, broncodilatadores
+
+---
+
+##QUESTÃO 004 - QUÍMICA ORGÂNICA - SÍNTESE DO m-CLORONITROBENZENO
+
+**Tipo:** Questão mista (síntese orgânica + fórmulas estruturais + isomeria de posição)
+**Tópico:** Reações de substituição eletrofílica aromática, orientação em benzeno dissubstituído, antioxidantes
+**Nível:** Ensino Médio/Vestibular
+
+## CONTEXTO INDUSTRIAL
+O m-cloronitrobenzeno é utilizado como matéria-prima para fabricação de antioxidantes na produção de borrachas. Em laboratório, esse composto pode ser sintetizado a partir do benzeno através de uma sequência de duas reações químicas.
+
+## QUESTÕES
+1. Utilizando as fórmulas estruturais, apresente a sequência de reações envolvidas na obtenção do m-cloronitrobenzeno.
+2. Apresente, também, as fórmulas estruturais dos isômeros planos de posição desse composto.
+
+## CONCEITOS ENVOLVIDOS
+- Substituição eletrofílica aromática
+- Nitração do benzeno
+- Cloração do benzeno
+- Efeitos orientadores de substituintes
+- Isomeria de posição em compostos aromáticos
+- Síntese de compostos aromáticos dissubstituídos
+
+## DADOS NECESSÁRIOS PARA RESOLUÇÃO
+
+### Composto alvo:
+- **m-cloronitrobenzeno** (1-cloro-3-nitrobenzeno)
+- **Fórmula molecular:** C₆H₄ClNO₂
+- **Estrutura:** benzeno com Cl e NO₂ em posições meta (1,3)
+
+### Possíveis rotas sintéticas:
+1. **Rota A:** Benzeno → Nitrobenzeno → m-Cloronitrobenzeno
+2. **Rota B:** Benzeno → Clorobenzeno → m-Cloronitrobenzeno
+
+## ANÁLISE DA ORIENTAÇÃO DE SUBSTITUINTES
+
+### Grupo nitro (-NO₂):
+- **Efeito:** Desativador forte, meta-orientador
+- **Mecanismo:** Retirada de elétrons por ressonância e indução
+- **Posições favorecidas:** Meta (3 e 5)
+
+### Grupo cloro (-Cl):
+- **Efeito:** Desativador fraco, orto/para-orientador
+- **Mecanismo:** Retirada de elétrons por indução, doação por ressonância
+- **Posições favorecidas:** Orto (2,6) e para (4)
+
+## ROTA SINTÉTICA RECOMENDADA
+
+### Sequência: Benzeno → Nitrobenzeno → m-Cloronitrobenzeno
+
+**Etapa 1: Nitração do benzeno**
+```
+        HNO₃/H₂SO₄
+C₆H₆ ─────────────→ C₆H₅-NO₂ + H₂O
+(benzeno)    Δ     (nitrobenzeno)
+```
+
+**Etapa 2: Cloração do nitrobenzeno**
+```
+              Cl₂/FeCl₃
+C₆H₅-NO₂ ─────────────→ m-ClC₆H₄-NO₂ + HCl
+(nitrobenzeno)        (m-cloronitrobenzeno)
+```
+
+### Justificativa da rota:
+- NO₂ é meta-orientador forte
+- Direciona a entrada do Cl para posição meta
+- Evita mistura de isômeros
+- Maior seletividade
+
+## FÓRMULAS ESTRUTURAIS DETALHADAS
+
+### Produto principal:
+**m-cloronitrobenzeno (1-cloro-3-nitrobenzeno)**
+```
+      NO₂
+       |
+   2 ╱   ╲ 3
+  1 ●─────● Cl
+   6 ╲   ╱ 4
+      5
+```
+
+### Reagentes e intermediários:
+**Benzeno:**
+```
+   ╱ ╲
+  ●───●
+  ╲ ╱
+   ╲ ╱
+  ●───●
+   ╲ ╱
+```
+
+**Nitrobenzeno:**
+```
+      NO₂
+       |
+   ╱ ╲
+  ●───●
+  ╲ ╱
+   ╲ ╱
+  ●───●
+   ╲ ╱
+```
+
+## ISÔMEROS DE POSIÇÃO DO m-CLORONITROBENZENO
+
+### 1. o-cloronitrobenzeno (1-cloro-2-nitrobenzeno):
+```
+     Cl
+      |
+  6 ╱   ╲ 1
+ 5 ●─────● NO₂
+  4 ╲   ╱ 2
+     3
+```
+
+### 2. m-cloronitrobenzeno (1-cloro-3-nitrobenzeno):
+```
+      NO₂
+       |
+   2 ╱   ╲ 3
+  1 ●─────● Cl
+   6 ╲   ╱ 4
+      5
+```
+
+### 3. p-cloronitrobenzeno (1-cloro-4-nitrobenzeno):
+```
+     Cl
+      |
+  2 ╱   ╲ 1
+ 3 ●─────●
+  4 ╲   ╱ 6
+      |
+     NO₂
+```
+
+## CONDIÇÕES REACIONAIS
+
+### Nitração:
+- **Reagentes:** HNO₃ concentrado + H₂SO₄ concentrado
+- **Temperatura:** 50-60°C
+- **Mecanismo:** Substituição eletrofílica aromática
+- **Eletrófilo:** NO₂⁺ (íon nitrônio)
+
+### Cloração:
+- **Reagentes:** Cl₂ + FeCl₃ (catalisador)
+- **Temperatura:** Ambiente ou aquecimento suave
+- **Mecanismo:** Substituição eletrofílica aromática
+- **Eletrófilo:** Cl⁺ (complexo Cl-FeCl₃)
+
+## APLICAÇÕES INDUSTRIAIS
+- Síntese de antioxidantes para borracha
+- Intermediário na produção de corantes
+- Precursor de compostos farmacêuticos
+- Síntese de agroquímicos
+
+## CONSIDERAÇÕES DE SEGURANÇA
+- Compostos nitroaromáticos são tóxicos
+- Reações com ácidos concentrados requerem cuidado
+- Produtos podem ser explosivos se aquecidos
+- Necessário controle de temperatura
+
+## INFORMAÇÕES COMPLEMENTARES
+- Meta-orientação do NO₂ é devido ao efeito -I e -M
+- Cloração em nitrobenzeno é mais lenta que em benzeno
+- Possibilidade de formação de traços de outros isômeros
+- Purificação por recristalização ou destilação
+
+**Palavras-chave:** m-cloronitrobenzeno, substituição eletrofílica aromática, nitração, cloração, meta-orientador, isômeros de posição, antioxidantes, síntese aromática, efeitos orientadores
+
+---
+
+**Questão 04**
+
+Um dos processos de obtenção de aminas secundárias consiste na reação entre haletos de alquila e determinados compostos nitrogenados, conforme a equação química genérica abaixo:
+
+**R-X + R'-NH₂ ⟶ R-NH-R' + HX**
+
+Admita que, para essa síntese, estejam disponíveis apenas os seguintes reagentes:
+• bromoetano;
+• metilamina;
+• etilamina.
+
+Utilizando as respectivas fórmulas estruturais, escreva a equação química completa da reação entre o haleto de alquila e o composto nitrogenado de caráter básico mais acentuado.
+
+Em seguida, apresente as fórmulas estruturais de duas aminas primárias, de cadeia carbônica normal, isômeras da amina secundária sintetizada.
+
+---
+
+**Gabarito Oficial**
+
+**Equação química da reação:**
+```
+CH₃CH₂Br + CH₃NH₂ ⟶ CH₃CH₂NHCH₃ + HBr
+```
+
+*Representação em linha de ligação:*
+```
+    /\     
+   /  \Br  +  /\NH₂  ⟶  /\N/\  +  HBr
+                           |
+                           H
+```
+
+**Fórmulas estruturais das aminas primárias isômeras:**
+```
+CH₃CH₂CH₂NH₂
+(propilamina)
+
+CH₃CHCH₃
+   |
+   NH₂
+(isopropilamina)
+```
+
+*Representação em linha de ligação:*
+```
+/\    /\NH₂   (butilamina)
+
+  /\
+ /  \NH₂      (2-metilpropilamina)
+```
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de síntese orgânica, basicidade de aminas e isomeria estrutural. Os temas centrais incluem:
+
+- **Síntese de aminas secundárias:** Reação de substituição nucleofílica
+- **Basicidade de aminas:** Comparação entre aminas primárias
+- **Isomeria de cadeia:** Diferentes arranjos do esqueleto carbônico
+- **Mecanismos de reação:** SN2 em haletos de alquila primários
+- **Nomenclatura de aminas:** Classificação e nomenclatura IUPAC
+
+**Conceitos-chave para o LLM:**
+- **Amina secundária:** Nitrogênio ligado a dois grupos alquila
+- **Basicidade:** Metilamina > etilamina (efeito do tamanho)
+- **Reação de alquilação:** R-X + R'-NH₂ → R-NH-R' + HX
+- **Isômeros de cadeia:** Mesma fórmula molecular, diferentes esqueletos
+- **Fórmula molecular:** C₃H₉N para as aminas isômeras
+
+**Análise dos reagentes disponíveis:**
+
+**Haleto de alquila:**
+- **Bromoetano:** CH₃CH₂Br
+  - Haleto primário, reativo em SN2
+  - Bom grupo abandonador (Br⁻)
+
+**Compostos nitrogenados:**
+- **Metilamina:** CH₃NH₂
+- **Etilamina:** CH₃CH₂NH₂
+
+**Comparação de basicidade:**
+
+**Fatores que afetam a basicidade:**
+- **Efeito indutivo:** Grupos alquila doam densidade eletrônica
+- **Efeito estérico:** Impedimento ao redor do nitrogênio
+- **Solvatação:** Estabilização do íon amônio
+
+**Ordem de basicidade:**
+```
+CH₃NH₂ > CH₃CH₂NH₂
+(metilamina > etilamina)
+```
+
+**Justificativa:**
+- **Menor impedimento estérico:** CH₃ < CH₃CH₂
+- **Melhor solvatação:** Íon metil-amônio mais estável
+- **Efeito predominante:** Fatores estéricos superam efeito indutivo
+
+**Reação principal:**
+
+**Reagentes selecionados:**
+- **Haleto:** CH₃CH₂Br (bromoetano)
+- **Amina:** CH₃NH₂ (metilamina - mais básica)
+
+**Equação completa:**
+```
+CH₃CH₂Br + CH₃NH₂ → CH₃CH₂NHCH₃ + HBr
+```
+
+**Produto:** N-metil-etilamina (amina secundária)
+
+**Mecanismo da reação:**
+
+**Tipo:** Substituição nucleofílica SN2
+```
+Etapa 1: CH₃NH₂ + CH₃CH₂Br → [CH₃NH₂⁺-CH₂CH₃]Br⁻
+Etapa 2: [CH₃NH₂⁺-CH₂CH₃]Br⁻ → CH₃CH₂NHCH₃ + HBr
+```
+
+**Características do mecanismo:**
+- **Nucleófilo:** Par isolado do nitrogênio
+- **Eletrófiło:** Carbono ligado ao bromo
+- **Concertado:** Formação e quebra simultâneas de ligações
+- **Inversão:** Configuração invertida no carbono atacado
+
+**Análise das aminas isômeras:**
+
+**Produto da reação:** CH₃CH₂NHCH₃
+- **Fórmula molecular:** C₃H₉N
+- **Classificação:** Amina secundária
+
+**Aminas primárias isômeras com C₃H₉N:**
+
+**1. Propilamina (n-propilamina):**
+```
+CH₃CH₂CH₂NH₂
+```
+- **Cadeia:** Linear de 3 carbonos
+- **Grupo amino:** No carbono terminal
+
+**2. Isopropilamina (2-aminopropano):**
+```
+CH₃CHCH₃
+   |
+   NH₂
+```
+- **Cadeia:** Ramificada
+- **Grupo amino:** No carbono secundário
+
+**Verificação da isomeria:**
+- **Mesma fórmula molecular:** C₃H₉N ✓
+- **Diferentes estruturas:** Linear vs ramificada ✓
+- **Mesmo grupo funcional:** Aminas primárias ✓
+- **Tipo:** Isomeria de cadeia ✓
+
+**Propriedades das aminas:**
+
+**Basicidade relativa:**
+```
+Isopropilamina > Propilamina > N-metil-etilamina
+(1ª ramificada > 1ª linear > 2ª)
+```
+
+**Pontos de ebulição:**
+- **Ordem:** 1ª ramificada < 1ª linear < 2ª
+- **Fatores:** Ligações de hidrogênio e forças de van der Waals
+
+**Aplicações das aminas:**
+
+**Síntese orgânica:**
+- **Intermediários:** Precursores de outros compostos
+- **Catalisadores:** Bases orgânicas
+- **Agentes alquilantes:** Introdução de grupos alquila
+
+**Indústria farmacêutica:**
+- **Medicamentos:** Muitos fármacos contêm grupos amino
+- **Anestésicos:** Lidocaína, procaína
+- **Anti-histamínicos:** Difenidramina
+
+**Considerações sintéticas:**
+
+**Limitações da reação:**
+- **Polialquilação:** Formação de aminas terciárias
+- **Rendimento:** Mistura de produtos
+- **Seletividade:** Difícil controlar grau de substituição
+
+**Métodos alternativos:**
+- **Redução de nitrila:** R-CN → R-CH₂NH₂
+- **Síntese de Gabriel:** Evita polialquilação
+- **Aminação redutiva:** Aldeído/cetona + NH₃ + H₂
+
+**Dados importantes:**
+- **Reagentes:** Bromoetano + metilamina (mais básica)
+- **Produto:** N-metil-etilamina (C₃H₉N)
+- **Isômeros:** Propilamina e isopropilamina
+- **Mecanismo:** SN2 (haleto primário + amina)
+
+**Processo de resolução:**
+1. **Comparar basicidade:** CH₃NH₂ > CH₃CH₂NH₂
+2. **Escrever reação:** Bromoetano + metilamina
+3. **Identificar produto:** Amina secundária C₃H₉N
+4. **Encontrar isômeros:** Aminas primárias com mesma fórmula
+5. **Desenhar estruturas:** Linear e ramificada
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica (Síntese e Isomeria)
+Habilidades avaliadas: Síntese de aminas, basicidade de compostos nitrogenados, isomeria estrutural, mecanismos de substituição nucleofílica, nomenclatura de aminas.
+
+---
+
+**Questão 05**
+
+Duas das moléculas presentes no gengibre são benéficas à saúde: shogaol e gingerol. Observe suas fórmulas estruturais:
+
+**Estruturas químicas apresentadas:**
+
+**Shogaol:**
+```
+   O
+   ||
+HO-[benzeno]-O-CH₂-CH₂-CH₂-CH₂-CH₂-C-CH=CH-CH₂-CH₂-CH₂-CH₃
+```
+
+*Descrição detalhada do shogaol:*
+- **Anel aromático:** Benzeno com duas substituições
+  - Posição 1: Grupo hidroxila (-OH)
+  - Posição 4: Cadeia lateral com éter
+- **Cadeia lateral:** -O-CH₂-CH₂-CH₂-CH₂-CH₂-CO-CH=CH-CH₂-CH₂-CH₂-CH₃
+- **Grupos funcionais:** Fenol, éter, cetona e alceno
+- **Dupla ligação:** Entre carbonos da cadeia alifática (posição α,β em relação à carbonila)
+
+**Gingerol:**
+```
+   O           OH
+   ||          |
+HO-[benzeno]-O-CH₂-CH₂-CH₂-CH₂-CH₂-C-CH₂-CH-CH₂-CH₂-CH₂-CH₃
+```
+
+*Descrição detalhada do gingerol:*
+- **Anel aromático:** Idêntico ao shogaol (fenol + éter)
+- **Cadeia lateral:** -O-CH₂-CH₂-CH₂-CH₂-CH₂-CO-CH₂-CH(OH)-CH₂-CH₂-CH₂-CH₃
+- **Grupos funcionais:** Fenol, éter, cetona e álcool secundário
+- **Diferença principal:** Álcool secundário no lugar da dupla ligação
+
+Aponte o tipo de isomeria espacial presente, respectivamente, em cada uma das estruturas.
+
+Nomeie, ainda, as funções orgânicas correspondentes aos grupos oxigenados ligados diretamente aos núcleos aromáticos de ambas as moléculas.
+
+---
+
+**Gabarito Oficial**
+
+**Isomeria espacial:**
+- **Shogaol:** isomeria geométrica
+- **Gingerol:** isomeria óptica
+
+**Funções orgânicas:** éter e fenol
+
+---
+
+**Contexto para LLM:**
+Esta questão integra conceitos de estereoquímica e funções orgânicas aplicados a compostos bioativos naturais. Os temas centrais incluem:
+
+- **Compostos bioativos:** Moléculas com atividade biológica do gengibre
+- **Isomeria espacial:** Geométrica (E/Z) e óptica (centros quirais)
+- **Funções orgânicas:** Identificação de grupos funcionais oxigenados
+- **Produtos naturais:** Estruturas complexas com múltiplas funcionalidades
+- **Química medicinal:** Relação estrutura-atividade
+
+**Conceitos-chave para o LLM:**
+- **Shogaol:** Possui dupla ligação (isomeria geométrica E/Z)
+- **Gingerol:** Possui carbono quiral (isomeria óptica)
+- **Fenol:** Grupo -OH ligado diretamente ao anel aromático
+- **Éter:** Ligação -O- conectando anel aromático à cadeia alifática
+- **Centro quiral:** Carbono ligado a 4 grupos diferentes
+
+**Análise da isomeria espacial:**
+
+**Shogaol - Isomeria geométrica:**
+
+**Dupla ligação presente:**
+```
+-CO-CH=CH-CH₂-
+```
+
+**Condições para isomeria geométrica:**
+- **Dupla ligação C=C:** Presente ✓
+- **Substituintes diferentes:** Cada carbono da dupla tem grupos diferentes ✓
+- **Possibilidades:** Configurações E (trans) e Z (cis)
+
+**Configurações possíveis:**
+- **Configuração E:** Grupos prioritários em lados opostos
+- **Configuração Z:** Grupos prioritários do mesmo lado
+
+**Gingerol - Isomeria óptica:**
+
+**Centro quiral identificado:**
+```
+-CO-CH₂-CH(OH)-CH₂-
+       |
+   carbono quiral
+```
+
+**Análise do centro quiral:**
+- **Carbono central:** Ligado a 4 grupos diferentes
+  - H (hidrogênio)
+  - OH (hidroxila)
+  - CH₂CO- (cadeia esquerda)
+  - CH₂CH₂CH₂CH₃ (cadeia direita)
+
+**Enantiômeros possíveis:**
+- **Configuração R:** Arranjo horário dos substituintes
+- **Configuração S:** Arranjo anti-horário dos substituintes
+
+**Identificação das funções orgânicas:**
+
+**Grupos oxigenados no anel aromático:**
+
+**1. Fenol:**
+```
+HO-[benzeno]
+```
+- **Definição:** Grupo hidroxila (-OH) ligado diretamente ao anel aromático
+- **Características:** Caráter ácido fraco, ressonância com o anel
+
+**2. Éter:**
+```
+[benzeno]-O-CH₂-
+```
+- **Definição:** Oxigênio ligando o anel aromático à cadeia alifática
+- **Tipo:** Éter arílico (anel aromático + grupo alquila)
+- **Características:** Ligação C-O-C, relativamente inerte
+
+**Propriedades e atividades biológicas:**
+
+**Shogaol:**
+- **Atividade:** Anti-inflamatória, antioxidante
+- **Formação:** Produto da desidratação do gingerol durante secagem
+- **Estabilidade:** Mais estável que o gingerol
+
+**Gingerol:**
+- **Atividade:** Anti-náusea, digestiva, anti-inflamatória
+- **Abundância:** Principal componente ativo do gengibre fresco
+- **Sensibilidade:** Degrada com calor formando shogaol
+
+**Relação estrutura-atividade:**
+
+**Importância dos grupos funcionais:**
+- **Fenol:** Atividade antioxidante (doação de H•)
+- **Éter:** Contribui para lipofilicidade
+- **Cetona:** Sítio eletrofílico para reações
+- **Dupla ligação/álcool:** Modula atividade biológica
+
+**Diferenças de atividade:**
+- **Gingerol:** Mais ativo contra náuseas
+- **Shogaol:** Maior atividade anti-inflamatória
+- **Estereoquímica:** Influencia interação com receptores
+
+**Aspectos de química medicinal:**
+
+**Farmacóforo:**
+- **Anel aromático:** Interações π-π com proteínas
+- **Cadeia alifática:** Ajuste no sítio ativo
+- **Grupos polares:** Ligações de hidrogênio
+
+**Metabolismo:**
+- **Biotransformação:** Modificação dos grupos funcionais
+- **Excreção:** Influenciada pela polaridade
+- **Biodisponibilidade:** Afetada pela lipofilicidade
+
+**Síntese e modificações:**
+
+**Transformações químicas:**
+- **Gingerol → Shogaol:** Desidratação (eliminação de H₂O)
+- **Redução:** Shogaol → Gingerol (adição de H₂)
+- **Derivados:** Modificações para melhorar atividade
+
+**Análogos estruturais:**
+- **Variação da cadeia:** Diferentes comprimentos
+- **Substituições no anel:** Modificação das propriedades
+- **Proteção de grupos:** Estratégias sintéticas
+
+**Dados importantes:**
+- **Shogaol:** Isomeria geométrica (dupla ligação)
+- **Gingerol:** Isomeria óptica (centro quiral)
+- **Funções:** Éter e fenol no anel aromático
+- **Origem:** Compostos bioativos do gengibre
+
+**Processo de resolução:**
+1. **Analisar shogaol:** Identificar dupla ligação → isomeria geométrica
+2. **Analisar gingerol:** Identificar carbono quiral → isomeria óptica
+3. **Examinar anel aromático:** -OH (fenol) e -O- (éter)
+4. **Classificar funções:** Ambas têm éter e fenol
+
+Nível de dificuldade: Médio-Alto
+Área: Química Orgânica (Estereoquímica e Funções)
+Habilidades avaliadas: Isomeria espacial, identificação de funções orgânicas, estruturas de produtos naturais, centros quirais, química medicinal.
+
+---
+
+**Questão 03:**
+
+Considere um poderoso desinfetante, formado por uma mistura de cresóis (metilfenóis), sendo o componente predominante dessa mistura o isômero *para*.
+
+Apresente as fórmulas estruturais planas dos dois cresóis presentes em menor proporção no desinfetante. Apresente, também, esse mesmo tipo de fórmula para os dois compostos aromáticos isômeros de função dos cresóis.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Cresóis em menor proporção:**
+
+1. **o-cresol (orto-cresol):**
+```
+    OH
+    |
+   /=\
+  |   |
+  \=/
+    |
+   CH₃
+```
+
+2. **m-cresol (meta-cresol):**
+```
+    OH
+    |
+   /=\
+  |   |
+  \=/
+   |
+  CH₃
+```
+
+**Isômeros de função:**
+
+1. **Álcool benzílico:**
+```
+   CH₂OH
+    |
+   /=\
+  |   |
+  \=/
+```
+
+2. **Anisol (metoxibenzeno):**
+```
+   OCH₃
+    |
+   /=\
+  |   |
+  \=/
+```
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos avançados de química orgânica, especificamente:
+
+1. **Conceito central**: Isomeria em compostos aromáticos, focando nos cresóis (metilfenóis) e seus isômeros de função.
+
+2. **Conhecimentos prévios necessários**:
+   - **Cresóis**: São metilfenóis (C₇H₈O) com fórmula molecular C₆H₄(OH)(CH₃)
+   - **Isomeria de posição**: orto, meta e para-cresol diferem pela posição relativa dos grupos OH e CH₃ no anel benzênico
+   - **Isomeria de função**: Compostos com mesma fórmula molecular mas diferentes grupos funcionais
+
+3. **Estruturas envolvidas**:
+   - **p-cresol** (predominante): OH e CH₃ em posições para (1,4)
+   - **o-cresol**: OH e CH₃ em posições orto (1,2) 
+   - **m-cresol**: OH e CH₃ em posições meta (1,3)
+   - **Álcool benzílico**: C₆H₅CH₂OH (isômero de função - álcool primário)
+   - **Anisol**: C₆H₅OCH₃ (isômero de função - éter aromático)
+
+4. **Habilidades avaliadas**:
+   - Identificação de isômeros de posição em compostos aromáticos
+   - Reconhecimento de isômeros de função
+   - Representação correta de fórmulas estruturais planas
+   - Compreensão de grupos funcionais (fenol, álcool, éter)
+
+5. **Nível de complexidade**: Questão avançada que exige domínio sólido de isomeria e química aromática.
+
+6. **Padrão UERJ**: Questão que integra aplicação prática (desinfetante) com conceitos teóricos complexos, exigindo representação gráfica precisa das estruturas moleculares.
+
+---
+
+**Questão 05:**
+
+A reação química entre o gás hidrogênio e o monóxido de nitrogênio, representada a seguir, foi analisada em duas séries de experimentos.
+
+**2 H₂ (g) + 2 NO (g) → N₂ (g) + 2 H₂O (g)**
+
+Na primeira série, a velocidade de reação foi medida em função da concentração de hidrogênio, mantendo-se a concentração de monóxido de nitrogênio constante em 1 mol.L⁻¹. Na segunda série, determinou-se a velocidade em função da concentração de monóxido de nitrogênio, mantendo-se a concentração de hidrogênio constante em 1 mol.L⁻¹. Os resultados dos experimentos estão apresentados nos gráficos.
+
+**[DESCRIÇÃO DETALHADA DOS GRÁFICOS]:**
+
+**Gráfico 1 - [NO] = 1 mol.L⁻¹:**
+- **Eixo X**: [H₂] (concentração de hidrogênio) - escala de 0 a 2,0 mol.L⁻¹
+- **Eixo Y**: velocidade (mol.L⁻¹.min⁻¹) - escala de 0 a 6
+- **Curva**: Linha reta que passa pela origem (0,0)
+- **Pontos notáveis**: 
+  - Em [H₂] = 1,0: velocidade ≈ 3,0
+  - Em [H₂] = 2,0: velocidade ≈ 6,0
+- **Característica**: Relação linear (ordem 1 em relação a H₂)
+
+**Gráfico 2 - [H₂] = 1 mol.L⁻¹:**
+- **Eixo X**: [NO] (concentração de monóxido de nitrogênio) - escala de 0 a 2,0 mol.L⁻¹
+- **Eixo Y**: velocidade (mol.L⁻¹.min⁻¹) - escala de 0 a 12
+- **Curva**: Curva parabólica que passa pela origem (0,0)
+- **Pontos notáveis**:
+  - Em [NO] = 1,0: velocidade ≈ 3,0
+  - Em [NO] = 1,5: velocidade ≈ 6,75
+  - Em [NO] = 2,0: velocidade ≈ 12,0
+- **Característica**: Relação quadrática (ordem 2 em relação a NO)
+
+Determine a ordem de reação de cada um dos reagentes e calcule o valor da constante cinética.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**H₂ = ordem 1**
+
+**NO = ordem 2**
+
+**k = 3 L².mol⁻².min⁻¹**
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão aborda conceitos fundamentais de cinética química:
+
+1. **Reação estudada**:
+   - **Equação**: 2 H₂ (g) + 2 NO (g) → N₂ (g) + 2 H₂O (g)
+   - **Tipo**: Reação em fase gasosa
+   - **Reagentes**: Hidrogênio (H₂) e monóxido de nitrogênio (NO)
+
+2. **Metodologia experimental**:
+   - **Método das concentrações iniciais**: Variação de uma concentração mantendo a outra constante
+   - **Primeira série**: [NO] = 1 mol/L constante, variando [H₂]
+   - **Segunda série**: [H₂] = 1 mol/L constante, variando [NO]
+
+3. **Análise do Gráfico 1** ([NO] constante):
+   - **Relação linear**: velocidade ∝ [H₂]¹
+   - **Interpretação**: Ordem 1 em relação ao H₂
+   - **Cálculo**: Quando [H₂] duplica (1→2), velocidade duplica (3→6)
+   - **Coeficiente angular**: ≈ 3,0 L.mol⁻¹.min⁻¹
+
+4. **Análise do Gráfico 2** ([H₂] constante):
+   - **Relação quadrática**: velocidade ∝ [NO]²
+   - **Interpretação**: Ordem 2 em relação ao NO
+   - **Verificação**: Quando [NO] duplica (1→2), velocidade quadruplica (3→12)
+   - **Forma parabólica**: Característica de ordem 2
+
+5. **Lei de velocidade**:
+   - **Forma geral**: v = k[H₂]ᵃ[NO]ᵇ
+   - **Com as ordens determinadas**: v = k[H₂]¹[NO]²
+   - **Ordem global**: a + b = 1 + 2 = 3
+
+6. **Cálculo da constante cinética**:
+   - **Usando ponto do gráfico**: [H₂] = 1 mol/L, [NO] = 1 mol/L, v = 3 mol.L⁻¹.min⁻¹
+   - **Substituição**: 3 = k × 1¹ × 1²
+   - **Resultado**: k = 3 L².mol⁻².min⁻¹
+
+7. **Verificação dimensional**:
+   - **Unidade de v**: mol.L⁻¹.min⁻¹
+   - **Unidade de k**: L².mol⁻².min⁻¹
+   - **Verificação**: k[H₂][NO]² = (L².mol⁻².min⁻¹)(mol.L⁻¹)(mol.L⁻¹)² = mol.L⁻¹.min⁻¹ ✓
+
+8. **Conceitos avaliados**:
+   - **Ordem de reação**: Determinação experimental através de gráficos
+   - **Lei de velocidade**: Construção da expressão cinética
+   - **Constante cinética**: Cálculo e unidades
+   - **Interpretação gráfica**: Análise de curvas lineares e parabólicas
+
+9. **Relação estequiometria vs. cinética**:
+   - **Coeficientes estequiométricos**: 2 H₂ + 2 NO → produtos
+   - **Ordens de reação**: 1 para H₂, 2 para NO
+   - **Observação**: Ordens não coincidem com coeficientes (comum em cinética)
+
+10. **Aspectos experimentais**:
+    - **Controle de variáveis**: Método fundamental em cinética
+    - **Reprodutibilidade**: Dados consistentes entre experimentos
+    - **Condições**: Temperatura e pressão presumivelmente constantes
+
+11. **Nível de complexidade**: Questão de nível intermediário-avançado que exige interpretação gráfica, cálculos e compreensão de cinética química.
+
+12. **Padrão UERJ**: Questão que integra análise de dados experimentais com conceitos teóricos, exigindo habilidades de interpretação gráfica e cálculo quantitativo.
+
+---
+
+**Questão 06:**
+
+A adrenalina é um hormônio neurotransmissor produzido pelo organismo sob determinadas condições. Observe sua fórmula estrutural:
+
+**[ESTRUTURA DA ADRENALINA]:**
+```
+         OH  H
+         |   |
+   HO---⬡---C---N
+         |   |   |
+        HO   H   H
+```
+
+**Descrição detalhada da estrutura:**
+- **Anel benzênico** com duas substituições em posições adjacentes (orto):
+  - **Posição 1**: Grupo hidroxila (-OH)
+  - **Posição 2**: Grupo hidroxila (-OH)
+- **Cadeia lateral** ligada ao anel:
+  - Cadeia de 2 carbonos: -CH(OH)-CH₂-NH₂
+  - **Carbono 1** (ligado ao anel): possui grupo -OH (álcool secundário)
+  - **Carbono 2**: ligado a grupo amino (-NH₂)
+
+**Fórmula molecular**: C₉H₁₃NO₃
+
+Indique o número de isômeros opticamente ativos da adrenalina e apresente a fórmula estrutural do produto da sua reação de desidratação intramolecular.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Número de isômeros opticamente ativos:** Dois isômeros
+
+**Produto da desidratação intramolecular:**
+
+```
+    HO---⬡===
+    |    
+   HO    NH₂
+```
+
+**Estrutura detalhada do produto:**
+- **Anel benzênico** com duas hidroxilas em posições orto (inalteradas)
+- **Ligação dupla** entre o anel e a cadeia lateral
+- **Grupo amino** (-NH₂) mantido na extremidade da cadeia
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos avançados de química orgânica e estereoquímica:
+
+1. **Estrutura da adrenalina**:
+   - **Nome IUPAC**: 4-[(1R)-1-hidroxi-2-(metilamino)etil]benzeno-1,2-diol
+   - **Classificação**: Catecolamina (derivado do catecol)
+   - **Grupos funcionais**: Fenol (2x), álcool secundário, amina primária
+
+2. **Análise estereoquímica**:
+   - **Centro quiral**: Carbono ligado ao anel benzênico
+   - **Substituintes do carbono quiral**:
+     1. Anel benzênico
+     2. Hidrogênio (-H)
+     3. Hidroxila (-OH)
+     4. Cadeia -CH₂NH₂
+   - **Isômeros**: Configurações R e S
+   - **Número de isômeros**: 2¹ = 2 (um centro quiral)
+
+3. **Reação de desidratação intramolecular**:
+   - **Mecanismo**: Eliminação de H₂O entre o -OH do carbono quiral e um -H da cadeia
+   - **Produto**: Formação de ligação dupla C=C
+   - **Resultado**: Composto insaturado (alceno)
+
+4. **Estrutura do produto de desidratação**:
+   - **Anel benzênico**: Mantém as duas hidroxilas em posições orto
+   - **Ligação dupla**: Entre o carbono do anel e o primeiro carbono da cadeia
+   - **Grupo funcional**: Alceno + amina + fenol
+   - **Perda de quiralidade**: Carbono sp² não é quiral
+
+5. **Grupos funcionais envolvidos**:
+   
+   **Na adrenalina**:
+   - **Catecol**: Duas hidroxilas no anel benzênico
+   - **Álcool secundário**: -CH(OH)-
+   - **Amina primária**: -NH₂
+
+   **No produto**:
+   - **Catecol**: Mantido
+   - **Alceno**: Formado pela desidratação
+   - **Amina primária**: Mantida
+
+6. **Aspectos biológicos**:
+   - **Função**: Hormônio do estresse ("luta ou fuga")
+   - **Produção**: Glândulas suprarrenais
+   - **Efeitos**: Aumento da frequência cardíaca, pressão arterial
+   - **Estereoisomeria**: Apenas a forma R é biologicamente ativa
+
+7. **Mecanismo da desidratação**:
+   - **Tipo**: Reação de eliminação (E1 ou E2)
+   - **Catalisador**: Geralmente ácido
+   - **Produto eliminado**: Molécula de H₂O
+   - **Driving force**: Formação de ligação dupla estabilizada
+
+8. **Conceitos avaliados**:
+   - **Estereoquímica**: Identificação de centros quirais
+   - **Cálculo de isômeros**: Fórmula 2ⁿ para centros quirais
+   - **Reações orgânicas**: Mecanismo de desidratação
+   - **Representação estrutural**: Fórmulas estruturais complexas
+
+9. **Nomenclatura**:
+   - **Adrenalina**: Nome comum (epinefrina em alguns países)
+   - **Catecolamina**: Classe de neurotransmissores
+   - **Derivados do catecol**: Compostos com duas hidroxilas adjacentes
+
+10. **Propriedades físico-químicas**:
+    - **Solubilidade**: Hidrossolúvel devido aos grupos polares
+    - **Estabilidade**: Sensível à oxidação (grupos fenólicos)
+    - **Ponto de fusão**: Elevado devido às ligações de hidrogênio
+
+11. **Nível de complexidade**: Questão avançada que exige domínio de estereoquímica, reações orgânicas e representação estrutural.
+
+12. **Padrão UERJ**: Questão que integra química orgânica com aspectos biológicos, exigindo análise estrutural detalhada e compreensão de mecanismos reacionais.
+
+---
+
+**Questão 10:**
+
+O paládio é um elemento químico muito empregado como catalisador em reações de hidrogenação, uma vez que pode adsorver 900 vezes seu volume em gás hidrogênio.
+
+Em um experimento, foi realizada a hidrogenação parcial de 12,24 g de pent-2-ino, obtendo-se uma mistura de dois isômeros.
+
+Considerando a densidade do hidrogênio igual a 0,08 g.L⁻¹ e a do paládio igual a 12,0 g.mL⁻¹, calcule a massa de paládio, em gramas, necessária para adsorver todo o hidrogênio consumido nessa reação. Em seguida, apresente as fórmulas espaciais em bastão dos isômeros formados.
+
+---
+
+**RESPOSTA OFICIAL:**
+
+**Cálculo da massa de paládio:**
+
+**Estequiometria da reação:**
+68 g/mol C₅H₈ → 2 g/mol H₂
+
+12,24 g → X        X = 0,36 g de H₂
+
+**Volume de H₂:** d = m/v ⇒ VH₂ = 0,36/0,08 ⇒ VH₂ = 4,5 L = 4500 mL
+
+**Volume de Pd:** 4500/900 ⇒ VPd = 5 mL
+
+**Massa de Pd:** d = m/v ⇒ mPd = 12,0 × 5 ⇒ mPd = 60 g
+
+**Fórmulas espaciais em bastão dos isômeros:**
+
+**Isômero 1 (pent-2-eno Z):**
+```
+    ___
+   /
+___
+```
+
+**Isômero 2 (pent-2-eno E):**
+```
+___
+   \
+    ___
+```
+
+---
+
+**CONTEXTO PARA O LLM:**
+
+Esta questão integra conceitos de química orgânica, catálise heterogênea e estequiometria:
+
+1. **Catálise heterogênea com paládio**:
+   - **Função**: Catalisador de hidrogenação
+   - **Propriedade especial**: Adsorve 900 vezes seu volume em H₂
+   - **Mecanismo**: Adsorção do H₂ na superfície metálica
+   - **Aplicação**: Redução seletiva de alcinos
+
+2. **Reação de hidrogenação parcial**:
+   
+   **Substrato**: Pent-2-ino
+   - **Fórmula**: C₅H₈
+   - **Estrutura**: CH₃-CH₂-C≡C-CH₃
+   - **Classificação**: Alcino interno
+   
+   **Reação global**:
+   ```
+   CH₃-CH₂-C≡C-CH₃ + H₂ → CH₃-CH₂-CH=CH-CH₃
+   (pent-2-ino)              (pent-2-eno)
+   ```
+
+3. **Cálculo estequiométrico**:
+   
+   **Massas molares**:
+   - **C₅H₈**: 5(12) + 8(1) = 68 g/mol
+   - **H₂**: 2(1) = 2 g/mol
+   
+   **Relação estequiométrica**: 1 mol C₅H₈ : 1 mol H₂
+   ```
+   68 g C₅H₈ → 2 g H₂
+   12,24 g C₅H₈ → X g H₂
+   X = (12,24 × 2) / 68 = 0,36 g H₂
+   ```
+
+4. **Cálculo do volume de H₂**:
+   - **Densidade do H₂**: 0,08 g/L
+   - **Fórmula**: d = m/V → V = m/d
+   - **Cálculo**: V = 0,36 g / 0,08 g/L = 4,5 L = 4.500 mL
+
+5. **Cálculo do volume de paládio necessário**:
+   - **Capacidade de adsorção**: 900 vezes o volume do Pd
+   - **Relação**: VH₂ = 900 × VPd
+   - **Cálculo**: VPd = 4.500 mL / 900 = 5 mL
+
+6. **Cálculo da massa de paládio**:
+   - **Densidade do Pd**: 12,0 g/mL
+   - **Fórmula**: d = m/V → m = d × V
+   - **Cálculo**: m = 12,0 g/mL × 5 mL = 60 g
+
+7. **Isomeria dos produtos**:
+   
+   **Hidrogenação parcial**: Alcino → Alceno
+   - **Produto**: Pent-2-eno (C₅H₁₀)
+   - **Tipo de isomeria**: Isomeria geométrica (cis-trans ou Z-E)
+   
+   **Condições estereoquímicas**:
+   - **Catálise heterogênea**: Favorece isômero Z (cis)
+   - **Produto principal**: (Z)-pent-2-eno
+   - **Produto minoritário**: (E)-pent-2-eno
+
+8. **Estruturas dos isômeros**:
+   
+   **Pent-2-eno Z (cis)**:
+   ```
+   CH₃-CH₂    CH₃
+          \  /
+           C=C
+          /  \
+         H    H
+   ```
+   **Representação em bastão**:
+   ```
+       ___
+      /
+   ___
+   ```
+   
+   **Pent-2-eno E (trans)**:
+   ```
+   CH₃-CH₂    H
+          \  /
+           C=C
+          /  \
+         H    CH₃
+   ```
+   **Representação em bastão**:
+   ```
+   ___
+      \
+       ___
+   ```
+
+9. **Aspectos do mecanismo catalítico**:
+   - **Adsorção**: H₂ e alcino se adsorvem na superfície do Pd
+   - **Ativação**: Quebra da ligação H-H
+   - **Transferência**: Átomos de H migram para o alcino
+   - **Dessorção**: Produto (alceno) se desprende do catalisador
+
+10. **Seletividade da hidrogenação**:
+    - **Paládio**: Favorece hidrogenação syn (adição cis)
+    - **Resultado**: Predominância do isômero Z
+    - **Vantagem**: Controle estereoquímico
+
+11. **Representação em bastão**:
+    - **Convenção**: Linhas representam ligações C-C
+    - **Extremidades**: Representam átomos de carbono
+    - **Estereoquímica**: Ângulos mostram configuração Z ou E
+
+12. **Verificação dimensional**:
+    ```
+    [g alcino] × [g H₂/g alcino] = [g H₂]
+    [g H₂] / [g/L] = [L H₂]
+    [L H₂] / [adimension.] = [L Pd]
+    [L Pd] × [g/L] = [g Pd]
+    ```
+
+13. **Comparação com outros catalisadores**:
+    - **Níquel Raney**: Menos seletivo
+    - **Platina**: Atividade similar ao Pd
+    - **Lindlar**: Pd envenenado (maior seletividade)
+
+14. **Aplicações industriais**:
+    - **Síntese farmacêutica**: Hidrogenações seletivas
+    - **Petroquímica**: Refino de hidrocarbonetos
+    - **Síntese orgânica**: Formação de ligações C-H
+
+15. **Propriedades do paládio**:
+    - **Metal nobre**: Resistente à corrosão
+    - **Adsorção de H₂**: Propriedade única
+    - **Atividade catalítica**: Muito alta para hidrogenações
+
+16. **Conceitos avaliados**:
+    - **Estequiometria**: Cálculos mol-massa
+    - **Densidade**: Conversões massa-volume
+    - **Isomeria geométrica**: Configurações Z e E
+    - **Catálise**: Mecanismos e seletividade
+
+17. **Nível de complexidade**: Questão de nível intermediário-avançado que integra cálculos estequiométricos, propriedades físicas e estereoquímica.
+
+18. **Padrão UERJ**: Questão que combina química orgânica com físico-química, exigindo domínio de múltiplos conceitos e representação estrutural adequada.
+
+---
+
